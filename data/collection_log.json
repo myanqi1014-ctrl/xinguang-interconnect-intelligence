@@ -1,4 +1,69 @@
 {
-  "status": "尚未运行首次采集",
-  "timezone": "Asia/Shanghai"
+  "run_at": "2026-11-03T07:30:26.277115+00:00",
+  "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
+  "source_results": [
+    {
+      "source": "NVIDIA",
+      "found": 3,
+      "errors": [],
+      "status": "ok",
+      "url": "https://nvidianews.nvidia.com/"
+    },
+    {
+      "source": "Broadcom",
+      "found": 0,
+      "errors": [
+        "403 Client Error: Forbidden for url: https://investors.broadcom.com/financial-information/financial-news-releases"
+      ],
+      "status": "error",
+      "url": "https://investors.broadcom.com/financial-information/financial-news-releases"
+    },
+    {
+      "source": "Marvell",
+      "found": 4,
+      "errors": [],
+      "status": "ok",
+      "url": "https://www.marvell.com/company/newsroom/press-releases.html"
+    },
+    {
+      "source": "Coherent",
+      "found": 0,
+      "errors": [
+        "403 Client Error: Forbidden for url: https://ir.coherent.com/news-events/corporate-releases"
+      ],
+      "status": "error",
+      "url": "https://ir.coherent.com/news-events/corporate-releases"
+    },
+    {
+      "source": "Lumentum",
+      "found": 1,
+      "errors": [],
+      "status": "ok",
+      "url": "https://www.lumentum.com/en/newsroom/news-releases"
+    },
+    {
+      "source": "中际旭创",
+      "found": 1,
+      "errors": [],
+      "status": "ok",
+      "url": "https://www.zj-innolight.com/cn/news.html"
+    },
+    {
+      "source": "新易盛",
+      "found": 0,
+      "errors": [
+        "来源返回异常内容，已停止采集，请人工核验官网"
+      ],
+      "status": "error",
+      "url": "https://www.eoptolink.com/cn/"
+    },
+    {
+      "source": "光迅科技",
+      "found": 4,
+      "errors": [],
+      "status": "ok",
+      "url": "https://www.accelink.com/lighting_your_dreams/xinwenzixun.html"
+    }
+  ],
+  "total_stored": 13
 }
