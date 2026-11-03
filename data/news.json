@@ -2525,8 +2525,8 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "住友电工利用自研光路交换控制软件，成功演示多服务器间GPU动态分配",
+    "translation_status": "ready"
   },
   {
     "id": "2b161bd7d8e96a27",
@@ -2555,8 +2555,8 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "住友电工与3M达成组装协议，推进面向数据中心的扩束光互联技术",
+    "translation_status": "ready"
   },
   {
     "id": "a846be54249cd152",
@@ -2922,8 +2922,8 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "Avicena将在ECOC 2026展示面向AI基础设施的连接器化Micro-LED光互联",
+    "translation_status": "ready"
   },
   {
     "id": "c7f9cb68e117dac9",
@@ -3678,8 +3678,8 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "Avicena交付1Tbps评估套件，扩展Micro-LED光互联能力",
+    "translation_status": "ready"
   },
   {
     "id": "3fd23be9de2ebff9",
@@ -4431,8 +4431,8 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "突破CPO热管理瓶颈：NewPhotonics推出Syncra无加热器微环调制器",
+    "translation_status": "ready"
   },
   {
     "id": "4bcd3f78712576ef",
@@ -4464,8 +4464,8 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "Avicena推出面向AI基础设施创新者的Micro-LED光互联评估套件",
+    "translation_status": "ready"
   },
   {
     "id": "9a4df363aad12497",
@@ -4870,8 +4870,8 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "Avicena推进Micro-LED与光探测器阵列，降低AI纵向扩展光互联功耗",
+    "translation_status": "ready"
   },
   {
     "id": "6eba7f4bb477f35c",
@@ -5039,8 +5039,8 @@
     "matched_terms": [],
     "selection_reason": "光通信专业企业的产品、合作或经营动态",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "Avicena宣布完成Tiger Global领投、SK海力士参投的B轮融资",
+    "translation_status": "ready"
   },
   {
     "id": "a924ec2ca51f6f05",
@@ -5193,8 +5193,8 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "Avicena发布模块化LightBundle光互联平台，I/O密度超1Tbps/mm、能耗低于1pJ/bit",
+    "translation_status": "ready"
   },
   {
     "id": "59574ef17aee8312",
@@ -5249,8 +5249,8 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "LPO MSA成员组织发布线性可插拔光学（LPO）规范",
+    "translation_status": "ready"
   },
   {
     "id": "bdc4c42646fea816",
@@ -5726,8 +5726,8 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "Avicena完成2500万美元A轮融资，研发基于Micro-LED的大容量光互联",
+    "translation_status": "ready"
   },
   {
     "id": "bc634903d1a2ee45",
@@ -5960,8 +5960,8 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "观点：博通在CPO上的“大虚张声势”",
+    "translation_status": "ready"
   },
   {
     "id": "ab5e165273246bbe",
@@ -6478,7 +6478,7 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "住友电工成为上海第48届世界技能大赛金牌合作伙伴，以光通信技术支持技能人才培养",
+    "translation_status": "ready"
   }
 ]
