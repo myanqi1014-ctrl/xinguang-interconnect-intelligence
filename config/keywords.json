@@ -1,0 +1,72 @@
+{
+  "AI算力": [
+    "AI infrastructure",
+    "AI data center",
+    "accelerated computing",
+    "GPU cluster",
+    "AI算力",
+    "AI数据中心",
+    "AI基础设施",
+    "AI智算"
+  ],
+  "光模块": [
+    "optical transceiver",
+    "800G",
+    "1.6T",
+    "400G",
+    "光模块",
+    "高速光互联",
+    "高速光互连"
+  ],
+  "硅光": [
+    "silicon photonics",
+    "硅光"
+  ],
+  "NPO": [
+    "NPO",
+    "near-packaged optics",
+    "近封装"
+  ],
+  "CPO": [
+    "co-packaged optics",
+    "CPO",
+    "共封装光学"
+  ],
+  "光芯片/器件": [
+    "optical engine",
+    "laser",
+    "photonic integrated circuit",
+    "optical component",
+    "光芯片",
+    "光器件",
+    "VCSEL",
+    "DFB",
+    "Micro-LED",
+    "microLED"
+  ],
+  "数据中心互联": [
+    "data center interconnect",
+    "DCI",
+    "optical interconnect",
+    "interconnect",
+    "光互联",
+    "NVLink",
+    "InfiniBand",
+    "RDMA",
+    "光互连"
+  ],
+  "网络与交换": [
+    "Ethernet switch",
+    "switch ASIC",
+    "networking",
+    "SerDes",
+    "交换芯片"
+  ],
+  "高速电互联": [
+    "AEC",
+    "active electrical cable",
+    "retimer",
+    "PCIe",
+    "CXL"
+  ]
+}

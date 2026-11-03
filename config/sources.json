@@ -1,42 +1,319 @@
 [
   {
+    "id": "gazettabyte",
+    "name": "光通信深度观察 / Gazettabyte",
+    "url": "https://gazettabyte.com/",
+    "group": "海外新闻与深度观察",
+    "mode": "auto"
+  },
+  {
+    "id": "pic-magazine",
+    "name": "光子集成电路杂志 / PIC Magazine",
+    "url": "https://picmagazine.net/news",
+    "group": "海外新闻与深度观察",
+    "mode": "auto"
+  },
+  {
+    "id": "converge-digest",
+    "name": "网络与光互联资讯 / Converge Digest",
+    "url": "https://convergedigest.com/",
+    "group": "海外新闻与深度观察",
+    "mode": "auto"
+  },
+  {
+    "id": "semiconductor-engineering",
+    "name": "半导体工程·光子专题 / Semiconductor Engineering",
+    "url": "https://semiengineering.com/knowledge_centers/data-movement/photonics/",
+    "group": "海外新闻与深度观察",
+    "mode": "auto"
+  },
+  {
+    "id": "compound-semiconductor",
+    "name": "化合物半导体 / Compound Semiconductor",
+    "url": "https://compoundsemiconductor.net/home",
+    "group": "海外新闻与深度观察",
+    "mode": "auto"
+  },
+  {
+    "id": "semiconductor-today",
+    "name": "今日半导体 / Semiconductor Today",
+    "url": "https://semiconductor-today.com/",
+    "group": "海外新闻与深度观察",
+    "mode": "auto"
+  },
+  {
+    "id": "laser-focus-world",
+    "name": "激光世界 / Laser Focus World",
+    "url": "https://www.laserfocusworld.com/home",
+    "group": "海外新闻与深度观察",
+    "mode": "auto"
+  },
+  {
+    "id": "lightwave",
+    "name": "光波在线 / Lightwave",
+    "url": "https://www.lightwaveonline.com/",
+    "group": "海外新闻与深度观察",
+    "mode": "auto"
+  },
+  {
+    "id": "optics-org",
+    "name": "光学网 / optics.org",
+    "url": "https://optics.org/",
+    "group": "海外新闻与深度观察",
+    "mode": "auto"
+  },
+  {
     "id": "nvidia",
     "name": "NVIDIA",
-    "url": "https://nvidianews.nvidia.com/"
+    "url": "https://nvidianews.nvidia.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto"
   },
   {
     "id": "broadcom",
     "name": "Broadcom",
-    "url": "https://investors.broadcom.com/financial-information/financial-news-releases"
+    "url": "https://investors.broadcom.com/financial-information/financial-news-releases",
+    "group": "企业官方新闻中心",
+    "mode": "auto"
   },
   {
     "id": "marvell",
     "name": "Marvell",
-    "url": "https://www.marvell.com/company/newsroom/press-releases.html"
+    "url": "https://www.marvell.com/company/newsroom/press-releases.html",
+    "group": "企业官方新闻中心",
+    "mode": "auto"
   },
   {
     "id": "coherent",
     "name": "Coherent",
-    "url": "https://ir.coherent.com/news-events/corporate-releases"
+    "url": "https://ir.coherent.com/news-events/corporate-releases",
+    "group": "企业官方新闻中心",
+    "mode": "auto"
   },
   {
     "id": "lumentum",
     "name": "Lumentum",
-    "url": "https://www.lumentum.com/en/newsroom/news-releases"
+    "url": "https://www.lumentum.com/en/newsroom/news-releases",
+    "group": "企业官方新闻中心",
+    "mode": "auto"
   },
   {
     "id": "innolight",
     "name": "中际旭创",
-    "url": "https://www.zj-innolight.com/cn/news.html"
+    "url": "https://www.zj-innolight.com/cn/news.html",
+    "group": "企业官方新闻中心",
+    "mode": "auto"
   },
   {
     "id": "eoptolink",
     "name": "新易盛",
-    "url": "https://www.eoptolink.com/cn/"
+    "url": "https://www.eoptolink.com/cn/",
+    "group": "企业官方新闻中心",
+    "mode": "auto"
   },
   {
     "id": "accelink",
     "name": "光迅科技",
-    "url": "https://www.accelink.com/lighting_your_dreams/xinwenzixun.html"
+    "url": "https://www.accelink.com/lighting_your_dreams/xinwenzixun.html",
+    "group": "企业官方新闻中心",
+    "mode": "auto"
+  },
+  {
+    "id": "cninfo",
+    "name": "巨潮资讯网 / CNINFO",
+    "url": "https://www.cninfo.com.cn/",
+    "group": "证券信息披露平台",
+    "mode": "manual",
+    "note": "已保留公告入口；需配置关注公司及股票代码后，才能定向自动采集。"
+  },
+  {
+    "id": "sse",
+    "name": "上海证券交易所 / SSE",
+    "url": "https://www.sse.com.cn/",
+    "group": "证券信息披露平台",
+    "mode": "manual",
+    "note": "已保留公告入口；需配置关注公司及股票代码后，才能定向自动采集。"
+  },
+  {
+    "id": "hkexnews",
+    "name": "香港交易所披露易 / HKEXnews",
+    "url": "https://www.hkexnews.hk/index_c.htm",
+    "group": "证券信息披露平台",
+    "mode": "manual",
+    "note": "已保留公告入口；需配置关注公司及股票代码后，才能定向自动采集。"
+  },
+  {
+    "id": "sec-edgar",
+    "name": "美国证监会公告库 / SEC EDGAR",
+    "url": "https://www.sec.gov/edgar/search/",
+    "group": "证券信息披露平台",
+    "mode": "manual",
+    "note": "已保留公告入口；需配置关注公司及股票代码后，才能定向自动采集。"
+  },
+  {
+    "id": "oif",
+    "name": "光互联论坛 / OIF",
+    "url": "https://www.oiforum.com/",
+    "group": "技术标准与学术研究",
+    "mode": "auto"
+  },
+  {
+    "id": "ethernet-alliance",
+    "name": "以太网联盟 / Ethernet Alliance",
+    "url": "https://ethernetalliance.org/",
+    "group": "技术标准与学术研究",
+    "mode": "auto"
+  },
+  {
+    "id": "ieee-xplore",
+    "name": "电气电子工程师学会数字图书馆 / IEEE Xplore",
+    "url": "https://ieeexplore.ieee.org/",
+    "group": "技术标准与学术研究",
+    "mode": "manual",
+    "note": "已保留学术检索入口；需限定期刊或检索式并接入授权接口，暂不自动抓取。"
+  },
+  {
+    "id": "optica-publishing-group",
+    "name": "美国光学学会出版平台 / Optica Publishing Group",
+    "url": "https://opg.optica.org/",
+    "group": "技术标准与学术研究",
+    "mode": "manual",
+    "note": "已保留学术检索入口；需限定期刊或检索式并接入授权接口，暂不自动抓取。"
+  },
+  {
+    "id": "c114",
+    "name": "C114通信网 / C114",
+    "url": "https://www.c114.com.cn/",
+    "group": "国内行业媒体",
+    "mode": "auto"
+  },
+  {
+    "id": "ofweek",
+    "name": "维科网光通讯 / OFweek",
+    "url": "https://fiber.ofweek.com/",
+    "group": "国内行业媒体",
+    "mode": "auto"
+  },
+  {
+    "id": "iccsz",
+    "name": "讯石光通讯网 / ICCSZ",
+    "url": "https://www.iccsz.com/",
+    "group": "国内行业媒体",
+    "mode": "auto"
+  },
+  {
+    "id": "c-fol",
+    "name": "光纤在线 / C-FOL",
+    "url": "https://www.c-fol.net/",
+    "group": "国内行业媒体",
+    "mode": "auto"
+  },
+  {
+    "id": "fibereality",
+    "name": "光通信市场观察 / fibeReality",
+    "url": "https://www.fibereality.com/blog/",
+    "group": "市场研究机构",
+    "mode": "auto",
+    "note": "仅尝试采集公开文章及RSS，不采付费报告全文。"
+  },
+  {
+    "id": "lightcounting",
+    "name": "光计数市场研究 / LightCounting",
+    "url": "https://www.lightcounting.com/",
+    "group": "市场研究机构",
+    "mode": "auto",
+    "note": "仅尝试采集公开文章及RSS，不采付费报告全文。"
+  },
+  {
+    "id": "dell-oro-group",
+    "name": "德洛罗研究集团 / Dell’Oro Group",
+    "url": "https://www.delloro.com/",
+    "group": "市场研究机构",
+    "mode": "auto",
+    "note": "仅尝试采集公开文章及RSS，不采付费报告全文。"
+  },
+  {
+    "id": "omdia",
+    "name": "奥姆迪亚 / Omdia",
+    "url": "https://omdia.tech.informa.com/",
+    "group": "市场研究机构",
+    "mode": "auto",
+    "note": "仅尝试采集公开文章及RSS，不采付费报告全文。"
+  },
+  {
+    "id": "semianalysis",
+    "name": "半导体分析 / SemiAnalysis",
+    "url": "https://semianalysis.com/",
+    "group": "市场研究机构",
+    "mode": "auto",
+    "note": "仅尝试采集公开文章及RSS，不采付费报告全文。"
+  },
+  {
+    "id": "36kr",
+    "name": "36氪 / 36Kr",
+    "url": "https://36kr.com/",
+    "group": "科技与商业媒体",
+    "mode": "auto"
+  },
+  {
+    "id": "huxiu",
+    "name": "虎嗅 / Huxiu",
+    "url": "https://www.huxiu.com/",
+    "group": "科技与商业媒体",
+    "mode": "auto"
+  },
+  {
+    "id": "tmtpost",
+    "name": "钛媒体 / TMTPost",
+    "url": "https://www.tmtpost.com/",
+    "group": "科技与商业媒体",
+    "mode": "auto"
+  },
+  {
+    "id": "zhidx",
+    "name": "智东西 / Zhidx",
+    "url": "https://www.zhidx.com/",
+    "group": "科技与商业媒体",
+    "mode": "auto"
+  },
+  {
+    "id": "wechat-1",
+    "name": "半导体行业观察",
+    "url": "https://mp.weixin.qq.com/s/tZrF8XzVAgbBXZhokYuDww",
+    "group": "微信公众号",
+    "mode": "manual",
+    "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
+  },
+  {
+    "id": "wechat-2",
+    "name": "讯石光通讯",
+    "url": "https://mp.weixin.qq.com/s/gPhf9Q8zFiZ9jJ5cglMhdg",
+    "group": "微信公众号",
+    "mode": "manual",
+    "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
+  },
+  {
+    "id": "wechat-3",
+    "name": "光纤在线",
+    "url": "https://mp.weixin.qq.com/s/mguv3Xxub9UXTtdkAmlhrA",
+    "group": "微信公众号",
+    "mode": "manual",
+    "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
+  },
+  {
+    "id": "wechat-4",
+    "name": "半导体产业纵横",
+    "url": "https://mp.weixin.qq.com/s/b-tACnh4_QahOzs6weXqww",
+    "group": "微信公众号",
+    "mode": "manual",
+    "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
+  },
+  {
+    "id": "wechat-5",
+    "name": "芯东西",
+    "url": "https://mp.weixin.qq.com/s/NuMnsnfr0aydk4hojqV18g",
+    "group": "微信公众号",
+    "mode": "manual",
+    "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
   }
 ]
