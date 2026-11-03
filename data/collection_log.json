@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-03T08:51:58.236125+00:00",
+  "run_at": "2026-11-03T08:58:45.527188+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -7,7 +7,7 @@
       "source_id": "gazettabyte",
       "url": "https://gazettabyte.com/",
       "group": "海外新闻与深度观察",
-      "found": 4,
+      "found": 3,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -230,12 +230,10 @@
       "source_id": "oif",
       "url": "https://www.oiforum.com/",
       "group": "技术标准与学术研究",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.oiforum.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.oiforum.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
-      ],
+      "found": 1,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "以太网联盟 / Ethernet Alliance",
@@ -275,10 +273,12 @@
       "source_id": "c114",
       "url": "https://www.c114.com.cn/",
       "group": "国内行业媒体",
-      "found": 1,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.c114.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.c114.com.cn', port=443) at 0x7fee6aa1ee50>, 'Connection to www.c114.com.cn timed out. (connect timeout=6"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "维科网光通讯 / OFweek",
@@ -317,11 +317,10 @@
       "source_id": "fibereality",
       "url": "https://www.fibereality.com/blog/",
       "group": "市场研究机构",
-      "found": 0,
+      "found": 3,
       "errors": [],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "ok"
     },
     {
       "source": "光计数市场研究 / LightCounting",
@@ -988,7 +987,7 @@
       "source_id": "sumitomo-electric",
       "url": "https://sumitomoelectric.com/",
       "group": "企业官方新闻中心",
-      "found": 4,
+      "found": 3,
       "errors": [],
       "warnings": [],
       "status": "ok",
@@ -1126,7 +1125,7 @@
       "source_id": "tower",
       "url": "https://towersemi.com/news-events/press-release-page/",
       "group": "企业官方新闻中心",
-      "found": 3,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -1170,7 +1169,7 @@
       "source_id": "scintil",
       "url": "https://www.scintil-photonics.com/blog",
       "group": "企业官方新闻中心",
-      "found": 7,
+      "found": 6,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -1180,7 +1179,7 @@
       "source_id": "newphotonics",
       "url": "https://www.newphotonics.com/",
       "group": "企业官方新闻中心",
-      "found": 10,
+      "found": 7,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -1504,11 +1503,11 @@
       "source_id": "avicena",
       "url": "https://avicena.tech/",
       "group": "企业官方新闻中心",
-      "found": 0,
+      "found": 7,
       "errors": [],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "ok",
+      "resolved_news_url": "https://avicena.tech/press-releases/"
     },
     {
       "source": "Palomino Laboratories",
@@ -1605,10 +1604,11 @@
       "status": "error"
     }
   ],
-  "total_stored": 208,
-  "editorial_selected": 156,
+  "total_stored": 220,
+  "editorial_selected": 158,
   "rules_version": "2026-11-03.3",
-  "pending_title_translations": 49,
+  "pending_title_translations": 13,
   "configured": 145,
-  "automatic": 132
+  "automatic": 132,
+  "procurement_imported": 2
 }
