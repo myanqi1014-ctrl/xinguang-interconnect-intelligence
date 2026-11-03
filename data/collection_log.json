@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-03T08:16:04.661704+00:00",
+  "run_at": "2026-11-03T08:22:54.868719+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -7,7 +7,7 @@
       "source_id": "gazettabyte",
       "url": "https://gazettabyte.com/",
       "group": "海外新闻与深度观察",
-      "found": 5,
+      "found": 4,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -27,7 +27,7 @@
       "source_id": "converge-digest",
       "url": "https://convergedigest.com/",
       "group": "海外新闻与深度观察",
-      "found": 19,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -37,7 +37,7 @@
       "source_id": "semiconductor-engineering",
       "url": "https://semiengineering.com/knowledge_centers/data-movement/photonics/",
       "group": "海外新闻与深度观察",
-      "found": 9,
+      "found": 8,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -47,27 +47,29 @@
       "source_id": "compound-semiconductor",
       "url": "https://compoundsemiconductor.net/home",
       "group": "海外新闻与深度观察",
-      "found": 1,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "今日半导体 / Semiconductor Today",
       "source_id": "semiconductor-today",
       "url": "https://semiconductor-today.com/",
       "group": "海外新闻与深度观察",
-      "found": 1,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "激光世界 / Laser Focus World",
       "source_id": "laser-focus-world",
       "url": "https://www.laserfocusworld.com/home",
       "group": "海外新闻与深度观察",
-      "found": 14,
+      "found": 3,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -77,7 +79,7 @@
       "source_id": "lightwave",
       "url": "https://www.lightwaveonline.com/",
       "group": "海外新闻与深度观察",
-      "found": 5,
+      "found": 4,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -87,20 +89,22 @@
       "source_id": "optics-org",
       "url": "https://optics.org/",
       "group": "海外新闻与深度观察",
-      "found": 2,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "NVIDIA",
       "source_id": "nvidia",
       "url": "https://nvidianews.nvidia.com/",
       "group": "企业官方新闻中心",
-      "found": 3,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "Broadcom",
@@ -119,7 +123,7 @@
       "source_id": "marvell",
       "url": "https://www.marvell.com/company/newsroom/press-releases.html",
       "group": "企业官方新闻中心",
-      "found": 5,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -172,7 +176,7 @@
       "source_id": "accelink",
       "url": "https://www.accelink.com/lighting_your_dreams/xinwenzixun.html",
       "group": "企业官方新闻中心",
-      "found": 5,
+      "found": 6,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -226,12 +230,10 @@
       "source_id": "oif",
       "url": "https://www.oiforum.com/",
       "group": "技术标准与学术研究",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.oiforum.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.oiforum.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
-      ],
+      "found": 1,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "以太网联盟 / Ethernet Alliance",
@@ -281,7 +283,7 @@
       "source_id": "ofweek",
       "url": "https://fiber.ofweek.com/",
       "group": "国内行业媒体",
-      "found": 8,
+      "found": 7,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -303,7 +305,7 @@
       "source_id": "c-fol",
       "url": "https://www.c-fol.net/",
       "group": "国内行业媒体",
-      "found": 8,
+      "found": 6,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -313,7 +315,7 @@
       "source_id": "fibereality",
       "url": "https://www.fibereality.com/blog/",
       "group": "市场研究机构",
-      "found": 8,
+      "found": 3,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -334,10 +336,11 @@
       "source_id": "dell-oro-group",
       "url": "https://www.delloro.com/",
       "group": "市场研究机构",
-      "found": 1,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "奥姆迪亚 / Omdia",
@@ -377,20 +380,23 @@
       "source_id": "huxiu",
       "url": "https://www.huxiu.com/",
       "group": "科技与商业媒体",
-      "found": 1,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "钛媒体 / TMTPost",
       "source_id": "tmtpost",
       "url": "https://www.tmtpost.com/",
       "group": "科技与商业媒体",
-      "found": 1,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "智东西 / Zhidx",
@@ -459,7 +465,9 @@
       "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
     }
   ],
-  "total_stored": 103,
+  "total_stored": 109,
+  "editorial_selected": 57,
+  "rules_version": "2026-11-03.1",
   "configured": 43,
   "automatic": 32
 }

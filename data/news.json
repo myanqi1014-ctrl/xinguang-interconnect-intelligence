@@ -11,7 +11,18 @@
     "tags": [
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:35.724152+00:00"
+    "collected_at": "2026-11-03T08:15:35.724152+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "co-packaged optics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "77508bdfed2d57b4",
@@ -25,7 +36,16 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:35.510247+00:00"
+    "collected_at": "2026-11-03T08:15:35.510247+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "0224eea013ff93c2",
@@ -47,7 +67,14 @@
       "网络与交换",
       "高速电互联"
     ],
-    "collected_at": "2026-11-03T08:15:34.889677+00:00"
+    "collected_at": "2026-11-03T08:15:34.889677+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "876d7a4ba23411fe",
@@ -63,7 +90,14 @@
       "光模块",
       "网络与交换"
     ],
-    "collected_at": "2026-11-03T08:15:34.907979+00:00"
+    "collected_at": "2026-11-03T08:15:34.907979+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "97a99d6f068ef979",
@@ -78,7 +112,19 @@
       "光模块",
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:39.785643+00:00"
+    "collected_at": "2026-11-03T08:15:39.785643+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 56,
+    "matched_terms": [
+      "光模块",
+      "光芯片"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "18ba438fb6ab25de",
@@ -93,7 +139,19 @@
       "CPO",
       "数据中心互联"
     ],
-    "collected_at": "2026-11-03T08:15:41.181382+00:00"
+    "collected_at": "2026-11-03T08:15:41.181382+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 76,
+    "matched_terms": [
+      "光互连",
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "7dc7309aa1a6527e",
@@ -107,7 +165,19 @@
     "tags": [
       "光模块"
     ],
-    "collected_at": "2026-11-03T08:15:42.207883+00:00"
+    "collected_at": "2026-11-03T08:15:42.207883+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 76,
+    "matched_terms": [
+      "光模块",
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "a026d36d614c8b23",
@@ -121,7 +191,38 @@
     "tags": [
       "AI算力"
     ],
-    "collected_at": "2026-11-03T08:15:48.772292+00:00"
+    "collected_at": "2026-11-03T08:15:48.772292+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
+  },
+  {
+    "id": "dc7f5d84f12f782f",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "光通信Q3季报一览｜长飞光纤、亨通光电、源杰科技等",
+    "url": "https://fiber.ofweek.com/2026-11/ART-8100-2100-30710072.html",
+    "published_at": "2026-11-03T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-03T08:22:38.043185+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信",
+      "光纤"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "248f9901585f39ad",
@@ -135,7 +236,14 @@
     "tags": [
       "数据中心互联"
     ],
-    "collected_at": "2026-11-03T08:15:35.915496+00:00"
+    "collected_at": "2026-11-03T08:15:35.915496+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "199a229ae0c5d941",
@@ -155,7 +263,18 @@
       "数据中心互联",
       "网络与交换"
     ],
-    "collected_at": "2026-11-03T08:15:34.932793+00:00"
+    "collected_at": "2026-11-03T08:15:34.932793+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "silicon photonics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "dbfcdbea9f301f51",
@@ -169,7 +288,14 @@
     "tags": [
       "网络与交换"
     ],
-    "collected_at": "2026-11-03T08:15:34.956248+00:00"
+    "collected_at": "2026-11-03T08:15:34.956248+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "187b8163f55082ee",
@@ -183,7 +309,14 @@
     "tags": [
       "AI算力"
     ],
-    "collected_at": "2026-11-03T08:15:34.971959+00:00"
+    "collected_at": "2026-11-03T08:15:34.971959+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "0be9b10d915e70bc",
@@ -197,7 +330,14 @@
     "tags": [
       "AI算力"
     ],
-    "collected_at": "2026-11-03T08:15:34.991929+00:00"
+    "collected_at": "2026-11-03T08:15:34.991929+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "a8cee7f58e655df0",
@@ -212,7 +352,14 @@
       "AI算力",
       "网络与交换"
     ],
-    "collected_at": "2026-11-03T08:15:34.996785+00:00"
+    "collected_at": "2026-11-03T08:15:34.996785+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "d2f8452ffcd198bb",
@@ -226,7 +373,14 @@
     "tags": [
       "AI算力"
     ],
-    "collected_at": "2026-11-03T08:16:04.656321+00:00"
+    "collected_at": "2026-11-03T08:16:04.656321+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "8e2b786ec72f04c3",
@@ -240,7 +394,18 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:49.431224+00:00"
+    "collected_at": "2026-11-03T08:15:49.431224+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光器件"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "5b4307a7f2d4d3d0",
@@ -254,7 +419,19 @@
     "tags": [
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:41.804503+00:00"
+    "collected_at": "2026-11-03T08:15:41.804503+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯",
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 88,
+    "matched_terms": [
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "395da30bcd4490cb",
@@ -269,7 +446,19 @@
       "硅光",
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:43.063079+00:00"
+    "collected_at": "2026-11-03T08:15:43.063079+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 76,
+    "matched_terms": [
+      "光芯片",
+      "硅光"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "15d4778216a14083",
@@ -284,7 +473,14 @@
       "AI算力",
       "网络与交换"
     ],
-    "collected_at": "2026-11-03T08:15:35.080935+00:00"
+    "collected_at": "2026-11-03T08:15:35.080935+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "b4592aff5a121816",
@@ -299,7 +495,14 @@
       "CPO",
       "网络与交换"
     ],
-    "collected_at": "2026-11-03T08:15:35.101419+00:00"
+    "collected_at": "2026-11-03T08:15:35.101419+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "b255ccb0f797c4db",
@@ -316,7 +519,18 @@
       "硅光",
       "数据中心互联"
     ],
-    "collected_at": "2026-11-03T08:15:35.186294+00:00"
+    "collected_at": "2026-11-03T08:15:35.186294+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical communication"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "dc54e3a4605ce4c7",
@@ -333,7 +547,14 @@
       "光芯片/器件",
       "数据中心互联"
     ],
-    "collected_at": "2026-11-03T08:15:35.223753+00:00"
+    "collected_at": "2026-11-03T08:15:35.223753+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "8a7ac83435b8be05",
@@ -347,7 +568,14 @@
     "tags": [
       "AI算力"
     ],
-    "collected_at": "2026-11-03T08:15:35.297635+00:00"
+    "collected_at": "2026-11-03T08:15:35.297635+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "bdb6eb896c7706d6",
@@ -361,7 +589,14 @@
     "tags": [
       "AI算力"
     ],
-    "collected_at": "2026-11-03T08:15:35.331281+00:00"
+    "collected_at": "2026-11-03T08:15:35.331281+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "da8bc407d1bafcdc",
@@ -380,7 +615,14 @@
       "数据中心互联",
       "网络与交换"
     ],
-    "collected_at": "2026-11-03T08:15:35.414862+00:00"
+    "collected_at": "2026-11-03T08:15:35.414862+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "9d466c0bf8be6338",
@@ -394,7 +636,14 @@
     "tags": [
       "数据中心互联"
     ],
-    "collected_at": "2026-11-03T08:15:35.210463+00:00"
+    "collected_at": "2026-11-03T08:15:35.210463+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "de0adba42815456d",
@@ -410,7 +659,14 @@
       "数据中心互联",
       "网络与交换"
     ],
-    "collected_at": "2026-11-03T08:15:35.429333+00:00"
+    "collected_at": "2026-11-03T08:15:35.429333+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "3b10e5b9cfde29eb",
@@ -424,7 +680,18 @@
     "tags": [
       "NPO"
     ],
-    "collected_at": "2026-11-03T08:15:33.603537+00:00"
+    "collected_at": "2026-11-03T08:15:33.603537+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "near-packaged optics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "6fffb7f440577a25",
@@ -439,7 +706,14 @@
       "AI算力",
       "高速电互联"
     ],
-    "collected_at": "2026-11-03T08:15:35.476880+00:00"
+    "collected_at": "2026-11-03T08:15:35.476880+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "0730375da1665b55",
@@ -453,7 +727,16 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:36.233213+00:00"
+    "collected_at": "2026-11-03T08:15:36.233213+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "9582fad879e554f3",
@@ -467,7 +750,16 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:36.718063+00:00"
+    "collected_at": "2026-11-03T08:15:36.718063+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "8f4da4ed8bce0976",
@@ -481,7 +773,14 @@
     "tags": [
       "AI算力"
     ],
-    "collected_at": "2026-11-03T08:15:43.899676+00:00"
+    "collected_at": "2026-11-03T08:15:43.899676+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "62315a26ffbc3c43",
@@ -497,7 +796,14 @@
       "硅光",
       "数据中心互联"
     ],
-    "collected_at": "2026-11-03T08:15:35.507691+00:00"
+    "collected_at": "2026-11-03T08:15:35.507691+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "020af58da6593d8c",
@@ -512,7 +818,14 @@
       "AI算力",
       "网络与交换"
     ],
-    "collected_at": "2026-11-03T08:15:35.552174+00:00"
+    "collected_at": "2026-11-03T08:15:35.552174+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "46319fe1cde4f7ea",
@@ -526,7 +839,21 @@
     "tags": [
       "光模块"
     ],
-    "collected_at": "2026-11-03T08:15:45.662875+00:00"
+    "collected_at": "2026-11-03T08:15:45.662875+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯",
+      "关键人物访谈"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 100,
+    "matched_terms": [
+      "光模块",
+      "800G",
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "4f3a4c26dbca70fb",
@@ -540,7 +867,18 @@
     "tags": [
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:35.512930+00:00"
+    "collected_at": "2026-11-03T08:15:35.512930+00:00",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 88,
+    "matched_terms": [
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "49ac9558782be03f",
@@ -554,7 +892,16 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:37.296795+00:00"
+    "collected_at": "2026-11-03T08:15:37.296795+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [
+      "Micro-LED"
+    ],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "694315cb3b7767f5",
@@ -569,7 +916,42 @@
       "AI算力",
       "光模块"
     ],
-    "collected_at": "2026-11-03T08:15:46.875002+00:00"
+    "collected_at": "2026-11-03T08:15:46.875002+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯",
+      "关键人物访谈"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
+  },
+  {
+    "id": "2f7ac57be6a36d08",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "预付款翻了十倍，光通信模组厂在抢什么？",
+    "url": "https://fiber.ofweek.com/2026-10/ART-210001-8420-30709221.html",
+    "published_at": "2026-10-28T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-03T08:22:44.760568+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "ff39d310a5e5dd8b",
@@ -583,7 +965,16 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:37.742268+00:00"
+    "collected_at": "2026-11-03T08:15:37.742268+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "09b1c00eacb0470b",
@@ -598,7 +989,19 @@
       "NPO",
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:48.234014+00:00"
+    "collected_at": "2026-11-03T08:15:48.234014+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 96,
+    "matched_terms": [
+      "CPO",
+      "NPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "90c3031fd113ee7b",
@@ -612,7 +1015,14 @@
     "tags": [
       "网络与交换"
     ],
-    "collected_at": "2026-11-03T08:15:40.536948+00:00"
+    "collected_at": "2026-11-03T08:15:40.536948+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "4fd73b51eea9ac0d",
@@ -626,7 +1036,18 @@
     "tags": [
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:38.230059+00:00"
+    "collected_at": "2026-11-03T08:15:38.230059+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "co-packaged optics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "885fa1d4c2f0eef3",
@@ -640,7 +1061,16 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:35.513978+00:00"
+    "collected_at": "2026-11-03T08:15:35.513978+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "89cef502f8ede3f0",
@@ -654,7 +1084,19 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T07:30:23.279327+00:00"
+    "collected_at": "2026-11-03T07:30:23.279327+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 56,
+    "matched_terms": [
+      "光芯片",
+      "光器件"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "f07d0bb3b14ff2bf",
@@ -668,7 +1110,37 @@
     "tags": [
       "AI算力"
     ],
-    "collected_at": "2026-11-03T07:30:17.362273+00:00"
+    "collected_at": "2026-11-03T07:30:17.362273+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
+  },
+  {
+    "id": "167b465db506276e",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "光通信股价大涨两周年：柏林GTC焦点转向供应链",
+    "url": "https://www.c-fol.net/news/7_202610/20261023124338.html",
+    "published_at": "2026-10-23T00:00:00+00:00",
+    "summary": "光纤在线讯：英伟达下一轮供应链超级周期：基板产能提升 2.5 倍、光引擎产能扩张 15 倍，以及 AI 工厂建设竞赛",
+    "tags": [],
+    "collected_at": "2026-11-03T08:22:42.236536+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "4ab186bcd5d93e27",
@@ -682,7 +1154,14 @@
     "tags": [
       "AI算力"
     ],
-    "collected_at": "2026-11-03T07:30:17.363437+00:00"
+    "collected_at": "2026-11-03T07:30:17.363437+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "9ba8426e373d1daa",
@@ -696,7 +1175,14 @@
     "tags": [
       "AI算力"
     ],
-    "collected_at": "2026-11-03T07:30:17.365519+00:00"
+    "collected_at": "2026-11-03T07:30:17.365519+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "27318488041474e8",
@@ -710,7 +1196,19 @@
     "tags": [
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:39.526082+00:00"
+    "collected_at": "2026-11-03T08:15:39.526082+00:00",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO",
+      "testing"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "bc323ea5ee743e77",
@@ -724,7 +1222,18 @@
     "tags": [
       "网络与交换"
     ],
-    "collected_at": "2026-11-03T08:15:35.515543+00:00"
+    "collected_at": "2026-11-03T08:15:35.515543+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical interconnect"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "c4958506701a8276",
@@ -738,7 +1247,18 @@
     "tags": [
       "数据中心互联"
     ],
-    "collected_at": "2026-11-03T08:15:44.666114+00:00"
+    "collected_at": "2026-11-03T08:15:44.666114+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互联"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "627a3a0d26e28628",
@@ -752,7 +1272,18 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:47.608130+00:00"
+    "collected_at": "2026-11-03T08:15:47.608130+00:00",
+    "accepted": true,
+    "columns": [
+      "关键人物访谈"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光器件"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "537d794f086dfe19",
@@ -766,7 +1297,18 @@
     "tags": [
       "数据中心互联"
     ],
-    "collected_at": "2026-11-03T08:15:36.160431+00:00"
+    "collected_at": "2026-11-03T08:15:36.160431+00:00",
+    "accepted": true,
+    "columns": [
+      "热点问答"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical interconnect"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "2374fe82fdb0c8ba",
@@ -780,7 +1322,16 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:37.057668+00:00"
+    "collected_at": "2026-11-03T08:15:37.057668+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "9c028132791f4c00",
@@ -795,7 +1346,19 @@
       "数据中心互联",
       "高速电互联"
     ],
-    "collected_at": "2026-11-03T08:15:36.006632+00:00"
+    "collected_at": "2026-11-03T08:15:36.006632+00:00",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "PCIe",
+      "testing"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "024c143d1fe2e554",
@@ -809,7 +1372,16 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:35.516633+00:00"
+    "collected_at": "2026-11-03T08:15:35.516633+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "7dc244ab658a5f03",
@@ -823,7 +1395,19 @@
     "tags": [
       "光模块"
     ],
-    "collected_at": "2026-11-03T08:15:48.609495+00:00"
+    "collected_at": "2026-11-03T08:15:48.609495+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯",
+      "关键人物访谈"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "c9e36039b80c25f2",
@@ -837,7 +1421,16 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:35.517197+00:00"
+    "collected_at": "2026-11-03T08:15:35.517197+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "1d5da900ff35da85",
@@ -852,7 +1445,21 @@
       "光模块",
       "高速电互联"
     ],
-    "collected_at": "2026-11-03T07:30:18.140164+00:00"
+    "collected_at": "2026-11-03T07:30:18.140164+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 100,
+    "matched_terms": [
+      "1.6T",
+      "3.2T",
+      "AEC",
+      "retimer"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "a83cebd8c8cb8a05",
@@ -866,7 +1473,16 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:35.518246+00:00"
+    "collected_at": "2026-11-03T08:15:35.518246+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "93324b53f3607db9",
@@ -880,7 +1496,18 @@
     "tags": [
       "高速电互联"
     ],
-    "collected_at": "2026-11-03T08:15:36.508965+00:00"
+    "collected_at": "2026-11-03T08:15:36.508965+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "CXL"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "19719219af9b88dc",
@@ -896,7 +1523,19 @@
       "数据中心互联",
       "高速电互联"
     ],
-    "collected_at": "2026-11-03T08:15:36.394068+00:00"
+    "collected_at": "2026-11-03T08:15:36.394068+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "PCIe",
+      "VCSEL"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "d7d69f56618c7a51",
@@ -910,7 +1549,18 @@
     "tags": [
       "光模块"
     ],
-    "collected_at": "2026-11-03T08:15:35.216558+00:00"
+    "collected_at": "2026-11-03T08:15:35.216558+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical transceiver"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "f086aa21d0c76efe",
@@ -924,7 +1574,19 @@
     "tags": [
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:40.841454+00:00"
+    "collected_at": "2026-11-03T08:15:40.841454+00:00",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO",
+      "testing"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "0157d3fd22b530e9",
@@ -939,7 +1601,18 @@
       "CPO",
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:35.519055+00:00"
+    "collected_at": "2026-11-03T08:15:35.519055+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "microLED"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "3e496d395644100e",
@@ -954,7 +1627,14 @@
       "AI算力",
       "数据中心互联"
     ],
-    "collected_at": "2026-11-03T07:30:18.241061+00:00"
+    "collected_at": "2026-11-03T07:30:18.241061+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "7a7001e58074f25b",
@@ -968,7 +1648,37 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:35.519536+00:00"
+    "collected_at": "2026-11-03T08:15:35.519536+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
+  },
+  {
+    "id": "a846be54249cd152",
+    "source_id": "accelink",
+    "source_name": "光迅科技",
+    "source_type": "企业官方新闻中心",
+    "title": "2026-09-22 光迅科技亮相ECOC 2026，共话AI时代光通信新未来",
+    "url": "https://www.accelink.com/lighting_your_dreams/2102334802811191297.html",
+    "published_at": "2026-09-22T00:00:00+00:00",
+    "summary": "光迅科技 | 让光引领梦想",
+    "tags": [],
+    "collected_at": "2026-11-03T08:22:34.981077+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "b1f0416b6e83b5ec",
@@ -986,7 +1696,18 @@
       "数据中心互联",
       "网络与交换"
     ],
-    "collected_at": "2026-11-03T07:30:19.088771+00:00"
+    "collected_at": "2026-11-03T07:30:19.088771+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "e4bdc2671ebf5bc7",
@@ -1001,7 +1722,14 @@
       "AI算力",
       "光模块"
     ],
-    "collected_at": "2026-11-03T07:30:18.450320+00:00"
+    "collected_at": "2026-11-03T07:30:18.450320+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "abe5a4c829285666",
@@ -1018,7 +1746,18 @@
       "光芯片/器件",
       "数据中心互联"
     ],
-    "collected_at": "2026-11-03T08:15:36.534969+00:00"
+    "collected_at": "2026-11-03T08:15:36.534969+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "VCSEL"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "8cf6293f3e0ff591",
@@ -1032,7 +1771,38 @@
     "tags": [
       "数据中心互联"
     ],
-    "collected_at": "2026-11-03T08:15:43.178320+00:00"
+    "collected_at": "2026-11-03T08:15:43.178320+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
+  },
+  {
+    "id": "0f1c8e14ee20b169",
+    "source_id": "accelink",
+    "source_name": "光迅科技",
+    "source_type": "企业官方新闻中心",
+    "title": "2026-09-18 光迅科技12.8T XPO DR液冷实测，ECOC 2026现场见真章",
+    "url": "https://www.accelink.com/lighting_your_dreams/2101916634963804161.html",
+    "published_at": "2026-09-18T00:00:00+00:00",
+    "summary": "光迅科技 | 让光引领梦想",
+    "tags": [],
+    "collected_at": "2026-11-03T08:22:35.171795+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 56,
+    "matched_terms": [
+      "XPO",
+      "12.8T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "c7f9cb68e117dac9",
@@ -1046,7 +1816,18 @@
     "tags": [
       "光模块"
     ],
-    "collected_at": "2026-11-03T08:15:44.823356+00:00"
+    "collected_at": "2026-11-03T08:15:44.823356+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "d419dc4c8a32714d",
@@ -1061,7 +1842,20 @@
       "AI算力",
       "数据中心互联"
     ],
-    "collected_at": "2026-11-03T07:30:23.657407+00:00"
+    "collected_at": "2026-11-03T07:30:23.657407+00:00",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察",
+      "热点问答",
+      "关键人物访谈"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互联"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "c0f9a1e7f12b6936",
@@ -1076,7 +1870,18 @@
       "AI算力",
       "NPO"
     ],
-    "collected_at": "2026-11-03T07:30:25.273499+00:00"
+    "collected_at": "2026-11-03T07:30:25.273499+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "NPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "15440f0df1f59b76",
@@ -1091,7 +1896,19 @@
       "光模块",
       "数据中心互联"
     ],
-    "collected_at": "2026-11-03T08:15:46.138724+00:00"
+    "collected_at": "2026-11-03T08:15:46.138724+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 76,
+    "matched_terms": [
+      "光互连",
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "c068b29f7e149402",
@@ -1105,7 +1922,14 @@
     "tags": [
       "AI算力"
     ],
-    "collected_at": "2026-11-03T07:30:18.548485+00:00"
+    "collected_at": "2026-11-03T07:30:18.548485+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "958d183646cdfb94",
@@ -1119,7 +1943,14 @@
     "tags": [
       "AI算力"
     ],
-    "collected_at": "2026-11-03T08:15:39.250890+00:00"
+    "collected_at": "2026-11-03T08:15:39.250890+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "dfa8321ac2d5ff33",
@@ -1133,7 +1964,20 @@
     "tags": [
       "NPO"
     ],
-    "collected_at": "2026-11-03T07:30:26.275992+00:00"
+    "collected_at": "2026-11-03T07:30:26.275992+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 100,
+    "matched_terms": [
+      "NPO",
+      "3.2T",
+      "6.4T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "f9b24b8093af7f23",
@@ -1147,7 +1991,16 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:33.606578+00:00"
+    "collected_at": "2026-11-03T08:15:33.606578+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "fd75143baebe254c",
@@ -1161,7 +2014,18 @@
     "tags": [
       "NPO"
     ],
-    "collected_at": "2026-11-03T08:15:47.055781+00:00"
+    "collected_at": "2026-11-03T08:15:47.055781+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "NPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "43fa67345b435f8d",
@@ -1175,7 +2039,18 @@
     "tags": [
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:33.607531+00:00"
+    "collected_at": "2026-11-03T08:15:33.607531+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "co-packaged optics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "dafaaa33317d69f0",
@@ -1189,7 +2064,18 @@
     "tags": [
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:42.138720+00:00"
+    "collected_at": "2026-11-03T08:15:42.138720+00:00",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 88,
+    "matched_terms": [
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "27db2b9901b926e3",
@@ -1204,7 +2090,18 @@
       "光模块",
       "硅光"
     ],
-    "collected_at": "2026-11-03T08:15:35.282988+00:00"
+    "collected_at": "2026-11-03T08:15:35.282988+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "silicon photonics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "8769e3a53baca80a",
@@ -1218,7 +2115,19 @@
     "tags": [
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:43.410316+00:00"
+    "collected_at": "2026-11-03T08:15:43.410316+00:00",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "co-packaged optics",
+      "testing"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "cf290e84f33ee2ad",
@@ -1234,7 +2143,18 @@
       "光模块",
       "数据中心互联"
     ],
-    "collected_at": "2026-11-03T07:30:21.156368+00:00"
+    "collected_at": "2026-11-03T07:30:21.156368+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互联"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "c7e77c1a4c843b42",
@@ -1248,7 +2168,18 @@
     "tags": [
       "硅光"
     ],
-    "collected_at": "2026-11-03T08:15:44.737642+00:00"
+    "collected_at": "2026-11-03T08:15:44.737642+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "silicon photonics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "294fb9703d2d284d",
@@ -1262,7 +2193,16 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:36.007471+00:00"
+    "collected_at": "2026-11-03T08:15:36.007471+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "47f0ade768f7f7f2",
@@ -1276,7 +2216,41 @@
     "tags": [
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:46.123676+00:00"
+    "collected_at": "2026-11-03T08:15:46.123676+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
+  },
+  {
+    "id": "9bd2932b76c61f3e",
+    "source_id": "oif",
+    "source_name": "光互联论坛 / OIF",
+    "source_type": "技术标准与学术研究",
+    "title": "OIF Q1 Meeting Launches Projects to Advance Secure Module Management and New 448G Electrical Interface Work",
+    "url": "https://www.oiforum.com/oif-q1-meeting-launches-projects-to-advance-secure-module-management-and-new-448g-electrical-interface-work/",
+    "published_at": "2026-03-03T14:56:02+00:00",
+    "summary": "Members gathered to align on interoperability priorities, including pluggable security and higher-density chip-to-module, backplane connectivity Fremont, Calif. — OIF today shared highlights from its Q1 2026 Technical and MA&E Committees Meeting, held fully in-person Feb. 9–12 in Palm Springs. The meeting drew strong participation from OIF member companies as technical leaders advanced work across management, […]",
+    "tags": [],
+    "collected_at": "2026-11-03T08:22:35.580372+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "448G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "ab7773234c9261fb",
@@ -1291,7 +2265,19 @@
       "CPO",
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:47.445281+00:00"
+    "collected_at": "2026-11-03T08:15:47.445281+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "co-packaged optics",
+      "laser"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "163b0afd9156063f",
@@ -1305,7 +2291,14 @@
     "tags": [
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:43.613283+00:00"
+    "collected_at": "2026-11-03T08:15:43.613283+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "bc634903d1a2ee45",
@@ -1319,7 +2312,14 @@
     "tags": [
       "网络与交换"
     ],
-    "collected_at": "2026-11-03T08:15:43.614974+00:00"
+    "collected_at": "2026-11-03T08:15:43.614974+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "6b6a7febe4fbfa9c",
@@ -1334,7 +2334,19 @@
       "NPO",
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:43.616706+00:00"
+    "collected_at": "2026-11-03T08:15:43.616706+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 96,
+    "matched_terms": [
+      "CPO",
+      "NPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "b6f4e5e4c5df4b78",
@@ -1348,7 +2360,14 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:43.618987+00:00"
+    "collected_at": "2026-11-03T08:15:43.618987+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "66a0ec48e13ec096",
@@ -1363,7 +2382,14 @@
       "光模块",
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:44.859128+00:00"
+    "collected_at": "2026-11-03T08:15:44.859128+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "214999ce1b2538eb",
@@ -1377,7 +2403,18 @@
     "tags": [
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:44.859792+00:00"
+    "collected_at": "2026-11-03T08:15:44.859792+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "ab5e165273246bbe",
@@ -1391,7 +2428,14 @@
     "tags": [
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:43.621902+00:00"
+    "collected_at": "2026-11-03T08:15:43.621902+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "5d5f4feae36c0711",
@@ -1405,7 +2449,18 @@
     "tags": [
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:46.287293+00:00"
+    "collected_at": "2026-11-03T08:15:46.287293+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "co-packaged optics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "586349fbdf449a1d",
@@ -1419,7 +2474,18 @@
     "tags": [
       "硅光"
     ],
-    "collected_at": "2026-11-03T08:15:33.743565+00:00"
+    "collected_at": "2026-11-03T08:15:33.743565+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "silicon photonics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "daf85084f949f828",
@@ -1433,7 +2499,18 @@
     "tags": [
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:34.300759+00:00"
+    "collected_at": "2026-11-03T08:15:34.300759+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "0ed636c1cf68b648",
@@ -1447,7 +2524,18 @@
     "tags": [
       "CPO"
     ],
-    "collected_at": "2026-11-03T08:15:35.156412+00:00"
+    "collected_at": "2026-11-03T08:15:35.156412+00:00",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "af376338beeb41f7",
@@ -1462,7 +2550,14 @@
       "AI算力",
       "网络与交换"
     ],
-    "collected_at": "2026-11-03T08:15:35.805693+00:00"
+    "collected_at": "2026-11-03T08:15:35.805693+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "821242c47e41cd9f",
@@ -1476,7 +2571,16 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:33.648040+00:00"
+    "collected_at": "2026-11-03T08:15:33.648040+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [
+      "microLED"
+    ],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "5ac96397c95abc38",
@@ -1490,7 +2594,16 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:33.528157+00:00"
+    "collected_at": "2026-11-03T08:15:33.528157+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   },
   {
     "id": "805a5da820b7dd9a",
@@ -1504,6 +2617,15 @@
     "tags": [
       "光芯片/器件"
     ],
-    "collected_at": "2026-11-03T08:15:37.409352+00:00"
+    "collected_at": "2026-11-03T08:15:37.409352+00:00",
+    "accepted": false,
+    "columns": [],
+    "priority": "常规跟踪",
+    "relevance_score": 0,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "缺少明确互联主题或命中排除规则",
+    "rules_version": "2026-11-03.1"
   }
 ]
