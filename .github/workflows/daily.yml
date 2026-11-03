@@ -27,11 +27,15 @@ jobs:
       - name: Determine update mode
         id: mode
         run: |
-          if [ "${{ github.event_name }}" = "push" ] && [ "$(git diff --name-only HEAD^ HEAD)" = "config/title_translations.json" ]; then
-            echo "collect=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "collect=true" >> "$GITHUB_OUTPUT"
+          collect=true
+          if [ "${{ github.event_name }}" = "push" ]; then
+            changed=$(git diff --name-only HEAD^ HEAD)
+            case "$changed" in
+              *scripts/collect.py*|*scripts/editorial.py*|*config/sources.json*|*config/keywords.json*|*config/editorial_rules.json*) collect=true ;;
+              *) collect=false ;;
+            esac
           fi
+          echo "collect=$collect" >> "$GITHUB_OUTPUT"
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
