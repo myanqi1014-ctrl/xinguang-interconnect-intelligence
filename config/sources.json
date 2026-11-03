@@ -113,7 +113,7 @@
     "region": "国外及港台",
     "homepage": "https://www.coherent.com/",
     "company_segment": "光芯片与硅光",
-    "company_scope": "optical"
+    "company_scope": "related"
   },
   {
     "id": "lumentum",
@@ -124,7 +124,7 @@
     "region": "国外及港台",
     "homepage": "https://www.lumentum.com/",
     "company_segment": "光芯片与硅光",
-    "company_scope": "optical"
+    "company_scope": "related"
   },
   {
     "id": "innolight",
@@ -732,7 +732,7 @@
     "region": "国内",
     "homepage": "https://www.afrlaser.com/",
     "company_segment": "光器件与连接",
-    "company_scope": "optical"
+    "company_scope": "related"
   },
   {
     "id": "sjphotons",
@@ -765,7 +765,7 @@
     "region": "国内",
     "homepage": "https://www.optowide.com/cn/",
     "company_segment": "光器件与连接",
-    "company_scope": "optical"
+    "company_scope": "related"
   },
   {
     "id": "castech",
@@ -776,7 +776,7 @@
     "region": "国内",
     "homepage": "https://www.castech.com/",
     "company_segment": "光器件与连接",
-    "company_scope": "optical"
+    "company_scope": "related"
   },
   {
     "id": "yofc",
@@ -842,7 +842,7 @@
     "region": "国外及港台",
     "homepage": "https://sumitomoelectric.com/",
     "company_segment": "光模块与有源光缆",
-    "company_scope": "optical"
+    "company_scope": "related"
   },
   {
     "id": "furukawa-electric",
@@ -941,7 +941,7 @@
     "region": "国外及港台",
     "homepage": "https://www.macom.com/",
     "company_segment": "光芯片与硅光",
-    "company_scope": "optical"
+    "company_scope": "related"
   },
   {
     "id": "semtech",
@@ -963,7 +963,7 @@
     "region": "国外及港台",
     "homepage": "https://gf.com/",
     "company_segment": "光芯片与硅光",
-    "company_scope": "optical"
+    "company_scope": "related"
   },
   {
     "id": "tower",
@@ -974,7 +974,7 @@
     "region": "国外及港台",
     "homepage": "https://towersemi.com/",
     "company_segment": "光芯片与硅光",
-    "company_scope": "optical"
+    "company_scope": "related"
   },
   {
     "id": "tsmc",
@@ -996,7 +996,7 @@
     "region": "国外及港台",
     "homepage": "https://www.st.com/",
     "company_segment": "光芯片与硅光",
-    "company_scope": "optical"
+    "company_scope": "related"
   },
   {
     "id": "openlight",

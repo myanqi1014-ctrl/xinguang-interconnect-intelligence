@@ -43,6 +43,8 @@ jobs:
       - name: Collect official news
         if: steps.mode.outputs.collect == 'true'
         run: python scripts/collect.py
+      - name: Merge reviewed procurement leads
+        run: python scripts/import_procurement.py
       - name: Apply Chinese titles
         run: python scripts/translate_titles.py
       - name: Commit collected data

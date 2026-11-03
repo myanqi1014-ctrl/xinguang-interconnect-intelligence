@@ -128,6 +128,9 @@ def main():
     for k in ('published_at','summary'):
      if not x.get(k):x[k]=prev.get(k,'')
     x['collected_at']=prev.get('collected_at',x['collected_at']);db[x['url']]=x
+ source_lookup={s['id']:s for s in S}
+ for x in db.values():
+  x['company_scope']=source_lookup.get(x.get('source_id'),{}).get('company_scope',x.get('company_scope',''))
  items=sorted([decorate(x) for x in db.values()],key=lambda x:x.get('published_at') or '',reverse=True)
  pending_translations=apply_translations(items)
  (D/'news.json').write_text(json.dumps(items,ensure_ascii=False,indent=2),encoding='utf-8')

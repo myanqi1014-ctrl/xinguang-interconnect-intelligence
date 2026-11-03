@@ -32,6 +32,7 @@ def assess(src,title,summary=''):
  result['content_type']=kind
  if kind=='招标采购':
   related=bool(hits(title,TENDER_TOPICS) or (hits(title,['数据中心','智算中心','算力中心']) and hits(title,['交换机','网络','互联'])))
+  if hits(title,['激光模块','激光美容','激光焊接','激光切割']) and not hits(title,['光通信','光互联','光互连','硅光','CPO','800G','1.6T']):related=False
   result.update(accepted=related,columns=['招标采购'] if related else [],tender_stage=tender_stage(title),procurement_level='高速互联相关' if hits(title,HIGH_SPEED) else '一般光通信采购',selection_reason='采购公告标题命中光通信或算力互联设备',priority='优先选题' if hits(title,HIGH_SPEED) else '常规跟踪')
  elif not result['accepted'] and src.get('company_scope')=='optical' and hits(title,BUSINESS_SIGNALS) and not hits(title,NONBUSINESS+RULES['exclude_title']):
   result.update(accepted=True,columns=['最新资讯'],priority='常规跟踪',relevance_score=40,selection_reason='光通信专业企业的产品、合作或经营动态')
