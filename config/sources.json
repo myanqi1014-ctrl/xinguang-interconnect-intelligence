@@ -4,119 +4,136 @@
     "name": "光通信深度观察 / Gazettabyte",
     "url": "https://gazettabyte.com/",
     "group": "海外新闻与深度观察",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国外及港台"
   },
   {
     "id": "pic-magazine",
     "name": "光子集成电路杂志 / PIC Magazine",
     "url": "https://picmagazine.net/news",
     "group": "海外新闻与深度观察",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国外及港台"
   },
   {
     "id": "converge-digest",
     "name": "网络与光互联资讯 / Converge Digest",
     "url": "https://convergedigest.com/",
     "group": "海外新闻与深度观察",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国外及港台"
   },
   {
     "id": "semiconductor-engineering",
     "name": "半导体工程·光子专题 / Semiconductor Engineering",
     "url": "https://semiengineering.com/knowledge_centers/data-movement/photonics/",
     "group": "海外新闻与深度观察",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国外及港台"
   },
   {
     "id": "compound-semiconductor",
     "name": "化合物半导体 / Compound Semiconductor",
     "url": "https://compoundsemiconductor.net/home",
     "group": "海外新闻与深度观察",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国外及港台"
   },
   {
     "id": "semiconductor-today",
     "name": "今日半导体 / Semiconductor Today",
     "url": "https://semiconductor-today.com/",
     "group": "海外新闻与深度观察",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国外及港台"
   },
   {
     "id": "laser-focus-world",
     "name": "激光世界 / Laser Focus World",
     "url": "https://www.laserfocusworld.com/home",
     "group": "海外新闻与深度观察",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国外及港台"
   },
   {
     "id": "lightwave",
     "name": "光波在线 / Lightwave",
     "url": "https://www.lightwaveonline.com/",
     "group": "海外新闻与深度观察",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国外及港台"
   },
   {
     "id": "optics-org",
     "name": "光学网 / optics.org",
     "url": "https://optics.org/",
     "group": "海外新闻与深度观察",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国外及港台"
   },
   {
     "id": "nvidia",
     "name": "NVIDIA",
     "url": "https://nvidianews.nvidia.com/",
     "group": "企业官方新闻中心",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国外及港台"
   },
   {
     "id": "broadcom",
     "name": "Broadcom",
     "url": "https://investors.broadcom.com/financial-information/financial-news-releases",
     "group": "企业官方新闻中心",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国外及港台"
   },
   {
     "id": "marvell",
     "name": "Marvell",
     "url": "https://www.marvell.com/company/newsroom/press-releases.html",
     "group": "企业官方新闻中心",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国外及港台"
   },
   {
     "id": "coherent",
     "name": "Coherent",
     "url": "https://ir.coherent.com/news-events/corporate-releases",
     "group": "企业官方新闻中心",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国外及港台"
   },
   {
     "id": "lumentum",
     "name": "Lumentum",
     "url": "https://www.lumentum.com/en/newsroom/news-releases",
     "group": "企业官方新闻中心",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国外及港台"
   },
   {
     "id": "innolight",
     "name": "中际旭创",
     "url": "https://www.zj-innolight.com/cn/news.html",
     "group": "企业官方新闻中心",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国内"
   },
   {
     "id": "eoptolink",
     "name": "新易盛",
     "url": "https://www.eoptolink.com/cn/",
     "group": "企业官方新闻中心",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国内"
   },
   {
     "id": "accelink",
     "name": "光迅科技",
     "url": "https://www.accelink.com/lighting_your_dreams/xinwenzixun.html",
     "group": "企业官方新闻中心",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国内"
   },
   {
     "id": "cninfo",
@@ -124,7 +141,8 @@
     "url": "https://www.cninfo.com.cn/",
     "group": "证券信息披露平台",
     "mode": "manual",
-    "note": "已保留公告入口；需配置关注公司及股票代码后，才能定向自动采集。"
+    "note": "已保留公告入口；需配置关注公司及股票代码后，才能定向自动采集。",
+    "region": "国内"
   },
   {
     "id": "sse",
@@ -132,7 +150,8 @@
     "url": "https://www.sse.com.cn/",
     "group": "证券信息披露平台",
     "mode": "manual",
-    "note": "已保留公告入口；需配置关注公司及股票代码后，才能定向自动采集。"
+    "note": "已保留公告入口；需配置关注公司及股票代码后，才能定向自动采集。",
+    "region": "国内"
   },
   {
     "id": "hkexnews",
@@ -140,7 +159,8 @@
     "url": "https://www.hkexnews.hk/index_c.htm",
     "group": "证券信息披露平台",
     "mode": "manual",
-    "note": "已保留公告入口；需配置关注公司及股票代码后，才能定向自动采集。"
+    "note": "已保留公告入口；需配置关注公司及股票代码后，才能定向自动采集。",
+    "region": "国外及港台"
   },
   {
     "id": "sec-edgar",
@@ -148,21 +168,24 @@
     "url": "https://www.sec.gov/edgar/search/",
     "group": "证券信息披露平台",
     "mode": "manual",
-    "note": "已保留公告入口；需配置关注公司及股票代码后，才能定向自动采集。"
+    "note": "已保留公告入口；需配置关注公司及股票代码后，才能定向自动采集。",
+    "region": "国外及港台"
   },
   {
     "id": "oif",
     "name": "光互联论坛 / OIF",
     "url": "https://www.oiforum.com/",
     "group": "技术标准与学术研究",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国外及港台"
   },
   {
     "id": "ethernet-alliance",
     "name": "以太网联盟 / Ethernet Alliance",
     "url": "https://ethernetalliance.org/",
     "group": "技术标准与学术研究",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国外及港台"
   },
   {
     "id": "ieee-xplore",
@@ -170,7 +193,8 @@
     "url": "https://ieeexplore.ieee.org/",
     "group": "技术标准与学术研究",
     "mode": "manual",
-    "note": "已保留学术检索入口；需限定期刊或检索式并接入授权接口，暂不自动抓取。"
+    "note": "已保留学术检索入口；需限定期刊或检索式并接入授权接口，暂不自动抓取。",
+    "region": "国外及港台"
   },
   {
     "id": "optica-publishing-group",
@@ -178,35 +202,40 @@
     "url": "https://opg.optica.org/",
     "group": "技术标准与学术研究",
     "mode": "manual",
-    "note": "已保留学术检索入口；需限定期刊或检索式并接入授权接口，暂不自动抓取。"
+    "note": "已保留学术检索入口；需限定期刊或检索式并接入授权接口，暂不自动抓取。",
+    "region": "国外及港台"
   },
   {
     "id": "c114",
     "name": "C114通信网 / C114",
     "url": "https://www.c114.com.cn/",
     "group": "国内行业媒体",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国内"
   },
   {
     "id": "ofweek",
     "name": "维科网光通讯 / OFweek",
     "url": "https://fiber.ofweek.com/",
     "group": "国内行业媒体",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国内"
   },
   {
     "id": "iccsz",
     "name": "讯石光通讯网 / ICCSZ",
     "url": "https://www.iccsz.com/",
     "group": "国内行业媒体",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国内"
   },
   {
     "id": "c-fol",
     "name": "光纤在线 / C-FOL",
     "url": "https://www.c-fol.net/",
     "group": "国内行业媒体",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国内"
   },
   {
     "id": "fibereality",
@@ -214,7 +243,8 @@
     "url": "https://www.fibereality.com/blog/",
     "group": "市场研究机构",
     "mode": "auto",
-    "note": "仅尝试采集公开文章及RSS，不采付费报告全文。"
+    "note": "仅尝试采集公开文章及RSS，不采付费报告全文。",
+    "region": "国外及港台"
   },
   {
     "id": "lightcounting",
@@ -222,7 +252,8 @@
     "url": "https://www.lightcounting.com/",
     "group": "市场研究机构",
     "mode": "auto",
-    "note": "仅尝试采集公开文章及RSS，不采付费报告全文。"
+    "note": "仅尝试采集公开文章及RSS，不采付费报告全文。",
+    "region": "国外及港台"
   },
   {
     "id": "dell-oro-group",
@@ -230,7 +261,8 @@
     "url": "https://www.delloro.com/",
     "group": "市场研究机构",
     "mode": "auto",
-    "note": "仅尝试采集公开文章及RSS，不采付费报告全文。"
+    "note": "仅尝试采集公开文章及RSS，不采付费报告全文。",
+    "region": "国外及港台"
   },
   {
     "id": "omdia",
@@ -238,7 +270,8 @@
     "url": "https://omdia.tech.informa.com/",
     "group": "市场研究机构",
     "mode": "auto",
-    "note": "仅尝试采集公开文章及RSS，不采付费报告全文。"
+    "note": "仅尝试采集公开文章及RSS，不采付费报告全文。",
+    "region": "国外及港台"
   },
   {
     "id": "semianalysis",
@@ -246,35 +279,40 @@
     "url": "https://semianalysis.com/",
     "group": "市场研究机构",
     "mode": "auto",
-    "note": "仅尝试采集公开文章及RSS，不采付费报告全文。"
+    "note": "仅尝试采集公开文章及RSS，不采付费报告全文。",
+    "region": "国外及港台"
   },
   {
     "id": "36kr",
     "name": "36氪 / 36Kr",
     "url": "https://36kr.com/",
     "group": "科技与商业媒体",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国内"
   },
   {
     "id": "huxiu",
     "name": "虎嗅 / Huxiu",
     "url": "https://www.huxiu.com/",
     "group": "科技与商业媒体",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国内"
   },
   {
     "id": "tmtpost",
     "name": "钛媒体 / TMTPost",
     "url": "https://www.tmtpost.com/",
     "group": "科技与商业媒体",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国内"
   },
   {
     "id": "zhidx",
     "name": "智东西 / Zhidx",
     "url": "https://www.zhidx.com/",
     "group": "科技与商业媒体",
-    "mode": "auto"
+    "mode": "auto",
+    "region": "国内"
   },
   {
     "id": "wechat-1",
@@ -282,7 +320,8 @@
     "url": "https://mp.weixin.qq.com/s/tZrF8XzVAgbBXZhokYuDww",
     "group": "微信公众号",
     "mode": "manual",
-    "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
+    "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。",
+    "region": "国内"
   },
   {
     "id": "wechat-2",
@@ -290,7 +329,8 @@
     "url": "https://mp.weixin.qq.com/s/gPhf9Q8zFiZ9jJ5cglMhdg",
     "group": "微信公众号",
     "mode": "manual",
-    "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
+    "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。",
+    "region": "国内"
   },
   {
     "id": "wechat-3",
@@ -298,7 +338,8 @@
     "url": "https://mp.weixin.qq.com/s/mguv3Xxub9UXTtdkAmlhrA",
     "group": "微信公众号",
     "mode": "manual",
-    "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
+    "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。",
+    "region": "国内"
   },
   {
     "id": "wechat-4",
@@ -306,7 +347,8 @@
     "url": "https://mp.weixin.qq.com/s/b-tACnh4_QahOzs6weXqww",
     "group": "微信公众号",
     "mode": "manual",
-    "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
+    "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。",
+    "region": "国内"
   },
   {
     "id": "wechat-5",
@@ -314,6 +356,219 @@
     "url": "https://mp.weixin.qq.com/s/NuMnsnfr0aydk4hojqV18g",
     "group": "微信公众号",
     "mode": "manual",
-    "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
+    "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。",
+    "region": "国内"
+  },
+  {
+    "id": "digitimes",
+    "name": "DigiTimes",
+    "url": "https://www.digitimes.com/",
+    "group": "海外新闻与深度观察",
+    "mode": "manual",
+    "note": "已加入入口；持续数据采集需取得相应授权，付费全文不采集。",
+    "region": "国外及港台"
+  },
+  {
+    "id": "eetimes",
+    "name": "EE Times",
+    "url": "https://www.eetimes.com/",
+    "group": "海外新闻与深度观察",
+    "mode": "auto",
+    "region": "国外及港台"
+  },
+  {
+    "id": "techinsights",
+    "name": "TechInsights",
+    "url": "https://www.techinsights.com/resources/blogs",
+    "group": "市场研究机构",
+    "mode": "auto",
+    "note": "仅采公开标题、摘要与链接，不采付费全文。",
+    "region": "国外及港台"
+  },
+  {
+    "id": "yole",
+    "name": "Yole Group",
+    "url": "https://www.yolegroup.com/articles/",
+    "group": "市场研究机构",
+    "mode": "auto",
+    "note": "仅采公开标题、摘要与链接，不采付费全文。",
+    "region": "国外及港台"
+  },
+  {
+    "id": "trendforce",
+    "name": "TrendForce 集邦咨询",
+    "url": "https://www.trendforce.com/news/",
+    "group": "市场研究机构",
+    "mode": "auto",
+    "note": "仅采公开标题、摘要与链接，不采付费全文。",
+    "region": "国外及港台"
+  },
+  {
+    "id": "the-elec",
+    "name": "The Elec",
+    "url": "https://www.thelec.net/news/articleList.html",
+    "group": "海外新闻与深度观察",
+    "mode": "auto",
+    "region": "国外及港台"
+  },
+  {
+    "id": "etnews",
+    "name": "ETNews 电子新闻",
+    "url": "https://en.etnews.com/",
+    "group": "海外新闻与深度观察",
+    "mode": "auto",
+    "region": "国外及港台"
+  },
+  {
+    "id": "icviews",
+    "name": "半导体产业纵横",
+    "url": "https://www.icviews.cn/",
+    "group": "国内半导体媒体",
+    "mode": "auto",
+    "region": "国内"
+  },
+  {
+    "id": "semiinsights-eefocus",
+    "name": "半导体行业观察（与非网作者页）",
+    "url": "https://www.eefocus.com/user/3897748/article/",
+    "group": "国内半导体媒体",
+    "mode": "auto",
+    "region": "国内"
+  },
+  {
+    "id": "eefocus",
+    "name": "与非网",
+    "url": "https://www.eefocus.com/",
+    "group": "国内半导体媒体",
+    "mode": "auto",
+    "region": "国内"
+  },
+  {
+    "id": "eet-china",
+    "name": "电子工程专辑",
+    "url": "https://www.eet-china.com/",
+    "group": "国内半导体媒体",
+    "mode": "auto",
+    "region": "国内"
+  },
+  {
+    "id": "laoyaoba",
+    "name": "集微网",
+    "url": "https://www.laoyaoba.com/",
+    "group": "国内半导体媒体",
+    "mode": "auto",
+    "region": "国内"
+  },
+  {
+    "id": "nist-chips",
+    "name": "NIST CHIPS 美国半导体产业投资",
+    "url": "https://www.nist.gov/chips/chips-news-releases",
+    "group": "北美产业投资与融资",
+    "mode": "auto",
+    "region": "国外及港台"
+  },
+  {
+    "id": "sia",
+    "name": "SIA 美国半导体行业协会",
+    "url": "https://www.semiconductors.org/chip-supply-chain-investments/",
+    "group": "北美产业投资与融资",
+    "mode": "auto",
+    "region": "国外及港台"
+  },
+  {
+    "id": "techcrunch",
+    "name": "TechCrunch 创业与融资",
+    "url": "https://techcrunch.com/",
+    "group": "北美产业投资与融资",
+    "mode": "auto",
+    "region": "国外及港台"
+  },
+  {
+    "id": "intel",
+    "name": "Intel 英特尔新闻中心",
+    "url": "https://newsroom.intel.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台"
+  },
+  {
+    "id": "amd",
+    "name": "AMD 新闻中心",
+    "url": "https://www.amd.com/en/newsroom.html",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台"
+  },
+  {
+    "id": "cisco",
+    "name": "Cisco 思科新闻中心",
+    "url": "https://newsroom.cisco.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台"
+  },
+  {
+    "id": "lightmatter",
+    "name": "Lightmatter",
+    "url": "https://lightmatter.co/blog/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台"
+  },
+  {
+    "id": "ayar-labs",
+    "name": "Ayar Labs",
+    "url": "https://ayarlabs.com/news/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台"
+  },
+  {
+    "id": "ranovus",
+    "name": "Ranovus",
+    "url": "https://ranovus.com/news/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台"
+  },
+  {
+    "id": "imec",
+    "name": "imec 微电子研究中心",
+    "url": "https://www.imec-int.com/en/press",
+    "group": "技术标准与学术研究",
+    "mode": "auto",
+    "region": "国外及港台"
+  },
+  {
+    "id": "ofc",
+    "name": "OFC 光通信大会",
+    "url": "https://www.ofcconference.org/",
+    "group": "会议与展会",
+    "mode": "auto",
+    "region": "国外及港台"
+  },
+  {
+    "id": "ecoc",
+    "name": "ECOC 欧洲光通信展",
+    "url": "https://www.ecocexhibition.com/",
+    "group": "会议与展会",
+    "mode": "auto",
+    "region": "国外及港台"
+  },
+  {
+    "id": "ocp",
+    "name": "OCP 开放计算项目",
+    "url": "https://www.opencompute.org/news",
+    "group": "会议与展会",
+    "mode": "auto",
+    "region": "国外及港台"
+  },
+  {
+    "id": "cioe",
+    "name": "CIOE 中国光博会",
+    "url": "https://www.cioe.cn/news.html",
+    "group": "会议与展会",
+    "mode": "auto",
+    "region": "国内"
   }
 ]

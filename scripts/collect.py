@@ -5,6 +5,7 @@ from datetime import datetime,timezone
 from urllib.parse import urljoin,urlparse,urldefrag
 import requests,feedparser
 from editorial import classify,decorate,hits,RULES
+from translate_titles import apply_translations
 from bs4 import BeautifulSoup
 from dateutil import parser as dp
 R=Path(__file__).resolve().parents[1];D=R/'data'
@@ -108,8 +109,9 @@ def main():
      if not x.get(k):x[k]=prev.get(k,'')
     x['collected_at']=prev.get('collected_at',x['collected_at']);db[x['url']]=x
  items=sorted([decorate(x) for x in db.values()],key=lambda x:x.get('published_at') or '',reverse=True)
+ pending_translations=apply_translations(items)
  (D/'news.json').write_text(json.dumps(items,ensure_ascii=False,indent=2),encoding='utf-8')
- report={'run_at':now(),'timezone_note':'04:00 UTC = 12:00 Asia/Shanghai','source_results':logs,'total_stored':len(items),'editorial_selected':sum(x['accepted'] for x in items),'rules_version':RULES['version'],'configured':len(S),'automatic':sum(x.get('mode')!='manual' for x in S)}
+ report={'run_at':now(),'timezone_note':'04:00 UTC = 12:00 Asia/Shanghai','source_results':logs,'total_stored':len(items),'editorial_selected':sum(x['accepted'] for x in items),'rules_version':RULES['version'],'pending_title_translations':pending_translations,'configured':len(S),'automatic':sum(x.get('mode')!='manual' for x in S)}
  (D/'collection_log.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
  print('Stored',len(items),'sources',len(logs),flush=True)
 if __name__=='__main__':main()
