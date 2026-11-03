@@ -26,7 +26,7 @@ def main():
    if len(r.content)<1000 or soup.select_one('iframe[src*="captcha"],script[src*="challenge"]'):raise ValueError("页面受访问保护或未返回新闻正文")
    feeds=[urljoin(r.url,x.get("href")) for x in soup.select('link[rel~="alternate"][href]') if "rss" in (x.get("type") or "").lower() or "atom" in (x.get("type") or "").lower()]
    for feed in feeds[:4]:
-    f=feedparser.parse(feed)
+    fr=requests.get(feed,headers=H,timeout=20);fr.raise_for_status();f=feedparser.parse(fr.content)
     for e in f.entries[:80]:
      title=e.get("title","").strip();url=e.get("link","");summary=e.get("summary","")
      if title and url and tags(title+" "+summary):found.append(item(src,title,url,e.get("published") or e.get("updated",""),summary))
@@ -40,6 +40,14 @@ def main():
       pub=""; summary=""
       listed=re.search(r"20[12]\d[-年/.]\d{1,2}[-月/.]\d{1,2}",title)
       if listed:pub=re.sub(r"[年月/.]","-",listed.group()).strip("-")
+      if not pub:
+       container=a
+       for level in range(3):
+        container=container.parent
+        if not container:break
+        text=container.get_text(" ",strip=True)
+        candidate=re.search(r"20\d{2}[-/.]\d{1,2}[-/.]\d{1,2}|\b\d{1,2}/\d{1,2}/\d{2,4}\b|(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?\s+\d{1,2},?\s+20\d{2}",text,re.I)
+        if candidate:pub=candidate.group();break
       try:
        detail=requests.get(url,headers=H,timeout=8);detail.raise_for_status();detail.encoding=detail.apparent_encoding; page=BeautifulSoup(detail.text,"html.parser")
        meta=page.select_one('meta[property="article:published_time"],meta[name="date"],meta[name="pubdate"]');time=page.select_one("time")
@@ -52,8 +60,7 @@ def main():
         if m:pub=re.sub(r"[年月/.]","-",m.group()).strip("-")
        desc=page.select_one('meta[name="description"],meta[property="og:description"]')
        if desc:summary=desc.get("content","")[:500]
-       heading=page.select_one("h1")
-       if heading:title=heading.get_text(" ",strip=True)
+
       except Exception:pass
       found.append(item(src,title,url,pub,summary))
      if len(found)>=12:break
