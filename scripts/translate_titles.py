@@ -16,4 +16,8 @@ def apply_translations(items):
   if x.get('accepted') and not zh:pending+=1
  return pending
 if __name__=='__main__':
- p=ROOT/'data/news.json';items=json.loads(p.read_text(encoding='utf-8'));pending=apply_translations(items);p.write_text(json.dumps(items,ensure_ascii=False,indent=2),encoding='utf-8');print('Titles awaiting Chinese translation:',pending)
+ p=ROOT/'data/news.json';items=json.loads(p.read_text(encoding='utf-8'));pending=apply_translations(items);p.write_text(json.dumps(items,ensure_ascii=False,indent=2),encoding='utf-8')
+ logpath=ROOT/'data/collection_log.json'
+ if logpath.exists():
+  log=json.loads(logpath.read_text(encoding='utf-8'));log['pending_title_translations']=pending;logpath.write_text(json.dumps(log,ensure_ascii=False,indent=2),encoding='utf-8')
+ print('Titles awaiting Chinese translation:',pending)

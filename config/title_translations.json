@@ -30,5 +30,18 @@
   "Microsoft/Facebook Will Never Deploy Co-Packaged Optics as Defined": "观点：微软和Facebook不会部署按现有定义的共封装光学",
   "Comment on Silicon photonics: concerns but viable and still evolving by Roy Rubenstein": "Roy Rubenstein评论：硅光虽有顾虑，但依然可行且持续演进",
   "Wiwynn, Ayar Labs and GUC demonstrate CPO": "纬颖、Ayar Labs与创意电子联合展示CPO",
-  "Micas unveils 102.4T CPO switch": "Micas发布102.4T CPO交换机"
+  "Micas unveils 102.4T CPO switch": "Micas发布102.4T CPO交换机",
+  "[News] U.S. Startup Wins First Commercial Order for Micro LED Optical Interconnect Chips": "美国初创企业获得Micro-LED光互联芯片首笔商业订单",
+  "Department of Commerce Announces Agreement with GlobalFoundries to Amend Its Existing CHIPS Program Award and Reallocate $955 Million to Accelerate Investments in Silicon Photonics, Silicon-Germanium, and Advanced Packaging": "美国商务部与格芯修订CHIPS资助协议，重新分配9.55亿美元加速硅光、硅锗及先进封装投资",
+  "[News] Mapping the Micro LED Optical Interconnect Ecosystem": "梳理Micro-LED光互联产业生态",
+  "Cerebras Systems and Ranovus set to revolutionize AI Compute Platform with Wafer Scale XPU-CPO": "Cerebras Systems与Ranovus以晶圆级XPU-CPO推进AI计算平台变革",
+  "Ranovus® announces collaboration with Jabil® for mass production of ODIN® optical engine": "Ranovus宣布与捷普合作，推进ODIN光引擎量产",
+  "Ranovus CEO, Hamid Arabzadeh, Speaks at Silicon Photonics Summit at SemiCon Taipei 2024": "Ranovus首席执行官Hamid Arabzadeh在SEMICON Taiwan 2024硅光峰会发表演讲",
+  "Ranovus CEO, Hamid Arabzadeh, Speaks at Computex/Innovex2024": "Ranovus首席执行官Hamid Arabzadeh在Computex/Innovex 2024发表演讲",
+  "Co-Package Optics (CPO) Takes a Huge Step Forward": "共封装光学（CPO）迈出重要一步",
+  "RANOVUS delivers industry’s first 6.4Tbps Co-Packaged Optics with integrated laser for AI/ML application at OFC 2024": "Ranovus在OFC 2024展示面向AI/ML、集成激光器的6.4Tbps共封装光学方案",
+  "Ranovus® demonstrates industry’s lowest power consumption 800Gbps Ethernet interoperable link to scale AMD adaptive SoCs for AI/ML": "Ranovus展示低功耗800Gbps以太网互操作链路，扩展AMD自适应SoC的AI/ML能力",
+  "Ranovus® Delivers World’s First Monolithic 100G Optical I/O Cores for Next-Generation Data Centers based on the GF Fotonix™ Platform": "Ranovus基于格芯Fotonix平台推出面向下一代数据中心的单片集成100G光I/O核心",
+  "Ranovus® and TE Connectivity Demonstrate World’s First Monolithic 800G Optical Interconnect With Fine Pitch Socket For Co-Packaged Optics And Optical Module Applications": "Ranovus与TE Connectivity展示带精细间距插座的单片800G光互联，面向CPO和光模块应用",
+  "Ranovus® Demonstrates Industry’s First Adaptive Compute Acceleration Co-Packaged Optics Platform with Xilinx Versal and Ranovus Odin™ 800Gbps CPO 2.0": "Ranovus携Xilinx Versal与Odin 800Gbps CPO 2.0展示自适应计算加速共封装光学平台"
 }

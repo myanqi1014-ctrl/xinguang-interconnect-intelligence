@@ -22,12 +22,25 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Determine update mode
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "push" ] && [ "$(git diff --name-only HEAD^ HEAD)" = "config/title_translations.json" ]; then
+            echo "collect=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "collect=true" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
       - run: pip install -r requirements.txt
       - name: Collect official news
+        if: steps.mode.outputs.collect == 'true'
         run: python scripts/collect.py
+      - name: Apply Chinese titles
+        run: python scripts/translate_titles.py
       - name: Commit collected data
         run: |
           git config user.name "github-actions[bot]"

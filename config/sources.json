@@ -486,7 +486,7 @@
   {
     "id": "intel",
     "name": "Intel 英特尔新闻中心",
-    "url": "https://newsroom.intel.com/",
+    "url": "https://www.intel.com/content/www/us/en/newsroom/home.html",
     "group": "企业官方新闻中心",
     "mode": "auto",
     "region": "国外及港台"
@@ -510,7 +510,7 @@
   {
     "id": "lightmatter",
     "name": "Lightmatter",
-    "url": "https://lightmatter.co/blog/",
+    "url": "https://lightmatter.co/news/",
     "group": "企业官方新闻中心",
     "mode": "auto",
     "region": "国外及港台"
@@ -534,7 +534,7 @@
   {
     "id": "imec",
     "name": "imec 微电子研究中心",
-    "url": "https://www.imec-int.com/en/press",
+    "url": "https://www.imec-int.com/en/reading-room?type=press",
     "group": "技术标准与学术研究",
     "mode": "auto",
     "region": "国外及港台"
