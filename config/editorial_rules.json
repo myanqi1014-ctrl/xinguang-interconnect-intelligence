@@ -1,0 +1,16 @@
+{
+  "version": "2026-11-03.1",
+  "focus": "AI算力高速互联：光互联为核心，兼顾相关高速电互联与封装测试",
+  "direct": ["光互联", "光互连", "光通信", "光通讯", "光模块", "光芯片", "光器件", "硅光", "共封装光", "近封装光", "CPO", "NPO", "LPO", "LRO", "XPO", "800G", "1.6T", "3.2T", "6.4T", "12.8T", "224G", "448G", "optical interconnect", "optical transceiver", "optical communication", "silicon photonics", "co-packaged optics", "co-packaged optical", "near-packaged optics", "optical engine", "optical I/O", "photonic integrated circuit", "NVLink", "InfiniBand", "RDMA", "SerDes", "AEC", "active electrical cable", "retimer", "CXL", "PCIe", "scale-up interconnect", "scale-out interconnect"],
+  "conditional": ["TGV", "玻璃基板", "玻璃中介层", "先进封装", "混合键合", "InP", "磷化铟", "VCSEL", "DFB", "Micro-LED", "microLED", "激光器", "laser", "调制器", "modulator", "光纤", "耦合", "封装", "测试", "glass substrate", "glass interposer", "hybrid bonding", "packaging", "testing"],
+  "context": ["数据中心", "智算", "算力互联", "光互联", "光互连", "光通信", "光通讯", "光模块", "光芯片", "光器件", "硅光", "data center", "datacenter", "AI infrastructure", "AI cluster", "optical interconnect", "optical communication", "optical transceiver", "silicon photonics", "CPO", "NPO", "800G", "1.6T"],
+  "exclude_title": ["激光切割", "激光焊接", "激光美容", "激光雷达", "laser cutting", "laser welding", "fusion laser", "显示面板", "display panel", "涨停复盘", "今日股价", "股票行情", "股价异动", "on this day", "投资者权益保护", "世界投资者周"],
+  "columns": {
+    "最新资讯": ["发布", "推出", "量产", "出货", "订单", "并购", "收购", "融资", "扩产", "合作", "财报", "业绩", "launch", "unveil", "announc", "acquir", "merger", "sampling", "shipment", "earnings", "partnership"],
+    "知识科普与深度洞察": ["原理", "科普", "路线", "对比", "架构", "成本", "封装", "测试", "标准", "技术", "解读", "analysis", "explained", "architecture", "cost", "testing", "standard", "tutorial", "technology", "roadmap"],
+    "热点问答": ["为什么", "如何", "何时", "能否", "争议", "瓶颈", "替代", "转折", "挑战", "why", "how", "when", "bottleneck", "challenge", "debate", "turning point", "?"] ,
+    "关键人物访谈": ["专访", "访谈", "对话", "interview", "Q&A", "fireside chat", "访谈实录"]
+  },
+  "priority_signals": ["CPO", "NPO", "800G", "1.6T", "3.2T", "silicon photonics", "硅光", "optical I/O", "量产", "并购", "acquir", "merger", "成本", "cost", "标准", "standard"],
+  "notes": ["只有泛AI、GPU、算力或半导体关键词，不自动入选。", "材料、Micro-LED、激光器、封装测试必须同时出现互联或光通信应用背景。", "四栏目为选题候选归类，可同时归入多个栏目，不等于已核实事实或已生成成稿。", "热点问答不等于热度排名，关键人物访谈仅在出现明确访谈信号时归类。", "时间按来源发布日期筛选，不用采集日期冒充发布日期。"]
+}

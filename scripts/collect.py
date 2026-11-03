@@ -4,6 +4,7 @@ from pathlib import Path
 from datetime import datetime,timezone
 from urllib.parse import urljoin,urlparse,urldefrag
 import requests,feedparser
+from editorial import classify,decorate,hits,RULES
 from bs4 import BeautifulSoup
 from dateutil import parser as dp
 R=Path(__file__).resolve().parents[1];D=R/'data'
@@ -71,7 +72,7 @@ def collect(src):
     f=feedparser.parse(get(feed).content)
     for e in f.entries[:60]:
      u=urldefrag(e.get('link',''))[0];t=e.get('title','');summary=e.get('summary','')
-     if u.startswith(('http://','https://')) and same_site(u,r.url) and tags(t+' '+summary):found.append(item(src,t,u,e.get('published') or e.get('updated',''),summary))
+     if u.startswith(('http://','https://')) and same_site(u,r.url) and classify(clean(t),clean(summary))['accepted']:found.append(item(src,t,u,e.get('published') or e.get('updated',''),summary))
    except Exception:log['warnings'].append('RSS不可用，尝试页面新闻列表')
   seen={x['url'] for x in found};candidates=[]
   # A news-like URL plus a meaningful title avoids products, menus, category pages.
@@ -81,12 +82,13 @@ def collect(src):
    path=urlparse(u).path
    news=bool(re.search(r'/news(?:/|-|_|room/|info/)|/press|/release|/article|/detail|/lighting_your_dreams/\d+\.html|/20\d{2}[-/]|/\d{4,}(?:/|\.|$)|/p/\d+',path,re.I))
    news=news or bool(a.find(["h2","h3"]) or a.find_parent(["h2","h3"]))
-   if not news or not 14<=len(title)<=300 or not tags(title):continue
+   if not news or not 14<=len(title)<=300 or not hits(title,RULES['direct']+RULES['conditional']):continue
    if re.search(r'/category/|/tag/|/products?/|/knowledge_centers/',path,re.I):continue
    seen.add(u);candidates.append((title,u,listed_date(a)))
    if len(candidates)>=8:break
   for title,u,pub in candidates:
-   x,w=article(src,title,u,pub);found.append(x)
+   x,w=article(src,title,u,pub)
+   if classify(x["title"],x["summary"])["accepted"]:found.append(x)
    if w:log['warnings'].append(w)
   found=list({x['url']:x for x in found}.values());log['found']=len(found)
   log['status']='ok' if found else 'empty'
@@ -105,9 +107,9 @@ def main():
     for k in ('published_at','summary'):
      if not x.get(k):x[k]=prev.get(k,'')
     x['collected_at']=prev.get('collected_at',x['collected_at']);db[x['url']]=x
- items=sorted(db.values(),key=lambda x:x.get('published_at') or '',reverse=True)
+ items=sorted([decorate(x) for x in db.values()],key=lambda x:x.get('published_at') or '',reverse=True)
  (D/'news.json').write_text(json.dumps(items,ensure_ascii=False,indent=2),encoding='utf-8')
- report={'run_at':now(),'timezone_note':'04:00 UTC = 12:00 Asia/Shanghai','source_results':logs,'total_stored':len(items),'configured':len(S),'automatic':sum(x.get('mode')!='manual' for x in S)}
+ report={'run_at':now(),'timezone_note':'04:00 UTC = 12:00 Asia/Shanghai','source_results':logs,'total_stored':len(items),'editorial_selected':sum(x['accepted'] for x in items),'rules_version':RULES['version'],'configured':len(S),'automatic':sum(x.get('mode')!='manual' for x in S)}
  (D/'collection_log.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
  print('Stored',len(items),'sources',len(logs),flush=True)
 if __name__=='__main__':main()

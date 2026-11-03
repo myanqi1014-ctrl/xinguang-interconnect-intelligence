@@ -68,5 +68,13 @@
     "retimer",
     "PCIe",
     "CXL"
+  ],
+  "互联封装与材料": [
+    "TGV",
+    "玻璃基板",
+    "glass substrate",
+    "glass interposer",
+    "hybrid bonding",
+    "混合键合"
   ]
 }
