@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-03T08:33:05.164811+00:00",
+  "run_at": "2026-11-03T08:35:44.466401+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -230,12 +230,10 @@
       "source_id": "oif",
       "url": "https://www.oiforum.com/",
       "group": "技术标准与学术研究",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.oiforum.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.oiforum.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
-      ],
+      "found": 1,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "以太网联盟 / Ethernet Alliance",
@@ -383,10 +381,11 @@
       "url": "https://www.huxiu.com/",
       "group": "科技与商业媒体",
       "found": 0,
-      "errors": [],
+      "errors": [
+        "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
+      ],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "error"
     },
     {
       "source": "钛媒体 / TMTPost",
@@ -635,11 +634,11 @@
     {
       "source": "Intel 英特尔新闻中心",
       "source_id": "intel",
-      "url": "https://newsroom.intel.com/",
+      "url": "https://www.intel.com/content/www/us/en/newsroom/home.html",
       "group": "企业官方新闻中心",
       "found": 0,
       "errors": [
-        "403 Client Error: Forbidden for url: https://corpredirect.intel.com/Redirector/404Redirector.aspx?404;https://newsroom.intel.com/"
+        "403 Client Error: Forbidden for url: https://www.intel.com/content/www/us/en/newsroom/home.html"
       ],
       "warnings": [],
       "status": "error"
@@ -669,7 +668,7 @@
     {
       "source": "Lightmatter",
       "source_id": "lightmatter",
-      "url": "https://lightmatter.co/blog/",
+      "url": "https://lightmatter.co/news/",
       "group": "企业官方新闻中心",
       "found": 0,
       "errors": [],
@@ -702,14 +701,13 @@
     {
       "source": "imec 微电子研究中心",
       "source_id": "imec",
-      "url": "https://www.imec-int.com/en/press",
+      "url": "https://www.imec-int.com/en/reading-room?type=press",
       "group": "技术标准与学术研究",
       "found": 0,
-      "errors": [
-        "404 Client Error: Not Found for url: https://www.imec-int.com/en/press"
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "OFC 光通信大会",
@@ -752,7 +750,7 @@
       "group": "会议与展会",
       "found": 0,
       "errors": [
-        "HTTPSConnectionPool(host='www.cioe.cn', port=443): Max retries exceeded with url: /news.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cioe.cn', port=443) at 0x7fd6f47ec550>, 'Connection to www.cioe.cn timed out. (connect timeout=6)')"
+        "404 Client Error: Not Found for url: https://www.cioe.cn/news.html"
       ],
       "warnings": [],
       "status": "error"
@@ -761,7 +759,7 @@
   "total_stored": 129,
   "editorial_selected": 77,
   "rules_version": "2026-11-03.2",
-  "pending_title_translations": 13,
+  "pending_title_translations": 0,
   "configured": 69,
   "automatic": 57
 }
