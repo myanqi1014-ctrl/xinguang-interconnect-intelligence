@@ -4,7 +4,7 @@ from pathlib import Path
 from datetime import datetime,timezone
 from urllib.parse import urljoin,urlparse,urldefrag
 import requests,feedparser
-from editorial import classify,decorate,hits,RULES
+from editorial import classify,decorate,hits,RULES,assess,BUSINESS_SIGNALS,TENDER_TOPICS
 from translate_titles import apply_translations
 from bs4 import BeautifulSoup
 from dateutil import parser as dp
@@ -31,7 +31,7 @@ def get(url):
 
 def clean(s):return ' '.join(BeautifulSoup(s or '', 'html.parser').get_text(' ',strip=True).split())
 def item(src,title,url,pub='',summary=''):
- return {'id':hashlib.sha256(url.encode()).hexdigest()[:16],'source_id':src['id'],'source_name':src['name'],'source_type':src.get('group','企业官方新闻中心'),'title':clean(title),'url':url,'published_at':dt(pub),'summary':clean(summary)[:500],'tags':tags(title+' '+summary),'collected_at':now()}
+ return {'id':hashlib.sha256(url.encode()).hexdigest()[:16],'source_id':src['id'],'source_name':src['name'],'source_type':src.get('group','企业官方新闻中心'),'title':clean(title),'url':url,'published_at':dt(pub),'summary':clean(summary)[:500],'tags':tags(title+' '+summary),'collected_at':now(),'company_scope':src.get('company_scope',''),'company_segment':src.get('company_segment',''),'content_type':'招标采购' if src.get('kind')=='tender' else '新闻资讯'}
 def listed_date(a):
  node=a
  for _ in range(3):
@@ -55,7 +55,7 @@ def article(src,title,url,pub):
  except Exception as e:warning='部分详情页无法读取，保留列表标题与原文入口'
  return item(src,title,url,pub,summary),warning
 
-def collect(src):
+def collect_one(src):
  log={'source':src['name'],'source_id':src['id'],'url':src['url'],'group':src.get('group',''),'found':0,'errors':[],'warnings':[],'status':'empty'};found=[]
  if src.get('mode')=='manual':
   log.update(status='manual',note=src.get('note','需专用接口'));return found,log
@@ -63,6 +63,15 @@ def collect(src):
   r=get(src['url']);soup=BeautifulSoup(r.text,'html.parser');title=soup.title.get_text() if soup.title else ''
   if re.search(r'slot88|slot thailand|casino',title,re.I):raise ValueError('来源返回异常内容，已停止采集，请人工核验官网')
   if len(r.content)<1000:raise ValueError('页面未返回可解析的新闻列表')
+  if src.get('company_segment') and src.get('homepage')==src.get('url'):
+   for anchor in soup.select('a[href]'):
+    if re.fullmatch(r'news|newsroom|press releases|新闻中心|公司新闻|新闻动态|新闻资讯',anchor.get_text(' ',strip=True),re.I):
+     target=urljoin(r.url,anchor['href'])
+     if same_site(target,r.url) and target!=r.url:
+      try:
+       r=get(target);soup=BeautifulSoup(r.text,'html.parser');log['resolved_news_url']=r.url
+      except Exception:log['warnings'].append('新闻栏目暂未读取，尝试首页公开条目')
+      break
   feeds=[]
   for x in soup.select('link[rel~="alternate"][href]'):
    if any(k in x.get('type','').lower() for k in ('rss','atom')):
@@ -73,7 +82,7 @@ def collect(src):
     f=feedparser.parse(get(feed).content)
     for e in f.entries[:60]:
      u=urldefrag(e.get('link',''))[0];t=e.get('title','');summary=e.get('summary','')
-     if u.startswith(('http://','https://')) and same_site(u,r.url) and classify(clean(t),clean(summary))['accepted']:found.append(item(src,t,u,e.get('published') or e.get('updated',''),summary))
+     if u.startswith(('http://','https://')) and same_site(u,r.url) and assess(src,clean(t),clean(summary))['accepted']:found.append(item(src,t,u,e.get('published') or e.get('updated',''),summary))
    except Exception:log['warnings'].append('RSS不可用，尝试页面新闻列表')
   seen={x['url'] for x in found};candidates=[]
   # A news-like URL plus a meaningful title avoids products, menus, category pages.
@@ -82,14 +91,15 @@ def collect(src):
    if not u.startswith(('http://','https://')) or not same_site(u,r.url) or u==r.url or u in seen:continue
    path=urlparse(u).path
    news=bool(re.search(r'/news(?:/|-|_|room/|info/)|/press|/release|/article|/detail|/lighting_your_dreams/\d+\.html|/20\d{2}[-/]|/\d{4,}(?:/|\.|$)|/p/\d+',path,re.I))
+   news=news or (src.get('kind')=='tender' and bool(re.search(r'/bidding/|/succeed/|/notice|/zhaobiao/|/bid/|/cggg/|/gg/|/purchase|/tender',path,re.I)))
    news=news or bool(a.find(["h2","h3"]) or a.find_parent(["h2","h3"]))
-   if not news or not 14<=len(title)<=300 or not hits(title,RULES['direct']+RULES['conditional']):continue
+   if not news or not 14<=len(title)<=300 or not hits(title,RULES['direct']+RULES['conditional']+(TENDER_TOPICS if src.get('kind')=='tender' else [])+(BUSINESS_SIGNALS if src.get('company_scope')=='optical' else [])):continue
    if re.search(r'/category/|/tag/|/products?/|/knowledge_centers/',path,re.I):continue
    seen.add(u);candidates.append((title,u,listed_date(a)))
-   if len(candidates)>=8:break
+   if len(candidates)>=(4 if src.get('company_segment') else 8):break
   for title,u,pub in candidates:
    x,w=article(src,title,u,pub)
-   if classify(x["title"],x["summary"])["accepted"]:found.append(x)
+   if assess(src,x["title"],x["summary"])["accepted"]:found.append(x)
    if w:log['warnings'].append(w)
   found=list({x['url']:x for x in found}.values());log['found']=len(found)
   log['status']='ok' if found else 'empty'
@@ -98,9 +108,19 @@ def collect(src):
  log['warnings']=list(dict.fromkeys(log['warnings']));print(src['name'],log['status'],len(found),flush=True)
  return found,log
 
+def collect(src):
+ urls=src.get('listing_urls') or [src['url']]
+ found=[];logs=[]
+ for url in urls[:2]:
+  part=dict(src,url=url);items,log=collect_one(part);found.extend(items);logs.append(log)
+ found=list({x['url']:x for x in found}.values());log=logs[0];log['found']=len(found)
+ if found:log['status']='ok'
+ log['errors']=list(dict.fromkeys(e for l in logs for e in l['errors']))
+ return found,log
+
 def main():
  D.mkdir(exist_ok=True);old=json.loads((D/'news.json').read_text(encoding='utf-8')) if (D/'news.json').exists() else [];db={x['url']:x for x in old};logs=[]
- with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
+ with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
   for found,log in pool.map(collect,S):
    logs.append(log)
    for x in found:

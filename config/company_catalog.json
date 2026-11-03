@@ -1,0 +1,828 @@
+[
+  {
+    "id": "zte",
+    "name": "中兴通讯",
+    "segment": "互联芯片与系统",
+    "region": "国内",
+    "homepage": "https://www.zte.com.cn/china/index.html",
+    "news_url": "https://www.zte.com.cn/china/index.html",
+    "verification": "官网访问受限",
+    "http_status": 403,
+    "page_title": "error"
+  },
+  {
+    "id": "huawei",
+    "name": "华为",
+    "segment": "互联芯片与系统",
+    "region": "国内",
+    "homepage": "https://www.huawei.com/cn/",
+    "news_url": "https://www.huawei.com/cn/news",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "华为 - 构建万物互联的智能世界"
+  },
+  {
+    "id": "h3c",
+    "name": "新华三 H3C",
+    "segment": "互联芯片与系统",
+    "region": "国内",
+    "homepage": "https://www.h3c.com/cn/",
+    "news_url": "https://www.h3c.com/cn/About_H3C/News_Media/Company_News/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "新华三 - 融绘数字未来，共享美好生活"
+  },
+  {
+    "id": "hisilicon",
+    "name": "海思",
+    "segment": "互联芯片与系统",
+    "region": "国内",
+    "homepage": "https://www.hisilicon.com/cn/",
+    "news_url": "https://www.hisilicon.com/cn/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "fiberhome",
+    "name": "烽火通信",
+    "segment": "互联芯片与系统",
+    "region": "国内",
+    "homepage": "https://www.fiberhome.com/",
+    "news_url": "https://www.fiberhome.com/xwzx.html",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "烽火通信官网 - 最大限度挖掘数字连接价值,造福人类社会"
+  },
+  {
+    "id": "ruijie",
+    "name": "锐捷网络",
+    "segment": "互联芯片与系统",
+    "region": "国内",
+    "homepage": "https://www.ruijie.com.cn/",
+    "news_url": "https://www.ruijie.com.cn/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "锐捷网络-场景创新，驱动数字未来"
+  },
+  {
+    "id": "amd",
+    "name": "AMD 新闻中心",
+    "segment": "互联芯片与系统",
+    "region": "国外及港台",
+    "homepage": "https://www.amd.com/",
+    "news_url": "https://www.amd.com/en/newsroom.html",
+    "verification": "既有来源入口"
+  },
+  {
+    "id": "arista",
+    "name": "Arista Networks",
+    "segment": "互联芯片与系统",
+    "region": "国外及港台",
+    "homepage": "https://www.arista.com/",
+    "news_url": "https://www.arista.com/en/company/news",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Data-Driven Cloud Networking - Arista"
+  },
+  {
+    "id": "asteralabs",
+    "name": "Astera Labs",
+    "segment": "互联芯片与系统",
+    "region": "国外及港台",
+    "homepage": "https://www.asteralabs.com/",
+    "news_url": "https://www.asteralabs.com/newsroom/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Astera Labs: Purpose-Built Connectivity for Rack-Scale AI - ASTERA LABS, INC."
+  },
+  {
+    "id": "broadcom",
+    "name": "Broadcom",
+    "segment": "互联芯片与系统",
+    "region": "国外及港台",
+    "homepage": "https://www.broadcom.com/",
+    "news_url": "https://investors.broadcom.com/financial-information/financial-news-releases",
+    "verification": "既有来源入口"
+  },
+  {
+    "id": "ciena",
+    "name": "Ciena",
+    "segment": "互联芯片与系统",
+    "region": "国外及港台",
+    "homepage": "https://www.ciena.com/",
+    "news_url": "https://www.ciena.com/about/newsroom",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Meet the fastest in the industry | Empowering evolution - Ciena"
+  },
+  {
+    "id": "cisco",
+    "name": "Cisco 思科新闻中心",
+    "segment": "互联芯片与系统",
+    "region": "国外及港台",
+    "homepage": "https://www.cisco.com/",
+    "news_url": "https://newsroom.cisco.com/",
+    "verification": "既有来源入口"
+  },
+  {
+    "id": "credosemi",
+    "name": "Credo",
+    "segment": "互联芯片与系统",
+    "region": "国外及港台",
+    "homepage": "https://credosemi.com/",
+    "news_url": "https://credosemi.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "intel",
+    "name": "Intel 英特尔新闻中心",
+    "segment": "互联芯片与系统",
+    "region": "国外及港台",
+    "homepage": "https://www.intel.com/",
+    "news_url": "https://www.intel.com/content/www/us/en/newsroom/home.html",
+    "verification": "既有来源入口"
+  },
+  {
+    "id": "marvell",
+    "name": "Marvell",
+    "segment": "互联芯片与系统",
+    "region": "国外及港台",
+    "homepage": "https://www.marvell.com/",
+    "news_url": "https://www.marvell.com/company/newsroom/press-releases.html",
+    "verification": "既有来源入口"
+  },
+  {
+    "id": "nvidia",
+    "name": "NVIDIA",
+    "segment": "互联芯片与系统",
+    "region": "国外及港台",
+    "homepage": "https://www.nvidia.com/",
+    "news_url": "https://nvidianews.nvidia.com/",
+    "verification": "既有来源入口"
+  },
+  {
+    "id": "semtech",
+    "name": "Semtech",
+    "segment": "互联芯片与系统",
+    "region": "国外及港台",
+    "homepage": "https://www.semtech.com/",
+    "news_url": "https://www.semtech.com/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Semtech Semiconductor, IoT Systems and Cloud Connectivity  | Semtech"
+  },
+  {
+    "id": "nokia",
+    "name": "诺基亚 Nokia",
+    "segment": "互联芯片与系统",
+    "region": "国外及港台",
+    "homepage": "https://www.nokia.com/",
+    "news_url": "https://www.nokia.com/newsroom/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Nokia Corporation | Nokia"
+  },
+  {
+    "id": "afrlaser",
+    "name": "光库科技",
+    "segment": "光器件与连接",
+    "region": "国内",
+    "homepage": "https://www.afrlaser.com/",
+    "news_url": "https://www.afrlaser.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "tfc",
+    "name": "天孚通信",
+    "segment": "光器件与连接",
+    "region": "国内",
+    "homepage": "https://www.tfcsz.com/",
+    "news_url": "https://www.tfcsz.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "tscom",
+    "name": "太辰光",
+    "segment": "光器件与连接",
+    "region": "国内",
+    "homepage": "https://www.china-tscom.com/",
+    "news_url": "https://www.china-tscom.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "castech",
+    "name": "福晶科技 CASTECH",
+    "segment": "光器件与连接",
+    "region": "国内",
+    "homepage": "https://www.castech.com/",
+    "news_url": "https://www.castech.com/news/News-2",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "CASTECH INC. _A Leading Photonics Solutions Partner"
+  },
+  {
+    "id": "optowide",
+    "name": "腾景科技",
+    "segment": "光器件与连接",
+    "region": "国内",
+    "homepage": "https://www.optowide.com/cn/",
+    "news_url": "https://www.optowide.com/cn/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "lightel",
+    "name": "LIGHTEL 光器件",
+    "segment": "光器件与连接",
+    "region": "国外及港台",
+    "homepage": "https://lightel.com/",
+    "news_url": "https://lightel.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "senko",
+    "name": "SENKO 扇港",
+    "segment": "光器件与连接",
+    "region": "国外及港台",
+    "homepage": "https://www.senko.com/",
+    "news_url": "https://www.senko.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "usconec",
+    "name": "US Conec",
+    "segment": "光器件与连接",
+    "region": "国外及港台",
+    "homepage": "https://www.usconec.com/",
+    "news_url": "https://www.usconec.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "amphenol",
+    "name": "安费诺 Amphenol",
+    "segment": "光器件与连接",
+    "region": "国外及港台",
+    "homepage": "https://www.amphenol.com/",
+    "news_url": "https://www.amphenol.com/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Amphenol"
+  },
+  {
+    "id": "te-connectivity",
+    "name": "泰科电子 TE Connectivity",
+    "segment": "光器件与连接",
+    "region": "国外及港台",
+    "homepage": "https://www.te.com/",
+    "news_url": "https://www.te.com/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Reliable Electrical Components for Advanced Technologies | TE Connectivity"
+  },
+  {
+    "id": "molex",
+    "name": "莫仕 Molex",
+    "segment": "光器件与连接",
+    "region": "国外及港台",
+    "homepage": "https://www.molex.com/",
+    "news_url": "https://www.molex.com/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Creating Connections for Life | Molex"
+  },
+  {
+    "id": "innolight",
+    "name": "中际旭创",
+    "segment": "光模块与有源光缆",
+    "region": "国内",
+    "homepage": "https://www.zj-innolight.com/cn",
+    "news_url": "https://www.zj-innolight.com/cn/news.html",
+    "verification": "既有来源入口"
+  },
+  {
+    "id": "accelink",
+    "name": "光迅科技",
+    "segment": "光模块与有源光缆",
+    "region": "国内",
+    "homepage": "https://www.accelink.com/",
+    "news_url": "https://www.accelink.com/lighting_your_dreams/xinwenzixun.html",
+    "verification": "既有来源入口"
+  },
+  {
+    "id": "cig",
+    "name": "剑桥科技 CIG",
+    "segment": "光模块与有源光缆",
+    "region": "国内",
+    "homepage": "https://www.cigtech.com/cn",
+    "news_url": "https://www.cigtech.com/cn",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "hg-genuine",
+    "name": "华工正源",
+    "segment": "光模块与有源光缆",
+    "region": "国内",
+    "homepage": "https://www.genuine-opto.com/",
+    "news_url": "https://www.genuine-opto.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "taclink",
+    "name": "德科立",
+    "segment": "光模块与有源光缆",
+    "region": "国内",
+    "homepage": "https://gb.taclink.com/",
+    "news_url": "https://gb.taclink.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "eoptolink",
+    "name": "新易盛",
+    "segment": "光模块与有源光缆",
+    "region": "国内",
+    "homepage": "https://www.eoptolink.com/",
+    "news_url": "https://www.eoptolink.com/cn/",
+    "verification": "既有来源入口"
+  },
+  {
+    "id": "gigalight",
+    "name": "易飞扬 GIGALIGHT",
+    "segment": "光模块与有源光缆",
+    "region": "国内",
+    "homepage": "https://www.gigalight.com.cn/",
+    "news_url": "https://www.gigalight.com.cn/news-events.html",
+    "verification": "官网栏目已核对"
+  },
+  {
+    "id": "hisense-broadband",
+    "name": "海信宽带",
+    "segment": "光模块与有源光缆",
+    "region": "国内",
+    "homepage": "https://hbmt.hisense.com/",
+    "news_url": "https://hbmt.hisense.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "linktel",
+    "name": "联特科技",
+    "segment": "光模块与有源光缆",
+    "region": "国内",
+    "homepage": "https://www.linkteltech.com.cn/",
+    "news_url": "https://www.linkteltech.com.cn/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "everprox",
+    "name": "长芯博创（原博创科技）",
+    "segment": "光模块与有源光缆",
+    "region": "国内",
+    "homepage": "https://everprox.com/",
+    "news_url": "https://everprox.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "sumitomo-electric",
+    "name": "住友电工",
+    "segment": "光模块与有源光缆",
+    "region": "国外及港台",
+    "homepage": "https://sumitomoelectric.com/",
+    "news_url": "https://sumitomoelectric.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "aoi",
+    "name": "应用光电 AOI",
+    "segment": "光模块与有源光缆",
+    "region": "国外及港台",
+    "homepage": "https://www.ao-inc.com/",
+    "news_url": "https://www.ao-inc.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "source-photonics",
+    "name": "索尔思光电 Source Photonics",
+    "segment": "光模块与有源光缆",
+    "region": "国外及港台",
+    "homepage": "https://www.sourcephotonics.com/",
+    "news_url": "https://www.sourcephotonics.com/newspage/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Source Photonics: Leading Global Manufacturer of Optical Transceivers"
+  },
+  {
+    "id": "ztt",
+    "name": "中天科技",
+    "segment": "光纤光缆与材料",
+    "region": "国内",
+    "homepage": "https://www.chinaztt.com/",
+    "news_url": "https://www.chinaztt.com/",
+    "verification": "官网访问受限",
+    "http_status": 503,
+    "page_title": ""
+  },
+  {
+    "id": "htgd",
+    "name": "亨通光电",
+    "segment": "光纤光缆与材料",
+    "region": "国内",
+    "homepage": "https://www.htgd.com.cn/",
+    "news_url": "https://www.htgd.com.cn/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "江苏亨通光电股份有限公司"
+  },
+  {
+    "id": "yofc",
+    "name": "长飞光纤",
+    "segment": "光纤光缆与材料",
+    "region": "国内",
+    "homepage": "https://www.yofc.com/",
+    "news_url": "https://www.yofc.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "furukawa-electric",
+    "name": "古河电工",
+    "segment": "光纤光缆与材料",
+    "region": "国外及港台",
+    "homepage": "https://www.furukawaelectric.com/",
+    "news_url": "https://www.furukawaelectric.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "corning",
+    "name": "康宁 Corning",
+    "segment": "光纤光缆与材料",
+    "region": "国外及港台",
+    "homepage": "https://www.corning.com/",
+    "news_url": "https://www.corning.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "prysmian",
+    "name": "普睿司曼 Prysmian",
+    "segment": "光纤光缆与材料",
+    "region": "国外及港台",
+    "homepage": "https://www.prysmian.com/",
+    "news_url": "https://www.prysmian.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "fujikura",
+    "name": "藤仓 Fujikura",
+    "segment": "光纤光缆与材料",
+    "region": "国外及港台",
+    "homepage": "https://www.fujikura.com/",
+    "news_url": "https://www.fujikura.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "sjphotons",
+    "name": "仕佳光子",
+    "segment": "光芯片与硅光",
+    "region": "国内",
+    "homepage": "https://www.sjphotons.com.cn/",
+    "news_url": "https://www.sjphotons.com.cn/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "yj-semitech",
+    "name": "源杰科技",
+    "segment": "光芯片与硅光",
+    "region": "国内",
+    "homepage": "https://www.yj-semitech.com/",
+    "news_url": "https://www.yj-semitech.com/html/news/index.html",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "源杰科技_源杰半导体_陕西源杰半导体科技股份有限公司"
+  },
+  {
+    "id": "avicena",
+    "name": "Avicena",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://avicena.tech/",
+    "news_url": "https://avicena.tech/",
+    "verification": "官网已核对"
+  },
+  {
+    "id": "ayar-labs",
+    "name": "Ayar Labs",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://ayarlabs.com/",
+    "news_url": "https://ayarlabs.com/news/",
+    "verification": "既有来源入口"
+  },
+  {
+    "id": "coherent",
+    "name": "Coherent",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://www.coherent.com/",
+    "news_url": "https://ir.coherent.com/news-events/corporate-releases",
+    "verification": "既有来源入口"
+  },
+  {
+    "id": "lightmatter",
+    "name": "Lightmatter",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://lightmatter.co/",
+    "news_url": "https://lightmatter.co/news/",
+    "verification": "既有来源入口"
+  },
+  {
+    "id": "lightwave-logic",
+    "name": "Lightwave Logic",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://www.lightwavelogic.com/",
+    "news_url": "https://www.lightwavelogic.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "lumentum",
+    "name": "Lumentum",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://www.lumentum.com/",
+    "news_url": "https://www.lumentum.com/en/newsroom/news-releases",
+    "verification": "既有来源入口"
+  },
+  {
+    "id": "macom",
+    "name": "MACOM",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://www.macom.com/",
+    "news_url": "https://www.macom.com/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Home"
+  },
+  {
+    "id": "newphotonics",
+    "name": "NewPhotonics",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://www.newphotonics.com/",
+    "news_url": "https://www.newphotonics.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "nubis",
+    "name": "Nubis（Ciena业务入口）",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://www.ciena.com/",
+    "news_url": "https://www.ciena.com/about/newsroom",
+    "verification": "官网访问受限",
+    "http_status": 404,
+    "page_title": "Page not found - Ciena",
+    "note": "原独立官网已跳转至Ciena，按业务品牌保留，不重复采集。"
+  },
+  {
+    "id": "openlight",
+    "name": "OpenLight",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://openlightphotonics.com/",
+    "news_url": "https://openlightphotonics.com/press-releases",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Modular. Scalable. Silicon Photonics.… | OpenLight Photonics"
+  },
+  {
+    "id": "palomino",
+    "name": "Palomino Laboratories",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://palominolabs.ai/",
+    "news_url": "https://palominolabs.ai/",
+    "verification": "官网已核对"
+  },
+  {
+    "id": "poet",
+    "name": "POET Technologies",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://poet-technologies.com/",
+    "news_url": "https://www.poet-technologies.com/news-media",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Home | POET Technologies"
+  },
+  {
+    "id": "quintessent",
+    "name": "Quintessent",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://www.quintessent.com/",
+    "news_url": "https://www.quintessent.com/news",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "AI Data Center Optical Interconnects | Quintessent"
+  },
+  {
+    "id": "ranovus",
+    "name": "Ranovus",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://ranovus.com/",
+    "news_url": "https://ranovus.com/news/",
+    "verification": "既有来源入口"
+  },
+  {
+    "id": "scintil",
+    "name": "Scintil Photonics",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://www.scintil-photonics.com/",
+    "news_url": "https://www.scintil-photonics.com/blog",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "SCINTIL Photonics | Dense Multi-Wavelength Laser Source For Ai Datacenters"
+  },
+  {
+    "id": "st",
+    "name": "意法半导体 ST",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://www.st.com/",
+    "news_url": "https://www.st.com/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "STMicroelectronics: Our technology starts with you"
+  },
+  {
+    "id": "globalfoundries",
+    "name": "格芯 GlobalFoundries",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://gf.com/",
+    "news_url": "https://gf.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "tower",
+    "name": "高塔半导体 Tower",
+    "segment": "光芯片与硅光",
+    "region": "国外及港台",
+    "homepage": "https://towersemi.com/",
+    "news_url": "https://towersemi.com/news-events/press-release-page/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Home Page - Tower Semiconductor"
+  },
+  {
+    "id": "asmpt",
+    "name": "ASMPT",
+    "segment": "封装制造与测试",
+    "region": "国外及港台",
+    "homepage": "https://www.asmpt.com/",
+    "news_url": "https://www.asmpt.com/en/news-center/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "ASMPT - Enabling the digital world"
+  },
+  {
+    "id": "besi",
+    "name": "Besi",
+    "segment": "封装制造与测试",
+    "region": "国外及港台",
+    "homepage": "https://www.besi.com/",
+    "news_url": "https://www.besi.com/investor-relations/press-releases/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Homepage | Besi"
+  },
+  {
+    "id": "exfo",
+    "name": "EXFO",
+    "segment": "封装制造与测试",
+    "region": "国外及港台",
+    "homepage": "https://www.exfo.com/",
+    "news_url": "https://www.exfo.com/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Network test, monitoring and analytics experts | EXFO"
+  },
+  {
+    "id": "fabrinet",
+    "name": "Fabrinet",
+    "segment": "封装制造与测试",
+    "region": "国外及港台",
+    "homepage": "https://fabrinet.com/",
+    "news_url": "https://fabrinet.com/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Home - Fabrinet"
+  },
+  {
+    "id": "formfactor",
+    "name": "FormFactor",
+    "segment": "封装制造与测试",
+    "region": "国外及港台",
+    "homepage": "https://www.formfactor.com/",
+    "news_url": "https://www.formfactor.com/",
+    "verification": "官网暂未连通"
+  },
+  {
+    "id": "suss",
+    "name": "SUSS",
+    "segment": "封装制造与测试",
+    "region": "国外及港台",
+    "homepage": "https://www.suss.com/",
+    "news_url": "https://www.suss.com/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "SUSS Semiconductor Equipment Manufacturer"
+  },
+  {
+    "id": "viavi",
+    "name": "VIAVI 唯亚威",
+    "segment": "封装制造与测试",
+    "region": "国外及港台",
+    "homepage": "https://www.viavisolutions.com/",
+    "news_url": "https://www.viavisolutions.com/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "VIAVI Solutions | Network Test, Monitoring, and Assurance"
+  },
+  {
+    "id": "tsmc",
+    "name": "台积电 TSMC",
+    "segment": "封装制造与测试",
+    "region": "国外及港台",
+    "homepage": "https://www.tsmc.com/",
+    "news_url": "https://www.tsmc.com/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Taiwan Semiconductor Manufacturing Company Limited"
+  },
+  {
+    "id": "anritsu",
+    "name": "安立 Anritsu",
+    "segment": "封装制造与测试",
+    "region": "国外及港台",
+    "homepage": "https://www.anritsu.com/",
+    "news_url": "https://www.anritsu.com/en-gb/about-anritsu/news",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Anritsu Home | Anritsu Europe"
+  },
+  {
+    "id": "amkor",
+    "name": "安靠 Amkor",
+    "segment": "封装制造与测试",
+    "region": "国外及港台",
+    "homepage": "https://amkor.com/",
+    "news_url": "https://amkor.com/news/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Semiconductor Packaging & Test Services | Amkor Technology"
+  },
+  {
+    "id": "jabil",
+    "name": "捷普 Jabil",
+    "segment": "封装制造与测试",
+    "region": "国外及港台",
+    "homepage": "https://www.jabil.com/",
+    "news_url": "https://www.jabil.com/about-us/news-recognitions-policies/newsroom.html",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Jabil | Engineering, Supply Chain & Manufacturing Solutions | Jabil"
+  },
+  {
+    "id": "ase",
+    "name": "日月光 ASE",
+    "segment": "封装制造与测试",
+    "region": "国外及港台",
+    "homepage": "https://aseglobal.com/",
+    "news_url": "https://aseglobal.com/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Home | ASE Holdings"
+  },
+  {
+    "id": "keysight",
+    "name": "是德科技 Keysight",
+    "segment": "封装制造与测试",
+    "region": "国外及港台",
+    "homepage": "https://www.keysight.com/",
+    "news_url": "https://www.keysight.com/go/news",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Keysight: Design, Emulate, and Test to Accelerate Innovation"
+  },
+  {
+    "id": "yokogawa",
+    "name": "横河 Yokogawa",
+    "segment": "封装制造与测试",
+    "region": "国外及港台",
+    "homepage": "https://www.yokogawa.com/",
+    "news_url": "https://www.yokogawa.com/news/",
+    "verification": "官网可访问",
+    "http_status": 200,
+    "page_title": "Yokogawa Electric Corporation"
+  }
+]

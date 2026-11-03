@@ -77,7 +77,10 @@
     "url": "https://nvidianews.nvidia.com/",
     "group": "企业官方新闻中心",
     "mode": "auto",
-    "region": "国外及港台"
+    "region": "国外及港台",
+    "homepage": "https://www.nvidia.com/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
   },
   {
     "id": "broadcom",
@@ -85,7 +88,10 @@
     "url": "https://investors.broadcom.com/financial-information/financial-news-releases",
     "group": "企业官方新闻中心",
     "mode": "auto",
-    "region": "国外及港台"
+    "region": "国外及港台",
+    "homepage": "https://www.broadcom.com/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
   },
   {
     "id": "marvell",
@@ -93,7 +99,10 @@
     "url": "https://www.marvell.com/company/newsroom/press-releases.html",
     "group": "企业官方新闻中心",
     "mode": "auto",
-    "region": "国外及港台"
+    "region": "国外及港台",
+    "homepage": "https://www.marvell.com/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
   },
   {
     "id": "coherent",
@@ -101,7 +110,10 @@
     "url": "https://ir.coherent.com/news-events/corporate-releases",
     "group": "企业官方新闻中心",
     "mode": "auto",
-    "region": "国外及港台"
+    "region": "国外及港台",
+    "homepage": "https://www.coherent.com/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
   },
   {
     "id": "lumentum",
@@ -109,7 +121,10 @@
     "url": "https://www.lumentum.com/en/newsroom/news-releases",
     "group": "企业官方新闻中心",
     "mode": "auto",
-    "region": "国外及港台"
+    "region": "国外及港台",
+    "homepage": "https://www.lumentum.com/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
   },
   {
     "id": "innolight",
@@ -117,7 +132,10 @@
     "url": "https://www.zj-innolight.com/cn/news.html",
     "group": "企业官方新闻中心",
     "mode": "auto",
-    "region": "国内"
+    "region": "国内",
+    "homepage": "https://www.zj-innolight.com/cn",
+    "company_segment": "光模块与有源光缆",
+    "company_scope": "optical"
   },
   {
     "id": "eoptolink",
@@ -125,7 +143,10 @@
     "url": "https://www.eoptolink.com/cn/",
     "group": "企业官方新闻中心",
     "mode": "auto",
-    "region": "国内"
+    "region": "国内",
+    "homepage": "https://www.eoptolink.com/",
+    "company_segment": "光模块与有源光缆",
+    "company_scope": "optical"
   },
   {
     "id": "accelink",
@@ -133,7 +154,10 @@
     "url": "https://www.accelink.com/lighting_your_dreams/xinwenzixun.html",
     "group": "企业官方新闻中心",
     "mode": "auto",
-    "region": "国内"
+    "region": "国内",
+    "homepage": "https://www.accelink.com/",
+    "company_segment": "光模块与有源光缆",
+    "company_scope": "optical"
   },
   {
     "id": "cninfo",
@@ -489,7 +513,10 @@
     "url": "https://www.intel.com/content/www/us/en/newsroom/home.html",
     "group": "企业官方新闻中心",
     "mode": "auto",
-    "region": "国外及港台"
+    "region": "国外及港台",
+    "homepage": "https://www.intel.com/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
   },
   {
     "id": "amd",
@@ -497,7 +524,10 @@
     "url": "https://www.amd.com/en/newsroom.html",
     "group": "企业官方新闻中心",
     "mode": "auto",
-    "region": "国外及港台"
+    "region": "国外及港台",
+    "homepage": "https://www.amd.com/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
   },
   {
     "id": "cisco",
@@ -505,7 +535,10 @@
     "url": "https://newsroom.cisco.com/",
     "group": "企业官方新闻中心",
     "mode": "auto",
-    "region": "国外及港台"
+    "region": "国外及港台",
+    "homepage": "https://www.cisco.com/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
   },
   {
     "id": "lightmatter",
@@ -513,7 +546,10 @@
     "url": "https://lightmatter.co/news/",
     "group": "企业官方新闻中心",
     "mode": "auto",
-    "region": "国外及港台"
+    "region": "国外及港台",
+    "homepage": "https://lightmatter.co/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
   },
   {
     "id": "ayar-labs",
@@ -521,7 +557,10 @@
     "url": "https://ayarlabs.com/news/",
     "group": "企业官方新闻中心",
     "mode": "auto",
-    "region": "国外及港台"
+    "region": "国外及港台",
+    "homepage": "https://ayarlabs.com/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
   },
   {
     "id": "ranovus",
@@ -529,7 +568,10 @@
     "url": "https://ranovus.com/news/",
     "group": "企业官方新闻中心",
     "mode": "auto",
-    "region": "国外及港台"
+    "region": "国外及港台",
+    "homepage": "https://ranovus.com/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
   },
   {
     "id": "imec",
@@ -570,5 +612,846 @@
     "group": "会议与展会",
     "mode": "auto",
     "region": "国内"
+  },
+  {
+    "id": "hg-genuine",
+    "name": "华工正源",
+    "url": "https://www.genuine-opto.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.genuine-opto.com/",
+    "company_segment": "光模块与有源光缆",
+    "company_scope": "optical"
+  },
+  {
+    "id": "hisense-broadband",
+    "name": "海信宽带",
+    "url": "https://hbmt.hisense.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://hbmt.hisense.com/",
+    "company_segment": "光模块与有源光缆",
+    "company_scope": "optical"
+  },
+  {
+    "id": "source-photonics",
+    "name": "索尔思光电 Source Photonics",
+    "url": "https://www.sourcephotonics.com/newspage/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.sourcephotonics.com/",
+    "company_segment": "光模块与有源光缆",
+    "company_scope": "optical"
+  },
+  {
+    "id": "linktel",
+    "name": "联特科技",
+    "url": "https://www.linkteltech.com.cn/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.linkteltech.com.cn/",
+    "company_segment": "光模块与有源光缆",
+    "company_scope": "optical"
+  },
+  {
+    "id": "cig",
+    "name": "剑桥科技 CIG",
+    "url": "https://www.cigtech.com/cn",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.cigtech.com/cn",
+    "company_segment": "光模块与有源光缆",
+    "company_scope": "optical"
+  },
+  {
+    "id": "taclink",
+    "name": "德科立",
+    "url": "https://gb.taclink.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://gb.taclink.com/",
+    "company_segment": "光模块与有源光缆",
+    "company_scope": "optical"
+  },
+  {
+    "id": "aoi",
+    "name": "应用光电 AOI",
+    "url": "https://www.ao-inc.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.ao-inc.com/",
+    "company_segment": "光模块与有源光缆",
+    "company_scope": "optical"
+  },
+  {
+    "id": "everprox",
+    "name": "长芯博创（原博创科技）",
+    "url": "https://everprox.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://everprox.com/",
+    "company_segment": "光模块与有源光缆",
+    "company_scope": "optical"
+  },
+  {
+    "id": "tfc",
+    "name": "天孚通信",
+    "url": "https://www.tfcsz.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.tfcsz.com/",
+    "company_segment": "光器件与连接",
+    "company_scope": "optical"
+  },
+  {
+    "id": "tscom",
+    "name": "太辰光",
+    "url": "https://www.china-tscom.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.china-tscom.com/",
+    "company_segment": "光器件与连接",
+    "company_scope": "optical"
+  },
+  {
+    "id": "afrlaser",
+    "name": "光库科技",
+    "url": "https://www.afrlaser.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.afrlaser.com/",
+    "company_segment": "光器件与连接",
+    "company_scope": "optical"
+  },
+  {
+    "id": "sjphotons",
+    "name": "仕佳光子",
+    "url": "https://www.sjphotons.com.cn/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.sjphotons.com.cn/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
+  },
+  {
+    "id": "yj-semitech",
+    "name": "源杰科技",
+    "url": "https://www.yj-semitech.com/html/news/index.html",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.yj-semitech.com/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
+  },
+  {
+    "id": "optowide",
+    "name": "腾景科技",
+    "url": "https://www.optowide.com/cn/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.optowide.com/cn/",
+    "company_segment": "光器件与连接",
+    "company_scope": "optical"
+  },
+  {
+    "id": "castech",
+    "name": "福晶科技 CASTECH",
+    "url": "https://www.castech.com/news/News-2",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.castech.com/",
+    "company_segment": "光器件与连接",
+    "company_scope": "optical"
+  },
+  {
+    "id": "yofc",
+    "name": "长飞光纤",
+    "url": "https://www.yofc.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.yofc.com/",
+    "company_segment": "光纤光缆与材料",
+    "company_scope": "related"
+  },
+  {
+    "id": "htgd",
+    "name": "亨通光电",
+    "url": "https://www.htgd.com.cn/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.htgd.com.cn/",
+    "company_segment": "光纤光缆与材料",
+    "company_scope": "related"
+  },
+  {
+    "id": "ztt",
+    "name": "中天科技",
+    "url": "https://www.chinaztt.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.chinaztt.com/",
+    "company_segment": "光纤光缆与材料",
+    "company_scope": "related"
+  },
+  {
+    "id": "corning",
+    "name": "康宁 Corning",
+    "url": "https://www.corning.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.corning.com/",
+    "company_segment": "光纤光缆与材料",
+    "company_scope": "related"
+  },
+  {
+    "id": "prysmian",
+    "name": "普睿司曼 Prysmian",
+    "url": "https://www.prysmian.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.prysmian.com/",
+    "company_segment": "光纤光缆与材料",
+    "company_scope": "related"
+  },
+  {
+    "id": "sumitomo-electric",
+    "name": "住友电工",
+    "url": "https://sumitomoelectric.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://sumitomoelectric.com/",
+    "company_segment": "光模块与有源光缆",
+    "company_scope": "optical"
+  },
+  {
+    "id": "furukawa-electric",
+    "name": "古河电工",
+    "url": "https://www.furukawaelectric.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.furukawaelectric.com/",
+    "company_segment": "光纤光缆与材料",
+    "company_scope": "related"
+  },
+  {
+    "id": "fujikura",
+    "name": "藤仓 Fujikura",
+    "url": "https://www.fujikura.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.fujikura.com/",
+    "company_segment": "光纤光缆与材料",
+    "company_scope": "related"
+  },
+  {
+    "id": "molex",
+    "name": "莫仕 Molex",
+    "url": "https://www.molex.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.molex.com/",
+    "company_segment": "光器件与连接",
+    "company_scope": "optical"
+  },
+  {
+    "id": "amphenol",
+    "name": "安费诺 Amphenol",
+    "url": "https://www.amphenol.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.amphenol.com/",
+    "company_segment": "光器件与连接",
+    "company_scope": "optical"
+  },
+  {
+    "id": "te-connectivity",
+    "name": "泰科电子 TE Connectivity",
+    "url": "https://www.te.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.te.com/",
+    "company_segment": "光器件与连接",
+    "company_scope": "optical"
+  },
+  {
+    "id": "senko",
+    "name": "SENKO 扇港",
+    "url": "https://www.senko.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.senko.com/",
+    "company_segment": "光器件与连接",
+    "company_scope": "optical"
+  },
+  {
+    "id": "usconec",
+    "name": "US Conec",
+    "url": "https://www.usconec.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.usconec.com/",
+    "company_segment": "光器件与连接",
+    "company_scope": "optical"
+  },
+  {
+    "id": "lightel",
+    "name": "LIGHTEL 光器件",
+    "url": "https://lightel.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://lightel.com/",
+    "company_segment": "光器件与连接",
+    "company_scope": "optical"
+  },
+  {
+    "id": "macom",
+    "name": "MACOM",
+    "url": "https://www.macom.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.macom.com/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
+  },
+  {
+    "id": "semtech",
+    "name": "Semtech",
+    "url": "https://www.semtech.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.semtech.com/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
+  },
+  {
+    "id": "globalfoundries",
+    "name": "格芯 GlobalFoundries",
+    "url": "https://gf.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://gf.com/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
+  },
+  {
+    "id": "tower",
+    "name": "高塔半导体 Tower",
+    "url": "https://towersemi.com/news-events/press-release-page/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://towersemi.com/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
+  },
+  {
+    "id": "tsmc",
+    "name": "台积电 TSMC",
+    "url": "https://www.tsmc.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.tsmc.com/",
+    "company_segment": "封装制造与测试",
+    "company_scope": "related"
+  },
+  {
+    "id": "st",
+    "name": "意法半导体 ST",
+    "url": "https://www.st.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.st.com/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
+  },
+  {
+    "id": "openlight",
+    "name": "OpenLight",
+    "url": "https://openlightphotonics.com/press-releases",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://openlightphotonics.com/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
+  },
+  {
+    "id": "scintil",
+    "name": "Scintil Photonics",
+    "url": "https://www.scintil-photonics.com/blog",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.scintil-photonics.com/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
+  },
+  {
+    "id": "newphotonics",
+    "name": "NewPhotonics",
+    "url": "https://www.newphotonics.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.newphotonics.com/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
+  },
+  {
+    "id": "nubis",
+    "name": "Nubis（Ciena业务入口）",
+    "url": "https://www.ciena.com/about/newsroom",
+    "group": "企业官方新闻中心",
+    "mode": "manual",
+    "region": "国外及港台",
+    "note": "原独立官网已跳转至Ciena，按业务品牌保留，不重复采集。",
+    "homepage": "https://www.ciena.com/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
+  },
+  {
+    "id": "quintessent",
+    "name": "Quintessent",
+    "url": "https://www.quintessent.com/news",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.quintessent.com/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
+  },
+  {
+    "id": "lightwave-logic",
+    "name": "Lightwave Logic",
+    "url": "https://www.lightwavelogic.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.lightwavelogic.com/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
+  },
+  {
+    "id": "poet",
+    "name": "POET Technologies",
+    "url": "https://www.poet-technologies.com/news-media",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://poet-technologies.com/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
+  },
+  {
+    "id": "keysight",
+    "name": "是德科技 Keysight",
+    "url": "https://www.keysight.com/go/news",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.keysight.com/",
+    "company_segment": "封装制造与测试",
+    "company_scope": "related"
+  },
+  {
+    "id": "viavi",
+    "name": "VIAVI 唯亚威",
+    "url": "https://www.viavisolutions.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.viavisolutions.com/",
+    "company_segment": "封装制造与测试",
+    "company_scope": "related"
+  },
+  {
+    "id": "anritsu",
+    "name": "安立 Anritsu",
+    "url": "https://www.anritsu.com/en-gb/about-anritsu/news",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.anritsu.com/",
+    "company_segment": "封装制造与测试",
+    "company_scope": "related"
+  },
+  {
+    "id": "exfo",
+    "name": "EXFO",
+    "url": "https://www.exfo.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.exfo.com/",
+    "company_segment": "封装制造与测试",
+    "company_scope": "related"
+  },
+  {
+    "id": "yokogawa",
+    "name": "横河 Yokogawa",
+    "url": "https://www.yokogawa.com/news/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.yokogawa.com/",
+    "company_segment": "封装制造与测试",
+    "company_scope": "related"
+  },
+  {
+    "id": "formfactor",
+    "name": "FormFactor",
+    "url": "https://www.formfactor.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.formfactor.com/",
+    "company_segment": "封装制造与测试",
+    "company_scope": "related"
+  },
+  {
+    "id": "fabrinet",
+    "name": "Fabrinet",
+    "url": "https://fabrinet.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://fabrinet.com/",
+    "company_segment": "封装制造与测试",
+    "company_scope": "related"
+  },
+  {
+    "id": "jabil",
+    "name": "捷普 Jabil",
+    "url": "https://www.jabil.com/about-us/news-recognitions-policies/newsroom.html",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.jabil.com/",
+    "company_segment": "封装制造与测试",
+    "company_scope": "related"
+  },
+  {
+    "id": "ase",
+    "name": "日月光 ASE",
+    "url": "https://aseglobal.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://aseglobal.com/",
+    "company_segment": "封装制造与测试",
+    "company_scope": "related"
+  },
+  {
+    "id": "amkor",
+    "name": "安靠 Amkor",
+    "url": "https://amkor.com/news/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://amkor.com/",
+    "company_segment": "封装制造与测试",
+    "company_scope": "related"
+  },
+  {
+    "id": "suss",
+    "name": "SUSS",
+    "url": "https://www.suss.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.suss.com/",
+    "company_segment": "封装制造与测试",
+    "company_scope": "related"
+  },
+  {
+    "id": "asmpt",
+    "name": "ASMPT",
+    "url": "https://www.asmpt.com/en/news-center/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.asmpt.com/",
+    "company_segment": "封装制造与测试",
+    "company_scope": "related"
+  },
+  {
+    "id": "besi",
+    "name": "Besi",
+    "url": "https://www.besi.com/investor-relations/press-releases/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.besi.com/",
+    "company_segment": "封装制造与测试",
+    "company_scope": "related"
+  },
+  {
+    "id": "arista",
+    "name": "Arista Networks",
+    "url": "https://www.arista.com/en/company/news",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.arista.com/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
+  },
+  {
+    "id": "ciena",
+    "name": "Ciena",
+    "url": "https://www.ciena.com/about/newsroom",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.ciena.com/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
+  },
+  {
+    "id": "nokia",
+    "name": "诺基亚 Nokia",
+    "url": "https://www.nokia.com/newsroom/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.nokia.com/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
+  },
+  {
+    "id": "huawei",
+    "name": "华为",
+    "url": "https://www.huawei.com/cn/news",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.huawei.com/cn/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
+  },
+  {
+    "id": "hisilicon",
+    "name": "海思",
+    "url": "https://www.hisilicon.com/cn/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.hisilicon.com/cn/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
+  },
+  {
+    "id": "zte",
+    "name": "中兴通讯",
+    "url": "https://www.zte.com.cn/china/index.html",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.zte.com.cn/china/index.html",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
+  },
+  {
+    "id": "fiberhome",
+    "name": "烽火通信",
+    "url": "https://www.fiberhome.com/xwzx.html",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.fiberhome.com/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
+  },
+  {
+    "id": "h3c",
+    "name": "新华三 H3C",
+    "url": "https://www.h3c.com/cn/About_H3C/News_Media/Company_News/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.h3c.com/cn/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
+  },
+  {
+    "id": "ruijie",
+    "name": "锐捷网络",
+    "url": "https://www.ruijie.com.cn/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.ruijie.com.cn/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
+  },
+  {
+    "id": "asteralabs",
+    "name": "Astera Labs",
+    "url": "https://www.asteralabs.com/newsroom/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://www.asteralabs.com/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
+  },
+  {
+    "id": "credosemi",
+    "name": "Credo",
+    "url": "https://credosemi.com/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://credosemi.com/",
+    "company_segment": "互联芯片与系统",
+    "company_scope": "related"
+  },
+  {
+    "id": "gigalight",
+    "name": "易飞扬 GIGALIGHT",
+    "url": "https://www.gigalight.com.cn/news-events.html",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国内",
+    "homepage": "https://www.gigalight.com.cn/",
+    "company_segment": "光模块与有源光缆",
+    "company_scope": "optical"
+  },
+  {
+    "id": "avicena",
+    "name": "Avicena",
+    "url": "https://avicena.tech/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://avicena.tech/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
+  },
+  {
+    "id": "palomino",
+    "name": "Palomino Laboratories",
+    "url": "https://palominolabs.ai/",
+    "group": "企业官方新闻中心",
+    "mode": "auto",
+    "region": "国外及港台",
+    "homepage": "https://palominolabs.ai/",
+    "company_segment": "光芯片与硅光",
+    "company_scope": "optical"
+  },
+  {
+    "id": "zhaobiao",
+    "name": "招标网",
+    "url": "https://zb.zhaobiao.cn/",
+    "homepage": "https://www.zhaobiao.cn/",
+    "group": "招标采购",
+    "kind": "tender",
+    "region": "国内",
+    "mode": "auto",
+    "note": "仅尝试读取公开公告；若有登录、动态接口或访问限制，明确记录。公告不等于仍在有效期内，投标以原平台最新信息为准。"
+  },
+  {
+    "id": "bidcenter",
+    "name": "采招网·光模块/光通信",
+    "url": "https://www.bidcenter.com.cn/zhaobiao/zbkeyw-86676.html",
+    "listing_urls": [
+      "https://www.bidcenter.com.cn/zhaobiao/zbkeyw-86676.html",
+      "https://www.bidcenter.com.cn/zhaobiao/zbkeyw-7681.html"
+    ],
+    "homepage": "https://www.bidcenter.com.cn/",
+    "group": "招标采购",
+    "kind": "tender",
+    "region": "国内",
+    "mode": "auto",
+    "note": "仅尝试读取公开公告；若有登录、动态接口或访问限制，明确记录。公告不等于仍在有效期内，投标以原平台最新信息为准。"
+  },
+  {
+    "id": "ccgp",
+    "name": "中国政府采购网",
+    "url": "https://www.ccgp.gov.cn/",
+    "homepage": "https://www.ccgp.gov.cn/",
+    "group": "招标采购",
+    "kind": "tender",
+    "region": "国内",
+    "mode": "auto",
+    "note": "仅尝试读取公开公告；若有登录、动态接口或访问限制，明确记录。公告不等于仍在有效期内，投标以原平台最新信息为准。"
+  },
+  {
+    "id": "cebpubservice",
+    "name": "中国招标投标公共服务平台",
+    "url": "https://www.cebpubservice.com/",
+    "homepage": "https://www.cebpubservice.com/",
+    "group": "招标采购",
+    "kind": "tender",
+    "region": "国内",
+    "mode": "auto",
+    "note": "仅尝试读取公开公告；若有登录、动态接口或访问限制，明确记录。公告不等于仍在有效期内，投标以原平台最新信息为准。"
+  },
+  {
+    "id": "cmcc-procurement",
+    "name": "中国移动采购与招标网",
+    "url": "https://b2b.10086.cn/",
+    "homepage": "https://b2b.10086.cn/",
+    "group": "招标采购",
+    "kind": "tender",
+    "region": "国内",
+    "mode": "auto",
+    "note": "仅尝试读取公开公告；若有登录、动态接口或访问限制，明确记录。公告不等于仍在有效期内，投标以原平台最新信息为准。"
+  },
+  {
+    "id": "ct-procurement",
+    "name": "中国电信阳光采购网",
+    "url": "https://caigou.chinatelecom.com.cn/",
+    "homepage": "https://caigou.chinatelecom.com.cn/",
+    "group": "招标采购",
+    "kind": "tender",
+    "region": "国内",
+    "mode": "auto",
+    "note": "仅尝试读取公开公告；若有登录、动态接口或访问限制，明确记录。公告不等于仍在有效期内，投标以原平台最新信息为准。"
+  },
+  {
+    "id": "cu-procurement",
+    "name": "中国联通采购与招标网",
+    "url": "https://www.chinaunicombidding.cn/bidInformation",
+    "homepage": "https://www.chinaunicombidding.cn/",
+    "group": "招标采购",
+    "kind": "tender",
+    "region": "国内",
+    "mode": "auto",
+    "note": "仅尝试读取公开公告；若有登录、动态接口或访问限制，明确记录。公告不等于仍在有效期内，投标以原平台最新信息为准。"
   }
 ]

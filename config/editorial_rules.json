@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-03.2",
+  "version": "2026-11-03.3",
   "focus": "AI算力高速互联：光互联为核心，兼顾相关高速电互联与封装测试",
   "direct": [
     "光互联",
@@ -50,7 +50,14 @@
     "Ranovus",
     "Celestial AI",
     "光互连融资",
-    "光互联融资"
+    "光互联融资",
+    "光开关",
+    "OCS",
+    "MPO",
+    "光纤阵列",
+    "高速互联",
+    "optical circuit switch",
+    "optical switching"
   ],
   "conditional": [
     "TGV",
