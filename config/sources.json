@@ -1,10 +1,42 @@
 [
- {"id":"nvidia","name":"NVIDIA","url":"https://nvidianews.nvidia.com/"},
- {"id":"broadcom","name":"Broadcom","url":"https://www.broadcom.com/company/news/releases"},
- {"id":"marvell","name":"Marvell","url":"https://www.marvell.com/company/newsroom/press-releases.html"},
- {"id":"coherent","name":"Coherent","url":"https://www.coherent.com/news/press-releases"},
- {"id":"lumentum","name":"Lumentum","url":"https://investor.lumentum.com/"},
- {"id":"innolight","name":"中际旭创","url":"https://www.zj-innolight.com/"},
- {"id":"eoptolink","name":"新易盛","url":"https://www.eoptolink.com/"},
- {"id":"accelink","name":"光迅科技","url":"https://www.accelink.com/"}
+  {
+    "id": "nvidia",
+    "name": "NVIDIA",
+    "url": "https://nvidianews.nvidia.com/"
+  },
+  {
+    "id": "broadcom",
+    "name": "Broadcom",
+    "url": "https://investors.broadcom.com/financial-information/financial-news-releases"
+  },
+  {
+    "id": "marvell",
+    "name": "Marvell",
+    "url": "https://www.marvell.com/company/newsroom/press-releases.html"
+  },
+  {
+    "id": "coherent",
+    "name": "Coherent",
+    "url": "https://ir.coherent.com/news-events/corporate-releases"
+  },
+  {
+    "id": "lumentum",
+    "name": "Lumentum",
+    "url": "https://www.lumentum.com/en/newsroom/news-releases"
+  },
+  {
+    "id": "innolight",
+    "name": "中际旭创",
+    "url": "https://www.zj-innolight.com/cn/news.html"
+  },
+  {
+    "id": "eoptolink",
+    "name": "新易盛",
+    "url": "https://www.eoptolink.com/cn/"
+  },
+  {
+    "id": "accelink",
+    "name": "光迅科技",
+    "url": "https://www.accelink.com/lighting_your_dreams/xinwenzixun.html"
+  }
 ]

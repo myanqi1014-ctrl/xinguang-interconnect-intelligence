@@ -6,10 +6,10 @@ import requests,feedparser
 from bs4 import BeautifulSoup
 from dateutil import parser as dp
 R=Path(__file__).resolve().parents[1]; D=R/"data"; S=json.loads((R/"config/sources.json").read_text(encoding="utf-8"))
-K={"AI算力":["AI infrastructure","AI data center","accelerated computing","GPU cluster","AI算力"],"光模块":["optical transceiver","800G","1.6T","400G","光模块"],"硅光":["silicon photonics","硅光"],"CPO":["co-packaged optics","CPO","共封装光学"],"光芯片/器件":["optical engine","laser","photonic integrated circuit","optical component","光芯片","光器件"],"数据中心互联":["data center interconnect","DCI","optical interconnect","interconnect","光互联"],"网络与交换":["Ethernet switch","switch ASIC","networking","SerDes","交换芯片"]}
+K={"AI算力":["AI infrastructure","AI data center","accelerated computing","GPU cluster","AI算力"],"光模块":["optical transceiver","800G","1.6T","400G","光模块","高速光互联","高速光互连"],"硅光":["silicon photonics","硅光"],"NPO":["NPO","near-packaged optics","近封装"],"CPO":["co-packaged optics","CPO","共封装光学"],"光芯片/器件":["optical engine","laser","photonic integrated circuit","optical component","光芯片","光器件"],"数据中心互联":["data center interconnect","DCI","optical interconnect","interconnect","光互联"],"网络与交换":["Ethernet switch","switch ASIC","networking","SerDes","交换芯片"]}
 H={"User-Agent":"Mozilla/5.0 XinguangIntelBot/1.0"}
 def tags(s):
- l=s.lower();return [k for k,v in K.items() if any(w.lower() in l for w in v)]
+ l=s.lower();return [k for k,v in K.items() if any((re.search(r"(?<![a-z0-9])"+re.escape(w.lower())+r"(?![a-z0-9])",l) if w.isascii() else w in l) for w in v)]
 def dt(s):
  try:
   x=dp.parse(s);return (x if x.tzinfo else x.replace(tzinfo=timezone.utc)).astimezone(timezone.utc).isoformat()
@@ -21,7 +21,9 @@ def main():
  for src in S:
   found=[]; errors=[]
   try:
-   r=requests.get(src["url"],headers=H,timeout=25);r.raise_for_status(); soup=BeautifulSoup(r.text,"html.parser")
+   r=requests.get(src["url"],headers=H,timeout=25);r.raise_for_status(); r.encoding=r.apparent_encoding; soup=BeautifulSoup(r.text,"html.parser")
+   if re.search(r"slot88|slot thailand|casino",soup.title.get_text() if soup.title else "",re.I):raise ValueError("来源返回异常内容，已停止采集，请人工核验官网")
+   if len(r.content)<1000 or soup.select_one('iframe[src*="captcha"],script[src*="challenge"]'):raise ValueError("页面受访问保护或未返回新闻正文")
    feeds=[urljoin(r.url,x.get("href")) for x in soup.select('link[rel~="alternate"][href]') if "rss" in (x.get("type") or "").lower() or "atom" in (x.get("type") or "").lower()]
    for feed in feeds[:4]:
     f=feedparser.parse(feed)
@@ -29,16 +31,41 @@ def main():
      title=e.get("title","").strip();url=e.get("link","");summary=e.get("summary","")
      if title and url and tags(title+" "+summary):found.append(item(src,title,url,e.get("published") or e.get("updated",""),summary))
    if not found:
+    seen=set()
     for a in soup.select("a[href]"):
      title=" ".join(a.get_text(" ",strip=True).split());url=urljoin(r.url,a["href"])
-     if len(title)>=12 and len(title)<=250 and urlparse(url).netloc==urlparse(r.url).netloc and tags(title):
-      found.append(item(src,title,url))
-     if len(found)>=40:break
+     if 12<=len(title)<=250 and urlparse(url).netloc.split(".")[-2:]==urlparse(r.url).netloc.split(".")[-2:] and url!=r.url and re.search(r"/news/|/news-|/newsroom/|/newsinfo/|/press|/release|/article|/detail|/xinwen|/lighting_your_dreams/\d+\.html",url,re.I) and tags(title):
+      if url in seen:continue
+      seen.add(url)
+      pub=""; summary=""
+      listed=re.search(r"20[12]\d[-年/.]\d{1,2}[-月/.]\d{1,2}",title)
+      if listed:pub=re.sub(r"[年月/.]","-",listed.group()).strip("-")
+      try:
+       detail=requests.get(url,headers=H,timeout=8);detail.raise_for_status();detail.encoding=detail.apparent_encoding; page=BeautifulSoup(detail.text,"html.parser")
+       meta=page.select_one('meta[property="article:published_time"],meta[name="date"],meta[name="pubdate"]');time=page.select_one("time")
+       if meta:pub=meta.get("content","")
+       elif time:pub=time.get("datetime") or time.get_text(" ",strip=True)
+       else:
+        body=(page.select_one("article") or page.select_one("main") or page).get_text(" ",strip=True)
+        m=re.search(r"20[12]\d[-年/.]\d{1,2}[-月/.]\d{1,2}",body)
+        if not m:m=re.search(r"(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+20\d{2}",body,re.I)
+        if m:pub=re.sub(r"[年月/.]","-",m.group()).strip("-")
+       desc=page.select_one('meta[name="description"],meta[property="og:description"]')
+       if desc:summary=desc.get("content","")[:500]
+       heading=page.select_one("h1")
+       if heading:title=heading.get_text(" ",strip=True)
+      except Exception:pass
+      found.append(item(src,title,url,pub,summary))
+     if len(found)>=12:break
   except Exception as e:errors.append(str(e)[:250])
   for x in found:
-   if x["url"] not in db:db[x["url"]]=x
-  logs.append({"source":src["name"],"found":len(found),"errors":errors})
- D.mkdir(exist_ok=True);items=sorted(db.values(),key=lambda x:x.get("published_at") or x.get("collected_at",""),reverse=True)[:3000]
+   previous=db.get(x["url"],{})
+   for key in ("published_at","summary"):
+    if not x.get(key):x[key]=previous.get(key,"")
+   x["collected_at"]=previous.get("collected_at",x["collected_at"])
+   db[x["url"]]=x
+  logs.append({"source":src["name"],"found":len(found),"errors":errors,"status":"error" if errors else ("ok" if found else "empty"),"url":src["url"]})
+ D.mkdir(exist_ok=True);items=sorted(db.values(),key=lambda x:x.get("published_at") or x.get("collected_at",""),reverse=True)
  (D/"news.json").write_text(json.dumps(items,ensure_ascii=False,indent=2),encoding="utf-8")
  (D/"collection_log.json").write_text(json.dumps({"run_at":datetime.now(timezone.utc).isoformat(),"timezone_note":"04:00 UTC = 12:00 Asia/Shanghai","source_results":logs,"total_stored":len(items)},ensure_ascii=False,indent=2),encoding="utf-8")
  print(json.dumps(logs,ensure_ascii=False))

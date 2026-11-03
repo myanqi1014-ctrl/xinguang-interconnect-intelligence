@@ -2,6 +2,9 @@ name: Daily intelligence collection
 on:
   schedule:
     - cron: "0 4 * * *" # 12:00 Asia/Shanghai
+  push:
+    branches: [main]
+    paths-ignore: ["data/**", "README.md"]
   workflow_dispatch:
 permissions:
   contents: write
@@ -13,6 +16,10 @@ concurrency:
 jobs:
   collect-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -33,3 +40,4 @@ jobs:
         with:
           path: .
       - uses: actions/deploy-pages@v4
+        id: deployment
