@@ -1,13 +1,656 @@
 [
   {
+    "id": "0ecf56a24612def6",
+    "source_id": "lightwave",
+    "source_name": "光波在线 / Lightwave",
+    "source_type": "海外新闻与深度观察",
+    "title": "Co-Packaged Optics Status Check",
+    "url": "https://www.lightwaveonline.com/resources/webinar/55413973/co-packaged-optics-status-check",
+    "published_at": "2026-11-18T00:00:00+00:00",
+    "summary": "This editorial webinar will bring together industry experts to examine the current state of co-packaged optics, the technical and economic challenges still facing adoption, and...",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:35.724152+00:00"
+  },
+  {
+    "id": "77508bdfed2d57b4",
+    "source_id": "laser-focus-world",
+    "source_name": "激光世界 / Laser Focus World",
+    "source_type": "海外新闻与深度观察",
+    "title": "Crystal advances will help power next-gen fusion laser systems",
+    "url": "https://www.laserfocusworld.com/optics/article/55413230/northrop-grumman-synoptics-crystal-advances-will-help-power-next-gen-fusion-laser-systems",
+    "published_at": "2026-11-03T05:00:00+00:00",
+    "summary": "Record-sized Yb:YLF crystal enables inertial confinement fusion research and opens new possibilities for laser system design.",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:35.510247+00:00"
+  },
+  {
+    "id": "0224eea013ff93c2",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Marvell to Acquire Lumentum: AI Connectivity Powerhouse",
+    "url": "https://convergedigest.com/marvell-lumentum-115-billion-ai-connectivity-deal/",
+    "published_at": "2026-11-03T02:17:56+00:00",
+    "summary": "Marvell Technology and Lumentum announced a definitive all-stock transaction on November 2, 2026, with an implied enterprise value of $115 billion for Lumentum. The combination would unite Marvell’s switching, custom silicon, SerDes and optical DSP technologies with Lumentum’s lasers, optical modules, optical circuit switching and compound semiconductor manufacturing. Lumentum shareholders will receive 4.500 Marvell shares per share, implying approximately $1,132 per Lumentum share and a 23.9% p",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "硅光",
+      "NPO",
+      "CPO",
+      "光芯片/器件",
+      "数据中心互联",
+      "网络与交换",
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-03T08:15:34.889677+00:00"
+  },
+  {
+    "id": "876d7a4ba23411fe",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Bluebird Fiber Unveils Tera-Core Backbone to Scale Beyond 400G",
+    "url": "https://convergedigest.com/bluebird-fiber-tera-core-400g-800g-backbone/",
+    "published_at": "2026-11-03T02:01:00+00:00",
+    "summary": "Bluebird Fiber is introducing Tera-Core, a new optical transport and IP backbone architecture designed to accommodate customers moving from individual 400G connections to multiple 400G circuits, with a roadmap toward 800G wavelengths and multi-terabit capacity. The Kansas City-based operator is combining colorless, gridless DWDM with a terabit-capable IP/MPLS core. Existing 400G-capable routes will be supplemented by additional routes through 2026 and 2027. Bluebird Fiber is a Midwest communicat",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-03T08:15:34.907979+00:00"
+  },
+  {
+    "id": "97a99d6f068ef979",
+    "source_id": "c114",
+    "source_name": "C114通信网 / C114",
+    "source_type": "国内行业媒体",
+    "title": "东山精密：计划未来并行销售光模块和光芯片 11/3 11:32",
+    "url": "https://www.c114.com.cn/ftth/5472/a1320332.html",
+    "published_at": "2026-11-03T00:00:00+00:00",
+    "summary": "东山精密：计划未来并行销售光模块和光芯片,C114讯 11月3日消息（南山）昨日，东山精密发布了最新一期的投资者关系活动记录表。东山精密在20",
+    "tags": [
+      "光模块",
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:39.785643+00:00"
+  },
+  {
+    "id": "18ba438fb6ab25de",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "英伟达OOI：CPO之后的下一代光互连原型亮相",
+    "url": "https://fiber.ofweek.com/2026-11/ART-8100-2100-30710073.html",
+    "published_at": "2026-11-03T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "CPO",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:15:41.181382+00:00"
+  },
+  {
+    "id": "7dc7309aa1a6527e",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "【每日科创】联讯仪器：给1.6T光模块“体检”的人",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-12003-30710004.html",
+    "published_at": "2026-11-03T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:15:42.207883+00:00"
+  },
+  {
+    "id": "a026d36d614c8b23",
+    "source_id": "tmtpost",
+    "source_name": "钛媒体 / TMTPost",
+    "source_type": "科技与商业媒体",
+    "title": "15:38 黑石总裁JonGray：对AI基础设施赛道信心十足，算力需求远超供给",
+    "url": "https://www.tmtpost.com/nictation/8191748.html",
+    "published_at": "2026-11-03T00:00:00+00:00",
+    "summary": "钛媒体App 11月3日，黑石总裁兼首席运营官JonGray在香港出席国际金融领袖投资峰会时称，黑石所投企业过去一年AI模型相关支出大增20倍，驱动企业持续加码AI的核心原因，是内容创作、客户交互、代码编写等AI应用已经落地并产生实实在在的财务收益。JonGray表示，他对AI基础设施赛道信心充足，底层逻辑来自基础供需规律，当前算力需求十分旺盛。他对比90年代末电信热潮指出，当年行业模式是先搭建供给、等待需求跟进；而当下AI市场完全反过来，需求大幅跑赢供给，这令他对AI发展别具信心。（广角观察）",
+    "tags": [
+      "AI算力"
+    ],
+    "collected_at": "2026-11-03T08:15:48.772292+00:00"
+  },
+  {
+    "id": "248f9901585f39ad",
+    "source_id": "semiconductor-engineering",
+    "source_name": "半导体工程·光子专题 / Semiconductor Engineering",
+    "source_type": "海外新闻与深度观察",
+    "title": "AI Image Enhancement Improves Detection Of Flip-Chip Interconnect Defects (MCL, PVA TePla, ASE)",
+    "url": "https://semiengineering.com/ai-image-enhancement-improves-detection-of-flip-chip-interconnect-defects-mcl-pva-tepla-ase/",
+    "published_at": "2026-11-02T21:08:45+00:00",
+    "summary": "Researchers at Materials Center Leoben, PVA TePla, and Advanced Semiconductor Engineering (ASE) published “AI-Based Image Enhancement Improves Detection of Interconnect Defects in Microelectronic Packaging.” Abstract Excerpt: “Traditional failure-analysis (FA) methods face growing challenges due to the increasing miniaturization and complexity of modern semiconductor devices. In particular, the detection of cracks in the extreme low K... » read more The post AI Image Enhancement Improves Detecti",
+    "tags": [
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:15:35.915496+00:00"
+  },
+  {
+    "id": "199a229ae0c5d941",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Tower Semi Targets $2B in 2026 Revenue as Silicon Photonics Surges",
+    "url": "https://convergedigest.com/tower-semiconductor-q3-2026-silicon-photonics-ai-optics/",
+    "published_at": "2026-11-02T20:28:00+00:00",
+    "summary": "Tower Semiconductor reported record third-quarter 2026 revenue of $526 million, up 33% year-over-year, as AI infrastructure demand drives a rapid expansion in silicon photonics and silicon germanium manufacturing. The company guided fourth-quarter revenue to $600 million at the midpoint, implying approximately $2 billion in full-year sales and a $2.4 billion annualized exit rate. Silicon photonics contributed approximately $240 million in Q3, or nearly 46% of company revenue. Management expects ",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "硅光",
+      "NPO",
+      "光芯片/器件",
+      "数据中心互联",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-03T08:15:34.932793+00:00"
+  },
+  {
+    "id": "dbfcdbea9f301f51",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "AT&T and AST SpaceMobile Demo Seamless Handoffs",
+    "url": "https://convergedigest.com/att-ast-spacemobile-cellular-satellite-handoff/",
+    "published_at": "2026-11-02T16:46:00+00:00",
+    "summary": "AT&T and AST SpaceMobile have demonstrated what they describe as the industry’s first successful handoff between a terrestrial cellular network and a direct-to-device satellite broadband network, advancing plans to extend conventional mobile service beyond the reach of ground-based towers. The demonstration took place October 21, 2026, outside Granite Falls, Washington, and involved network technologies supplied by Ericsson and Nokia. The test addressed a key technical requirement for integrated",
+    "tags": [
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-03T08:15:34.956248+00:00"
+  },
+  {
+    "id": "187b8163f55082ee",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Qualcomm Validates HBC Silicon, Advances Dragonfly AI250 Accelerator",
+    "url": "https://convergedigest.com/qualcomm-validates-hbc-silicon-dragonfly-ai250/",
+    "published_at": "2026-11-02T15:55:00+00:00",
+    "summary": "Qualcomm has completed initial hardware validation of its first-generation High Bandwidth Compute (HBC) silicon, moving its AI inference architecture from roadmap to working hardware. The company reports successful memory read/write operations and near-memory computation, with Dragonfly AI250 sampling expected in the first half of 2027. HBC targets the energy and bandwidth costs of moving model data between memory and compute. The architecture places computation beneath stacked DRAM, allowing su",
+    "tags": [
+      "AI算力"
+    ],
+    "collected_at": "2026-11-03T08:15:34.971959+00:00"
+  },
+  {
+    "id": "0be9b10d915e70bc",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "McKay Brothers Buys Relativity Hollow-Core Fiber for New Jersey Network",
+    "url": "https://convergedigest.com/mckay-brothers-relativity-chronocore-new-jersey/",
+    "published_at": "2026-11-02T15:08:00+00:00",
+    "summary": "McKay Brothers has purchased Relativity Networks’ ChronoCore hollow-core fiber for deployment in New Jersey, marking Relativity’s first U.S. commercial sale of the technology. The network will initially connect major financial trading venues, with planned branches extending to nearby AI inference and training data centers. The agreement expands the application of ultra-low-latency optical infrastructure beyond financial trading into emerging AI computing environments. ChronoCore uses anti-resona",
+    "tags": [
+      "AI算力"
+    ],
+    "collected_at": "2026-11-03T08:15:34.991929+00:00"
+  },
+  {
+    "id": "a8cee7f58e655df0",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Nokia and Semidynamics Explore RISC-V AI Inference Racks",
+    "url": "https://convergedigest.com/nokia-semidynamics-risc-v-sovereign-ai-inference/",
+    "published_at": "2026-11-02T14:31:00+00:00",
+    "summary": "Nokia and Barcelona-based Semidynamics have signed a Memorandum of Understanding (MoU) to explore the integration of European-designed AI inference accelerators, liquid-cooled computing racks, and data center networking infrastructure. The collaboration brings together Semidynamics’ proprietary RISC-V-based, memory-centric AI computing technology with Nokia’s Data Center Fabric solutions, potentially creating a more integrated European technology offering for sovereign AI deployments. Announced ",
+    "tags": [
+      "AI算力",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-03T08:15:34.996785+00:00"
+  },
+  {
+    "id": "d2f8452ffcd198bb",
+    "source_id": "huxiu",
+    "source_name": "虎嗅 / Huxiu",
+    "source_type": "科技与商业媒体",
+    "title": "AI算力爆发，电网扛不住了，储能价值被点燃",
+    "url": "https://www.huxiu.com/article/4902413.html",
+    "published_at": "2026-11-02T12:57:10+00:00",
+    "summary": "文章指出，2025年全国算力中心总用电量达1700亿千瓦时，预计2030年算力用电量达8000亿千瓦时、占全社会用电量6%左右；储能需在供电保障、绿电消纳和电网调节中释放多重价值，并通过电力市场机制获得回报，浙江正以现货、辅助服务、虚拟电厂等制度探索算储协同。",
+    "tags": [
+      "AI算力"
+    ],
+    "collected_at": "2026-11-03T08:16:04.656321+00:00"
+  },
+  {
+    "id": "8e2b786ec72f04c3",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "算力驱动，光器件龙头业绩连涨",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-12003-30709751.html",
+    "published_at": "2026-11-02T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:49.431224+00:00"
+  },
+  {
+    "id": "5b4307a7f2d4d3d0",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "富士康技术日：CPO技术迈向商业化量产",
+    "url": "https://www.c-fol.net/news/7_202611/20261102124303.html",
+    "published_at": "2026-11-02T00:00:00+00:00",
+    "summary": "光纤在线讯：这家企业展示了如何将精密加工、产品设计、系统集成与大规模量产整合为一套统一的工程体系。",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:41.804503+00:00"
+  },
+  {
+    "id": "395da30bcd4490cb",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "向光五十载，启新三百亿｜光迅科技高端光电子及硅光芯片器件产业化项目开工",
+    "url": "https://www.c-fol.net/news/7_202611/20261102103547.html",
+    "published_at": "2026-11-02T00:00:00+00:00",
+    "summary": "光纤在线讯：光迅科技高端光电子及硅光芯片器件产业化项目开工，向三百亿目标前进",
+    "tags": [
+      "硅光",
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:43.063079+00:00"
+  },
+  {
+    "id": "15d4778216a14083",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Musk Maps Colossus 2 Expansion to 1.2M GPUs With Gun Range and Spam",
+    "url": "https://convergedigest.com/spacex-colossus-2-gun-range-spam-gpu-roadmap/",
+    "published_at": "2026-11-01T21:16:42+00:00",
+    "summary": "Elon Musk disclosed this weekend that SpaceX’s Colossus 2 complex will add two facilities—Gun Range for AI training and Spam for inference—with approximately 420,000 NVIDIA GB300 GPUs between them. Gun Range is expected to begin operation by the end of November and Spam in December. This will put Colossus 2’s year-end total at around 1.2 million Blackwell GPUs. His building-level figures imply approximately 770,000 GPUs across Macrohard, Macroharder and Minihard at the time of the update, rising",
+    "tags": [
+      "AI算力",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-03T08:15:35.080935+00:00"
+  },
+  {
+    "id": "b4592aff5a121816",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "On This Day: November 2",
+    "url": "https://convergedigest.com/on-this-day-november-2/",
+    "published_at": "2026-11-01T11:01:00+00:00",
+    "summary": "A look back at Converge Digest coverage published on November 2 in earlier years. 2023 Power Efficiency of Next Gen CPO Data Center Switches Micas Networks and Broadcom showed a switch platform built on Broadcom’s 51.2 Tbps “Bailly” co-packaged optics chip, aimed at lowering data center switch power consumption. 2022 Lumen to sell its EMEA business to Colt for $1.8B Colt Technology Services agreed to acquire Lumen’s Europe, Middle East and Africa business for $1.8 billion, roughly 11x, extending",
+    "tags": [
+      "CPO",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-03T08:15:35.101419+00:00"
+  },
+  {
+    "id": "b255ccb0f797c4db",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "ST’s Optical Communications Segment Grows 46%",
+    "url": "https://convergedigest.com/st-optical-communications-segment-grows-46-percent-as-ai-demand-expands/",
+    "published_at": "2026-10-31T18:29:56+00:00",
+    "summary": "STMicroelectronics reported sharply higher third-quarter revenue and profitability in its RF Optical Communications segment as demand associated with AI data centers and communications infrastructure continued to expand. RF Optical Communications revenue reached $504 million, increasing 46.2% from $345 million a year earlier and 13.4% from $445 million in the preceding quarter. The segment accounted for approximately 13% of ST’s total quarterly revenue and was the company’s fastest-growing repor",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "硅光",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:15:35.186294+00:00"
+  },
+  {
+    "id": "dc54e3a4605ce4c7",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Foxconn Transceiver Demo Integrates Lightwave Logic Polymers",
+    "url": "https://convergedigest.com/foxconn-transceiver-demo-integrates-lightwave-logic-polymers/",
+    "published_at": "2026-10-31T18:11:35+00:00",
+    "summary": "Lightwave Logic announced that Hon Hai Technology Group, better known as Foxconn, is demonstrating an optical transceiver incorporating Lightwave Logic’s electro-optic polymer technology at Hon Hai Tech Day 2026 in Taipei. The demonstration, scheduled for October 30–31 at the Nangang Exhibition Center, places the material inside a complete optical communications platform rather than presenting it only as a standalone modulator or laboratory device. The transceiver incorporates a silicon-organic ",
+    "tags": [
+      "光模块",
+      "硅光",
+      "光芯片/器件",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:15:35.223753+00:00"
+  },
+  {
+    "id": "8a7ac83435b8be05",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Digital Realty Confirms Record $855M in Annualized Bookings",
+    "url": "https://convergedigest.com/digital-realty-signs-record-855-million-in-annualized-bookings/",
+    "published_at": "2026-10-31T18:00:01+00:00",
+    "summary": "Digital Realty reported record third-quarter leasing, signing contracts representing $855 million in annualized GAAP base rent at 100% ownership share, or $627 million attributable to Digital Realty. Its signed-but-not-commenced backlog reached $2.5 billion at 100% share and $1.8 billion at the company’s share. Quarterly revenue increased 21% year over year to $1.9 billion. The company also acquired $742 million of land, including an Indianapolis-area site supporting more than 1 GW of potential ",
+    "tags": [
+      "AI算力"
+    ],
+    "collected_at": "2026-11-03T08:15:35.297635+00:00"
+  },
+  {
+    "id": "bdb6eb896c7706d6",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Equinix Records $533 Million in Bookings as Fabric Revenue Climbs",
+    "url": "https://convergedigest.com/equinix-records-533-million-in-bookings-as-fabric-revenue-climbs/",
+    "published_at": "2026-10-31T17:50:28+00:00",
+    "summary": "Equinix reported record annualized gross bookings of $533 million in the third quarter, up 35% year over year, alongside 24% growth in Equinix Fabric revenue. The company raised its full-year outlook and accelerated capacity delivery, planning nearly 40% more cabinets in 2026 than originally anticipated. Quarterly revenue reached $2.571 billion, increasing 11% on a reported basis. • Interconnection revenue increased 10% year over year. • Net income attributable to common stockholders: $489 milli",
+    "tags": [
+      "AI算力"
+    ],
+    "collected_at": "2026-11-03T08:15:35.331281+00:00"
+  },
+  {
+    "id": "da8bc407d1bafcdc",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "AI Infrastructure Stocks Slide as Selloff Hits Networking, Optics, Neoclouds",
+    "url": "https://convergedigest.com/ai-infrastructure-stocks-networking-neocloud-selloff-october-30-2026/",
+    "published_at": "2026-10-30T20:29:00+00:00",
+    "summary": "Networking, optical and AI cloud stocks fell sharply on Friday, October 30, as investors reassessed the spending, financing and delivery schedules supporting the AI infrastructure buildout. Coherent dropped 11.3%, Marvell fell 10.0% and Arista Networks lost 8.3%. Neocloud providers also suffered substantial declines, with Nebius down 10.4%, CoreWeave down 9.7% and IREN down 8.8%. The losses extended across multiple layers of the infrastructure supply chain, from optical components and Ethernet s",
+    "tags": [
+      "AI算力",
+      "NPO",
+      "CPO",
+      "光芯片/器件",
+      "数据中心互联",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-03T08:15:35.414862+00:00"
+  },
+  {
+    "id": "9d466c0bf8be6338",
+    "source_id": "lightwave",
+    "source_name": "光波在线 / Lightwave",
+    "source_type": "海外新闻与深度观察",
+    "title": "Corning doubles down on DCI and FTTH",
+    "url": "https://www.lightwaveonline.com/home/video/55415586/fridayfive_10_30_26",
+    "published_at": "2026-10-30T15:01:02+00:00",
+    "summary": "",
+    "tags": [
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:15:35.210463+00:00"
+  },
+  {
+    "id": "de0adba42815456d",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Belden Signs $100 Million Data Center Fiber Agreement",
+    "url": "https://convergedigest.com/belden-signs-100-million-data-center-fiber-agreement/",
+    "published_at": "2026-10-30T13:48:00+00:00",
+    "summary": "Belden has signed an agreement to supply $100 million of fiber assemblies to a major U.S. data center customer during 2027, giving the networking supplier a sizable, disclosed commitment tied to the continuing expansion of AI infrastructure. Belden did not identify the customer, the data center locations or the specific fiber products covered by the agreement. The company said the contract supports its expectation that its data center business will grow by more than 50% in 2027. The agreement wa",
+    "tags": [
+      "AI算力",
+      "数据中心互联",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-03T08:15:35.429333+00:00"
+  },
+  {
+    "id": "3b10e5b9cfde29eb",
+    "source_id": "gazettabyte",
+    "source_name": "光通信深度观察 / Gazettabyte",
+    "source_type": "海外新闻与深度观察",
+    "title": "NewPhotonics foresees a long future for near-packaged optics",
+    "url": "https://gazettabyte.com/newphotonics-foresees-a-long-future-for-near-packaged-optics/",
+    "published_at": "2026-10-30T10:51:42+00:00",
+    "summary": "The post NewPhotonics foresees a long future for near-packaged optics appeared first on Gazettabyte .",
+    "tags": [
+      "NPO"
+    ],
+    "collected_at": "2026-11-03T08:15:33.603537+00:00"
+  },
+  {
+    "id": "6fffb7f440577a25",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "FuriosaAI Raises $620 Million at $2.9B Valuation for AI Silicon",
+    "url": "https://convergedigest.com/furiosaai-raises-620m-ai-inference-silicon/",
+    "published_at": "2026-10-30T03:03:11+00:00",
+    "summary": "Seoul-based chipmaker targets more than 40,000 RNGD accelerators in 2027 while advancing a 2nm, HBM4-based inference platform with Broadcom. FuriosaAI has secured $620 million (KRW 820 billion) in Series D financing, bringing its post-money valuation to approximately $2.9 billion. The funding will support expanded production of its RNGD inference accelerator, international commercial deployments, software development, and its third-generation AI processor. International investors include Infinit",
+    "tags": [
+      "AI算力",
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-03T08:15:35.476880+00:00"
+  },
+  {
+    "id": "0730375da1665b55",
+    "source_id": "laser-focus-world",
+    "source_name": "激光世界 / Laser Focus World",
+    "source_type": "海外新闻与深度观察",
+    "title": "Laser Diode & Array Driving",
+    "url": "https://www.laserfocusworld.com/directory/electronics-signal-analysis-equipment/averagers-and-generators/whitepaper/55415612/berkeley-nucleonics-corp-laser-diode-array-driving",
+    "published_at": "2026-10-30T00:00:00+00:00",
+    "summary": "Drive diode lasers, bars, and stacked arrays with clean, well-controlled current pulses. The Directed Energy Division builds current-source drivers that hold the programmed pulse...",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:36.233213+00:00"
+  },
+  {
+    "id": "9582fad879e554f3",
+    "source_id": "laser-focus-world",
+    "source_name": "激光世界 / Laser Focus World",
+    "source_type": "海外新闻与深度观察",
+    "title": "Driving Laser Diodes Safely",
+    "url": "https://www.laserfocusworld.com/directory/electronics-signal-analysis-equipment/averagers-and-generators/whitepaper/55415603/berkeley-nucleonics-corp-driving-laser-diodes-safely",
+    "published_at": "2026-10-30T00:00:00+00:00",
+    "summary": "A laser diode is a fragile current device, not a voltage device. This note covers why you regulate current, how much compliance voltage you need, the difference between CW,QCW...",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:36.718063+00:00"
+  },
+  {
+    "id": "8f4da4ed8bce0976",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "马来西亚PCOM 在AI数据中心时代的转型与思考",
+    "url": "https://www.c-fol.net/news/7_202610/20261030210928.html",
+    "published_at": "2026-10-30T00:00:00+00:00",
+    "summary": "光纤在线讯：自 1999 年在吉隆坡成立以来，PCOM 公司已在光通信与信息基础设施领域深耕二十余载。公司业务涵盖光缆网络部署、智能化建筑架构、智能城市建设及光纤到户（FTTH）整体交付。",
+    "tags": [
+      "AI算力"
+    ],
+    "collected_at": "2026-11-03T08:15:43.899676+00:00"
+  },
+  {
+    "id": "62315a26ffbc3c43",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Intel Q3 Revenue Jumps 21% as Data Center and AI Surge 78%",
+    "url": "https://convergedigest.com/intel-q3-2026-data-center-ai-revenue-growth/",
+    "published_at": "2026-10-29T22:13:00+00:00",
+    "summary": "Intel reported third-quarter 2026 revenue of $16.5 billion, an increase of 21% year over year, as demand for server processors accelerated. Data Center and AI (DCAI) revenue reached $7.3 billion, up 78%, while the division generated approximately $3.0 billion in operating income. The company reported non-GAAP earnings of $0.52 per share and a non-GAAP gross margin of 44.1%. Intel’s Client Computing business reported revenue of $8.1 billion, down 5% year over year, reflecting a weaker PC market a",
+    "tags": [
+      "AI算力",
+      "硅光",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:15:35.507691+00:00"
+  },
+  {
+    "id": "020af58da6593d8c",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "AWS Revenue Surges 39%, Targets $220B in AI Infrastructure CapEx",
+    "url": "https://convergedigest.com/aws-q3-2026-revenue-ai-infrastructure-capex/",
+    "published_at": "2026-10-29T22:06:00+00:00",
+    "summary": "Amazon Web Services (AWS) delivered its fastest growth in nearly five years during the third quarter of 2026. Revenue climbed 39.3% year-over-year to $45.98 billion, representing a $184 billion annualized run rate. AWS operating income rose 55% to $17.77 billion, with a 38.7% operating margin. Amazon maintained its forecast of approximately $220 billion in company-wide cash capital expenditures in 2026, with AI infrastructure the primary driver. Over the trailing twelve months, Amazon’s net purc",
+    "tags": [
+      "AI算力",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-03T08:15:35.552174+00:00"
+  },
+  {
+    "id": "46319fe1cde4f7ea",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "专访光盛通：订单爆满后，800G/1.6T光模块结构件进入批量交付阶段",
+    "url": "https://www.c-fol.net/news/5_202610/20261029124930.html",
+    "published_at": "2026-10-29T00:00:00+00:00",
+    "summary": "光纤在线讯：近日，光纤在线编辑出差浙江，走访会员单位——慈溪市光盛通通信设备有限公司，订单爆满，是这次走访最直观的感受，围绕今年的扩产、交付，以及800G/1.6T结构件的方案选择，编辑专访了总经理徐盛先生。",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:15:45.662875+00:00"
+  },
+  {
+    "id": "4f3a4c26dbca70fb",
+    "source_id": "laser-focus-world",
+    "source_name": "激光世界 / Laser Focus World",
+    "source_type": "海外新闻与深度观察",
+    "title": "Standardizing CPO won't matter if the substrate supply chain can’t keep up",
+    "url": "https://www.laserfocusworld.com/optics/article/55413556/standardizing-cpo-wont-matter-if-the-substrate-supply-chain-cant-keep-up",
+    "published_at": "2026-10-28T04:00:00+00:00",
+    "summary": "The success of copackaged optics (CPO) for AI architecture depends on being able to scale the photonics-grade substrate supply chain several times faster than the pluggable-optics supply chain it’s replacing.",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:35.512930+00:00"
+  },
+  {
+    "id": "49ac9558782be03f",
+    "source_id": "optics-org",
+    "source_name": "光学网 / optics.org",
+    "source_type": "海外新闻与深度观察",
+    "title": "Mojo Vision gains $24.4 M in Government funding to advance its micro-LED platform...",
+    "url": "https://optics.org/news/mojo-vision-gains-24.4-m-in-government-funding-to-advance-its-micro-led-platform",
+    "published_at": "2026-10-28T00:00:00+00:00",
+    "summary": "…and Maryland to lead $7.5M defense research into shaping laser light to control matter.",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:37.296795+00:00"
+  },
+  {
+    "id": "694315cb3b7767f5",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "专访麦克斯：抢抓AI算力风口，落地咸宁高新区，打造高速光模块量产新阵地",
+    "url": "https://www.c-fol.net/news/5_202610/20261028210436.html",
+    "published_at": "2026-10-28T00:00:00+00:00",
+    "summary": "光纤在线讯：麦克斯抢抓AI算力风口，落地咸宁高新区",
+    "tags": [
+      "AI算力",
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:15:46.875002+00:00"
+  },
+  {
+    "id": "ff39d310a5e5dd8b",
+    "source_id": "optics-org",
+    "source_name": "光学网 / optics.org",
+    "source_type": "海外新闻与深度观察",
+    "title": "Fraunhofer IAF develops laser-enhanced quantum sensor",
+    "url": "https://optics.org/news/fraunhofer-iaf-develops-laser-enhanced-quantum-sensor",
+    "published_at": "2026-10-27T00:00:00+00:00",
+    "summary": "Based on NV-diamond laser system for 100% optical contrast, and high magnetic field sensitivity and dynamic range.",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:37.742268+00:00"
+  },
+  {
+    "id": "09b1c00eacb0470b",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "CPO/NPO产业化：产品在跑，系统在验，上游在卡",
+    "url": "https://fiber.ofweek.com/2026-10/ART-210001-8420-30709000.html",
+    "published_at": "2026-10-27T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "NPO",
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:48.234014+00:00"
+  },
+  {
+    "id": "90c3031fd113ee7b",
+    "source_id": "dell-oro-group",
+    "source_name": "德洛罗研究集团 / Dell’Oro Group",
+    "source_type": "市场研究机构",
+    "title": "Where is the Worldwide Enterprise Networking Market Going in 2026? Broad Growth, Uneven Fundamentals",
+    "url": "https://www.delloro.com/enterprise-networking-market-growth-2027-outlook/",
+    "published_at": "2026-10-26T21:18:35+00:00",
+    "summary": "The Enterprise Networking market grew 15% in 1H26. Dell'Oro Group examines AI, cybersecurity, Wi-Fi 7, pricing pressures, and the 2027 outlook.",
+    "tags": [
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-03T08:15:40.536948+00:00"
+  },
+  {
+    "id": "4fd73b51eea9ac0d",
+    "source_id": "semiconductor-engineering",
+    "source_name": "半导体工程·光子专题 / Semiconductor Engineering",
+    "source_type": "海外新闻与深度观察",
+    "title": "Bringing Down Test Costs For Co-Packaged Optics",
+    "url": "https://semiengineering.com/bringing-down-test-costs-for-co-packaged-optics/",
+    "published_at": "2026-10-26T07:01:57+00:00",
+    "summary": "Pinpointing failures, ensuring known-good optical engines, and controlling test costs become increasingly critical as photonics moves into advanced packages.",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:38.230059+00:00"
+  },
+  {
+    "id": "885fa1d4c2f0eef3",
+    "source_id": "laser-focus-world",
+    "source_name": "激光世界 / Laser Focus World",
+    "source_type": "海外新闻与深度观察",
+    "title": "After 40 years of the ‘green problem,’ the quiet laser explains itself",
+    "url": "https://www.laserfocusworld.com/lasers-sources/article/55412923/after-40-years-of-the-green-problem-the-quiet-laser-explains-itself",
+    "published_at": "2026-10-26T04:00:00+00:00",
+    "summary": "Intracavity-doubled green lasers within thousands of laboratories have been quiet for years without anyone knowing why. The answer is the opposite of the obvious one: A nonlinear crystal makes every mode noisier, but the total goes quiet anyway.",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:35.513978+00:00"
+  },
+  {
     "id": "89cef502f8ede3f0",
     "source_id": "accelink",
     "source_name": "光迅科技",
-    "source_type": "企业官方发布",
+    "source_type": "企业官方新闻中心",
     "title": "2026-10-26 \"芯\"突破 · \"器\"长红｜光迅科技荣登光芯片、光器件双赛道全球及中国十强榜单",
     "url": "https://www.accelink.com/lighting_your_dreams/2114626050381086722.html",
     "published_at": "2026-10-26T00:00:00+00:00",
-    "summary": "光迅科技  |  让光引领梦想",
+    "summary": "光迅科技 | 让光引领梦想",
     "tags": [
       "光芯片/器件"
     ],
@@ -17,11 +660,11 @@
     "id": "f07d0bb3b14ff2bf",
     "source_id": "nvidia",
     "source_name": "NVIDIA",
-    "source_type": "企业官方发布",
+    "source_type": "企业官方新闻中心",
     "title": "Kazakhstan Expands Compute for Its AI Future",
     "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
     "published_at": "2026-10-23T02:00:13+00:00",
-    "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment.  The shift is visible across the full AI stack — from infrastructure to models to applications.  Together, the ecosystem announcements below point to the nation’s increasing supply of accelerated computing — along with its growing demand for what comes next. Read All NVIDIA in Europe […]",
+    "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation’s increasing supply of accelerated computing — along with its growing demand for what comes next. Read All NVIDIA in Europe […]",
     "tags": [
       "AI算力"
     ],
@@ -31,7 +674,7 @@
     "id": "4ab186bcd5d93e27",
     "source_id": "nvidia",
     "source_name": "NVIDIA",
-    "source_type": "企业官方发布",
+    "source_type": "企业官方新闻中心",
     "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
     "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
     "published_at": "2026-10-22T05:00:56+00:00",
@@ -45,7 +688,7 @@
     "id": "9ba8426e373d1daa",
     "source_id": "nvidia",
     "source_name": "NVIDIA",
-    "source_type": "企业官方发布",
+    "source_type": "企业官方新闻中心",
     "title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
     "url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
     "published_at": "2026-10-21T10:33:00+00:00",
@@ -56,24 +699,253 @@
     "collected_at": "2026-11-03T07:30:17.365519+00:00"
   },
   {
+    "id": "27318488041474e8",
+    "source_id": "semiconductor-engineering",
+    "source_name": "半导体工程·光子专题 / Semiconductor Engineering",
+    "source_type": "海外新闻与深度观察",
+    "title": "Scaling CPO Testing Beyond A Single Die",
+    "url": "https://semiengineering.com/scaling-cpo-testing-beyond-a-single-die/",
+    "published_at": "2026-10-21T07:01:32+00:00",
+    "summary": "Fiber alignment, connector durability, and simultaneous optical and electrical testing pose challenges for high-volume manufacturing.",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:39.526082+00:00"
+  },
+  {
+    "id": "bc323ea5ee743e77",
+    "source_id": "laser-focus-world",
+    "source_name": "激光世界 / Laser Focus World",
+    "source_type": "海外新闻与深度观察",
+    "title": "Quantum dot lasers may unlock next era of AI optical interconnects",
+    "url": "https://www.laserfocusworld.com/lasers-sources/article/55412860/veeco-instruments-inc-quantum-dot-lasers-may-unlock-next-era-of-ai-optical-interconnects",
+    "published_at": "2026-10-21T04:00:00+00:00",
+    "summary": "A misconception about quantum dot lasers (QDLs) is they’re poised to replace indium phosphide (InP) technology. But InP externally modulated lasers (EMLs) will continue serving optical networking and datacom applications, while QDLs emerge for applications that require power efficiency, thermal resilience, and integration density.",
+    "tags": [
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-03T08:15:35.515543+00:00"
+  },
+  {
+    "id": "c4958506701a8276",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "圣何塞OCP 2026看AI光互联核心进步趋势",
+    "url": "https://www.c-fol.net/news/7_202610/20261021101443.html",
+    "published_at": "2026-10-21T00:00:00+00:00",
+    "summary": "光纤在线讯：微软、甲骨文也承认，如果放弃可插拔模块形态，单点故障会造成更大范围影响。谁能把 FIT 失效率（每十亿器件小时失效次数）降下来、完善测试方案，谁就更有机会拿到大批量订单。",
+    "tags": [
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:15:44.666114+00:00"
+  },
+  {
+    "id": "627a3a0d26e28628",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "专访汉态智造：以定制化熔接方案赋能光器件制造国产化",
+    "url": "https://www.c-fol.net/news/5_202610/20261020145906.html",
+    "published_at": "2026-10-20T00:00:00+00:00",
+    "summary": "光纤在线讯：面向光器件场景的定制化特种熔接解决方案，是汉态技术价值的集中体现",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:47.608130+00:00"
+  },
+  {
+    "id": "537d794f086dfe19",
+    "source_id": "lightwave",
+    "source_name": "光波在线 / Lightwave",
+    "source_type": "海外新闻与深度观察",
+    "title": "ECOC 2026: Marvell on how optical interconnect will spur the next generation of AI",
+    "url": "https://www.lightwaveonline.com/optical-tech/video/55412561/2026-ecoc-marvell",
+    "published_at": "2026-10-17T00:00:00+00:00",
+    "summary": "To reach next-gen AI, hyperscalers need to address three fundamental challenges: enabling high bandwidth, enabling lower power, and running at production scale. Marvell notes ...",
+    "tags": [
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:15:36.160431+00:00"
+  },
+  {
+    "id": "2374fe82fdb0c8ba",
+    "source_id": "laser-focus-world",
+    "source_name": "激光世界 / Laser Focus World",
+    "source_type": "海外新闻与深度观察",
+    "title": "Choosing the right gain fiber for your laser or amplifier",
+    "url": "https://www.laserfocusworld.com/sponsored/article/55411857/choosing-the-right-gain-fiber-for-your-laser-or-amplifier",
+    "published_at": "2026-10-15T00:00:00+00:00",
+    "summary": "As a long-standing partner to equipment manufacturers, Exail leverages decades of industrial expertise to help engineers select an active fiber with properties matching the specific...",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:37.057668+00:00"
+  },
+  {
+    "id": "9c028132791f4c00",
+    "source_id": "lightwave",
+    "source_name": "光波在线 / Lightwave",
+    "source_type": "海外新闻与深度观察",
+    "title": "PCIe 6.0 Raises the Bar for High-Speed Interconnect Testing",
+    "url": "https://www.lightwaveonline.com/white-papers/whitepaper/55411601/pcie-60-raises-the-bar-for-high-speed-interconnect-testing",
+    "published_at": "2026-10-15T00:00:00+00:00",
+    "summary": "As bandwidth doubles and PAM4 enters the PCIe ecosystem, calibration, link training, signal integrity, and error analysis become increasingly critical—and the path toward PCIe...",
+    "tags": [
+      "数据中心互联",
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-03T08:15:36.006632+00:00"
+  },
+  {
+    "id": "024c143d1fe2e554",
+    "source_id": "laser-focus-world",
+    "source_name": "激光世界 / Laser Focus World",
+    "source_type": "海外新闻与深度观察",
+    "title": "Buy vs. build a laser beam analysis solution: 11 considerations",
+    "url": "https://www.laserfocusworld.com/test-measurement/article/55410268/ophir-an-mks-brand-buy-vs-build-a-laser-beam-analysis-solution-11-considerations",
+    "published_at": "2026-10-14T04:00:00+00:00",
+    "summary": "Should you buy or build a laser beam analyzer? Navigate the hidden complexity behind this question by exploring 11 key considerations.",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:35.516633+00:00"
+  },
+  {
+    "id": "7dc244ab658a5f03",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "专访博众半导体：订单排至2027年 从共晶贴片到光模块全栈智造",
+    "url": "https://www.c-fol.net/news/5_202610/20261014073611.html",
+    "published_at": "2026-10-14T00:00:00+00:00",
+    "summary": "光纤在线讯：用六年时间走出了一条从单机设备供应商到光通信封装自动化系统解决方案服务商的升级之路。",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:15:48.609495+00:00"
+  },
+  {
+    "id": "c9e36039b80c25f2",
+    "source_id": "laser-focus-world",
+    "source_name": "激光世界 / Laser Focus World",
+    "source_type": "海外新闻与深度观察",
+    "title": "Don't miss Laser Focus World’s PhotonicsNXT 2026 virtual event!",
+    "url": "https://www.laserfocusworld.com/resources/media-gallery/55411422/dont-miss-laser-focus-worlds-photonicsnxt-2026-virtual-event",
+    "published_at": "2026-10-13T14:00:08+00:00",
+    "summary": "PhotonicsNXT brings the optics, photonics, and quantum community together for a 2-day series of educational presentations covering a range of advances, innovations, and applications.",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:35.517197+00:00"
+  },
+  {
     "id": "1d5da900ff35da85",
     "source_id": "marvell",
     "source_name": "Marvell",
-    "source_type": "企业官方发布",
+    "source_type": "企业官方新闻中心",
     "title": "Marvell Bolsters Connectivity Portfolio with New 3.2T Protocol-aware Retimer and Second-generation 1.6T AEC DSP",
     "url": "https://www.marvell.com/company/newsroom/marvell-connectivity-portfolio-3-2t-retimer-second-generation-1-6t-aec-dsp.html",
     "published_at": "2026-10-13T00:00:00+00:00",
     "summary": "Marvell launches the Alaska E 3.2T protocol-aware retimer and second-gen Alaska A 1.6T AEC DSP, built for 224G/lane AI scale-up infrastructure. Now sampling.",
     "tags": [
-      "光模块"
+      "光模块",
+      "高速电互联"
     ],
     "collected_at": "2026-11-03T07:30:18.140164+00:00"
+  },
+  {
+    "id": "a83cebd8c8cb8a05",
+    "source_id": "laser-focus-world",
+    "source_name": "激光世界 / Laser Focus World",
+    "source_type": "海外新闻与深度观察",
+    "title": "Are high-power laser diodes ready to power inertial fusion energy?",
+    "url": "https://www.laserfocusworld.com/lasers-sources/article/55410022/leonardo-electronics-us-inc-are-high-power-laser-diodes-ready-to-power-inertial-fusion-energy",
+    "published_at": "2026-10-12T04:00:00+00:00",
+    "summary": "As inertial fusion energy moves from scientific breakthrough to commercial reality, scalable and cost-effective laser hardware is the key to moving from laboratory demonstrations to viable power plants—and low-cost, fusion-grade laser diodes can be manufactured at scale in Arizona to anchor a global inertial fusion energy supply chain.",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:35.518246+00:00"
+  },
+  {
+    "id": "93324b53f3607db9",
+    "source_id": "marvell",
+    "source_name": "Marvell",
+    "source_type": "企业官方新闻中心",
+    "title": "Marvell Unveils Second-generation Structera X, Industry-first Six-channel CXL 3.2 Memory Expanders for AI Inference",
+    "url": "https://www.marvell.com/company/newsroom/marvell-structera-x-cxl-3-2-memory-expanders-ai-inference.html",
+    "published_at": "2026-10-12T00:00:00+00:00",
+    "summary": "Marvell Structera X 3406 & 3506: industry-first six-channel CXL 3.2 memory expanders for AI inference, with up to 9TB per controller.",
+    "tags": [
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-03T08:15:36.508965+00:00"
+  },
+  {
+    "id": "19719219af9b88dc",
+    "source_id": "lumentum",
+    "source_name": "Lumentum",
+    "source_type": "企业官方新闻中心",
+    "title": "Financial Lumentum, Astera Labs, and Corning to Demonstrate 1060 nm VCSEL-Based PCIe over Optics for AI Rack-Scale Connectivity at the 2026 OCP Global Summit October 12, 2026 Read More",
+    "url": "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Astera-Labs-and-Corning-to-Demonstrate-1060-nm-VCSEL-Based-PCIe-over-Optics-for-AI-Rack-Scale-Connectivity-at-the-2026-OCP-Global-Summit/default.aspx",
+    "published_at": "2026-10-12T00:00:00+00:00",
+    "summary": "Lumentum Holdings Inc. (NASDAQ: LITE), Astera Labs, Inc. (NASDAQ: ALAB), and Corning Incorporated (NYSE: GLW) today announced a joint demonstration of PCIe-over-optics connectivity for AI rack-scale architectures at the 2026 OCP Global Summit in San Jose, California. The rack-level demonstration combines an Astera Labs Scorpio Smart Fabric Switch with Lumentum's 1060 nm VCSEL-based optical interconnect platform and Corning multimode fiber connectivity. The demonstration will be available at Aste",
+    "tags": [
+      "光芯片/器件",
+      "数据中心互联",
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-03T08:15:36.394068+00:00"
+  },
+  {
+    "id": "d7d69f56618c7a51",
+    "source_id": "lightwave",
+    "source_name": "光波在线 / Lightwave",
+    "source_type": "海外新闻与深度观察",
+    "title": "Ethernet optical transceiver set to grow 120% in 2026",
+    "url": "https://www.lightwaveonline.com/home/news/55410716/ethernet-optical-transceiver-set-to-grow-120-in-2026",
+    "published_at": "2026-10-08T20:50:51+00:00",
+    "summary": "A new LightCounting report attributes the growth trajectory to rising cloud company capex spending that has not let up since the start of the year.",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:15:35.216558+00:00"
+  },
+  {
+    "id": "f086aa21d0c76efe",
+    "source_id": "semiconductor-engineering",
+    "source_name": "半导体工程·光子专题 / Semiconductor Engineering",
+    "source_type": "海外新闻与深度观察",
+    "title": "CPO Testing Faces A Moving Target Problem",
+    "url": "https://semiengineering.com/cpo-testing-faces-a-moving-target-problem/",
+    "published_at": "2026-10-08T07:01:36+00:00",
+    "summary": "Test vendors are adapting to changing connector architectures and extreme alignment tolerances as co-packaged optics heads toward mainstream.",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:40.841454+00:00"
+  },
+  {
+    "id": "0157d3fd22b530e9",
+    "source_id": "laser-focus-world",
+    "source_name": "激光世界 / Laser Focus World",
+    "source_type": "海外新闻与深度观察",
+    "title": "From pixels to optical links: MicroLEDs pivot to copackaged optics",
+    "url": "https://www.laserfocusworld.com/optics/article/55409336/yole-group-from-pixels-to-optical-links-microleds-pivot-to-copackaged-optics",
+    "published_at": "2026-10-08T04:00:00+00:00",
+    "summary": "A surge of interest in micro-light-emitting diode (microLED) copackaged optics (CPO) solutions reflects several advantages but shouldn’t overshadow the technological challenges that remain.",
+    "tags": [
+      "CPO",
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:35.519055+00:00"
   },
   {
     "id": "3e496d395644100e",
     "source_id": "marvell",
     "source_name": "Marvell",
-    "source_type": "企业官方发布",
+    "source_type": "企业官方新闻中心",
     "title": "Marvell to Showcase Open AI Infrastructure Solutions at OCP Global Summit 2026",
     "url": "https://www.marvell.com/company/newsroom/marvell-open-ai-infrastructure-ocp-global-summit-2026.html",
     "published_at": "2026-10-08T00:00:00+00:00",
@@ -85,10 +957,24 @@
     "collected_at": "2026-11-03T07:30:18.241061+00:00"
   },
   {
+    "id": "7a7001e58074f25b",
+    "source_id": "laser-focus-world",
+    "source_name": "激光世界 / Laser Focus World",
+    "source_type": "海外新闻与深度观察",
+    "title": "PODCAST: The Photonics Roundup",
+    "url": "https://www.laserfocusworld.com/resources/podcast/55410296/podcast-the-photonics-roundup",
+    "published_at": "2026-10-07T16:50:39+00:00",
+    "summary": "This episode of Following the Photons: A Photonics Podcast features our latest photonics roundup, including happenings at Laser Focus World.",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:35.519536+00:00"
+  },
+  {
     "id": "b1f0416b6e83b5ec",
     "source_id": "lumentum",
     "source_name": "Lumentum",
-    "source_type": "企业官方发布",
+    "source_type": "企业官方新闻中心",
     "title": "Financial Lumentum to Demonstrate DWDM ELSFP Laser Module for OCI MSA Applications at ECOC 2026 September 21, 2026 Read More",
     "url": "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-to-Demonstrate-DWDM-ELSFP-Laser-Module-for-OCI-MSA-Applications-at-ECOC-2026/default.aspx",
     "published_at": "2026-09-21T00:00:00+00:00",
@@ -97,7 +983,8 @@
       "NPO",
       "CPO",
       "光芯片/器件",
-      "数据中心互联"
+      "数据中心互联",
+      "网络与交换"
     ],
     "collected_at": "2026-11-03T07:30:19.088771+00:00"
   },
@@ -105,10 +992,10 @@
     "id": "e4bdc2671ebf5bc7",
     "source_id": "marvell",
     "source_name": "Marvell",
-    "source_type": "企业官方发布",
+    "source_type": "企业官方新闻中心",
     "title": "Marvell to Showcase Industry-First 2nm Optical Technology Demos for AI Data Center Infrastructure at ECOC 2026",
     "url": "https://www.marvell.com/company/newsroom/marvell-industry-first-2nm-optical-technology-ai-data-center-infrastructure-ecoc-2026.html",
-    "published_at": "2026-09-20T00:00:00+00:00",
+    "published_at": "2026-09-21T00:00:00+00:00",
     "summary": "Marvell showcases industry-first 2nm optical technology demos at ECOC 2026, including 400G/lane PAM4, 800G ZR/ZR+ and 1.6T coherent solutions for scalable AI infrastructure.",
     "tags": [
       "AI算力",
@@ -117,15 +1004,61 @@
     "collected_at": "2026-11-03T07:30:18.450320+00:00"
   },
   {
+    "id": "abe5a4c829285666",
+    "source_id": "lumentum",
+    "source_name": "Lumentum",
+    "source_type": "企业官方新闻中心",
+    "title": "Financial Lumentum, Qualcomm, and Corning to Demonstrate High-Density 1060 nm VCSEL Optical D2D Connectivity for AI Scale-Up at ECOC 2026 September 21, 2026 Read More",
+    "url": "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Qualcomm-and-Corning-to-Demonstrate-High-Density-1060-nm-VCSEL-Optical-D2D-Connectivity-for-AI-Scale-Up-at-ECOC-2026/default.aspx",
+    "published_at": "2026-09-21T00:00:00+00:00",
+    "summary": "Joint demonstration showcases a massively parallel optical die-to-die architecture designed to extend high-bandwidth, low-power, low-latency connectivity over multimode fiber Lumentum Holdings Inc. (“Lumentum”) today announced plans for a joint demonstration together with Qualcomm Technologies, Inc. and Corning Incorporated (NYSE: GLW) of a high-density die-to-die (D2D) optical interconnect showcase for AI scale-up architectures at ECOC 2026. The board-level demonstration will combine a D2D inte",
+    "tags": [
+      "NPO",
+      "CPO",
+      "光芯片/器件",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:15:36.534969+00:00"
+  },
+  {
+    "id": "8cf6293f3e0ff591",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "汇信特：把DCI功耗做到行业一半，我们靠什么？",
+    "url": "https://fiber.ofweek.com/2026-09/ART-8200-2100-30704052.html",
+    "published_at": "2026-09-20T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:15:43.178320+00:00"
+  },
+  {
+    "id": "c7f9cb68e117dac9",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "400G/800G时代MPO连接器应用趋势与配套检测工具发展",
+    "url": "https://fiber.ofweek.com/2026-09/ART-210001-8210-30703606.html",
+    "published_at": "2026-09-17T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:15:44.823356+00:00"
+  },
+  {
     "id": "d419dc4c8a32714d",
     "source_id": "accelink",
     "source_name": "光迅科技",
-    "source_type": "企业官方发布",
+    "source_type": "企业官方新闻中心",
     "title": "2026-09-10 光引未来·大咖说｜对话张博：AI算力时代，光迅科技如何布局光互联下一代技术？",
     "url": "https://www.accelink.com/lighting_your_dreams/2097981713174003713.html",
     "published_at": "2026-09-10T00:00:00+00:00",
-    "summary": "光迅科技  |  让光引领梦想",
+    "summary": "光迅科技 | 让光引领梦想",
     "tags": [
+      "AI算力",
       "数据中心互联"
     ],
     "collected_at": "2026-11-03T07:30:23.657407+00:00"
@@ -134,21 +1067,37 @@
     "id": "c0f9a1e7f12b6936",
     "source_id": "accelink",
     "source_name": "光迅科技",
-    "source_type": "企业官方发布",
+    "source_type": "企业官方新闻中心",
     "title": "2026-09-10 从可插拔到NPO，AI算力的\"新基石\"",
     "url": "https://www.accelink.com/lighting_your_dreams/2097980012266291201.html",
     "published_at": "2026-09-10T00:00:00+00:00",
-    "summary": "光迅科技  |  让光引领梦想",
+    "summary": "光迅科技 | 让光引领梦想",
     "tags": [
+      "AI算力",
       "NPO"
     ],
     "collected_at": "2026-11-03T07:30:25.273499+00:00"
   },
   {
+    "id": "15440f0df1f59b76",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "赋能AI高速数通！度亘核芯重磅推出100G PAM4 CWDM EML芯片及COC器件，全面护航400G-FR4/800G-FR8数据中心光互连",
+    "url": "https://fiber.ofweek.com/2026-09/ART-210001-8210-30702544.html",
+    "published_at": "2026-09-10T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光模块",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:15:46.138724+00:00"
+  },
+  {
     "id": "c068b29f7e149402",
     "source_id": "marvell",
     "source_name": "Marvell",
-    "source_type": "企业官方发布",
+    "source_type": "企业官方新闻中心",
     "title": "Marvell to Showcase End-to-End AI Data Center Connectivity Portfolio at AI Infra Summit 2026",
     "url": "https://www.marvell.com/company/newsroom/marvell-ai-data-center-connectivity-ai-infra-summit-2026.html",
     "published_at": "2026-09-09T00:00:00+00:00",
@@ -159,32 +1108,402 @@
     "collected_at": "2026-11-03T07:30:18.548485+00:00"
   },
   {
+    "id": "958d183646cdfb94",
+    "source_id": "accelink",
+    "source_name": "光迅科技",
+    "source_type": "企业官方新闻中心",
+    "title": "2026-09-08 光迅科技马卫东：以“全”与“深”夯实AI智算光连接能力",
+    "url": "https://www.accelink.com/lighting_your_dreams/2097618134646161410.html",
+    "published_at": "2026-09-08T00:00:00+00:00",
+    "summary": "光迅科技 | 让光引领梦想",
+    "tags": [
+      "AI算力"
+    ],
+    "collected_at": "2026-11-03T08:15:39.250890+00:00"
+  },
+  {
     "id": "dfa8321ac2d5ff33",
     "source_id": "accelink",
     "source_name": "光迅科技",
-    "source_type": "企业官方发布",
+    "source_type": "企业官方新闻中心",
     "title": "2026-09-04 3.2T 到 6.4T NPO，光迅科技重新定义智算 “光速度”！",
     "url": "https://www.accelink.com/lighting_your_dreams/2099380687655174145.html",
     "published_at": "2026-09-04T00:00:00+00:00",
-    "summary": "光迅科技  |  让光引领梦想",
+    "summary": "光迅科技 | 让光引领梦想",
     "tags": [
       "NPO"
     ],
     "collected_at": "2026-11-03T07:30:26.275992+00:00"
   },
   {
+    "id": "f9b24b8093af7f23",
+    "source_id": "gazettabyte",
+    "source_name": "光通信深度观察 / Gazettabyte",
+    "source_type": "海外新闻与深度观察",
+    "title": "Quintessent emerges from stealth with a comb laser for AI’s scale-up era",
+    "url": "https://gazettabyte.com/quintessent-emerges-from-stealth-with-a-comb-laser-for-ais-scale-up-era/",
+    "published_at": "2026-08-24T13:36:09+00:00",
+    "summary": "The post Quintessent emerges from stealth with a comb laser for AI’s scale-up era appeared first on Gazettabyte .",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:33.606578+00:00"
+  },
+  {
+    "id": "fd75143baebe254c",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "中际旭创电话会：1．6T领先、NPO有望于2027年交付",
+    "url": "https://fiber.ofweek.com/2026-08/ART-8200-2100-30699767.html",
+    "published_at": "2026-08-24T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "NPO"
+    ],
+    "collected_at": "2026-11-03T08:15:47.055781+00:00"
+  },
+  {
+    "id": "43fa67345b435f8d",
+    "source_id": "gazettabyte",
+    "source_name": "光通信深度观察 / Gazettabyte",
+    "source_type": "海外新闻与深度观察",
+    "title": "Lumentum promotes both VCSELs and indium phosphide lasers for co-packaged optics",
+    "url": "https://gazettabyte.com/lumentum-promotes-both-vcsels-and-indium-phosphide-lasers-for-co-packaged-optics/",
+    "published_at": "2026-08-12T06:44:35+00:00",
+    "summary": "The post Lumentum promotes both VCSELs and indium phosphide lasers for co-packaged optics appeared first on Gazettabyte .",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:33.607531+00:00"
+  },
+  {
+    "id": "dafaaa33317d69f0",
+    "source_id": "semiconductor-engineering",
+    "source_name": "半导体工程·光子专题 / Semiconductor Engineering",
+    "source_type": "海外新闻与深度观察",
+    "title": "CPO Test Won’t Scale Without Standardization",
+    "url": "https://semiengineering.com/cpo-test-wont-scale-without-standardization/",
+    "published_at": "2026-08-11T07:01:56+00:00",
+    "summary": "Across the CPO ecosystem, profitability will not happen until standardization occurs.",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:42.138720+00:00"
+  },
+  {
+    "id": "27db2b9901b926e3",
+    "source_id": "gazettabyte",
+    "source_name": "光通信深度观察 / Gazettabyte",
+    "source_type": "海外新闻与深度观察",
+    "title": "Lightwave Logic looks to augment silicon photonics in the race for 400G optics",
+    "url": "https://gazettabyte.com/lightwave-logic-looks-to-augment-silicon-photonics-in-the-race-for-400g-optics/",
+    "published_at": "2026-07-22T09:45:32+00:00",
+    "summary": "",
+    "tags": [
+      "光模块",
+      "硅光"
+    ],
+    "collected_at": "2026-11-03T08:15:35.282988+00:00"
+  },
+  {
+    "id": "8769e3a53baca80a",
+    "source_id": "semiconductor-engineering",
+    "source_name": "半导体工程·光子专题 / Semiconductor Engineering",
+    "source_type": "海外新闻与深度观察",
+    "title": "Co-Packaged Optics Testing Faces Steep Data Center Ramp",
+    "url": "https://semiengineering.com/co-packaged-optics-testing-faces-steep-data-center-ramp/",
+    "published_at": "2026-06-09T07:02:59+00:00",
+    "summary": "Scaling to tens of millions of CPO units per year requires the industry to first settle on automated, cost-effective methods for electrical and optical testing.",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:43.410316+00:00"
+  },
+  {
     "id": "cf290e84f33ee2ad",
     "source_id": "innolight",
     "source_name": "中际旭创",
-    "source_type": "企业官方发布",
+    "source_type": "企业官方新闻中心",
     "title": "新闻 关于“光互联论坛”及“中际旭创董事长演讲”虚假信息的严正声明 2026-05-30",
     "url": "https://www.zj-innolight.com/cn/newsinfo/231.html",
     "published_at": "2026-05-30T00:00:00+00:00",
     "summary": "中际旭创是全球领先的高速光互连解决方案提供商，专注于为云计算及AI基础设施提供高速光互连产品。公司产品覆盖10G至1.6T全系列，在400G、800G及1.6T等高速光模块领域保持全球领先。根据灼识咨询，自2021年起，公司已连续五年位居全球光互连解决方案市场收入规模第一。",
     "tags": [
+      "AI算力",
       "光模块",
       "数据中心互联"
     ],
     "collected_at": "2026-11-03T07:30:21.156368+00:00"
+  },
+  {
+    "id": "c7e77c1a4c843b42",
+    "source_id": "semiconductor-engineering",
+    "source_name": "半导体工程·光子专题 / Semiconductor Engineering",
+    "source_type": "海外新闻与深度观察",
+    "title": "Silicon Photonics Lights The Way To More Efficient Data Centers",
+    "url": "https://semiengineering.com/silicon-photonics-lights-the-way-to-more-efficient-data-centers/",
+    "published_at": "2026-04-16T07:08:26+00:00",
+    "summary": "Optical is the future, but getting there is harder than it looks.",
+    "tags": [
+      "硅光"
+    ],
+    "collected_at": "2026-11-03T08:15:44.737642+00:00"
+  },
+  {
+    "id": "294fb9703d2d284d",
+    "source_id": "laser-focus-world",
+    "source_name": "激光世界 / Laser Focus World",
+    "source_type": "海外新闻与深度观察",
+    "title": "The race for laser-driven fusion energy heats up",
+    "url": "https://www.laserfocusworld.com/lasers-sources/article/55368239/the-race-for-laser-driven-fusion-energy-heats-up",
+    "published_at": "2026-04-06T00:00:00+00:00",
+    "summary": "Is putting carbon-free laser-driven fusion energy on the grid by the 2030s possible?",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:36.007471+00:00"
+  },
+  {
+    "id": "47f0ade768f7f7f2",
+    "source_id": "semiconductor-engineering",
+    "source_name": "半导体工程·光子专题 / Semiconductor Engineering",
+    "source_type": "海外新闻与深度观察",
+    "title": "CPO Is Extending The Limits Of What’s Possible In AI Data Centers",
+    "url": "https://semiengineering.com/cpo-is-extending-the-limits-of-whats-possible-in-ai-data-centers/",
+    "published_at": "2026-03-12T07:03:08+00:00",
+    "summary": "Co-packaged optics technology will have a big impact on system power and the cost of data movement.",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:46.123676+00:00"
+  },
+  {
+    "id": "ab7773234c9261fb",
+    "source_id": "semiconductor-engineering",
+    "source_name": "半导体工程·光子专题 / Semiconductor Engineering",
+    "source_type": "海外新闻与深度观察",
+    "title": "Laser Arrays May Simplify Co-Packaged Optics",
+    "url": "https://semiengineering.com/laser-arrays-may-simplify-co-packaged-optics/",
+    "published_at": "2026-02-19T08:02:22+00:00",
+    "summary": "Monolithic tunable lasers can adapt statically and dynamically.",
+    "tags": [
+      "CPO",
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:47.445281+00:00"
+  },
+  {
+    "id": "163b0afd9156063f",
+    "source_id": "fibereality",
+    "source_name": "光通信市场观察 / fibeReality",
+    "source_type": "市场研究机构",
+    "title": "Linear Drive Optics Modules: Marketing Tactics in Conflict",
+    "url": "https://www.fibereality.com/linear-drive-optics-modules-marketing-tactics-in-conflict/",
+    "published_at": "2023-03-19T19:06:36+00:00",
+    "summary": "At OFC 2023, the real buzz should have been about the mounting public support by vendors of the form factor, OSFP-XD, which will ultimately lead to a substantial amount of revenue for the marketplace in the future. Additionally, what could easily be perceived as an apparent repudiation of co-packaged optics in favor of pluggables by… Continue reading Linear Drive Optics Modules: Marketing Tactics in Conflict",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:43.613283+00:00"
+  },
+  {
+    "id": "bc634903d1a2ee45",
+    "source_id": "fibereality",
+    "source_name": "光通信市场观察 / fibeReality",
+    "source_type": "市场研究机构",
+    "title": "400ZR+ and Arbitrarily Locked-In Narrative",
+    "url": "https://www.fibereality.com/400zr-and-arbitrarily-locked-in-narrative/",
+    "published_at": "2022-07-29T16:38:59+00:00",
+    "summary": "Despite the unequivocal remarks on not currently planning to use 400ZR+ or necessarily for that matter, even higher capacity, inter-data center ZR modules by Ashish Vengsarkar, Head of Optical Networking Technologies, Google, USA, as the keynote speaker at the Data Center Summit of OFC 2022, there strikingly appears to be very little impact on the… Continue reading 400ZR+ and Arbitrarily Locked-In Narrative",
+    "tags": [
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-03T08:15:43.614974+00:00"
+  },
+  {
+    "id": "6b6a7febe4fbfa9c",
+    "source_id": "fibereality",
+    "source_name": "光通信市场观察 / fibeReality",
+    "source_type": "市场研究机构",
+    "title": "Broadcom on CPO/NPO: Countervailing Theories",
+    "url": "https://www.fibereality.com/broadcom-on-cpo-npo-countervailing-theories/",
+    "published_at": "2022-06-24T19:16:57+00:00",
+    "summary": "Last October, fibeReality wrote an article defending a proposition that Broadcom’s big expenditure push for co-packaged optics has been based on a bluff. Since that time, we have received other postulates from our contacts, one of the most intriguing being that the supplier is so involved with near package optics/CPO because of the hardships in… Continue reading Broadcom on CPO/NPO: Countervailing Theories",
+    "tags": [
+      "NPO",
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:43.616706+00:00"
+  },
+  {
+    "id": "b6f4e5e4c5df4b78",
+    "source_id": "fibereality",
+    "source_name": "光通信市场观察 / fibeReality",
+    "source_type": "市场研究机构",
+    "title": "Lumentum/NeoPhotonics: Revenue Pressures",
+    "url": "https://www.fibereality.com/lumentum-neophotonics-revenue-pressures/",
+    "published_at": "2021-12-11T15:07:05+00:00",
+    "summary": "The implications for the inability of Lumentum to acquire Coherent, despite the financial benefits in failing to do so, have become increasingly profound for the former. Obviously, a successful purchase of Coherent would have ameliorated difficulties on the industrial laser side. More critically, the announcement of the buyout of NeoPhotonics represents a shift in focus… Continue reading Lumentum/NeoPhotonics: Revenue Pressures",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:43.618987+00:00"
+  },
+  {
+    "id": "66a0ec48e13ec096",
+    "source_id": "fibereality",
+    "source_name": "光通信市场观察 / fibeReality",
+    "source_type": "市场研究机构",
+    "title": "Comment on PAM4 vs NRZ: Growing Irrelevance of Standards Bodies by Hadrien",
+    "url": "https://www.fibereality.com/pam4-vs-nrz-growing-irrelevance-of-standards-bodies/",
+    "published_at": "2021-10-29T07:16:00+00:00",
+    "summary": "Hi Mark, Regarding point 7: 400G-DR4, -FR4 are single-mode PMDs, while IEEE 802.3db deals with (VCSEL-based) multimode optical interface. This is confusing.",
+    "tags": [
+      "光模块",
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:44.859128+00:00"
+  },
+  {
+    "id": "214999ce1b2538eb",
+    "source_id": "fibereality",
+    "source_name": "光通信市场观察 / fibeReality",
+    "source_type": "市场研究机构",
+    "title": "Comment on Broadcom’s Big Bluff on CPO by Isabel de Sousa",
+    "url": "https://www.fibereality.com/broadcoms-big-bluff-on-cpo/",
+    "published_at": "2021-10-28T19:51:58+00:00",
+    "summary": "An interesting analysis, but scaling down the energy consumption is ranking high in datacenter operations unfortunately it will come around with technological disruptions.",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:44.859792+00:00"
+  },
+  {
+    "id": "ab5e165273246bbe",
+    "source_id": "fibereality",
+    "source_name": "光通信市场观察 / fibeReality",
+    "source_type": "市场研究机构",
+    "title": "Our Optical Realizations in Bordeaux",
+    "url": "https://www.fibereality.com/our-optical-realizations-in-bordeaux/",
+    "published_at": "2021-09-19T10:39:12+00:00",
+    "summary": "It was so much fun to speak in person at ECOC 2021 and directly make eye contract with individuals in a live audience rather than doing it through the impersonal nature of a Zoom conference. This writer immediately stated the inherent uneasiness in comparing two solutions head to head, OSFP-XD and co-packaged optics, which both… Continue reading Our Optical Realizations in Bordeaux",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:43.621902+00:00"
+  },
+  {
+    "id": "5d5f4feae36c0711",
+    "source_id": "fibereality",
+    "source_name": "光通信市场观察 / fibeReality",
+    "source_type": "市场研究机构",
+    "title": "Microsoft/Facebook Will Never Deploy Co-Packaged Optics as Defined",
+    "url": "https://www.fibereality.com/microsoft-facebook-will-never-deploy-co-packaged-optics/",
+    "published_at": "2021-03-17T16:20:00+00:00",
+    "summary": "Co-Packaged Optics (CPO) is a serious risk to the well-being of the photonics industry, which can ill-afford the expenditure of such valuable resources. The",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:46.287293+00:00"
+  },
+  {
+    "id": "586349fbdf449a1d",
+    "source_id": "gazettabyte",
+    "source_name": "光通信深度观察 / Gazettabyte",
+    "source_type": "海外新闻与深度观察",
+    "title": "Comment on Silicon photonics: concerns but viable and still evolving by Roy Rubenstein",
+    "url": "https://gazettabyte.com/2017-7-14-silicon-photonics-concerns-but-viable-and-still-evolving-html/",
+    "published_at": "2017-07-17T07:17:39+00:00",
+    "summary": "<p>Martijn Heck (via LinkedIn): \"The price-performance figure commonly floated is one dollar per gigabit but current 100-gigabit pluggable modules, whether using indium phosphide or silicon photonics, are several times more costly than that. \"</p><p>In a world of exponential growth, 'several' means we're almost there. This is a very insightful report, and it is good to highlight the competition around the globe. Of cousre I am biased, since this is my field, but governments and policy makers nee",
+    "tags": [
+      "硅光"
+    ],
+    "collected_at": "2026-11-03T08:15:33.743565+00:00"
+  },
+  {
+    "id": "daf85084f949f828",
+    "source_id": "pic-magazine",
+    "source_name": "光子集成电路杂志 / PIC Magazine",
+    "source_type": "海外新闻与深度观察",
+    "title": "Wiwynn, Ayar Labs and GUC demonstrate CPO",
+    "url": "https://picmagazine.net/article/125615/Wiwynn_Ayar_Labs_and_GUC_demonstrate_CPO",
+    "published_at": "",
+    "summary": "PIC Magazine",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:34.300759+00:00"
+  },
+  {
+    "id": "0ed636c1cf68b648",
+    "source_id": "pic-magazine",
+    "source_name": "光子集成电路杂志 / PIC Magazine",
+    "source_type": "海外新闻与深度观察",
+    "title": "Micas unveils 102.4T CPO switch",
+    "url": "https://picmagazine.net/article/125604/Micas_unveils_1024T_CPO_switch",
+    "published_at": "",
+    "summary": "PIC Magazine",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:35.156412+00:00"
+  },
+  {
+    "id": "af376338beeb41f7",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "+ Milestones The defining moments that shaped networking, telecom, cloud and AI infrastructure. Explore →",
+    "url": "https://convergedigest.com/milestones/",
+    "published_at": "",
+    "summary": "The Network History Project Milestones From the first electric telegraph to this year’s AI fabrics â€” every founding, standard, breakthrough, IPO, and regulatory earthquake that built the connected world, in one vault. 📅 Today in network history The Converge Digest History Exam 🎯 Guess the Year Five milestones from the vault, years redacted. Slide, commit, […]",
+    "tags": [
+      "AI算力",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-03T08:15:35.805693+00:00"
+  },
+  {
+    "id": "821242c47e41cd9f",
+    "source_id": "compound-semiconductor",
+    "source_name": "化合物半导体 / Compound Semiconductor",
+    "source_type": "海外新闻与深度观察",
+    "title": "2.75GHz record bandwidth for GaN microLED",
+    "url": "https://compoundsemiconductor.net/article/125685/275GHz_record_bandwidth_for_GaN_microLED",
+    "published_at": "",
+    "summary": "Our selection of industry specific magazines cover a large range of topics.",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:33.648040+00:00"
+  },
+  {
+    "id": "5ac96397c95abc38",
+    "source_id": "semiconductor-today",
+    "source_name": "今日半导体 / Semiconductor Today",
+    "source_type": "海外新闻与深度观察",
+    "title": "Blue Laser Fusion raises $34m in private placement",
+    "url": "https://semiconductor-today.com/news_items/2026/nov/blue-laser-fusion-021126.shtml",
+    "published_at": "",
+    "summary": "Firm to scale deployment of high-power pulsed lasers in directed-energy defense and fusion energy applications",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:33.528157+00:00"
+  },
+  {
+    "id": "805a5da820b7dd9a",
+    "source_id": "laser-focus-world",
+    "source_name": "激光世界 / Laser Focus World",
+    "source_type": "海外新闻与深度观察",
+    "title": "Schematic of the group’s multilayer photonic device that integrates a laser-programmable Sb2S3 phase-change layer and an UV-patterned humidity-responsive hydrogel. Optical information is encoded within the Sb2S3 layer via reversible amorphous-crystalline transitions using focused laser pulses.",
+    "url": "https://www.laserfocusworld.com/optics/article/55405946/optical-data-storage-approach-dynamically-conceals-reveals-images",
+    "published_at": "",
+    "summary": "A three-layer photonic device combines phase-change materials with hydrogels to enable reversible, full-color image multiplexing for high-density optical storage devices via ambient...",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:15:37.409352+00:00"
   }
 ]

@@ -1,69 +1,465 @@
 {
-  "run_at": "2026-11-03T07:32:02.714542+00:00",
+  "run_at": "2026-11-03T08:16:04.661704+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
+      "source": "光通信深度观察 / Gazettabyte",
+      "source_id": "gazettabyte",
+      "url": "https://gazettabyte.com/",
+      "group": "海外新闻与深度观察",
+      "found": 5,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "光子集成电路杂志 / PIC Magazine",
+      "source_id": "pic-magazine",
+      "url": "https://picmagazine.net/news",
+      "group": "海外新闻与深度观察",
+      "found": 2,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "网络与光互联资讯 / Converge Digest",
+      "source_id": "converge-digest",
+      "url": "https://convergedigest.com/",
+      "group": "海外新闻与深度观察",
+      "found": 19,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "半导体工程·光子专题 / Semiconductor Engineering",
+      "source_id": "semiconductor-engineering",
+      "url": "https://semiengineering.com/knowledge_centers/data-movement/photonics/",
+      "group": "海外新闻与深度观察",
+      "found": 9,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "化合物半导体 / Compound Semiconductor",
+      "source_id": "compound-semiconductor",
+      "url": "https://compoundsemiconductor.net/home",
+      "group": "海外新闻与深度观察",
+      "found": 1,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "今日半导体 / Semiconductor Today",
+      "source_id": "semiconductor-today",
+      "url": "https://semiconductor-today.com/",
+      "group": "海外新闻与深度观察",
+      "found": 1,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "激光世界 / Laser Focus World",
+      "source_id": "laser-focus-world",
+      "url": "https://www.laserfocusworld.com/home",
+      "group": "海外新闻与深度观察",
+      "found": 14,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "光波在线 / Lightwave",
+      "source_id": "lightwave",
+      "url": "https://www.lightwaveonline.com/",
+      "group": "海外新闻与深度观察",
+      "found": 5,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "光学网 / optics.org",
+      "source_id": "optics-org",
+      "url": "https://optics.org/",
+      "group": "海外新闻与深度观察",
+      "found": 2,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
       "source": "NVIDIA",
+      "source_id": "nvidia",
+      "url": "https://nvidianews.nvidia.com/",
+      "group": "企业官方新闻中心",
       "found": 3,
       "errors": [],
-      "status": "ok",
-      "url": "https://nvidianews.nvidia.com/"
+      "warnings": [],
+      "status": "ok"
     },
     {
       "source": "Broadcom",
+      "source_id": "broadcom",
+      "url": "https://investors.broadcom.com/financial-information/financial-news-releases",
+      "group": "企业官方新闻中心",
       "found": 0,
       "errors": [
         "403 Client Error: Forbidden for url: https://investors.broadcom.com/financial-information/financial-news-releases"
       ],
-      "status": "error",
-      "url": "https://investors.broadcom.com/financial-information/financial-news-releases"
+      "warnings": [],
+      "status": "error"
     },
     {
       "source": "Marvell",
-      "found": 4,
+      "source_id": "marvell",
+      "url": "https://www.marvell.com/company/newsroom/press-releases.html",
+      "group": "企业官方新闻中心",
+      "found": 5,
       "errors": [],
-      "status": "ok",
-      "url": "https://www.marvell.com/company/newsroom/press-releases.html"
+      "warnings": [],
+      "status": "ok"
     },
     {
       "source": "Coherent",
+      "source_id": "coherent",
+      "url": "https://ir.coherent.com/news-events/corporate-releases",
+      "group": "企业官方新闻中心",
       "found": 0,
       "errors": [
         "403 Client Error: Forbidden for url: https://ir.coherent.com/news-events/corporate-releases"
       ],
-      "status": "error",
-      "url": "https://ir.coherent.com/news-events/corporate-releases"
+      "warnings": [],
+      "status": "error"
     },
     {
       "source": "Lumentum",
-      "found": 1,
+      "source_id": "lumentum",
+      "url": "https://www.lumentum.com/en/newsroom/news-releases",
+      "group": "企业官方新闻中心",
+      "found": 3,
       "errors": [],
-      "status": "ok",
-      "url": "https://www.lumentum.com/en/newsroom/news-releases"
+      "warnings": [],
+      "status": "ok"
     },
     {
       "source": "中际旭创",
+      "source_id": "innolight",
+      "url": "https://www.zj-innolight.com/cn/news.html",
+      "group": "企业官方新闻中心",
       "found": 1,
       "errors": [],
-      "status": "ok",
-      "url": "https://www.zj-innolight.com/cn/news.html"
+      "warnings": [],
+      "status": "ok"
     },
     {
       "source": "新易盛",
+      "source_id": "eoptolink",
+      "url": "https://www.eoptolink.com/cn/",
+      "group": "企业官方新闻中心",
       "found": 0,
-      "errors": [
-        "来源返回异常内容，已停止采集，请人工核验官网"
-      ],
-      "status": "error",
-      "url": "https://www.eoptolink.com/cn/"
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "光迅科技",
-      "found": 4,
+      "source_id": "accelink",
+      "url": "https://www.accelink.com/lighting_your_dreams/xinwenzixun.html",
+      "group": "企业官方新闻中心",
+      "found": 5,
       "errors": [],
-      "status": "ok",
-      "url": "https://www.accelink.com/lighting_your_dreams/xinwenzixun.html"
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "巨潮资讯网 / CNINFO",
+      "source_id": "cninfo",
+      "url": "https://www.cninfo.com.cn/",
+      "group": "证券信息披露平台",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "manual",
+      "note": "已保留公告入口；需配置关注公司及股票代码后，才能定向自动采集。"
+    },
+    {
+      "source": "上海证券交易所 / SSE",
+      "source_id": "sse",
+      "url": "https://www.sse.com.cn/",
+      "group": "证券信息披露平台",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "manual",
+      "note": "已保留公告入口；需配置关注公司及股票代码后，才能定向自动采集。"
+    },
+    {
+      "source": "香港交易所披露易 / HKEXnews",
+      "source_id": "hkexnews",
+      "url": "https://www.hkexnews.hk/index_c.htm",
+      "group": "证券信息披露平台",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "manual",
+      "note": "已保留公告入口；需配置关注公司及股票代码后，才能定向自动采集。"
+    },
+    {
+      "source": "美国证监会公告库 / SEC EDGAR",
+      "source_id": "sec-edgar",
+      "url": "https://www.sec.gov/edgar/search/",
+      "group": "证券信息披露平台",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "manual",
+      "note": "已保留公告入口；需配置关注公司及股票代码后，才能定向自动采集。"
+    },
+    {
+      "source": "光互联论坛 / OIF",
+      "source_id": "oif",
+      "url": "https://www.oiforum.com/",
+      "group": "技术标准与学术研究",
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.oiforum.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.oiforum.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "以太网联盟 / Ethernet Alliance",
+      "source_id": "ethernet-alliance",
+      "url": "https://ethernetalliance.org/",
+      "group": "技术标准与学术研究",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "电气电子工程师学会数字图书馆 / IEEE Xplore",
+      "source_id": "ieee-xplore",
+      "url": "https://ieeexplore.ieee.org/",
+      "group": "技术标准与学术研究",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "manual",
+      "note": "已保留学术检索入口；需限定期刊或检索式并接入授权接口，暂不自动抓取。"
+    },
+    {
+      "source": "美国光学学会出版平台 / Optica Publishing Group",
+      "source_id": "optica-publishing-group",
+      "url": "https://opg.optica.org/",
+      "group": "技术标准与学术研究",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "manual",
+      "note": "已保留学术检索入口；需限定期刊或检索式并接入授权接口，暂不自动抓取。"
+    },
+    {
+      "source": "C114通信网 / C114",
+      "source_id": "c114",
+      "url": "https://www.c114.com.cn/",
+      "group": "国内行业媒体",
+      "found": 1,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "维科网光通讯 / OFweek",
+      "source_id": "ofweek",
+      "url": "https://fiber.ofweek.com/",
+      "group": "国内行业媒体",
+      "found": 8,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "讯石光通讯网 / ICCSZ",
+      "source_id": "iccsz",
+      "url": "https://www.iccsz.com/",
+      "group": "国内行业媒体",
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.iccsz.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.iccsz.com', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "光纤在线 / C-FOL",
+      "source_id": "c-fol",
+      "url": "https://www.c-fol.net/",
+      "group": "国内行业媒体",
+      "found": 8,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "光通信市场观察 / fibeReality",
+      "source_id": "fibereality",
+      "url": "https://www.fibereality.com/blog/",
+      "group": "市场研究机构",
+      "found": 8,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "光计数市场研究 / LightCounting",
+      "source_id": "lightcounting",
+      "url": "https://www.lightcounting.com/",
+      "group": "市场研究机构",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "德洛罗研究集团 / Dell’Oro Group",
+      "source_id": "dell-oro-group",
+      "url": "https://www.delloro.com/",
+      "group": "市场研究机构",
+      "found": 1,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "奥姆迪亚 / Omdia",
+      "source_id": "omdia",
+      "url": "https://omdia.tech.informa.com/",
+      "group": "市场研究机构",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "半导体分析 / SemiAnalysis",
+      "source_id": "semianalysis",
+      "url": "https://semianalysis.com/",
+      "group": "市场研究机构",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "36氪 / 36Kr",
+      "source_id": "36kr",
+      "url": "https://36kr.com/",
+      "group": "科技与商业媒体",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "虎嗅 / Huxiu",
+      "source_id": "huxiu",
+      "url": "https://www.huxiu.com/",
+      "group": "科技与商业媒体",
+      "found": 1,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "钛媒体 / TMTPost",
+      "source_id": "tmtpost",
+      "url": "https://www.tmtpost.com/",
+      "group": "科技与商业媒体",
+      "found": 1,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "智东西 / Zhidx",
+      "source_id": "zhidx",
+      "url": "https://www.zhidx.com/",
+      "group": "科技与商业媒体",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "半导体行业观察",
+      "source_id": "wechat-1",
+      "url": "https://mp.weixin.qq.com/s/tZrF8XzVAgbBXZhokYuDww",
+      "group": "微信公众号",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "manual",
+      "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
+    },
+    {
+      "source": "讯石光通讯",
+      "source_id": "wechat-2",
+      "url": "https://mp.weixin.qq.com/s/gPhf9Q8zFiZ9jJ5cglMhdg",
+      "group": "微信公众号",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "manual",
+      "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
+    },
+    {
+      "source": "光纤在线",
+      "source_id": "wechat-3",
+      "url": "https://mp.weixin.qq.com/s/mguv3Xxub9UXTtdkAmlhrA",
+      "group": "微信公众号",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "manual",
+      "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
+    },
+    {
+      "source": "半导体产业纵横",
+      "source_id": "wechat-4",
+      "url": "https://mp.weixin.qq.com/s/b-tACnh4_QahOzs6weXqww",
+      "group": "微信公众号",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "manual",
+      "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
+    },
+    {
+      "source": "芯东西",
+      "source_id": "wechat-5",
+      "url": "https://mp.weixin.qq.com/s/NuMnsnfr0aydk4hojqV18g",
+      "group": "微信公众号",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "manual",
+      "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
     }
   ],
-  "total_stored": 13
+  "total_stored": 103,
+  "configured": 43,
+  "automatic": 32
 }
