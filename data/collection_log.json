@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-03T08:22:54.868719+00:00",
+  "run_at": "2026-11-03T08:33:05.164811+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -230,10 +230,12 @@
       "source_id": "oif",
       "url": "https://www.oiforum.com/",
       "group": "技术标准与学术研究",
-      "found": 1,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.oiforum.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.oiforum.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "以太网联盟 / Ethernet Alliance",
@@ -381,11 +383,10 @@
       "url": "https://www.huxiu.com/",
       "group": "科技与商业媒体",
       "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "钛媒体 / TMTPost",
@@ -463,11 +464,304 @@
       "warnings": [],
       "status": "manual",
       "note": "当前为单篇微信文章入口，尚无持续订阅源；可从同名媒体官网采集公开新闻。"
+    },
+    {
+      "source": "DigiTimes",
+      "source_id": "digitimes",
+      "url": "https://www.digitimes.com/",
+      "group": "海外新闻与深度观察",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "manual",
+      "note": "已加入入口；持续数据采集需取得相应授权，付费全文不采集。"
+    },
+    {
+      "source": "EE Times",
+      "source_id": "eetimes",
+      "url": "https://www.eetimes.com/",
+      "group": "海外新闻与深度观察",
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.eetimes.com', port=443): Read timed out. (read timeout=12)"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "TechInsights",
+      "source_id": "techinsights",
+      "url": "https://www.techinsights.com/resources/blogs",
+      "group": "市场研究机构",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "Yole Group",
+      "source_id": "yole",
+      "url": "https://www.yolegroup.com/articles/",
+      "group": "市场研究机构",
+      "found": 0,
+      "errors": [
+        "页面未返回可解析的新闻列表"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "TrendForce 集邦咨询",
+      "source_id": "trendforce",
+      "url": "https://www.trendforce.com/news/",
+      "group": "市场研究机构",
+      "found": 2,
+      "errors": [],
+      "warnings": [
+        "RSS不可用，尝试页面新闻列表"
+      ],
+      "status": "ok"
+    },
+    {
+      "source": "The Elec",
+      "source_id": "the-elec",
+      "url": "https://www.thelec.net/news/articleList.html",
+      "group": "海外新闻与深度观察",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "ETNews 电子新闻",
+      "source_id": "etnews",
+      "url": "https://en.etnews.com/",
+      "group": "海外新闻与深度观察",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "半导体产业纵横",
+      "source_id": "icviews",
+      "url": "https://www.icviews.cn/",
+      "group": "国内半导体媒体",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "半导体行业观察（与非网作者页）",
+      "source_id": "semiinsights-eefocus",
+      "url": "https://www.eefocus.com/user/3897748/article/",
+      "group": "国内半导体媒体",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "与非网",
+      "source_id": "eefocus",
+      "url": "https://www.eefocus.com/",
+      "group": "国内半导体媒体",
+      "found": 1,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "电子工程专辑",
+      "source_id": "eet-china",
+      "url": "https://www.eet-china.com/",
+      "group": "国内半导体媒体",
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.eet-china.com', port=443): Read timed out. (read timeout=12)"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "集微网",
+      "source_id": "laoyaoba",
+      "url": "https://www.laoyaoba.com/",
+      "group": "国内半导体媒体",
+      "found": 5,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "NIST CHIPS 美国半导体产业投资",
+      "source_id": "nist-chips",
+      "url": "https://www.nist.gov/chips/chips-news-releases",
+      "group": "北美产业投资与融资",
+      "found": 1,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "SIA 美国半导体行业协会",
+      "source_id": "sia",
+      "url": "https://www.semiconductors.org/chip-supply-chain-investments/",
+      "group": "北美产业投资与融资",
+      "found": 0,
+      "errors": [
+        "403 Client Error: Forbidden for url: https://www.semiconductors.org/chip-supply-chain-investments/"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "TechCrunch 创业与融资",
+      "source_id": "techcrunch",
+      "url": "https://techcrunch.com/",
+      "group": "北美产业投资与融资",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "Intel 英特尔新闻中心",
+      "source_id": "intel",
+      "url": "https://newsroom.intel.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [
+        "403 Client Error: Forbidden for url: https://corpredirect.intel.com/Redirector/404Redirector.aspx?404;https://newsroom.intel.com/"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "AMD 新闻中心",
+      "source_id": "amd",
+      "url": "https://www.amd.com/en/newsroom.html",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "Cisco 思科新闻中心",
+      "source_id": "cisco",
+      "url": "https://newsroom.cisco.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "Lightmatter",
+      "source_id": "lightmatter",
+      "url": "https://lightmatter.co/blog/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "Ayar Labs",
+      "source_id": "ayar-labs",
+      "url": "https://ayarlabs.com/news/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [
+        "520 Server Error: <none> for url: https://ayarlabs.com/news/"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "Ranovus",
+      "source_id": "ranovus",
+      "url": "https://ranovus.com/news/",
+      "group": "企业官方新闻中心",
+      "found": 10,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "imec 微电子研究中心",
+      "source_id": "imec",
+      "url": "https://www.imec-int.com/en/press",
+      "group": "技术标准与学术研究",
+      "found": 0,
+      "errors": [
+        "404 Client Error: Not Found for url: https://www.imec-int.com/en/press"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "OFC 光通信大会",
+      "source_id": "ofc",
+      "url": "https://www.ofcconference.org/",
+      "group": "会议与展会",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "ECOC 欧洲光通信展",
+      "source_id": "ecoc",
+      "url": "https://www.ecocexhibition.com/",
+      "group": "会议与展会",
+      "found": 0,
+      "errors": [
+        "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "OCP 开放计算项目",
+      "source_id": "ocp",
+      "url": "https://www.opencompute.org/news",
+      "group": "会议与展会",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "CIOE 中国光博会",
+      "source_id": "cioe",
+      "url": "https://www.cioe.cn/news.html",
+      "group": "会议与展会",
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.cioe.cn', port=443): Max retries exceeded with url: /news.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cioe.cn', port=443) at 0x7fd6f47ec550>, 'Connection to www.cioe.cn timed out. (connect timeout=6)')"
+      ],
+      "warnings": [],
+      "status": "error"
     }
   ],
-  "total_stored": 109,
-  "editorial_selected": 57,
-  "rules_version": "2026-11-03.1",
-  "configured": 43,
-  "automatic": 32
+  "total_stored": 129,
+  "editorial_selected": 77,
+  "rules_version": "2026-11-03.2",
+  "pending_title_translations": 13,
+  "configured": 69,
+  "automatic": 57
 }
