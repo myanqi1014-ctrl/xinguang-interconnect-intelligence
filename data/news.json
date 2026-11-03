@@ -12,6 +12,9 @@
       "CPO"
     ],
     "collected_at": "2026-11-03T08:15:35.724152+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -22,7 +25,7 @@
       "co-packaged optics"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "共封装光学（CPO）进展观察",
     "translation_status": "ready"
   },
@@ -47,9 +50,10 @@
       "laser"
     ],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "0224eea013ff93c2",
@@ -78,9 +82,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "876d7a4ba23411fe",
@@ -103,9 +108,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "97a99d6f068ef979",
@@ -121,6 +127,9 @@
       "光芯片/器件"
     ],
     "collected_at": "2026-11-03T08:15:39.785643+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -132,7 +141,7 @@
       "光芯片"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "东山精密：计划未来并行销售光模块和光芯片 11/3 11:32",
     "translation_status": "ready"
   },
@@ -150,6 +159,9 @@
       "数据中心互联"
     ],
     "collected_at": "2026-11-03T08:15:41.181382+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -161,7 +173,7 @@
       "CPO"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "英伟达OOI：CPO之后的下一代光互连原型亮相",
     "translation_status": "ready"
   },
@@ -178,6 +190,9 @@
       "光模块"
     ],
     "collected_at": "2026-11-03T08:15:42.207883+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -189,7 +204,7 @@
       "1.6T"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "【每日科创】联讯仪器：给1.6T光模块“体检”的人",
     "translation_status": "ready"
   },
@@ -212,9 +227,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "15:38 黑石总裁JonGray：对AI基础设施赛道信心十足，算力需求远超供给",
-    "translation_status": "ready"
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
   },
   {
     "id": "dc7f5d84f12f782f",
@@ -227,6 +243,9 @@
     "summary": "",
     "tags": [],
     "collected_at": "2026-11-03T08:22:38.043185+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -238,7 +257,7 @@
       "光纤"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "光通信Q3季报一览｜长飞光纤、亨通光电、源杰科技等",
     "translation_status": "ready"
   },
@@ -253,6 +272,9 @@
     "summary": "",
     "tags": [],
     "collected_at": "2026-11-03T08:32:32.917082+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -263,7 +285,7 @@
       "光通信"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "迈威尔1150亿美元收购Lumentum，全球光通信产业整合提速",
     "translation_status": "ready"
   },
@@ -290,9 +312,10 @@
       "optical interconnect"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "美国初创企业获得Micro-LED光互联芯片首笔商业订单",
-    "translation_status": "ready"
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
   },
   {
     "id": "248f9901585f39ad",
@@ -313,9 +336,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "199a229ae0c5d941",
@@ -336,6 +360,9 @@
       "网络与交换"
     ],
     "collected_at": "2026-11-03T08:15:34.932793+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -346,7 +373,7 @@
       "silicon photonics"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "硅光业务快速增长，Tower瞄准2026年20亿美元营收目标",
     "translation_status": "ready"
   },
@@ -369,9 +396,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "187b8163f55082ee",
@@ -392,9 +420,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "0be9b10d915e70bc",
@@ -415,9 +444,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "a8cee7f58e655df0",
@@ -439,9 +469,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "d2f8452ffcd198bb",
@@ -462,9 +493,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "AI算力爆发，电网扛不住了，储能价值被点燃",
-    "translation_status": "ready"
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
   },
   {
     "id": "8e2b786ec72f04c3",
@@ -489,9 +521,10 @@
       "光器件"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "算力驱动，光器件龙头业绩连涨",
-    "translation_status": "ready"
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
   },
   {
     "id": "5b4307a7f2d4d3d0",
@@ -506,6 +539,9 @@
       "CPO"
     ],
     "collected_at": "2026-11-03T08:15:41.804503+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯",
@@ -517,7 +553,7 @@
       "CPO"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "富士康技术日：CPO技术迈向商业化量产",
     "translation_status": "ready"
   },
@@ -535,6 +571,9 @@
       "光芯片/器件"
     ],
     "collected_at": "2026-11-03T08:15:43.063079+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -546,7 +585,7 @@
       "硅光"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "向光五十载，启新三百亿｜光迅科技高端光电子及硅光芯片器件产业化项目开工",
     "translation_status": "ready"
   },
@@ -570,9 +609,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "b4592aff5a121816",
@@ -594,9 +634,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "b255ccb0f797c4db",
@@ -614,6 +655,9 @@
       "数据中心互联"
     ],
     "collected_at": "2026-11-03T08:15:35.186294+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -624,7 +668,7 @@
       "optical communication"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "意法半导体光通信业务增长46%",
     "translation_status": "ready"
   },
@@ -650,9 +694,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "8a7ac83435b8be05",
@@ -673,9 +718,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "bdb6eb896c7706d6",
@@ -696,9 +742,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "da8bc407d1bafcdc",
@@ -724,9 +771,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "9d466c0bf8be6338",
@@ -747,9 +795,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "de0adba42815456d",
@@ -772,9 +821,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "3b10e5b9cfde29eb",
@@ -789,6 +839,9 @@
       "NPO"
     ],
     "collected_at": "2026-11-03T08:15:33.603537+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -799,7 +852,7 @@
       "near-packaged optics"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "NewPhotonics看好近封装光学（NPO）的长期前景",
     "translation_status": "ready"
   },
@@ -823,9 +876,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "0730375da1665b55",
@@ -848,9 +902,10 @@
       "laser"
     ],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "9582fad879e554f3",
@@ -873,9 +928,10 @@
       "laser"
     ],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "8f4da4ed8bce0976",
@@ -896,9 +952,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "马来西亚PCOM 在AI数据中心时代的转型与思考",
-    "translation_status": "ready"
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
   },
   {
     "id": "62315a26ffbc3c43",
@@ -921,9 +978,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "020af58da6593d8c",
@@ -945,7 +1003,40 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
+  },
+  {
+    "id": "a63f0e6e14fd6bf4",
+    "source_id": "scintil",
+    "source_name": "Scintil Photonics",
+    "source_type": "企业官方新闻中心",
+    "title": "Notes From OCP: Agnostic on the Package, Practical About the Laser",
+    "url": "https://www.scintil-photonics.com/post/notes-from-ocp-agnostic-on-the-package-practical-about-the-laser",
+    "published_at": "2026-10-29T10:18:03.503000+00:00",
+    "summary": "Laser supply is tightening and reshaping optical interconnects. CEO Matt Crowley shares OCP insights on NPO, CPO and multiwavelength DWDM.",
+    "tags": [
+      "NPO",
+      "CPO",
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:51:30.384895+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
     "translation_status": "pending"
   },
@@ -962,6 +1053,9 @@
       "光模块"
     ],
     "collected_at": "2026-11-03T08:15:45.662875+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯",
@@ -975,9 +1069,37 @@
       "1.6T"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "专访光盛通：订单爆满后，800G/1.6T光模块结构件进入批量交付阶段",
     "translation_status": "ready"
+  },
+  {
+    "id": "4f096e2b9224f0be",
+    "source_id": "lightwave",
+    "source_name": "光波在线 / Lightwave",
+    "source_type": "海外新闻与深度观察",
+    "title": "AFL’s FlowScout MPO OLTS takes on data centers’ accelerated rollout objectives",
+    "url": "https://www.lightwaveonline.com/data-center/video/55415300/afls-flowscout-mpo-olts-takes-on-data-centers-accelerated-rollout-objectives",
+    "published_at": "2026-10-29T00:00:00+00:00",
+    "summary": "Arun Jain, director of product management and product marketing for AFL's test and inspection group, discusses how its FlowScout MPO OLTS is resonating with its data center customer...",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:00.579765+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "MPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "4f3a4c26dbca70fb",
@@ -992,6 +1114,9 @@
       "CPO"
     ],
     "collected_at": "2026-11-03T08:15:35.512930+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "知识科普与深度洞察"
@@ -1002,7 +1127,7 @@
       "CPO"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "如果基板供应链跟不上，CPO标准化也难奏效",
     "translation_status": "ready"
   },
@@ -1027,9 +1152,10 @@
       "Micro-LED"
     ],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "694315cb3b7767f5",
@@ -1045,6 +1171,9 @@
       "光模块"
     ],
     "collected_at": "2026-11-03T08:15:46.875002+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯",
@@ -1056,7 +1185,7 @@
       "光模块"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "专访麦克斯：抢抓AI算力风口，落地咸宁高新区，打造高速光模块量产新阵地",
     "translation_status": "ready"
   },
@@ -1081,9 +1210,10 @@
       "光通信"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "预付款翻了十倍，光通信模组厂在抢什么？",
-    "translation_status": "ready"
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
   },
   {
     "id": "ff39d310a5e5dd8b",
@@ -1106,9 +1236,10 @@
       "laser"
     ],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "09b1c00eacb0470b",
@@ -1135,9 +1266,10 @@
       "NPO"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "CPO/NPO产业化：产品在跑，系统在验，上游在卡",
-    "translation_status": "ready"
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
   },
   {
     "id": "90c3031fd113ee7b",
@@ -1158,9 +1290,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "4fd73b51eea9ac0d",
@@ -1175,6 +1308,9 @@
       "CPO"
     ],
     "collected_at": "2026-11-03T08:15:38.230059+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -1185,7 +1321,7 @@
       "co-packaged optics"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "降低共封装光学（CPO）的测试成本",
     "translation_status": "ready"
   },
@@ -1210,9 +1346,10 @@
       "laser"
     ],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "89cef502f8ede3f0",
@@ -1227,6 +1364,9 @@
       "光芯片/器件"
     ],
     "collected_at": "2026-11-03T07:30:23.279327+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -1238,7 +1378,7 @@
       "光器件"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "2026-10-26 \"芯\"突破 · \"器\"长红｜光迅科技荣登光芯片、光器件双赛道全球及中国十强榜单",
     "translation_status": "ready"
   },
@@ -1261,9 +1401,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "167b465db506276e",
@@ -1276,6 +1417,9 @@
     "summary": "光纤在线讯：英伟达下一轮供应链超级周期：基板产能提升 2.5 倍、光引擎产能扩张 15 倍，以及 AI 工厂建设竞赛",
     "tags": [],
     "collected_at": "2026-11-03T08:22:42.236536+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -1286,9 +1430,71 @@
       "光通信"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "光通信股价大涨两周年：柏林GTC焦点转向供应链",
     "translation_status": "ready"
+  },
+  {
+    "id": "315346dbf87407d7",
+    "source_id": "anritsu",
+    "source_name": "安立 Anritsu",
+    "source_type": "企业官方新闻中心",
+    "title": "Anritsu PCIe Measurement Solution Selected for High-Speed Interface Verification of Kioxia’s Next-Generation Enterprise SSDs",
+    "url": "https://www.anritsu.com/en-gb/test-measurement/news/news-releases/2026/2026-10-23-gb01",
+    "published_at": "2026-10-23T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-03T08:51:35.097190+00:00",
+    "company_scope": "related",
+    "company_segment": "封装制造与测试",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "PCIe"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "4251dc0a0f7943ca",
+    "source_id": "palomino",
+    "source_name": "Palomino Laboratories",
+    "source_type": "企业官方新闻中心",
+    "title": "Palomino Laboratories Inc. Receives Its First Commercial Purchase Order from a Hyperscaler Customer For GaN MicroLED Communication Chips Supporting AI Optical Interconnects",
+    "url": "https://palominolabs.ai/palomino-laboratories-inc-receives-its-first-commercial-purchase-order-from-a-hyperscaler-customer-for-gan-microled-communication-chips-supporting-ai-optical-interconnects/",
+    "published_at": "2026-10-22T11:00:00+00:00",
+    "summary": "Announcement Highlights: (i) First purchase order (PO) from a strategic AI Customer marks a key commercial milestone in the Company’s MicroLED optical interconnect business. (ii) PO includes a statement of work (SOW) for delivery of ultra high-performance MicroLED chips designed specifically for AI optical interconnects. (iii) Palomino is focusing on MicroLED performance, reliability and manufacturing […]",
+    "tags": [
+      "光芯片/器件",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:40.539802+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical interconnect",
+      "microLED"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "4ab186bcd5d93e27",
@@ -1309,9 +1515,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "9ba8426e373d1daa",
@@ -1332,9 +1539,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "27318488041474e8",
@@ -1349,6 +1557,9 @@
       "CPO"
     ],
     "collected_at": "2026-11-03T08:15:39.526082+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "知识科普与深度洞察"
@@ -1360,7 +1571,7 @@
       "testing"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "CPO测试如何从单颗芯片走向更大规模",
     "translation_status": "ready"
   },
@@ -1377,6 +1588,9 @@
       "网络与交换"
     ],
     "collected_at": "2026-11-03T08:15:35.515543+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -1387,7 +1601,7 @@
       "optical interconnect"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "量子点激光器或将开启AI光互联的下一个时代",
     "translation_status": "ready"
   },
@@ -1404,6 +1618,9 @@
       "数据中心互联"
     ],
     "collected_at": "2026-11-03T08:15:44.666114+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -1414,8 +1631,42 @@
       "光互联"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "圣何塞OCP 2026看AI光互联核心进步趋势",
+    "translation_status": "ready"
+  },
+  {
+    "id": "e74b75e903ab31db",
+    "source_id": "fiberhome",
+    "source_name": "烽火通信",
+    "source_type": "企业官方新闻中心",
+    "title": "Fiber for AI｜国内首次！800G多芯光模块+四芯光纤，烽火通信解锁高密度光互联新方案 2026.10.21",
+    "url": "https://www.fiberhome.com/xwzx/20261021/48526.html",
+    "published_at": "2026-10-21T00:00:00+00:00",
+    "summary": "烽火通信科技股份有限公司(股票代码:SH600498)主营业务立足于光通信,深入拓展至信息技术与通信技术融合而生的广泛领城,成为我国智慧城市,行业信息化,智能化应用等领域的核心企业",
+    "tags": [
+      "光模块",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:58.193413+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 84,
+    "matched_terms": [
+      "光互联",
+      "光模块",
+      "800G",
+      "光纤"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Fiber for AI｜国内首次！800G多芯光模块+四芯光纤，烽火通信解锁高密度光互联新方案 2026.10.21",
     "translation_status": "ready"
   },
   {
@@ -1441,9 +1692,10 @@
       "光器件"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "专访汉态智造：以定制化熔接方案赋能光器件制造国产化",
-    "translation_status": "ready"
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
   },
   {
     "id": "537d794f086dfe19",
@@ -1458,6 +1710,9 @@
       "数据中心互联"
     ],
     "collected_at": "2026-11-03T08:15:36.160431+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "热点问答"
@@ -1468,8 +1723,99 @@
       "optical interconnect"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "ECOC 2026：Marvell谈光互联如何推动下一代AI发展",
+    "translation_status": "ready"
+  },
+  {
+    "id": "41a9e609ee6fc604",
+    "source_id": "ruijie",
+    "source_name": "锐捷网络",
+    "source_type": "企业官方新闻中心",
+    "title": "2026年上半年中国800G数据中心 交换机市场占有率 排名第一 查看详情",
+    "url": "https://www.ruijie.com.cn/gy/xw-gs/931405/?utm_source=sybanner",
+    "published_at": "2026-10-16T00:00:00+00:00",
+    "summary": "锐捷网络：2026年上半年中国800G数据中心交换机市占率第一",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:51:41.254045+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "2026年上半年中国800G数据中心 交换机市场占有率 排名第一 查看详情",
+    "translation_status": "ready"
+  },
+  {
+    "id": "0193f4d8f91faced",
+    "source_id": "ruijie",
+    "source_name": "锐捷网络",
+    "source_type": "企业官方新闻中心",
+    "title": "AIGC智算场景800G交换机 800G 高密智算芯力量，无损低延速启 AI 未来",
+    "url": "https://www.ruijie.com.cn/cp/jh-shjzhx-sjzxhx/s699064oc2xs/?utm_source=sycp",
+    "published_at": "2026-10-16T00:00:00+00:00",
+    "summary": "RG-S6990-64OC2XS交换机是锐捷网络面向高端数据中心和AIGC智算场景推出的的新一代高性能、高密度盒式ROCE交换机。 RG-S6990-64OC2XS采用先进的硬件架构设计，提供64个800GE端口或者128个400GE端口，并兼容LPO光模块，2个10GE端口。所有端口均支持线速转发，支持冗余可插拔电源和风扇。支持锐捷智算解决方案RALB、AILB和ENLB负载均衡技术，提升AIGC智算场景下流量带宽，缩短AI训练时长。典型二级组网最大可支持4K卡(400G)规模集群，典型三级组网最大支持128K卡(400G)规模集群。支持RoCE配置一键部署，一键即可完成 ECN、PFC 等 RDMA 网络下复杂的配置导入，实现快速部署。",
+    "tags": [
+      "光模块",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:42.782718+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "AIGC智算场景800G交换机 800G 高密智算芯力量，无损低延速启 AI 未来",
+    "translation_status": "ready"
+  },
+  {
+    "id": "da53db56f7a86a02",
+    "source_id": "ruijie",
+    "source_name": "锐捷网络",
+    "source_type": "企业官方新闻中心",
+    "title": "配件 原厂光模块，电源模块，品质值得信赖",
+    "url": "https://www.ruijie.com.cn/cp/jh-gmk/?utm_source=sycp",
+    "published_at": "2026-10-16T00:00:00+00:00",
+    "summary": "锐捷交换机配件涵盖光模块、电源模块等产品，适配不同速率、距离和可靠性要求，为园区网与数据中心的链路扩展、设备供电和冗余保障提供匹配选择，便于网络平滑建设与升级。",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:51:43.961443+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "配件 原厂光模块，电源模块，品质值得信赖",
     "translation_status": "ready"
   },
   {
@@ -1493,9 +1839,10 @@
       "laser"
     ],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "9c028132791f4c00",
@@ -1511,6 +1858,9 @@
       "高速电互联"
     ],
     "collected_at": "2026-11-03T08:15:36.006632+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "知识科普与深度洞察"
@@ -1522,7 +1872,7 @@
       "testing"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "PCIe 6.0提高高速互联测试要求",
     "translation_status": "ready"
   },
@@ -1539,6 +1889,9 @@
       "硅光"
     ],
     "collected_at": "2026-11-03T08:32:46.022320+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -1550,7 +1903,7 @@
       "packaging"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "美国商务部与格芯修订CHIPS资助协议，重新分配9.55亿美元加速硅光、硅锗及先进封装投资",
     "translation_status": "ready"
   },
@@ -1575,9 +1928,10 @@
       "laser"
     ],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "7dc244ab658a5f03",
@@ -1603,9 +1957,10 @@
       "光模块"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "专访博众半导体：订单排至2027年 从共晶贴片到光模块全栈智造",
-    "translation_status": "ready"
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
   },
   {
     "id": "c9e36039b80c25f2",
@@ -1628,7 +1983,36 @@
       "laser"
     ],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
+  },
+  {
+    "id": "8ed9d2b6ccdaedae",
+    "source_id": "tower",
+    "source_name": "高塔半导体 Tower",
+    "source_type": "企业官方新闻中心",
+    "title": "Tower Semiconductor and Semtech Expand SiGe Partnership to Scale Power-Efficient Analog Connectivity for Data Centers",
+    "url": "https://towersemi.com/2026/10/13/10132026-2/",
+    "published_at": "2026-10-13T10:04:25+00:00",
+    "summary": "Home » Press Releases Tower Semiconductor and Semtech Expand SiGe Partnership to Scale Power-Efficient Analog Connectivity for Data Centers Multi-year agreement expands dedicated capacity across Tower’s global fab network to support the companies’ growth in optical and copper interconnects for next-generation AI infrastructure MIGDAL HAEMEK, Israel, and Camarillo, California, Oct. 13, 2026 – Tower Semiconductor (Nasdaq/TASE: […]",
+    "tags": [
+      "AI算力"
+    ],
+    "collected_at": "2026-11-03T08:51:29.743307+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [],
+    "selection_reason": "光通信专业企业的产品、合作或经营动态",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
     "translation_status": "pending"
   },
@@ -1646,6 +2030,9 @@
       "高速电互联"
     ],
     "collected_at": "2026-11-03T07:30:18.140164+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -1659,7 +2046,7 @@
       "retimer"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Marvell推出3.2T协议感知重定时器及第二代1.6T AEC DSP",
     "translation_status": "ready"
   },
@@ -1684,9 +2071,10 @@
       "laser"
     ],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "93324b53f3607db9",
@@ -1701,6 +2089,9 @@
       "高速电互联"
     ],
     "collected_at": "2026-11-03T08:15:36.508965+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -1711,7 +2102,7 @@
       "CXL"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Marvell发布面向AI推理的第二代Structera X六通道CXL 3.2内存扩展器",
     "translation_status": "ready"
   },
@@ -1730,6 +2121,9 @@
       "高速电互联"
     ],
     "collected_at": "2026-11-03T08:15:36.394068+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -1741,9 +2135,41 @@
       "VCSEL"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Lumentum、Astera Labs与康宁将在OCP 2026展示基于1060纳米VCSEL的PCIe光互联",
     "translation_status": "ready"
+  },
+  {
+    "id": "6ea9db940d282da3",
+    "source_id": "credosemi",
+    "source_name": "Credo",
+    "source_type": "企业官方新闻中心",
+    "title": "Press Release Credo Unveils 1.6T ZeroFlap Active Light Cable Read More",
+    "url": "https://investors.credosemi.com/news-events/news/news-details/2026/Credo-Unveils-1-6T-ZeroFlap-Active-Light-Cable-Industrys-First-Row-Scale-Wide-Parallel-Optical-Interconnect-for-AI-Data-Centers/default.aspx",
+    "published_at": "2026-10-12T00:00:00+00:00",
+    "summary": "Micro-Emitter-Based, Pluggable Solution Targets Scale-Out and Front-End Connectivity Up to 50m with Copper-Class Reliability at Lower Power and Reduced Cable Bulk Credo Technology Group Holding Ltd (Credo) (NASDAQ: CRDO), an innovator in providing connectivity at scale through fast, reliable, and energy-efficient system solutions, today shared details of its 1.6T ZeroFlap active light cable (ALC), the industry’s first row-scale, wide-parallel optical interconnect solution built for AI scale-out ",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:39.281715+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "d7d69f56618c7a51",
@@ -1758,6 +2184,9 @@
       "光模块"
     ],
     "collected_at": "2026-11-03T08:15:35.216558+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -1768,7 +2197,7 @@
       "optical transceiver"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "以太网光模块市场预计2026年增长120%",
     "translation_status": "ready"
   },
@@ -1785,6 +2214,9 @@
       "CPO"
     ],
     "collected_at": "2026-11-03T08:15:40.841454+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "知识科普与深度洞察"
@@ -1796,7 +2228,7 @@
       "testing"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "CPO测试面临目标持续变化的难题",
     "translation_status": "ready"
   },
@@ -1814,6 +2246,9 @@
       "光芯片/器件"
     ],
     "collected_at": "2026-11-03T08:15:35.519055+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -1824,7 +2259,7 @@
       "microLED"
     ],
     "selection_reason": "材料或器件主题同时具有互联应用背景",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "从像素到光链路：Micro-LED转向共封装光学",
     "translation_status": "ready"
   },
@@ -1848,7 +2283,39 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
+  },
+  {
+    "id": "745763008b00d158",
+    "source_id": "asteralabs",
+    "source_name": "Astera Labs",
+    "source_type": "企业官方新闻中心",
+    "title": "Astera Labs Announces Aries 7: Industry’s First PCIe 7 Signal Conditioning Portfolio Across Copper and Optical Interconnects",
+    "url": "https://www.asteralabs.com/news/astera-labs-announces-aries-7-industrys-first-pcie-7-signal-conditioning-portfolio-across-copper-and-optical-interconnects/",
+    "published_at": "2026-10-08T00:00:00+00:00",
+    "summary": "Purpose-built retimers, redrivers, cable modules, optical drivers, and optical transimpedance amplifiers (TIAs) to support diverse PCIe 7 connectivity in AI systems",
+    "tags": [
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-03T08:51:38.260457+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 56,
+    "matched_terms": [
+      "optical interconnect",
+      "PCIe"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
     "translation_status": "pending"
   },
@@ -1871,7 +2338,62 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
+  },
+  {
+    "id": "a54aff93e3857e30",
+    "source_id": "poet",
+    "source_name": "POET Technologies",
+    "source_type": "企业官方新闻中心",
+    "title": "Why Optical Interconnects Are the Next Big Thing in AI Chips October 6, 2026 Read Post",
+    "url": "https://www.poet-technologies.com/blog/why-optical-interconnects-are-the-next-big-thing-in-ai-chips",
+    "published_at": "2026-10-06T00:00:00+00:00",
+    "summary": "Read the blog post from POET Technologies posted on Oct 06, 2026",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:32.222961+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "热点问答"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical interconnect"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "9ef104c038f711ec",
+    "source_id": "sumitomo-electric",
+    "source_name": "住友电工",
+    "source_type": "企业官方新闻中心",
+    "title": "Sumitomo Electric Receives the 2026 Implementation of the Year Award from the IOWN Global Forum™ for Collaborative Remote Media Production Utilizing Open APN",
+    "url": "https://sumitomoelectric.com/press/2026/11/prs049",
+    "published_at": "2026-09-30T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:26.686358+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [],
+    "selection_reason": "光通信专业企业的产品、合作或经营动态",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
     "translation_status": "pending"
   },
@@ -1886,6 +2408,9 @@
     "summary": "光迅科技 | 让光引领梦想",
     "tags": [],
     "collected_at": "2026-11-03T08:22:34.981077+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -1896,8 +2421,74 @@
       "光通信"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "2026-09-22 光迅科技亮相ECOC 2026，共话AI时代光通信新未来",
+    "translation_status": "ready"
+  },
+  {
+    "id": "021db8876894bac0",
+    "source_id": "hisense-broadband",
+    "source_name": "海信宽带",
+    "source_type": "企业官方新闻中心",
+    "title": "09.23.2026 纳真科技（9856.HK）今日港股上市：国际资本赋能 AI 光互连产业加速腾飞 查看更多",
+    "url": "https://www.ligent.com.cn/about/news/258.html",
+    "published_at": "2026-09-22T00:00:00+00:00",
+    "summary": "9/22/2026，光纤在线讯，今日，全球领先的光通信与光连接全栈解决方案提供商、AI互连光芯片与高速光模块核心企业——纳真科技公司（股票代码：9856.HK）正式登陆香港联交所主板，成功开启国际化资本发展新征程。本次港股上市，标志着这家深耕光通信领域二十余年的行业龙头，正式借力国际资本，加速布局全球AI算力基础设施赛道。开启企业发展新纪元本次纳真科技全球发售股份17,201.47万股，另有不超过2,580.22万股超额配股权，股份发售价定为每股32.96港元，基础募集资金总额约56.70亿港元。深耕行业二十余载，打造AI算力核心“高速路网”据了解，纳真科技是业内稀缺的兼具AI互连光芯片、高速光模块自主研发与规模化量产能力的全栈解决方案服务商。公司自电信接入业务起步，历经二十余年深耕积淀与多轮战略迭代，从传统电信光通信企业，成功转型升级为全球AI算力基础设施建设的核心参与者与技术推动者。目前，公司已构建光芯片、高速光模块、光网络终端完整业务矩阵，产品全面覆盖AI智算、云计算等核心场景，广泛服务全球头部云服务商、电信设备供应商及通信运营商，完成全球化AI光互连平台企业的全面蜕变。根据弗若",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "光芯片/器件",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:25.393914+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互连"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "09.23.2026 纳真科技（9856.HK）今日港股上市：国际资本赋能 AI 光互连产业加速腾飞 查看更多",
+    "translation_status": "ready"
+  },
+  {
+    "id": "9f3a70111b4e3177",
+    "source_id": "hisense-broadband",
+    "source_name": "海信宽带",
+    "source_type": "企业官方新闻中心",
+    "title": "09.23.2026 2026云栖大会：纳真科技（股票代码：9856.HK）重磅参与全球首个商用SNPO光互连超节点开放生态 查看更多",
+    "url": "https://www.ligent.com.cn/about/news/257.html",
+    "published_at": "2026-09-22T00:00:00+00:00",
+    "summary": "ICC讯 杭州，2026年9月22日——在本届云栖大会上，全球全栈光通信解决方案提供商纳真科技（股票代码：9856.HK）展示其面向AI超节点Scale-Up场景的近封装光学（NPO）产品方案，以及在SNPO（Scale-Up NPO）开放标准生态的深度布局成果，携手产业伙伴共同推进机柜内高密度、高带宽GPU互连技术落地，支撑大模型时代大规模算力集群建设。由ODCC开放计算社区立项，阿里云牵头多家CSP、光通讯芯片和模块厂商共同成立的SNPO标准，是面向下一代超节点服务器的铜光兼容近封装光引擎规范，可适配3.2T/6.4T速率，解决传统AI服务器PCB主板布线难、工艺成本高的痛点，是现阶段大规模超节点集群务实的落地路线。纳真科技作为SNPO标准共建核心成员，深度参与接口规范、光电协同、可靠性等关键技术定义，自研3.2T硅光/多模NPO引擎与SNPO架构深度适配，可满足单层千卡超节点柜内低时延、高密度、高带宽互连需求。纳真科技本次展出的3.2T 硅光NPO产品采用自研大功率光芯片，无DSP线性直驱架构；3.2T多模NPO产品采用内置多模激光器和探测器，无DSP线性直驱架构。均采用LGA接",
+    "tags": [
+      "硅光",
+      "NPO",
+      "光芯片/器件",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:27.677209+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互连"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "09.23.2026 2026云栖大会：纳真科技（股票代码：9856.HK）重磅参与全球首个商用SNPO光互连超节点开放生态 查看更多",
     "translation_status": "ready"
   },
   {
@@ -1917,6 +2508,9 @@
       "网络与交换"
     ],
     "collected_at": "2026-11-03T07:30:19.088771+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -1927,7 +2521,7 @@
       "laser"
     ],
     "selection_reason": "材料或器件主题同时具有互联应用背景",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Lumentum将在ECOC 2026展示用于OCI MSA的DWDM ELSFP激光器模块",
     "translation_status": "ready"
   },
@@ -1951,9 +2545,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "abe5a4c829285666",
@@ -1971,6 +2566,9 @@
       "数据中心互联"
     ],
     "collected_at": "2026-11-03T08:15:36.534969+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -1981,8 +2579,36 @@
       "VCSEL"
     ],
     "selection_reason": "材料或器件主题同时具有互联应用背景",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Lumentum、高通与康宁将在ECOC 2026展示高密度1060纳米VCSEL芯片间光互联",
+    "translation_status": "ready"
+  },
+  {
+    "id": "e01b7a62feeb1fb1",
+    "source_id": "taclink",
+    "source_name": "德科立",
+    "source_type": "企业官方新闻中心",
+    "title": "ECOC 2026｜德科立携全系列光通信方案亮相马拉加",
+    "url": "https://gb.taclink.com/news_details/27.html",
+    "published_at": "2026-09-21T00:00:00+00:00",
+    "summary": "无锡市德科立光电子技术股份有限公司 无锡市德科立光电子技术股份有限公司，前身是无锡市中兴光电子技术有限公司，是一家专业从事光电子产品的研究、开发及生产和销售的高新技术企业，拥有一系列自主知识产权的先进技术和产品。",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:19.002497+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "ECOC 2026｜德科立携全系列光通信方案亮相马拉加",
     "translation_status": "ready"
   },
   {
@@ -2004,9 +2630,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "汇信特：把DCI功耗做到行业一半，我们靠什么？",
-    "translation_status": "ready"
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
   },
   {
     "id": "0f1c8e14ee20b169",
@@ -2019,6 +2646,9 @@
     "summary": "光迅科技 | 让光引领梦想",
     "tags": [],
     "collected_at": "2026-11-03T08:22:35.171795+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2030,9 +2660,74 @@
       "12.8T"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "2026-09-18 光迅科技12.8T XPO DR液冷实测，ECOC 2026现场见真章",
     "translation_status": "ready"
+  },
+  {
+    "id": "ce092dcd6e043250",
+    "source_id": "senko",
+    "source_name": "SENKO 扇港",
+    "source_type": "企业官方新闻中心",
+    "title": "SENKO and PHIX Advance European Photonics Packaging with a Serviceable Optical Interface for Multi-Chip Modules",
+    "url": "https://www.senko.com/senko-and-phix-advance-european-photonics-packaging-with-a-serviceable-optical-interface-for-multi-chip-modules/",
+    "published_at": "2026-09-17T12:47:56+00:00",
+    "summary": "MALAGA, Spain – September 17, 2026 – SENKO Advanced Components and PHIX Photonics Assembly today announced a collaborative solution framework that establishes a common optical interface for photonic multi-chip modules, supporting precision assembly, package-level testing, final system integration, and long-term serviceability. This collaboration positions PHIX as a European Centre of Excellence for manufacturing of detachable fiber connections to photonic modules. As demand for AI infrastructure",
+    "tags": [
+      "AI算力",
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:51:27.834217+00:00",
+    "company_scope": "optical",
+    "company_segment": "光器件与连接",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "packaging"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "5c5d8763ddd58dfa",
+    "source_id": "tower",
+    "source_name": "高塔半导体 Tower",
+    "source_type": "企业官方新闻中心",
+    "title": "NewPhotonics® and Tower Semiconductor Begin High-Volume Shipments of Laser-Integrated, Serviceable Optical Engine PICs for Scale-Out and Scale Up AI Interconnect",
+    "url": "https://towersemi.com/2026/09/17/09172026/",
+    "published_at": "2026-09-17T10:06:04+00:00",
+    "summary": "Home » Press Releases NewPhotonics® and Tower Semiconductor Begin High-Volume Shipments of Laser-Integrated, Serviceable Optical Engine PICs for Scale-Out and Scale Up AI Interconnect Companies commercialize scale manufacturability of 800G to 1.6T PICs in external pluggable and CPX MSA compliant NPO socket pluggable solutions built on PH18DA platform designed for high-density monolithic laser integration, SOAs, modulators […]",
+    "tags": [
+      "光模块",
+      "NPO",
+      "光芯片/器件",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:29.744825+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical engine",
+      "laser"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "c7f9cb68e117dac9",
@@ -2047,6 +2742,97 @@
       "光模块"
     ],
     "collected_at": "2026-11-03T08:15:44.823356+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 76,
+    "matched_terms": [
+      "800G",
+      "MPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "400G/800G时代MPO连接器应用趋势与配套检测工具发展",
+    "translation_status": "ready"
+  },
+  {
+    "id": "dd9393993be51740",
+    "source_id": "sumitomo-electric",
+    "source_name": "住友电工",
+    "source_type": "企业官方新闻中心",
+    "title": "Sumitomo Wiring Systems Advances Its Smart Factory Concept Through the Collaboration of AI Agents and Physical AI Robots (323 KB)",
+    "url": "https://sumitomoelectric.com/sites/default/files/2026-09/download_documents/prs039.pdf",
+    "published_at": "2026-09-17T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:27.970271+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [],
+    "selection_reason": "光通信专业企业的产品、合作或经营动态",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "f8abf23395d25389",
+    "source_id": "palomino",
+    "source_name": "Palomino Laboratories",
+    "source_type": "企业官方新闻中心",
+    "title": "Palomino Laboratories Co-Founder Steven DenBaars to Present at MicroLED Connect 2026",
+    "url": "https://palominolabs.ai/palomino-laboratories-co-founder-steven-denbaars-to-present-at-microled-connect-2026/",
+    "published_at": "2026-09-15T11:00:00+00:00",
+    "summary": "Strategic Highlights: Palomino Laboratories, Inc. Co-founder Steven P. DenBaars will present at MicroLED Connect 2026 on Thursday, September 17, 2026, at 11:50 a.m. (Central European Time) at the High Tech Campus in Eindhoven, the Netherlands. DenBaars’ presentation, “Development of GaN Based MicroLED Devices for Full Color Displays and High-Speed Optical Communication,” will highlight the role […]",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:51:40.540593+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "microLED"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "e88f4deb70484f03",
+    "source_id": "tower",
+    "source_name": "高塔半导体 Tower",
+    "source_type": "企业官方新闻中心",
+    "title": "Tower Semiconductor to Highlight its High-Volume Silicon Photonics and SiGe Solutions for AI Infrastructure, Telecom and Emerging Applications at ECOC 2026",
+    "url": "https://towersemi.com/2026/09/15/09152026/",
+    "published_at": "2026-09-15T09:39:27+00:00",
+    "summary": "Home » Press Releases Tower Semiconductor to Highlight its High-Volume Silicon Photonics and SiGe Solutions for AI Infrastructure, Telecom and Emerging Applications at ECOC 2026 MIGDAL HAEMEK, Israel, September 15, 2026 – Tower Semiconductor (NASDAQ/TASE: TSEM), the leading foundry for high-value analog semiconductor solutions, today announced its participation in upcoming ECOC 2026, taking place September 21–23, […]",
+    "tags": [
+      "AI算力",
+      "硅光"
+    ],
+    "collected_at": "2026-11-03T08:51:29.745692+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2054,11 +2840,138 @@
     "priority": "优先选题",
     "relevance_score": 68,
     "matched_terms": [
-      "800G"
+      "silicon photonics"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
-    "title_zh": "400G/800G时代MPO连接器应用趋势与配套检测工具发展",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "9a5f3972c99d769c",
+    "source_id": "senko",
+    "source_name": "SENKO 扇港",
+    "source_type": "企业官方新闻中心",
+    "title": "SENKO, Advantest, and VIAVI Collaborate to Address a Hidden Bottleneck in CPO Module Level Testing",
+    "url": "https://www.senko.com/senko-advantest-and-viavi-collaborate-to-address-a-hidden-bottleneck-in-cpo-module-level-testing/",
+    "published_at": "2026-09-14T13:06:30+00:00",
+    "summary": "Hudson, MA – September 14, 2026 – SENKO Advanced Components, Inc., a global leader in optical interconnect solutions, today announced a landmark collaboration with Advantest Corporation, a leader in automated test equipment, and VIAVI Solutions Inc. to accelerate the adoption of High-Volume Manufacturing (HVM) ready Co-Packaged Optics (CPO) module testing. Enabling the Next Era of AI Infrastructure As AI data centers transition from compute-bound to connectivity-bound architectures, the demand f",
+    "tags": [
+      "AI算力",
+      "CPO",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:27.835956+00:00",
+    "company_scope": "optical",
+    "company_segment": "光器件与连接",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察",
+      "热点问答"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO",
+      "testing"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "320a0a95f61accae",
+    "source_id": "gigalight",
+    "source_name": "易飞扬 GIGALIGHT",
+    "source_type": "企业官方新闻中心",
+    "title": "易飞扬公布3.2T HYBRID产品技术方案和收益",
+    "url": "https://www.gigalight.com.cn/news-events/insights-9552.html",
+    "published_at": "2026-09-14T09:43:50+00:00",
+    "summary": "深圳，2026年9月14日——全球高速光互连创新企业易飞扬（GIGALIGHT）今日正式公布HYBRID 3. […]",
+    "tags": [
+      "光模块",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:45.529742+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "3.2T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "易飞扬公布3.2T HYBRID产品技术方案和收益",
+    "translation_status": "ready"
+  },
+  {
+    "id": "4d219ae05c112771",
+    "source_id": "gigalight",
+    "source_name": "易飞扬 GIGALIGHT",
+    "source_type": "企业官方新闻中心",
+    "title": "易飞扬Hybrid技术助力1.6T算力互连架构摆脱液冷依赖性,ECOC 2026演示",
+    "url": "https://www.gigalight.com.cn/news-events/news-9529.html",
+    "published_at": "2026-09-14T02:51:45+00:00",
+    "summary": "[中国，深圳，2026年9月14日]随着十万卡级AI训练集群落地，1.6T高速光模块成为机柜间DCI互连的核心 […]",
+    "tags": [
+      "光模块",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:45.530243+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "易飞扬Hybrid技术助力1.6T算力互连架构摆脱液冷依赖性,ECOC 2026演示",
+    "translation_status": "ready"
+  },
+  {
+    "id": "11cd928cfa4c0586",
+    "source_id": "afrlaser",
+    "source_name": "光库科技",
+    "source_type": "企业官方新闻中心",
+    "title": "2026.09.11 光库科技携子公司亮相CIOE 2026 聚焦高速光互联，共话产业新机遇 9月9日至11日，第27届中国国际光电博览会在深圳国际会展中心举行。光库科技携各子公司联合参展。为12号馆最大展位，光库科技展台别出心裁地设置逛展补给站，并提供专线WiFi，以贴心周到的服务为观众带来舒适、便捷的观展体验。 查看更多",
+    "url": "https://www.afrlaser.com/medias/542.html",
+    "published_at": "2026-09-11T00:00:00+00:00",
+    "summary": "企业新闻-珠海光库科技股份有限公司",
+    "tags": [
+      "光模块",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:23.480866+00:00",
+    "company_scope": "optical",
+    "company_segment": "光器件与连接",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互联"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "2026.09.11 光库科技携子公司亮相CIOE 2026 聚焦高速光互联，共话产业新机遇 9月9日至11日，第27届中国国际光电博览会在深圳国际会展中心举行。光库科技携各子公司联合参展。为12号馆最大展位，光库科技展台别出心裁地设置逛展补给站，并提供专线WiFi，以贴心周到的服务为观众带来舒适、便捷的观展体验。 查看更多",
     "translation_status": "ready"
   },
   {
@@ -2075,6 +2988,9 @@
       "数据中心互联"
     ],
     "collected_at": "2026-11-03T07:30:23.657407+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "知识科普与深度洞察",
@@ -2087,7 +3003,7 @@
       "光互联"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "2026-09-10 光引未来·大咖说｜对话张博：AI算力时代，光迅科技如何布局光互联下一代技术？",
     "translation_status": "ready"
   },
@@ -2115,9 +3031,10 @@
       "NPO"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "2026-09-10 从可插拔到NPO，AI算力的\"新基石\"",
-    "translation_status": "ready"
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
   },
   {
     "id": "15440f0df1f59b76",
@@ -2133,6 +3050,9 @@
       "数据中心互联"
     ],
     "collected_at": "2026-11-03T08:15:46.138724+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2144,7 +3064,7 @@
       "800G"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "赋能AI高速数通！度亘核芯重磅推出100G PAM4 CWDM EML芯片及COC器件，全面护航400G-FR4/800G-FR8数据中心光互连",
     "translation_status": "ready"
   },
@@ -2167,9 +3087,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "69c7ceb2dcb284df",
@@ -2186,6 +3107,9 @@
       "数据中心互联"
     ],
     "collected_at": "2026-11-03T08:33:01.222976+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2196,8 +3120,68 @@
       "光互连"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "澜昆微CEO董晶晶：OIO光互连芯片破解AI算力带宽墙",
+    "translation_status": "ready"
+  },
+  {
+    "id": "ee63da1075b6bc71",
+    "source_id": "globalfoundries",
+    "source_name": "格芯 GlobalFoundries",
+    "source_type": "企业官方新闻中心",
+    "title": "SerDes, Ethernet and the silicon that connects them: Why SerDes for high-bandwidth sensors?",
+    "url": "https://gf.com/news-and-events/blog/serdes-ethernet-and-the-silicon-that-connects-them/",
+    "published_at": "2026-09-08T14:16:38+00:00",
+    "summary": "This is the second of a two-part series on the evolution of automotive networks By: Yuichi Motohashi, Deputy Director of End Markets at GlobalFoundries As vehicles move to Domain and Hybrid Zonal designs, sensors increasingly stream RAW or lightly processed data to a central platform, changing the communication requirement from exchanging control signals and recognition […] The post SerDes, Ethernet and the silicon that connects them: Why SerDes for high-bandwidth sensors? appeared first on Glob",
+    "tags": [
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-03T08:51:29.641878+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "热点问答"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "SerDes"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "a1065eee2dc7ab89",
+    "source_id": "gigalight",
+    "source_name": "易飞扬 GIGALIGHT",
+    "source_type": "企业官方新闻中心",
+    "title": "LPO vs Hybrid半DSP｜AI算力组网方案完整对比",
+    "url": "https://www.gigalight.com.cn/news-events/insights-9472.html",
+    "published_at": "2026-09-08T01:58:53+00:00",
+    "summary": "一、先厘清两种架构的底层定义 发射端直接用Driver驱动激光器，接收端采用线性TIA，模块内部完全去掉DSP […]",
+    "tags": [
+      "AI算力"
+    ],
+    "collected_at": "2026-11-03T08:51:45.530724+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "LPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "LPO vs Hybrid半DSP｜AI算力组网方案完整对比",
     "translation_status": "ready"
   },
   {
@@ -2219,8 +3203,76 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "2026-09-08 光迅科技马卫东：以“全”与“深”夯实AI智算光连接能力",
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
+  },
+  {
+    "id": "82db0a7ddf07883b",
+    "source_id": "exfo",
+    "source_name": "EXFO",
+    "source_type": "企业官方新闻中心",
+    "title": "By Anabel Alarcon | September 2026 What is 1.6T Ethernet? A Q&A for network and test engineers",
+    "url": "https://www.exfo.com/en/resources/blog/what-is-16t-ethernet-qa-network-test-engineers/",
+    "published_at": "2026-09-08T00:00:00+00:00",
+    "summary": "The industry's next bandwidth milestone has a name:1.6T Ethernet. As the technology moves from standards development and lab validation toward early commercial deployment, network architects, lab managers and design teams need to understand what changes are coming along with 1.6T. They also need to understand what those changes mean for AI data center infrastructure.",
+    "tags": [
+      "AI算力",
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:51:32.894477+00:00",
+    "company_scope": "related",
+    "company_segment": "封装制造与测试",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "热点问答",
+      "关键人物访谈"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "389843bd936a331a",
+    "source_id": "gigalight",
+    "source_name": "易飞扬 GIGALIGHT",
+    "source_type": "企业官方新闻中心",
+    "title": "兼顾前沿探索与量产思考｜易飞扬推出压接Socket版1.6T NPO，理性看待高速互连技术演进",
+    "url": "https://www.gigalight.com.cn/news-events/news-9451.html",
+    "published_at": "2026-09-04T09:44:34+00:00",
+    "summary": "[中国，深圳，2026年9月4日]AI算力浪潮之下，1.6T NPO近封装光互连技术正处于样品验证与商业化落地 […]",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "NPO",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:45.531678+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯",
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 100,
+    "matched_terms": [
+      "NPO",
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "兼顾前沿探索与量产思考｜易飞扬推出压接Socket版1.6T NPO，理性看待高速互连技术演进",
     "translation_status": "ready"
   },
   {
@@ -2248,8 +3300,44 @@
       "6.4T"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "2026-09-04 3.2T 到 6.4T NPO，光迅科技重新定义智算 “光速度”！",
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
+  },
+  {
+    "id": "a39ce1093320b9f5",
+    "source_id": "gigalight",
+    "source_name": "易飞扬 GIGALIGHT",
+    "source_type": "企业官方新闻中心",
+    "title": "易飞扬携1.6T NPO硅光引擎和双方案400G QSFP-DD DWDM出席首届算博会",
+    "url": "https://www.gigalight.com.cn/news-events/news-9391.html",
+    "published_at": "2026-08-28T07:10:41+00:00",
+    "summary": "——聚焦SCALE UP与SCALE ACROSS，展示下一代算力光互连技术 [中国，深圳，2026年8月28 […]",
+    "tags": [
+      "光模块",
+      "硅光",
+      "NPO",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:45.532484+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 100,
+    "matched_terms": [
+      "硅光",
+      "NPO",
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "易飞扬携1.6T NPO硅光引擎和双方案400G QSFP-DD DWDM出席首届算博会",
     "translation_status": "ready"
   },
   {
@@ -2273,9 +3361,10 @@
       "laser"
     ],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "fd75143baebe254c",
@@ -2290,6 +3379,9 @@
       "NPO"
     ],
     "collected_at": "2026-11-03T08:15:47.055781+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2300,9 +3392,95 @@
       "NPO"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "中际旭创电话会：1．6T领先、NPO有望于2027年交付",
     "translation_status": "ready"
+  },
+  {
+    "id": "03b4e2f30334cd4d",
+    "source_id": "sumitomo-electric",
+    "source_name": "住友电工",
+    "source_type": "企业官方新闻中心",
+    "title": "ITU-T Standardizes Framework of Low-Latency and Energy-Efficient Networks to Support the AI Era ―Seven Japanese companies collaborate to promote global adoption of All-Photonics Network―",
+    "url": "https://sumitomoelectric.com/press/2026/08/prs035",
+    "published_at": "2026-08-21T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:29.220171+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [],
+    "selection_reason": "光通信专业企业的产品、合作或经营动态",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "b31d41bd370d2159",
+    "source_id": "openlight",
+    "source_name": "OpenLight",
+    "source_type": "企业官方新闻中心",
+    "title": "OpenLight to Highlight Heterogeneous Silicon Photonics at Four Key Global Industry Events",
+    "url": "https://openlightphotonics.com/newsroom/openlight-to-highlight-heterogeneous-silicon-photonics-at-four-key-global-industry-events",
+    "published_at": "2026-08-20T00:00:00+00:00",
+    "summary": "OpenLight's InP-on-silicon platform enables fully integrated photonic chips that reduce power consumption, footprint, cost and system complexity.",
+    "tags": [
+      "硅光"
+    ],
+    "collected_at": "2026-11-03T08:51:32.561343+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "silicon photonics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "3fd23be9de2ebff9",
+    "source_id": "senko",
+    "source_name": "SENKO 扇港",
+    "source_type": "企业官方新闻中心",
+    "title": "From 400G to 1.6T: The Infrastructure Challenge Behind Next-Generation Networks",
+    "url": "https://www.senko.com/from-400g-to-1-6t-the-infrastructure-challenge-behind-next-generation-networks/",
+    "published_at": "2026-08-17T19:38:11+00:00",
+    "summary": "As networks evolve toward 1.6T speeds, increasing density, breakout requirements, and cabling complexity are creating new infrastructure challenges. Explore the considerations shaping next-generation network design. The post From 400G to 1.6T: The Infrastructure Challenge Behind Next-Generation Networks appeared first on SENKO Advanced Components, Inc. .",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:51:27.836911+00:00",
+    "company_scope": "optical",
+    "company_segment": "光器件与连接",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "热点问答"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "43fa67345b435f8d",
@@ -2317,6 +3495,9 @@
       "CPO"
     ],
     "collected_at": "2026-11-03T08:15:33.607531+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2327,9 +3508,38 @@
       "co-packaged optics"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Lumentum同时推进用于CPO的VCSEL与磷化铟激光器",
     "translation_status": "ready"
+  },
+  {
+    "id": "e14c435ef790f3bb",
+    "source_id": "palomino",
+    "source_name": "Palomino Laboratories",
+    "source_type": "企业官方新闻中心",
+    "title": "Palomino Laboratories Inc. Introduces New Digital Experience for Customers and Partners",
+    "url": "https://palominolabs.ai/palomino-laboratories-inc-introduces-new-digital-experience-for-customers-and-partners/",
+    "published_at": "2026-08-11T11:00:00+00:00",
+    "summary": "Highlights: (i) New website (www.palominolabs.ai)and brand reflect Palomino’s evolving public-company profile (ii) Palomino’s new website is designed to make it easier for customers, partners and investors to understand the company’s technology, market focus and commercialization strategy (iii) The website focuseson Palomino’s advanced AI interconnect solutions in the 0-to-50 meters rangefor AI, high-performance computing, enterprise networking, […]",
+    "tags": [
+      "数据中心互联",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-03T08:51:40.541646+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [],
+    "selection_reason": "光通信专业企业的产品、合作或经营动态",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "dafaaa33317d69f0",
@@ -2344,6 +3554,9 @@
       "CPO"
     ],
     "collected_at": "2026-11-03T08:15:42.138720+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "知识科普与深度洞察"
@@ -2354,9 +3567,131 @@
       "CPO"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "缺乏标准化，CPO测试难以规模化",
     "translation_status": "ready"
+  },
+  {
+    "id": "1b59f65c7d646abf",
+    "source_id": "anritsu",
+    "source_name": "安立 Anritsu",
+    "source_type": "企业官方新闻中心",
+    "title": "Anritsu Introduces CXL® 2.0/3.x Test Solution for High-Speed Interface Design",
+    "url": "https://www.anritsu.com/en-gb/test-measurement/news/news-releases/2026/2026-06-08-gb01",
+    "published_at": "2026-08-06T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-03T08:51:36.838691+00:00",
+    "company_scope": "related",
+    "company_segment": "封装制造与测试",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "CXL"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "7ece219f4a856417",
+    "source_id": "gigalight",
+    "source_name": "易飞扬 GIGALIGHT",
+    "source_type": "企业官方新闻中心",
+    "title": "易飞扬推出触摸屏版本800G CHECKER实现数据中心光模块运维可视化",
+    "url": "https://www.gigalight.com.cn/news-events/news-9226.html",
+    "published_at": "2026-08-04T09:56:13+00:00",
+    "summary": "——10.1英寸工业触控屏+可拆卸电池，800G/400G/200G PAM4便携式误码仪让现场测试̶ […]",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:51:45.532952+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 76,
+    "matched_terms": [
+      "光模块",
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "易飞扬推出触摸屏版本800G CHECKER实现数据中心光模块运维可视化",
+    "translation_status": "ready"
+  },
+  {
+    "id": "8ec6e9277fa55f17",
+    "source_id": "afrlaser",
+    "source_name": "光库科技",
+    "source_type": "企业官方新闻中心",
+    "title": "2026.08.04 喜讯｜光库科技荣获“维科杯·OFweek 2026光学行业优秀元器件供应商” 近日，“维科杯·OFweek 2026中国光学行业年度评选”结果揭晓，光库科技凭借在光器件领域的持续深耕、技术创新能力及产品综合实力，荣获“维科杯·OFweek 2026光学行业优秀元器件供应商”奖项。 查看更多",
+    "url": "https://www.afrlaser.com/medias/539.html",
+    "published_at": "2026-08-04T00:00:00+00:00",
+    "summary": "企业新闻-珠海光库科技股份有限公司",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:51:24.555372+00:00",
+    "company_scope": "optical",
+    "company_segment": "光器件与连接",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光器件"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "2026.08.04 喜讯｜光库科技荣获“维科杯·OFweek 2026光学行业优秀元器件供应商” 近日，“维科杯·OFweek 2026中国光学行业年度评选”结果揭晓，光库科技凭借在光器件领域的持续深耕、技术创新能力及产品综合实力，荣获“维科杯·OFweek 2026光学行业优秀元器件供应商”奖项。 查看更多",
+    "translation_status": "ready"
+  },
+  {
+    "id": "344a2cfc1feed620",
+    "source_id": "poet",
+    "source_name": "POET Technologies",
+    "source_type": "企业官方新闻中心",
+    "title": "Why POET's Optical Interposer Is Built for the AI Cluster Era: From 800G to 3.2T on a Single Platform July 29, 2026 Read Post",
+    "url": "https://www.poet-technologies.com/blog/why-poets-optical-interposer-is-built-for-the-ai-cluster-era-from-800g-to-3-2t-on-a-single-platform",
+    "published_at": "2026-07-29T00:00:00+00:00",
+    "summary": "Read the blog post from POET Technologies posted on Jul 29, 2026",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:51:32.286185+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "热点问答"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 96,
+    "matched_terms": [
+      "800G",
+      "3.2T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "27db2b9901b926e3",
@@ -2372,6 +3707,9 @@
       "硅光"
     ],
     "collected_at": "2026-11-03T08:15:35.282988+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2382,9 +3720,70 @@
       "silicon photonics"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "竞逐400G光学：Lightwave Logic寻求增强硅光能力",
     "translation_status": "ready"
+  },
+  {
+    "id": "1b045eed6166ac27",
+    "source_id": "asteralabs",
+    "source_name": "Astera Labs",
+    "source_type": "企业官方新闻中心",
+    "title": "Astera Labs Expands Taurus Family with Industry’s First OCP-Standard Footprint Compatible 3.2T Smart Retimers and Smart Redrivers",
+    "url": "https://www.asteralabs.com/news/astera-labs-expands-taurus-family-with-industrys-first-ocp-standard-footprint-compatible-3-2t-smart-retimers-and-smart-redrivers/",
+    "published_at": "2026-07-21T00:00:00+00:00",
+    "summary": "New Taurus Smart Signal Conditioners give hyperscalers and neoclouds the flexibility to design once and decide later, without a board redesign",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:38.756477+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 96,
+    "matched_terms": [
+      "3.2T",
+      "retimer"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "a5e6bae47af3e38b",
+    "source_id": "newphotonics",
+    "source_name": "NewPhotonics",
+    "source_type": "企业官方新闻中心",
+    "title": "Comment on We Broke the CPO Thermal Barrier: Introducing Syncra™ Heaterless Micro-Ring Modulator by Is This the End of the AI Open Frontier? - NewPhotonics",
+    "url": "https://newphotonics.com/we-broke-the-cpo-thermal-barrier-introducing-syncra-heaterless-micro-ring-modulator/",
+    "published_at": "2026-06-30T11:33:07+00:00",
+    "summary": "[…] Learn more about NewPhotonics scale-up optical engine technology: We Broke the CPO Thermal Barrier: Introducing Syncra Heaterless Micro-Ring Modulator […]",
+    "tags": [
+      "CPO",
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:51:31.618858+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "热点问答"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO",
+      "modulator"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "663b35555706f594",
@@ -2400,6 +3799,9 @@
       "数据中心互联"
     ],
     "collected_at": "2026-11-03T08:32:42.885440+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2410,9 +3812,101 @@
       "optical interconnect"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "梳理Micro-LED光互联产业生态",
     "translation_status": "ready"
+  },
+  {
+    "id": "98dc56f418cc1083",
+    "source_id": "openlight",
+    "source_name": "OpenLight",
+    "source_type": "企业官方新闻中心",
+    "title": "Advantest Partners with OpenLight to Develop Silicon Photonics Test Solutions for High-Volume Manufacturing",
+    "url": "https://openlightphotonics.com/newsroom/advantest-partners-with-openlight-to-develop-silicon-photonics-test-solutions-for-high-volume-manufacturing",
+    "published_at": "2026-06-23T00:00:00+00:00",
+    "summary": "Driving the new era of open silicon photonics with integrated lasers",
+    "tags": [
+      "硅光"
+    ],
+    "collected_at": "2026-11-03T08:51:33.289046+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "silicon photonics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "7f83f5ea76820da1",
+    "source_id": "afrlaser",
+    "source_name": "光库科技",
+    "source_type": "企业官方新闻中心",
+    "title": "2026.06.16 光库科技荣获2026年红光奖，光纤光栅集成组件彰显创新实力 6月11日，第九届“红光奖”颁奖典礼在深圳隆重举行。光库科技光纤光栅集成组件斩获“激光器件创新奖”。作为面向高功率光纤激光系统的创新型器件，该产品将输出光纤光栅OC、受激拉曼散射抑制器RSS与包层光剥离器CPS集成于一体。 查看更多",
+    "url": "https://www.afrlaser.com/medias/548.html",
+    "published_at": "2026-06-16T00:00:00+00:00",
+    "summary": "企业新闻-珠海光库科技股份有限公司",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:51:25.602970+00:00",
+    "company_scope": "optical",
+    "company_segment": "光器件与连接",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光器件",
+      "激光器",
+      "光纤"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "2026.06.16 光库科技荣获2026年红光奖，光纤光栅集成组件彰显创新实力 6月11日，第九届“红光奖”颁奖典礼在深圳隆重举行。光库科技光纤光栅集成组件斩获“激光器件创新奖”。作为面向高功率光纤激光系统的创新型器件，该产品将输出光纤光栅OC、受激拉曼散射抑制器RSS与包层光剥离器CPS集成于一体。 查看更多",
+    "translation_status": "ready"
+  },
+  {
+    "id": "8cb9c6425967862c",
+    "source_id": "scintil",
+    "source_name": "Scintil Photonics",
+    "source_type": "企业官方新闻中心",
+    "title": "AI Performance Now Depends on Optics, and CPO Is the Front Line",
+    "url": "https://www.scintil-photonics.com/post/ai-performance-now-depends-on-optics-and-cpo-is-the-front-line",
+    "published_at": "2026-06-09T14:17:44+00:00",
+    "summary": "Explore the first part of the Wavelength Scaling series.",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:51:30.270724+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "8769e3a53baca80a",
@@ -2427,6 +3921,9 @@
       "CPO"
     ],
     "collected_at": "2026-11-03T08:15:43.410316+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "知识科普与深度洞察"
@@ -2438,7 +3935,7 @@
       "testing"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "数据中心需求快速增长，共封装光学测试面临挑战",
     "translation_status": "ready"
   },
@@ -2457,6 +3954,9 @@
       "数据中心互联"
     ],
     "collected_at": "2026-11-03T07:30:21.156368+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2467,9 +3967,61 @@
       "光互联"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "新闻 关于“光互联论坛”及“中际旭创董事长演讲”虚假信息的严正声明 2026-05-30",
     "translation_status": "ready"
+  },
+  {
+    "id": "977001609a572261",
+    "source_id": "poet",
+    "source_name": "POET Technologies",
+    "source_type": "企业官方新闻中心",
+    "title": "POET Technologies Secures Financing of US$400 Million in a Registered Direct Offering of Common Shares and Warrant May 15, 2026 Read Article",
+    "url": "https://www.poet-technologies.com/news/poet-technologies-secures-financing-of-us-400-million-in-a-registered-direct-offering-of-common-shares-and-warrant",
+    "published_at": "2026-05-15T00:00:00+00:00",
+    "summary": "Press release from POET Technologies posted on May 15, 2026",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:32.138888+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [],
+    "selection_reason": "光通信专业企业的产品、合作或经营动态",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "c503725c878ae1b6",
+    "source_id": "openlight",
+    "source_name": "OpenLight",
+    "source_type": "企业官方新闻中心",
+    "title": "OpenLight Secures $50 Million in Series A-1 Funding to Accelerate Global Deployment of Next-Generation Photonics",
+    "url": "https://openlightphotonics.com/newsroom/openlight-secures-50-million-in-series-a-1-funding-to-accelerate-global-deployment-of-next-generation-photonics",
+    "published_at": "2026-04-28T00:00:00+00:00",
+    "summary": "Leading foundry-validated PDK, trusted by more than 25 companies to design and fabricate production-grade PASICs across AI data centers,…",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:33.917010+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [],
+    "selection_reason": "光通信专业企业的产品、合作或经营动态",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "c7e77c1a4c843b42",
@@ -2484,6 +4036,9 @@
       "硅光"
     ],
     "collected_at": "2026-11-03T08:15:44.737642+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2494,7 +4049,7 @@
       "silicon photonics"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "硅光为更高效的数据中心开辟道路",
     "translation_status": "ready"
   },
@@ -2519,7 +4074,163 @@
       "laser"
     ],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
+  },
+  {
+    "id": "adc4892d1b650e49",
+    "source_id": "taclink",
+    "source_name": "德科立",
+    "source_type": "企业官方新闻中心",
+    "title": "德科立亮相OFC2026:以1.6T光模块核心突破，赋能全球算力基建升级",
+    "url": "https://gb.taclink.com/news_details/25.html",
+    "published_at": "2026-03-24T00:00:00+00:00",
+    "summary": "无锡市德科立光电子技术股份有限公司 无锡市德科立光电子技术股份有限公司，前身是无锡市中兴光电子技术有限公司，是一家专业从事光电子产品的研究、开发及生产和销售的高新技术企业，拥有一系列自主知识产权的先进技术和产品。",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:51:19.468957+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 76,
+    "matched_terms": [
+      "光模块",
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "德科立亮相OFC2026:以1.6T光模块核心突破，赋能全球算力基建升级",
+    "translation_status": "ready"
+  },
+  {
+    "id": "5f19e348d6d7fe17",
+    "source_id": "afrlaser",
+    "source_name": "光库科技",
+    "source_type": "企业官方新闻中心",
+    "title": "2026.03.19 光库科技携环形器、FAU、OCS、TFLN调制器等前沿产品亮相OFC'2026 3月17至19日，美国光纤通讯博览会(OFC)在洛杉矶Los Angeles Convention Center成功举办。围绕下一代光网络演进需求，光库科技在此次展会上集中展示了涵盖数据通信与电信网络两大应用场景的核心光器件及解决方案，呈现了公司在光通信底层硬件领域的深厚技术积累与规模化量产交付能力。 查看更多",
+    "url": "https://www.afrlaser.com/medias/76.html",
+    "published_at": "2026-03-19T00:00:00+00:00",
+    "summary": "企业新闻-珠海光库科技股份有限公司",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:51:26.698843+00:00",
+    "company_scope": "optical",
+    "company_segment": "光器件与连接",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯",
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 84,
+    "matched_terms": [
+      "光通信",
+      "光器件",
+      "OCS",
+      "调制器",
+      "光纤"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "2026.03.19 光库科技携环形器、FAU、OCS、TFLN调制器等前沿产品亮相OFC'2026 3月17至19日，美国光纤通讯博览会(OFC)在洛杉矶Los Angeles Convention Center成功举办。围绕下一代光网络演进需求，光库科技在此次展会上集中展示了涵盖数据通信与电信网络两大应用场景的核心光器件及解决方案，呈现了公司在光通信底层硬件领域的深厚技术积累与规模化量产交付能力。 查看更多",
+    "translation_status": "ready"
+  },
+  {
+    "id": "f29c2e970c3cf072",
+    "source_id": "hg-genuine",
+    "source_name": "华工正源",
+    "source_type": "企业官方新闻中心",
+    "title": "OFC2026 | 华工正源携手阿里云，现场动态3.2T NPO，定义 AI 集群下一代高速...",
+    "url": "http://www.genuine-opto.com/gsxw/489.jhtml",
+    "published_at": "2026-03-18T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "NPO"
+    ],
+    "collected_at": "2026-11-03T08:51:22.776360+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 96,
+    "matched_terms": [
+      "NPO",
+      "3.2T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "OFC2026 | 华工正源携手阿里云，现场动态3.2T NPO，定义 AI 集群下一代高速...",
+    "translation_status": "ready"
+  },
+  {
+    "id": "5a8d95eaf2651fd3",
+    "source_id": "anritsu",
+    "source_name": "安立 Anritsu",
+    "source_type": "企业官方新闻中心",
+    "title": "Industry First — Anritsu Launches Multicore Fiber Evaluation Solution Supporting Next-Generation Optical Communications",
+    "url": "https://www.anritsu.com/en-gb/test-measurement/news/news-releases/2026/2026-03-17-gb01",
+    "published_at": "2026-03-18T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:37.684022+00:00",
+    "company_scope": "related",
+    "company_segment": "封装制造与测试",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical communication"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "9a4df363aad12497",
+    "source_id": "newphotonics",
+    "source_name": "NewPhotonics",
+    "source_type": "企业官方新闻中心",
+    "title": "Next Gen Scaling in the AI Factory: Introducing the Industry-First 3.2T 400G Transmitter-on-Chip",
+    "url": "https://newphotonics.com/next-gen-scaling-in-the-ai-factory-introducing-the-industry-first-3-2t-400g-transmitter-on-chip/",
+    "published_at": "2026-03-12T14:27:30+00:00",
+    "summary": "The AI Factory is no longer a conceptual blueprint; it is the current reality of hyperscale infrastructure. As large language models (LLMs) grow in complexity, the underlying network must evolve from merely “connecting servers” to becoming a seamless, high-bandwidth backplane for massive GPU clusters. Today, NewPhotonics announced a major leap in this evolution: NPG10240, the […] The post Next Gen Scaling in the AI Factory: Introducing the Industry-First 3.2T 400G Transmitter-on-Chip appeared fi",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:51:30.675792+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "3.2T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
     "translation_status": "pending"
   },
@@ -2536,6 +4247,9 @@
       "CPO"
     ],
     "collected_at": "2026-11-03T08:15:46.123676+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2546,9 +4260,40 @@
       "CPO"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "CPO正在拓展AI数据中心的能力边界",
     "translation_status": "ready"
+  },
+  {
+    "id": "70e08c3a79311900",
+    "source_id": "scintil",
+    "source_name": "Scintil Photonics",
+    "source_type": "企业官方新闻中心",
+    "title": "Scintil Releases DWDM Laser Source Evaluation Kit for Scale-Up AI Networks",
+    "url": "https://www.scintil-photonics.com/post/scintil-releases-dwdm-laser-source-evaluation-kit-for-scale-up-ai-networks",
+    "published_at": "2026-03-11T12:08:10+00:00",
+    "summary": "Tower Semiconductor and Scintil Photonics Announce Availability of World’s First Heterogeneously Integrated DWDM Lasers for AI Infrastructure",
+    "tags": [
+      "AI算力",
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:51:30.271316+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "9bd2932b76c61f3e",
@@ -2571,9 +4316,74 @@
       "448G"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "OIF一季度会议启动安全模块管理及448G电接口新项目",
-    "translation_status": "ready"
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
+  },
+  {
+    "id": "af8d6b59ba40c159",
+    "source_id": "lightwave-logic",
+    "source_name": "Lightwave Logic",
+    "source_type": "企业官方新闻中心",
+    "title": "SilTerra Silicon Photonics Platform Enables Integration of Lightwave Logic High-Speed Polymer Modulators Through Luceda Photonics PDK",
+    "url": "https://www.lightwavelogic.com/press-releases/silterra-silicon-photonics-platform-enables-integration-of-lightwave-logic-high-speed-polymer-modulators-through-luceda-photonics-pdk",
+    "published_at": "2026-03-03T12:58:41+00:00",
+    "summary": "",
+    "tags": [
+      "硅光"
+    ],
+    "collected_at": "2026-11-03T08:51:32.308015+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "silicon photonics",
+      "modulator"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "6b2e1668c4340d2e",
+    "source_id": "newphotonics",
+    "source_name": "NewPhotonics",
+    "source_type": "企业官方新闻中心",
+    "title": "Lightwave Innovation Reviews Honors NPC50503 1.6T NPO Chiplet with OSPic™ All-Optical Signal Processor",
+    "url": "https://newphotonics.com/lightwave-innovation-reviews-honors-npc50503-1-6t-npo-chiplet-with-ospic-all-optical-signal-processor/",
+    "published_at": "2026-02-19T18:18:29+00:00",
+    "summary": "We are proud to announce that our breakthrough innovation in highly integrated silicon photonics for near-package optics (NPO) connectivity in hyperscale AI cluster performance has been distinguished among the best in the industry by the esteemed 2026 Lightwave Innovation Reviews. A panel of judges, comprised of experts from the optical communications and broadband communities, awarded […] The post Lightwave Innovation Reviews Honors NPC50503 1.6T NPO Chiplet with OSPic™ All-Optical Signal Proce",
+    "tags": [
+      "光模块",
+      "硅光",
+      "NPO"
+    ],
+    "collected_at": "2026-11-03T08:51:30.677950+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 96,
+    "matched_terms": [
+      "NPO",
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "ab7773234c9261fb",
@@ -2589,6 +4399,9 @@
       "光芯片/器件"
     ],
     "collected_at": "2026-11-03T08:15:47.445281+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2600,9 +4413,108 @@
       "laser"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "激光器阵列或可简化共封装光学",
     "translation_status": "ready"
+  },
+  {
+    "id": "8c74d008ca6e8aae",
+    "source_id": "htgd",
+    "source_name": "亨通光电",
+    "source_type": "企业官方新闻中心",
+    "title": "MWC 2026 | 精彩预告：从前沿光纤技术到智算网络的创新实践 作为全球通信领域的风向标，2026年世界移动通信大会（MWC）将于3月2日至5日在巴塞罗那盛大举行。亨通光电将深度参与这一行业巅峰盛会，集中展示亨通下一代前沿光纤：空芯… 2026-02-07",
+    "url": "https://www.htgd.com.cn/xq/article/5796.html",
+    "published_at": "2026-02-07T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:37.634250+00:00",
+    "company_scope": "related",
+    "company_segment": "光纤光缆与材料",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "光纤"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "MWC 2026 | 精彩预告：从前沿光纤技术到智算网络的创新实践 作为全球通信领域的风向标，2026年世界移动通信大会（MWC）将于3月2日至5日在巴塞罗那盛大举行。亨通光电将深度参与这一行业巅峰盛会，集中展示亨通下一代前沿光纤：空芯… 2026-02-07",
+    "translation_status": "ready"
+  },
+  {
+    "id": "5edb9220c3113e98",
+    "source_id": "newphotonics",
+    "source_name": "NewPhotonics",
+    "source_type": "企业官方新闻中心",
+    "title": "Comment on UPDATED: Novel Laser Integration Enhances Optical Transceiver Reliability, Manufacturability by On The Road to CPO: NPO for High-Demand Bandwidth in Energy-Efficient Interconnect - NewPhotonics",
+    "url": "https://newphotonics.com/novel-laser-integration-enhances-optical-transceiver-reliability-manufacturability/",
+    "published_at": "2026-01-13T12:19:36+00:00",
+    "summary": "[…] Laser integration carries many advantages like simpler assembly process, lower part count and higher yield, but prior attempts to integrate lasers directly inside a switch package were perceived as a substantial reliability risk. A single laser failure would necessitate replacing an entire, expensive switch ASIC. […]",
+    "tags": [
+      "光模块",
+      "NPO",
+      "CPO",
+      "光芯片/器件",
+      "数据中心互联",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-03T08:51:31.619584+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 100,
+    "matched_terms": [
+      "CPO",
+      "NPO",
+      "optical transceiver",
+      "laser"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "84600ce02964c417",
+    "source_id": "newphotonics",
+    "source_name": "NewPhotonics",
+    "source_type": "企业官方新闻中心",
+    "title": "On The Road to CPO: NPO for High-Demand Bandwidth in Energy-Efficient Interconnect",
+    "url": "https://newphotonics.com/on-the-road-to-cpo-npo-for-high-demand-bandwidth-in-energy-efficient-interconnect/",
+    "published_at": "2026-01-13T12:19:09+00:00",
+    "summary": "The race to evolve beyond the electrical limitations of Moore’s Law is on. All attention has turned to bringing complex new CPO systems to market that will maximize data consumption in more power-efficient data center infrastructure. In the future, co-packaged optics will be the linchpin for AI factory expansion, from predominantly electrical to full-scale electro-optics. […] The post On The Road to CPO: NPO for High-Demand Bandwidth in Energy-Efficient Interconnect appeared first on NewPhotonic",
+    "tags": [
+      "NPO",
+      "CPO",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:30.679634+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 96,
+    "matched_terms": [
+      "CPO",
+      "NPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "6bb2f954849c53fc",
@@ -2617,6 +4529,9 @@
       "高速电互联"
     ],
     "collected_at": "2026-11-03T08:32:50.718467+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2627,8 +4542,183 @@
       "CXL"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "CXL、QLC的“节奏差”：规范写到 4.0，订单排到 2028",
+    "translation_status": "ready"
+  },
+  {
+    "id": "7be6c135a9a1dd54",
+    "source_id": "newphotonics",
+    "source_name": "NewPhotonics",
+    "source_type": "企业官方新闻中心",
+    "title": "Inspiring the Shift to Energy Efficient Photonics Connectivity in Data Center CPO and Pluggables",
+    "url": "https://newphotonics.com/shift-to-energy-efficient-photonics-connectivity-in-cpo-and-pluggables/",
+    "published_at": "2025-11-17T16:35:21+00:00",
+    "summary": "The industry is increasingly adopting silicon photonics to overcome power and capacity limitations burdened by AI across data centers worldwide. Recognition that silicon photonic integrated circuit (SiPIC) solutions offer higher bandwidth and improved energy efficiency compared to traditional electronic interconnects is taking hold as demand for AI-driven data tools and content continues to grow exponentially. […] The post Inspiring the Shift to Energy Efficient Photonics Connectivity in Data Ce",
+    "tags": [
+      "硅光",
+      "CPO",
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:51:30.681244+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "6eba7f4bb477f35c",
+    "source_id": "taclink",
+    "source_name": "德科立",
+    "source_type": "企业官方新闻中心",
+    "title": "德科立在 ECOC2025 圆满收官，携手合作伙伴共谱光通信新篇章",
+    "url": "https://gb.taclink.com/news_details/23.html",
+    "published_at": "2025-10-09T00:00:00+00:00",
+    "summary": "无锡市德科立光电子技术股份有限公司 无锡市德科立光电子技术股份有限公司，前身是无锡市中兴光电子技术有限公司，是一家专业从事光电子产品的研究、开发及生产和销售的高新技术企业，拥有一系列自主知识产权的先进技术和产品。",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:19.798088+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "德科立在 ECOC2025 圆满收官，携手合作伙伴共谱光通信新篇章",
+    "translation_status": "ready"
+  },
+  {
+    "id": "9206d81d37f291c5",
+    "source_id": "scintil",
+    "source_name": "Scintil Photonics",
+    "source_type": "企业官方新闻中心",
+    "title": "A Week of Creativity, Collaboration and Team Spirit at SCINTIL Photonics",
+    "url": "https://www.scintil-photonics.com/post/a-week-of-creativity-collaboration-and-team-spirit-at-scintil-photonics",
+    "published_at": "2025-10-03T12:22:36+00:00",
+    "summary": "Our teams gathered for an inspiring program mixing workshops and team-building activities.",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:30.272372+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [],
+    "selection_reason": "光通信专业企业的产品、合作或经营动态",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "c50acdc930a3e26a",
+    "source_id": "taclink",
+    "source_name": "德科立",
+    "source_type": "企业官方新闻中心",
+    "title": "我们深知每一次交流都蕴含无限可能，期待在 ECOC 2025的C1121展位与您相遇，共探光通信产业发展新方向，携手开启合作新篇章！",
+    "url": "https://gb.taclink.com/news_details/22.html",
+    "published_at": "2025-09-28T00:00:00+00:00",
+    "summary": "无锡市德科立光电子技术股份有限公司 无锡市德科立光电子技术股份有限公司，前身是无锡市中兴光电子技术有限公司，是一家专业从事光电子产品的研究、开发及生产和销售的高新技术企业，拥有一系列自主知识产权的先进技术和产品。",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:20.336160+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "我们深知每一次交流都蕴含无限可能，期待在 ECOC 2025的C1121展位与您相遇，共探光通信产业发展新方向，携手开启合作新篇章！",
+    "translation_status": "ready"
+  },
+  {
+    "id": "01fe280b7070a333",
+    "source_id": "fiberhome",
+    "source_name": "烽火通信",
+    "source_type": "企业官方新闻中心",
+    "title": "关键性进展！空芯光纤工程化瓶颈获新突破",
+    "url": "https://www.fiberhome.com/xwzx/20250815/47395.html",
+    "published_at": "2025-08-15T00:00:00+00:00",
+    "summary": "烽火通信科技股份有限公司(股票代码:SH600498)主营业务立足于光通信,深入拓展至信息技术与通信技术融合而生的广泛领城,成为我国智慧城市,行业信息化,智能化应用等领域的核心企业",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:53.350675+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "热点问答"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "光纤"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "关键性进展！空芯光纤工程化瓶颈获新突破",
+    "translation_status": "ready"
+  },
+  {
+    "id": "c124295d5ebc3ebd",
+    "source_id": "optowide",
+    "source_name": "腾景科技",
+    "source_type": "企业官方新闻中心",
+    "title": "Laser World of Photonics 展会回顾",
+    "url": "https://www.optowide.com/article-20959-74929.html",
+    "published_at": "2025-07-02T00:00:00+00:00",
+    "summary": "腾景科技是中国光电子领域高新技术企业，专注光学元组件、光纤器件、光测试仪器研发，提供光通信/光纤激光/半导体设备/DUV/量子计算/AR光学解决方案，依托六大核心技术实现自主可控与进口替代，咨询光学产品报价→ 腾景科技WSS波长选择开关，适配光通信高速光互联场景，支持高传输速率与大带宽容量，搭配CPO光互连组件提升网络效率，国产自主可控，欢迎索取技术参数与样品！",
+    "tags": [
+      "光模块",
+      "CPO",
+      "光芯片/器件",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:25.588660+00:00",
+    "company_scope": "optical",
+    "company_segment": "光器件与连接",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Laser World of Photonics 展会回顾",
     "translation_status": "ready"
   },
   {
@@ -2644,6 +4734,9 @@
       "CPO"
     ],
     "collected_at": "2026-11-03T08:32:50.434451+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2655,9 +4748,102 @@
       "Ranovus"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Cerebras Systems与Ranovus以晶圆级XPU-CPO推进AI计算平台变革",
     "translation_status": "ready"
+  },
+  {
+    "id": "ffc302fa886f2ba7",
+    "source_id": "jabil",
+    "source_name": "捷普 Jabil",
+    "source_type": "企业官方新闻中心",
+    "title": "Jabil Launches 1.6T Pluggable Transceiver to Support Growing Demand for Intra-Data Center and AI Connectivity",
+    "url": "https://investors.jabil.com/news/news-details/2025/Jabil-Launches-1-6T-Pluggable-Transceiver-to-Support-Growing-Demand-for-Intra-Data-Center-and-AI-Connectivity/default.aspx",
+    "published_at": "2025-04-01T00:00:00+00:00",
+    "summary": "Company to demo the solution and other photonics products at OFC 2025 Jabil Inc. (NYSE: JBL), a global engineering, supply chain, and manufacturing solutions provider, today announced the launch of its 1.6T transceivers, which can transmit data at rates up to 1.6 Terabits per second. These transceivers join Jabil’s expanding portfolio of photonics products to meet the accelerating demand for AI/ML workloads, high-performance computing (HPC), cloud computing, and high-speed data center interconne",
+    "tags": [
+      "光模块",
+      "硅光",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:33.936747+00:00",
+    "company_scope": "related",
+    "company_segment": "封装制造与测试",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "2c120427045673d4",
+    "source_id": "newphotonics",
+    "source_name": "NewPhotonics",
+    "source_type": "企业官方新闻中心",
+    "title": "Comment on LPO MSA Membership Group Releases Linear Pluggable Optics (LPO) Specification by BREAKING NEWS: Centera Announces 1.6T DSP Module with NPG102 Chip -",
+    "url": "https://newphotonics.com/lpo-msa-membership-group-releases-linear-pluggable-optics-lpo-specification/",
+    "published_at": "2025-03-31T15:40:21+00:00",
+    "summary": "[…] the release last week of the first full specification by the Linear Pluggable Optics Multi-Service Agreement (LPO-MSA) Group, the stage is set for […]",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:51:31.620287+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 76,
+    "matched_terms": [
+      "LPO",
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "91e93fa5707ad792",
+    "source_id": "newphotonics",
+    "source_name": "NewPhotonics",
+    "source_type": "企业官方新闻中心",
+    "title": "BREAKING NEWS: Centera Announces 1.6T DSP Module with NPG102 Chip",
+    "url": "https://newphotonics.com/breaking-news-centera-announces-1-6t-dsp-module-with-npg102-chip/",
+    "published_at": "2025-03-31T15:40:16+00:00",
+    "summary": "We kicked off year three of NewPhotonics demos at the Optical Fiber Communications conference (OFC50) this week with breaking news from our customer Centera Photonics. This morning Centera introduced the industry-first advanced DSP based 1.6 terabits per seconds (1.6T) transceiver module featuring the highly integrated NewPhotonics NPG10201 PIC transmitter-on-chip (TOC). This collaboration between Centera and […] The post BREAKING NEWS: Centera Announces 1.6T DSP Module with NPG102 Chip appeared",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:51:30.682876+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "e642944265a8517b",
@@ -2672,6 +4858,9 @@
       "光芯片/器件"
     ],
     "collected_at": "2026-11-03T08:32:50.435449+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2683,8 +4872,152 @@
       "Ranovus"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Ranovus宣布与捷普合作，推进ODIN光引擎量产",
+    "translation_status": "ready"
+  },
+  {
+    "id": "59574ef17aee8312",
+    "source_id": "newphotonics",
+    "source_name": "NewPhotonics",
+    "source_type": "企业官方新闻中心",
+    "title": "Comment on Built for Interop: LPO+ Link Training for the Data Center Network by LPO MSA Membership Group Releases Linear Pluggable Optics (LPO) Specification -",
+    "url": "https://newphotonics.com/new-photonics-lpo-plus-built-for-interoperability/",
+    "published_at": "2025-03-26T13:08:07+00:00",
+    "summary": "[…] future specifications to achieve broad market adoption of linear pluggable fiber optic links. Our NPG10202 LPO+ PIC chip is built for interop to signal our commitment to the vital introduction of multi-vendor […]",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:31.621019+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "LPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "bdc4c42646fea816",
+    "source_id": "scintil",
+    "source_name": "Scintil Photonics",
+    "source_type": "企业官方新闻中心",
+    "title": "OFC 2025: Scintil Photonics showcases LEAF Light™, world’s first single-chip, multi-wavelength laser source for DWDM co-packaged optics in AI datacenters",
+    "url": "https://www.scintil-photonics.com/post/scintil-photonics-ofc-2025-leaflight",
+    "published_at": "2025-03-25T11:00:15+00:00",
+    "summary": "OFC - Scintil showcases LEAF Light™, world’s first single-chip, multi-wavelength laser source for DWDM co-packaged optics in AI datacenters",
+    "tags": [
+      "CPO",
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:51:30.273321+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "co-packaged optics",
+      "laser"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "fdd6fc8fd5cf58f6",
+    "source_id": "newphotonics",
+    "source_name": "NewPhotonics",
+    "source_type": "企业官方新闻中心",
+    "title": "Comment on Introducing our New Transmitter-on-Chip PIC with Integrated Equalizer by Built for Interop: LPO+ Link Training for the Data Center Network -",
+    "url": "https://newphotonics.com/introducing-our-new-transmitter-on-chip-pic-with-integrated-equalizer/",
+    "published_at": "2025-03-03T02:19:41+00:00",
+    "summary": "[…] NPG102 for LPO-based modules – our LPO+ transmitter on chip – features a PIC that includes lasers, modulators, and […]",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:31.621666+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "LPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "6e59250925551706",
+    "source_id": "scintil",
+    "source_name": "Scintil Photonics",
+    "source_type": "企业官方新闻中心",
+    "title": "Scintil Photonics names Matt Crowley as CEO, founder Sylvie Menezo will continue heading technology developments and customer partnerships",
+    "url": "https://www.scintil-photonics.com/post/scintil-photonics-names-matt-crowley-as-ceo",
+    "published_at": "2024-11-19T11:00:15+00:00",
+    "summary": "Scintil Photonics names Matt Crowley as CEO, founder Sylvie Menezo will continue heading technology developments and customer partnerships.",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:30.273805+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [],
+    "selection_reason": "光通信专业企业的产品、合作或经营动态",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "1ff400153ecc1e8f",
+    "source_id": "hg-genuine",
+    "source_name": "华工正源",
+    "source_type": "企业官方新闻中心",
+    "title": "华工正源蝉联2024全球丨中国光器件竞争力十强企业榜单",
+    "url": "http://www.genuine-opto.com/zhxw/472.jhtml",
+    "published_at": "2024-11-14T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:51:25.271654+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光器件"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "华工正源蝉联2024全球丨中国光器件竞争力十强企业榜单",
     "translation_status": "ready"
   },
   {
@@ -2700,6 +5033,9 @@
       "硅光"
     ],
     "collected_at": "2026-11-03T08:32:50.436215+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2711,9 +5047,75 @@
       "Ranovus"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Ranovus首席执行官Hamid Arabzadeh在SEMICON Taiwan 2024硅光峰会发表演讲",
     "translation_status": "ready"
+  },
+  {
+    "id": "6cb419b7182ae33c",
+    "source_id": "hg-genuine",
+    "source_name": "华工正源",
+    "source_type": "企业官方新闻中心",
+    "title": "光纤在线报道：华工正源单通道200G硅光1.6T光模块 开启高速光通信新纪元",
+    "url": "http://www.genuine-opto.com/zhxw/467.jhtml",
+    "published_at": "2024-09-25T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光模块",
+      "硅光"
+    ],
+    "collected_at": "2026-11-03T08:51:29.584952+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 100,
+    "matched_terms": [
+      "光通信",
+      "光模块",
+      "硅光",
+      "1.6T",
+      "光纤"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "光纤在线报道：华工正源单通道200G硅光1.6T光模块 开启高速光通信新纪元",
+    "translation_status": "ready"
+  },
+  {
+    "id": "c8679b7f05d6dbd6",
+    "source_id": "jabil",
+    "source_name": "捷普 Jabil",
+    "source_type": "企业官方新闻中心",
+    "title": "Jabil Expands Silicon Photonics Capabilities to Enable Next-Generation AI and Data Center Technologies",
+    "url": "https://investors.jabil.com/news/news-details/2024/Jabil-Expands-Silicon-Photonics-Capabilities-to-Enable-Next-Generation-AI-and-Data-Center-Technologies/default.aspx",
+    "published_at": "2024-09-23T00:00:00+00:00",
+    "summary": "Broadened offerings at Ottawa, Canada, site to support customers’ silicon photonics new product introductions Jabil Inc. (NYSE: JBL), a global leader in design, manufacturing, and supply chain solutions, today announced its continued investment in silicon photonics -based products and capabilities to support the increasing demands of hyperscalers and next-wave cloud and AI data center growth. The company is set to roll out additional capabilities at its Ottawa, Canada, site in the fourth calenda",
+    "tags": [
+      "AI算力",
+      "硅光"
+    ],
+    "collected_at": "2026-11-03T08:51:34.041508+00:00",
+    "company_scope": "related",
+    "company_segment": "封装制造与测试",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "silicon photonics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "e76c6fb9bec22c52",
@@ -2726,6 +5128,9 @@
     "summary": "The post Ranovus CEO, Hamid Arabzadeh, Speaks at Computex/Innovex2024 appeared first on Ranovus .",
     "tags": [],
     "collected_at": "2026-11-03T08:32:50.436870+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2736,8 +5141,38 @@
       "Ranovus"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Ranovus首席执行官Hamid Arabzadeh在Computex/Innovex 2024发表演讲",
+    "translation_status": "ready"
+  },
+  {
+    "id": "44009f29513a526d",
+    "source_id": "hg-genuine",
+    "source_name": "华工正源",
+    "source_type": "企业官方新闻中心",
+    "title": "LightCounting：2024年以太网光模块市场将增长40%",
+    "url": "http://www.genuine-opto.com/mtbd/436.jhtml",
+    "published_at": "2024-04-16T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:51:31.785460+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "LightCounting：2024年以太网光模块市场将增长40%",
     "translation_status": "ready"
   },
   {
@@ -2753,6 +5188,9 @@
       "CPO"
     ],
     "collected_at": "2026-11-03T08:32:50.437510+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2763,7 +5201,7 @@
       "CPO"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "共封装光学（CPO）迈出重要一步",
     "translation_status": "ready"
   },
@@ -2781,6 +5219,9 @@
       "光芯片/器件"
     ],
     "collected_at": "2026-11-03T08:32:50.438417+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2794,9 +5235,41 @@
       "laser"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Ranovus在OFC 2024展示面向AI/ML、集成激光器的6.4Tbps共封装光学方案",
     "translation_status": "ready"
+  },
+  {
+    "id": "44de8f48597e1f42",
+    "source_id": "scintil",
+    "source_name": "Scintil Photonics",
+    "source_type": "企业官方新闻中心",
+    "title": "Scintil achieves integration of III-V DFB lasers and amplifiers with standard silicon photonics technology in production at Tower Semiconductor",
+    "url": "https://www.scintil-photonics.com/post/integration-of-iii-v-dfb-lasers-and-amplifiers-with-standard-silicon-photonics-technology",
+    "published_at": "2024-02-27T13:28:09+00:00",
+    "summary": "This significant milestone is pivotal in reinforcing Scintil's supply chain and meeting growing demand for high-performance communication so",
+    "tags": [
+      "硅光",
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-03T08:51:30.274302+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 88,
+    "matched_terms": [
+      "silicon photonics",
+      "DFB"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "163b0afd9156063f",
@@ -2817,9 +5290,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "62ef93d23f0ca06b",
@@ -2832,6 +5306,9 @@
     "summary": "The post Ranovus® demonstrates industry’s lowest power consumption 800Gbps Ethernet interoperable link to scale AMD adaptive SoCs for AI/ML appeared first on Ranovus .",
     "tags": [],
     "collected_at": "2026-11-03T08:32:50.439569+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2842,8 +5319,36 @@
       "Ranovus"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Ranovus展示低功耗800Gbps以太网互操作链路，扩展AMD自适应SoC的AI/ML能力",
+    "translation_status": "ready"
+  },
+  {
+    "id": "6fe5af8bb003c385",
+    "source_id": "fiberhome",
+    "source_name": "烽火通信",
+    "source_type": "企业官方新闻中心",
+    "title": "LineExpert管线资源管理系统——来自光纤发源地的纤缆管理专家",
+    "url": "https://www.fiberhome.com/xgxw1/20230105/42394.html",
+    "published_at": "2023-01-05T00:00:00+00:00",
+    "summary": "烽火通信科技股份有限公司(股票代码:SH600498)主营业务立足于光通信,深入拓展至信息技术与通信技术融合而生的广泛领城,成为我国智慧城市,行业信息化,智能化应用等领域的核心企业",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:43.031330+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "光纤"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "LineExpert管线资源管理系统——来自光纤发源地的纤缆管理专家",
     "translation_status": "ready"
   },
   {
@@ -2865,9 +5370,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "6b6a7febe4fbfa9c",
@@ -2894,9 +5400,10 @@
       "NPO"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "博通的CPO/NPO路线：相互制衡的观点",
-    "translation_status": "ready"
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
   },
   {
     "id": "56aa7a5b34745085",
@@ -2909,6 +5416,9 @@
     "summary": "The post Ranovus® Delivers World’s First Monolithic 100G Optical I/O Cores for Next-Generation Data Centers based on the GF Fotonix™ Platform appeared first on Ranovus .",
     "tags": [],
     "collected_at": "2026-11-03T08:32:50.440524+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2920,7 +5430,7 @@
       "Ranovus"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Ranovus基于格芯Fotonix平台推出面向下一代数据中心的单片集成100G光I/O核心",
     "translation_status": "ready"
   },
@@ -2939,6 +5449,9 @@
       "数据中心互联"
     ],
     "collected_at": "2026-11-03T08:32:50.441509+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2952,7 +5465,7 @@
       "Ranovus"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Ranovus与TE Connectivity展示带精细间距插座的单片800G光互联，面向CPO和光模块应用",
     "translation_status": "ready"
   },
@@ -2969,6 +5482,9 @@
       "CPO"
     ],
     "collected_at": "2026-11-03T08:32:50.442486+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -2981,7 +5497,7 @@
       "Ranovus"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Ranovus携Xilinx Versal与Odin 800Gbps CPO 2.0展示自适应计算加速共封装光学平台",
     "translation_status": "ready"
   },
@@ -3004,9 +5520,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "66a0ec48e13ec096",
@@ -3028,9 +5545,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "214999ce1b2538eb",
@@ -3055,9 +5573,10 @@
       "CPO"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Isabel de Sousa评论：博通在CPO上的“大虚张声势”",
-    "translation_status": "ready"
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
   },
   {
     "id": "ab5e165273246bbe",
@@ -3078,9 +5597,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "5d5f4feae36c0711",
@@ -3105,9 +5625,10 @@
       "co-packaged optics"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "观点：微软和Facebook不会部署按现有定义的共封装光学",
-    "translation_status": "ready"
+    "translation_status": "ready",
+    "content_type": "新闻资讯"
   },
   {
     "id": "586349fbdf449a1d",
@@ -3122,6 +5643,9 @@
       "硅光"
     ],
     "collected_at": "2026-11-03T08:15:33.743565+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -3132,7 +5656,7 @@
       "silicon photonics"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Roy Rubenstein评论：硅光虽有顾虑，但依然可行且持续演进",
     "translation_status": "ready"
   },
@@ -3149,6 +5673,9 @@
       "CPO"
     ],
     "collected_at": "2026-11-03T08:15:34.300759+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -3160,7 +5687,7 @@
       "Ayar Labs"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "纬颖、Ayar Labs与创意电子联合展示CPO",
     "translation_status": "ready"
   },
@@ -3177,6 +5704,9 @@
       "CPO"
     ],
     "collected_at": "2026-11-03T08:15:35.156412+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -3187,7 +5717,7 @@
       "CPO"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "Micas发布102.4T CPO交换机",
     "translation_status": "ready"
   },
@@ -3211,9 +5741,10 @@
     "relevance_score": 0,
     "matched_terms": [],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "821242c47e41cd9f",
@@ -3236,9 +5767,10 @@
       "microLED"
     ],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "5ac96397c95abc38",
@@ -3261,9 +5793,10 @@
       "laser"
     ],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "805a5da820b7dd9a",
@@ -3286,9 +5819,10 @@
       "laser"
     ],
     "selection_reason": "缺少明确互联主题或命中排除规则",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "",
-    "translation_status": "pending"
+    "translation_status": "pending",
+    "content_type": "新闻资讯"
   },
   {
     "id": "1c23c4d7e53457e0",
@@ -3303,6 +5837,9 @@
       "数据中心互联"
     ],
     "collected_at": "2026-11-03T08:32:46.954671+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "热点问答"
@@ -3313,7 +5850,7 @@
       "光互联"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "智算时代，光互联如何撑起大模型算力底座？",
     "translation_status": "ready"
   },
@@ -3330,6 +5867,9 @@
       "光模块"
     ],
     "collected_at": "2026-11-03T08:32:56.179282+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -3340,7 +5880,7 @@
       "光模块"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "从光模块到车规芯片，思瑞浦“双轮驱动”下的盈利跃升与三重储备",
     "translation_status": "ready"
   },
@@ -3360,6 +5900,9 @@
       "光芯片/器件"
     ],
     "collected_at": "2026-11-03T08:33:02.784022+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -3371,7 +5914,7 @@
       "CPO"
     ],
     "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "从“铜退光进”到CPO商用 2026 IICIE硅光产业峰会解码互连新路径",
     "translation_status": "ready"
   },
@@ -3386,6 +5929,9 @@
     "summary": "光学频率梳是具有等频率间隔、高相干性光谱的新型梳状多波长光源，在宽带相干光通信、精密光谱测量、微波光子学、时间频率基准等领域有重要应用。基于片上集成微腔的孤子光频梳（Soliton Microcomb）凭借小型化、低噪声、高集成度等突出优势，成为新一代光子器件的核心研究方向。传统孤子光梳的激发通常需要窄线宽激光器对微腔进行扫频泵浦激发，该过程易受微腔热光效应影响，导致孤子极易湮灭，严重制约了系统的稳定性。虽然双波长窄线宽激光器泵浦热补偿法可以稳定产生孤子光梳，但泵浦系统成本高昂、控制过程复杂。为",
     "tags": [],
     "collected_at": "2026-11-03T08:33:05.140950+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -3396,8 +5942,127 @@
       "耦合"
     ],
     "selection_reason": "材料或器件主题同时具有互联应用背景",
-    "rules_version": "2026-11-03.2",
+    "rules_version": "2026-11-03.3",
     "title_zh": "中国科学院半导体所在耦合腔自注入锁定孤子晶体光梳研究方面取得进展 10-28 22:25",
     "translation_status": "ready"
+  },
+  {
+    "id": "90024d326bfff0a3",
+    "source_id": "hisense-broadband",
+    "source_name": "海信宽带",
+    "source_type": "企业官方新闻中心",
+    "title": "09.15.2026 纳真科技开启招股：全球AI光互连领域稀缺标的！ 查看更多",
+    "url": "https://www.ligent.com.cn/about/news/243.html",
+    "published_at": "",
+    "summary": "9月14日，全球领先的光通信与光连接平台型企业纳真科技公司（Ligent Technologies, Inc.）正式启动香港公开招股，计划于港交所主板挂牌，花旗与中信证券担任联席保荐人。这份招股书所呈现的，不仅是一组高速增长的财务数字，更是一个关于\"稀缺性如何被定价\"的典型样本。在光通信行业的投资图谱中，纳真科技的坐标极为特殊——它是业内极少数同时具备高速光芯片与高端光模块全流程自研量产能力的企业。这种\"芯模一体\"的垂直整合模式，在当前AI算力驱动的行业景气周期中，正在从\"成本优势\"升级为\"定价权优势\"。业内资深投资人士指出，纳真科技不仅在光芯片自研领域展现出巨大的毛利弹性与成长空间，其此次赴港挂牌，更意味着资本市场正式补齐了全球光模块头部第一阵营上市版图中的‘最后一块关键拼图’。对于寻求全产业链卡位的长线机构而言，其资产稀缺性不言而喻。锚点一：坚守“芯模一体”垂直突围，光芯片自研跨过拐点跃升为高毛利利润引擎光模块行业长期面临一个结构性困境：上游核心光芯片被海外巨头垄断，国内厂商大多从事后段封装，芯片采购成",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "光芯片/器件",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:30.704551+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互连"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "09.15.2026 纳真科技开启招股：全球AI光互连领域稀缺标的！ 查看更多",
+    "translation_status": "ready"
+  },
+  {
+    "id": "6b32a7bbcbb734ec",
+    "source_id": "hisense-broadband",
+    "source_name": "海信宽带",
+    "source_type": "企业官方新闻中心",
+    "title": "09.15.2026 纳真科技开启招股：构筑“芯模一体”AI光互连新业态 查看更多",
+    "url": "https://www.ligent.com.cn/about/news/242.html",
+    "published_at": "",
+    "summary": "",
+    "tags": [
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:31.952304+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互连"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "09.15.2026 纳真科技开启招股：构筑“芯模一体”AI光互连新业态 查看更多",
+    "translation_status": "ready"
+  },
+  {
+    "id": "f2094ee4220f25be",
+    "source_id": "sumitomo-electric",
+    "source_name": "住友电工",
+    "source_type": "企业官方新闻中心",
+    "title": "Meta, NEC and Sumitomo Electric to Collaborate on “Petal”, the World’s First Petabit Transoceanic Submarine Cable System",
+    "url": "https://sumitomoelectric.com/press/2026/09/prs040",
+    "published_at": "",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-03T08:51:26.867034+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [],
+    "selection_reason": "光通信专业企业的产品、合作或经营动态",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "97c035131ce21e61",
+    "source_id": "openlight",
+    "source_name": "OpenLight",
+    "source_type": "企业官方新闻中心",
+    "title": "OpenLight Adds Former GlobalFoundries Silicon Photonics Leader Kevin Soukup and Semiconductor Veteran Kirk Ouellette to Executive Team",
+    "url": "https://openlightphotonics.com/newsroom/openlight-expands-executive-leadership-team-with-strategic-appointments-to-accelerate-growth",
+    "published_at": "",
+    "summary": "Senior executives from GlobalFoundries and STMicroelectronics join OpenLight to scale its silicon photonics platform for AI, cloud and advanced…",
+    "tags": [
+      "硅光"
+    ],
+    "collected_at": "2026-11-03T08:51:31.330252+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "silicon photonics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   }
 ]

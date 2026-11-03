@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-03T08:35:44.466401+00:00",
+  "run_at": "2026-11-03T08:51:58.236125+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -79,7 +79,7 @@
       "source_id": "lightwave",
       "url": "https://www.lightwaveonline.com/",
       "group": "海外新闻与深度观察",
-      "found": 4,
+      "found": 5,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -176,7 +176,7 @@
       "source_id": "accelink",
       "url": "https://www.accelink.com/lighting_your_dreams/xinwenzixun.html",
       "group": "企业官方新闻中心",
-      "found": 6,
+      "found": 4,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -230,10 +230,12 @@
       "source_id": "oif",
       "url": "https://www.oiforum.com/",
       "group": "技术标准与学术研究",
-      "found": 1,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.oiforum.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.oiforum.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "以太网联盟 / Ethernet Alliance",
@@ -315,10 +317,11 @@
       "source_id": "fibereality",
       "url": "https://www.fibereality.com/blog/",
       "group": "市场研究机构",
-      "found": 3,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "光计数市场研究 / LightCounting",
@@ -381,11 +384,10 @@
       "url": "https://www.huxiu.com/",
       "group": "科技与商业媒体",
       "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "钛媒体 / TMTPost",
@@ -515,7 +517,7 @@
       "source_id": "trendforce",
       "url": "https://www.trendforce.com/news/",
       "group": "市场研究机构",
-      "found": 2,
+      "found": 1,
       "errors": [],
       "warnings": [
         "RSS不可用，尝试页面新闻列表"
@@ -754,12 +756,859 @@
       ],
       "warnings": [],
       "status": "error"
+    },
+    {
+      "source": "华工正源",
+      "source_id": "hg-genuine",
+      "url": "https://www.genuine-opto.com/",
+      "group": "企业官方新闻中心",
+      "found": 4,
+      "errors": [],
+      "warnings": [],
+      "status": "ok",
+      "resolved_news_url": "https://www.genuine-opto.com/xwzx/index.jhtml"
+    },
+    {
+      "source": "海信宽带",
+      "source_id": "hisense-broadband",
+      "url": "https://hbmt.hisense.com/",
+      "group": "企业官方新闻中心",
+      "found": 4,
+      "errors": [],
+      "warnings": [],
+      "status": "ok",
+      "resolved_news_url": "https://www.ligent.com.cn/about/news/"
+    },
+    {
+      "source": "索尔思光电 Source Photonics",
+      "source_id": "source-photonics",
+      "url": "https://www.sourcephotonics.com/newspage/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "联特科技",
+      "source_id": "linktel",
+      "url": "https://www.linkteltech.com.cn/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [
+        "页面未返回可解析的新闻列表"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "剑桥科技 CIG",
+      "source_id": "cig",
+      "url": "https://www.cigtech.com/cn",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "德科立",
+      "source_id": "taclink",
+      "url": "https://gb.taclink.com/",
+      "group": "企业官方新闻中心",
+      "found": 4,
+      "errors": [],
+      "warnings": [],
+      "status": "ok",
+      "resolved_news_url": "https://gb.taclink.com/news/1/"
+    },
+    {
+      "source": "应用光电 AOI",
+      "source_id": "aoi",
+      "url": "https://www.ao-inc.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "resolved_news_url": "https://newsroom.ao-inc.com/",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "长芯博创（原博创科技）",
+      "source_id": "everprox",
+      "url": "https://everprox.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "天孚通信",
+      "source_id": "tfc",
+      "url": "https://www.tfcsz.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.tfcsz.com', port=443): Read timed out. (read timeout=6)"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "太辰光",
+      "source_id": "tscom",
+      "url": "https://www.china-tscom.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.china-tscom.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:10"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "光库科技",
+      "source_id": "afrlaser",
+      "url": "https://www.afrlaser.com/",
+      "group": "企业官方新闻中心",
+      "found": 4,
+      "errors": [],
+      "warnings": [],
+      "status": "ok",
+      "resolved_news_url": "https://www.afrlaser.com/medias/"
+    },
+    {
+      "source": "仕佳光子",
+      "source_id": "sjphotons",
+      "url": "https://www.sjphotons.com.cn/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "源杰科技",
+      "source_id": "yj-semitech",
+      "url": "https://www.yj-semitech.com/html/news/index.html",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "腾景科技",
+      "source_id": "optowide",
+      "url": "https://www.optowide.com/cn/",
+      "group": "企业官方新闻中心",
+      "found": 1,
+      "errors": [],
+      "warnings": [],
+      "status": "ok",
+      "resolved_news_url": "https://www.optowide.com/list-20959.html"
+    },
+    {
+      "source": "福晶科技 CASTECH",
+      "source_id": "castech",
+      "url": "https://www.castech.com/news/News-2",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "长飞光纤",
+      "source_id": "yofc",
+      "url": "https://www.yofc.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [
+        "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "亨通光电",
+      "source_id": "htgd",
+      "url": "https://www.htgd.com.cn/",
+      "group": "企业官方新闻中心",
+      "found": 1,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "中天科技",
+      "source_id": "ztt",
+      "url": "https://www.chinaztt.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.chinaztt.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "康宁 Corning",
+      "source_id": "corning",
+      "url": "https://www.corning.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [
+        "403 Client Error: Forbidden for url: https://www.corning.com/"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "普睿司曼 Prysmian",
+      "source_id": "prysmian",
+      "url": "https://www.prysmian.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "住友电工",
+      "source_id": "sumitomo-electric",
+      "url": "https://sumitomoelectric.com/",
+      "group": "企业官方新闻中心",
+      "found": 4,
+      "errors": [],
+      "warnings": [],
+      "status": "ok",
+      "resolved_news_url": "https://sumitomoelectric.com/pr-news-articles?type=2"
+    },
+    {
+      "source": "古河电工",
+      "source_id": "furukawa-electric",
+      "url": "https://www.furukawaelectric.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "藤仓 Fujikura",
+      "source_id": "fujikura",
+      "url": "https://www.fujikura.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.fujikura.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "莫仕 Molex",
+      "source_id": "molex",
+      "url": "https://www.molex.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.molex.com', port=443): Read timed out. (read timeout=12)"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "安费诺 Amphenol",
+      "source_id": "amphenol",
+      "url": "https://www.amphenol.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [
+        "403 Client Error: Forbidden for url: https://www.amphenol.com/"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "泰科电子 TE Connectivity",
+      "source_id": "te-connectivity",
+      "url": "https://www.te.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [
+        "403 Client Error: Forbidden for url: https://www.te.com/"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "SENKO 扇港",
+      "source_id": "senko",
+      "url": "https://www.senko.com/",
+      "group": "企业官方新闻中心",
+      "found": 3,
+      "errors": [],
+      "warnings": [],
+      "status": "ok",
+      "resolved_news_url": "https://www.senko.com/news/"
+    },
+    {
+      "source": "US Conec",
+      "source_id": "usconec",
+      "url": "https://www.usconec.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "resolved_news_url": "https://www.usconec.com/resources/press-releases",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "LIGHTEL 光器件",
+      "source_id": "lightel",
+      "url": "https://lightel.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "MACOM",
+      "source_id": "macom",
+      "url": "https://www.macom.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "resolved_news_url": "https://www.macom.com/updates/news",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "Semtech",
+      "source_id": "semtech",
+      "url": "https://www.semtech.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "格芯 GlobalFoundries",
+      "source_id": "globalfoundries",
+      "url": "https://gf.com/",
+      "group": "企业官方新闻中心",
+      "found": 1,
+      "errors": [],
+      "warnings": [],
+      "status": "ok",
+      "resolved_news_url": "https://gf.com/news-and-events/news/"
+    },
+    {
+      "source": "高塔半导体 Tower",
+      "source_id": "tower",
+      "url": "https://towersemi.com/news-events/press-release-page/",
+      "group": "企业官方新闻中心",
+      "found": 3,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "台积电 TSMC",
+      "source_id": "tsmc",
+      "url": "https://www.tsmc.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "resolved_news_url": "https://pr.tsmc.com/english/latest-news",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "意法半导体 ST",
+      "source_id": "st",
+      "url": "https://www.st.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.st.com', port=443): Read timed out. (read timeout=12)"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "OpenLight",
+      "source_id": "openlight",
+      "url": "https://openlightphotonics.com/press-releases",
+      "group": "企业官方新闻中心",
+      "found": 4,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "Scintil Photonics",
+      "source_id": "scintil",
+      "url": "https://www.scintil-photonics.com/blog",
+      "group": "企业官方新闻中心",
+      "found": 7,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "NewPhotonics",
+      "source_id": "newphotonics",
+      "url": "https://www.newphotonics.com/",
+      "group": "企业官方新闻中心",
+      "found": 10,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "Nubis（Ciena业务入口）",
+      "source_id": "nubis",
+      "url": "https://www.ciena.com/about/newsroom",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "manual",
+      "note": "原独立官网已跳转至Ciena，按业务品牌保留，不重复采集。"
+    },
+    {
+      "source": "Quintessent",
+      "source_id": "quintessent",
+      "url": "https://www.quintessent.com/news",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "Lightwave Logic",
+      "source_id": "lightwave-logic",
+      "url": "https://www.lightwavelogic.com/",
+      "group": "企业官方新闻中心",
+      "found": 1,
+      "errors": [],
+      "warnings": [],
+      "status": "ok",
+      "resolved_news_url": "https://www.lightwavelogic.com/press-releases"
+    },
+    {
+      "source": "POET Technologies",
+      "source_id": "poet",
+      "url": "https://www.poet-technologies.com/news-media",
+      "group": "企业官方新闻中心",
+      "found": 3,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "是德科技 Keysight",
+      "source_id": "keysight",
+      "url": "https://www.keysight.com/go/news",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [
+        "403 Client Error: Forbidden for url: https://www.keysight.com/go/news"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "VIAVI 唯亚威",
+      "source_id": "viavi",
+      "url": "https://www.viavisolutions.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "安立 Anritsu",
+      "source_id": "anritsu",
+      "url": "https://www.anritsu.com/en-gb/about-anritsu/news",
+      "group": "企业官方新闻中心",
+      "found": 3,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "EXFO",
+      "source_id": "exfo",
+      "url": "https://www.exfo.com/",
+      "group": "企业官方新闻中心",
+      "found": 1,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "横河 Yokogawa",
+      "source_id": "yokogawa",
+      "url": "https://www.yokogawa.com/news/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "FormFactor",
+      "source_id": "formfactor",
+      "url": "https://www.formfactor.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "resolved_news_url": "https://www.formfactor.com/company/news-events/press-releases/",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "Fabrinet",
+      "source_id": "fabrinet",
+      "url": "https://fabrinet.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "捷普 Jabil",
+      "source_id": "jabil",
+      "url": "https://www.jabil.com/about-us/news-recognitions-policies/newsroom.html",
+      "group": "企业官方新闻中心",
+      "found": 2,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "日月光 ASE",
+      "source_id": "ase",
+      "url": "https://aseglobal.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "安靠 Amkor",
+      "source_id": "amkor",
+      "url": "https://amkor.com/news/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "SUSS",
+      "source_id": "suss",
+      "url": "https://www.suss.com/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "ASMPT",
+      "source_id": "asmpt",
+      "url": "https://www.asmpt.com/en/news-center/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "Besi",
+      "source_id": "besi",
+      "url": "https://www.besi.com/investor-relations/press-releases/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "Arista Networks",
+      "source_id": "arista",
+      "url": "https://www.arista.com/en/company/news",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "Ciena",
+      "source_id": "ciena",
+      "url": "https://www.ciena.com/about/newsroom",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [
+        "403 Client Error: Forbidden for url: https://www.ciena.com/about/newsroom"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "诺基亚 Nokia",
+      "source_id": "nokia",
+      "url": "https://www.nokia.com/newsroom/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "华为",
+      "source_id": "huawei",
+      "url": "https://www.huawei.com/cn/news",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "海思",
+      "source_id": "hisilicon",
+      "url": "https://www.hisilicon.com/cn/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "中兴通讯",
+      "source_id": "zte",
+      "url": "https://www.zte.com.cn/china/index.html",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "resolved_news_url": "https://www.zte.com.cn/china/about/news.html",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "烽火通信",
+      "source_id": "fiberhome",
+      "url": "https://www.fiberhome.com/xwzx.html",
+      "group": "企业官方新闻中心",
+      "found": 3,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "新华三 H3C",
+      "source_id": "h3c",
+      "url": "https://www.h3c.com/cn/About_H3C/News_Media/Company_News/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "锐捷网络",
+      "source_id": "ruijie",
+      "url": "https://www.ruijie.com.cn/",
+      "group": "企业官方新闻中心",
+      "found": 3,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "Astera Labs",
+      "source_id": "asteralabs",
+      "url": "https://www.asteralabs.com/newsroom/",
+      "group": "企业官方新闻中心",
+      "found": 2,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "Credo",
+      "source_id": "credosemi",
+      "url": "https://credosemi.com/",
+      "group": "企业官方新闻中心",
+      "found": 1,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "易飞扬 GIGALIGHT",
+      "source_id": "gigalight",
+      "url": "https://www.gigalight.com.cn/news-events.html",
+      "group": "企业官方新闻中心",
+      "found": 6,
+      "errors": [],
+      "warnings": [],
+      "status": "ok"
+    },
+    {
+      "source": "Avicena",
+      "source_id": "avicena",
+      "url": "https://avicena.tech/",
+      "group": "企业官方新闻中心",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "Palomino Laboratories",
+      "source_id": "palomino",
+      "url": "https://palominolabs.ai/",
+      "group": "企业官方新闻中心",
+      "found": 3,
+      "errors": [],
+      "warnings": [],
+      "status": "ok",
+      "resolved_news_url": "https://palominolabs.ai/press-releases/"
+    },
+    {
+      "source": "招标网",
+      "source_id": "zhaobiao",
+      "url": "https://zb.zhaobiao.cn/",
+      "group": "招标采购",
+      "found": 0,
+      "errors": [
+        "521 Server Error:  for url: https://zb.zhaobiao.cn/"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "采招网·光模块/光通信",
+      "source_id": "bidcenter",
+      "url": "https://www.bidcenter.com.cn/zhaobiao/zbkeyw-86676.html",
+      "group": "招标采购",
+      "found": 0,
+      "errors": [
+        "页面未返回可解析的新闻列表"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "中国政府采购网",
+      "source_id": "ccgp",
+      "url": "https://www.ccgp.gov.cn/",
+      "group": "招标采购",
+      "found": 0,
+      "errors": [
+        "403 Client Error: Forbidden for url: https://www.ccgp.gov.cn/"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "中国招标投标公共服务平台",
+      "source_id": "cebpubservice",
+      "url": "https://www.cebpubservice.com/",
+      "group": "招标采购",
+      "found": 0,
+      "errors": [
+        "405 Client Error: Not Allowed for url: https://www.cebpubservice.com/"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "中国移动采购与招标网",
+      "source_id": "cmcc-procurement",
+      "url": "https://b2b.10086.cn/",
+      "group": "招标采购",
+      "found": 0,
+      "errors": [
+        "页面未返回可解析的新闻列表"
+      ],
+      "warnings": [],
+      "status": "error"
+    },
+    {
+      "source": "中国电信阳光采购网",
+      "source_id": "ct-procurement",
+      "url": "https://caigou.chinatelecom.com.cn/",
+      "group": "招标采购",
+      "found": 0,
+      "errors": [],
+      "warnings": [],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+    },
+    {
+      "source": "中国联通采购与招标网",
+      "source_id": "cu-procurement",
+      "url": "https://www.chinaunicombidding.cn/bidInformation",
+      "group": "招标采购",
+      "found": 0,
+      "errors": [
+        "412 Client Error: Precondition Failed for url: https://www.chinaunicombidding.cn/bidInformation"
+      ],
+      "warnings": [],
+      "status": "error"
     }
   ],
-  "total_stored": 129,
-  "editorial_selected": 77,
-  "rules_version": "2026-11-03.2",
-  "pending_title_translations": 0,
-  "configured": 69,
-  "automatic": 57
+  "total_stored": 208,
+  "editorial_selected": 156,
+  "rules_version": "2026-11-03.3",
+  "pending_title_translations": 49,
+  "configured": 145,
+  "automatic": 132
 }
