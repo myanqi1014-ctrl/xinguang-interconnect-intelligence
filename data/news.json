@@ -30,6 +30,187 @@
     "translation_status": "ready"
   },
   {
+    "id": "9467a96cd4fda8fd",
+    "source_id": "c114",
+    "source_name": "C114通信网 / C114",
+    "source_type": "国内行业媒体",
+    "title": "全球首个，试验成功！我国光通信关键技术取得重要突破",
+    "url": "https://www.c114.com.cn/video/5917/a1320410.html",
+    "published_at": "2026-11-04T00:00:00+00:00",
+    "summary": "全球首个，试验成功！我国光通信关键技术取得重要突破,近日，全国重点实验室共建单位中国电信研究院、长飞公司联合中兴通讯，完成全球首个千公里空芯光纤双向实时",
+    "tags": [],
+    "collected_at": "2026-11-04T08:02:50.831677+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "全球首个，试验成功！我国光通信关键技术取得重要突破",
+    "translation_status": "ready"
+  },
+  {
+    "id": "79b4aa2441fed2ac",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "光通信国产化：逐层推进，但进度条拉得不一样长",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210008-8420-30710300.html",
+    "published_at": "2026-11-04T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-04T08:02:47.301439+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "光通信国产化：逐层推进，但进度条拉得不一样长",
+    "translation_status": "ready"
+  },
+  {
+    "id": "b0fb81d5fe24bb99",
+    "source_id": "senko",
+    "source_name": "SENKO 扇港",
+    "source_type": "企业官方新闻中心",
+    "title": "PICALIGN™: Active Alignment Ready for Production",
+    "url": "https://www.senko.com/picalign-active-alignment-ready-for-production/",
+    "published_at": "2026-11-03T20:06:48+00:00",
+    "summary": "Active alignment remains a bottleneck for scaling photonics. Aerotech’s Justin Bressi demonstrates how PICALIGN™ delivers precise optical alignment in seconds and explains why the collaborative solution is now ready for commercial production. The post PICALIGN™: Active Alignment Ready for Production appeared first on SENKO Advanced Components, Inc. .",
+    "tags": [],
+    "collected_at": "2026-11-04T08:03:12.940123+00:00",
+    "company_scope": "optical",
+    "company_segment": "光器件与连接",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [],
+    "selection_reason": "光通信专业企业的产品、合作或经营动态",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "69d7898d12fff071",
+    "source_id": "senko",
+    "source_name": "SENKO 扇港",
+    "source_type": "企业官方新闻中心",
+    "title": "Scaling Silicon Photonics: Solving the Test Challenge",
+    "url": "https://www.senko.com/scaling-silicon-photonics-solving-the-test-challenge/",
+    "published_at": "2026-11-03T19:56:31+00:00",
+    "summary": "As silicon photonics moves toward volume manufacturing, testing becomes a critical challenge. Advantest's Natsuki Shiota explains how SENKO, Advantest and VIAVI are demonstrating a practical approach to repeatable, automated optical testing at ECOC 2026. The post Scaling Silicon Photonics: Solving the Test Challenge appeared first on SENKO Advanced Components, Inc. .",
+    "tags": [
+      "硅光"
+    ],
+    "collected_at": "2026-11-04T08:03:12.941761+00:00",
+    "company_scope": "optical",
+    "company_segment": "光器件与连接",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "热点问答"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "silicon photonics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "d4e6db3ace7ce320",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Innolight Begins NPO Production on Tower Semiconductor’s Silicon Photonics",
+    "url": "https://convergedigest.com/innolight-tower-semiconductor-npo-silicon-photonics-production/",
+    "published_at": "2026-11-03T16:42:38+00:00",
+    "summary": "Innolight has begun early production of its first near-package optics (NPO) device using Tower Semiconductor’s PH18M silicon photonics process at the foundry’s Newport Beach, California facility. The milestone moves Innolight’s NPO portfolio from development into initial manufacturing, while the company has also completed tape-outs of multiple additional NPO products on Tower’s 300mm silicon photonics platform. The two companies are extending their manufacturing relationship to support higher-de",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "硅光",
+      "NPO",
+      "CPO",
+      "光芯片/器件",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-04T08:02:41.254173+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 96,
+    "matched_terms": [
+      "NPO",
+      "silicon photonics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "ee528027d724eded",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Lumai Optical AI Servers Head to UK’s ARIA Lab for Rack-Scale Inference Testing",
+    "url": "https://convergedigest.com/lumai-optical-ai-inference-aria-scaling-lab/",
+    "published_at": "2026-11-03T14:57:00+00:00",
+    "summary": "UK research agency ARIA is preparing to deploy optical AI inference servers from Oxford-based Lumai in its Scaling Inference Lab, marking a significant step toward evaluating light-based computation in commercial data center environments. Lumai’s Iris platform will become the lab’s first optical inference system, with researchers examining whether the technology can deliver substantial improvements in energy efficiency, processing performance, and infrastructure costs. The announcement moves Lum",
+    "tags": [
+      "AI算力",
+      "硅光",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-04T08:02:41.314908+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "testing"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
     "id": "77508bdfed2d57b4",
     "source_id": "laser-focus-world",
     "source_name": "激光世界 / Laser Focus World",
@@ -321,6 +502,97 @@
     "translation_status": "ready",
     "content_type": "新闻资讯",
     "company_scope": ""
+  },
+  {
+    "id": "f8470103ede0f430",
+    "source_id": "optics-org",
+    "source_name": "光学网 / optics.org",
+    "source_type": "海外新闻与深度观察",
+    "title": "PsiQuantum launches optical circuit switch based on silicon photonics",
+    "url": "https://optics.org/news/psiquantum-launches-optical-circuit-switch-technology-based-on-silicon-photonics",
+    "published_at": "2026-11-03T00:00:00+00:00",
+    "summary": "With losses as low as 1 dB, the 8×8 platform is suitable for AI infrastructure.",
+    "tags": [
+      "AI算力",
+      "硅光"
+    ],
+    "collected_at": "2026-11-04T08:02:44.190943+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 76,
+    "matched_terms": [
+      "silicon photonics",
+      "optical circuit switch"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "863498e9c4d33473",
+    "source_id": "optics-org",
+    "source_name": "光学网 / optics.org",
+    "source_type": "海外新闻与深度观察",
+    "title": "ESA partnership’s CubeSat achieves ‘challenging’ laser link to ground",
+    "url": "https://optics.org/news/esa-partnerships-cubesat-achieves-challenging-laser-link-to-ground",
+    "published_at": "2026-11-03T00:00:00+00:00",
+    "summary": "ERMIS-3 validates small-sat optical communication with terrestrial optical terminal.",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-04T08:02:44.691681+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "laser"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "bb8f37512c2ec594",
+    "source_id": "tfc",
+    "source_name": "天孚通信",
+    "source_type": "企业官方新闻中心",
+    "title": "2026-11-03 天孚通信2026年第三季度业绩稳健增长，盈利能力持续提升 了解更多 >",
+    "url": "https://www.tfcsz.com/news/1101.html",
+    "published_at": "2026-11-03T00:00:00+00:00",
+    "summary": "天孚通信（TFC）2005年成立，2015年在中国创业板上市，是全球光互连领域领先的一站式平台型技术企业。依托高复用的技术平台与深度的产业链垂直整合能力，提供从无源光器件到有源光器件的一站式光互连解决方案。产品广泛应用于人工智能、数据中心、光纤通信、激光雷达、生物光子学等领域。",
+    "tags": [
+      "光芯片/器件",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-04T08:03:11.435147+00:00",
+    "company_scope": "optical",
+    "company_segment": "光器件与连接",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [],
+    "selection_reason": "光通信专业企业的产品、合作或经营动态",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "2026-11-03 天孚通信2026年第三季度业绩稳健增长，盈利能力持续提升 了解更多 >",
+    "translation_status": "ready"
   },
   {
     "id": "248f9901585f39ad",
@@ -1221,6 +1493,36 @@
     "translation_status": "ready"
   },
   {
+    "id": "40cb4cc93103157f",
+    "source_id": "etnews",
+    "source_name": "ETNews 电子新闻",
+    "source_type": "海外新闻与深度观察",
+    "title": "LaserApps Advances Low-Loss Optical Waveguides for CPO",
+    "url": "https://en.etnews.com/20261028200002",
+    "published_at": "2026-10-28T00:42:10+00:00",
+    "summary": "This is the English news site of the Electronic Times. Most of e-business leaders and internet professionals in korea turn to ETNews for driving their organizations and searching foe the up-to-date IT related news",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-04T08:02:53.082195+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
     "id": "49ac9558782be03f",
     "source_id": "optics-org",
     "source_name": "光学网 / optics.org",
@@ -1561,6 +1863,34 @@
     "translation_status": "ready"
   },
   {
+    "id": "d8db51b5214064fe",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "专访星特科技：从精密自动化到光通信，沿着客户良率需求拓展产品布局",
+    "url": "https://www.c-fol.net/news/5_202610/20261023085039.html",
+    "published_at": "2026-10-23T00:00:00+00:00",
+    "summary": "光纤在线讯：星特科技每一步产品的开发，都是依据客户痛点逐步分析而来。",
+    "tags": [],
+    "collected_at": "2026-11-04T08:02:56.452699+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "关键人物访谈"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "专访星特科技：从精密自动化到光通信，沿着客户良率需求拓展产品布局",
+    "translation_status": "ready"
+  },
+  {
     "id": "4251dc0a0f7943ca",
     "source_id": "palomino",
     "source_name": "Palomino Laboratories",
@@ -1765,6 +2095,37 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "Fiber for AI｜国内首次！800G多芯光模块+四芯光纤，烽火通信解锁高密度光互联新方案 2026.10.21",
+    "translation_status": "ready"
+  },
+  {
+    "id": "62be8e559d22a3ac",
+    "source_id": "tfc",
+    "source_name": "天孚通信",
+    "source_type": "企业官方新闻中心",
+    "title": "2026-10-21 天孚通信荣获全球及中国光器件竞争力双十强",
+    "url": "https://www.tfcsz.com/news/1092.html",
+    "published_at": "2026-10-21T00:00:00+00:00",
+    "summary": "天孚通信（TFC）2005年成立，2015年在中国创业板上市，是全球光互连领域领先的一站式平台型技术企业。依托高复用的技术平台与深度的产业链垂直整合能力，提供从无源光器件到有源光器件的一站式光互连解决方案。产品广泛应用于人工智能、数据中心、光纤通信、激光雷达、生物光子学等领域。",
+    "tags": [
+      "光芯片/器件",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-04T08:03:10.191532+00:00",
+    "company_scope": "optical",
+    "company_segment": "光器件与连接",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光器件"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "2026-10-21 天孚通信荣获全球及中国光器件竞争力双十强",
     "translation_status": "ready"
   },
   {
@@ -2095,6 +2456,37 @@
     "translation_status": "ready",
     "content_type": "新闻资讯",
     "company_scope": ""
+  },
+  {
+    "id": "cf33a9896c77e967",
+    "source_id": "hg-genuine",
+    "source_name": "华工正源",
+    "source_type": "企业官方新闻中心",
+    "title": "首登OCP全球峰会：华工正源携三大高速光互联方案亮相圣何塞",
+    "url": "http://www.genuine-opto.com/gsxw/500.jhtml",
+    "published_at": "2026-10-14T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光模块",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-04T08:03:13.703770+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互联"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "首登OCP全球峰会：华工正源携三大高速光互联方案亮相圣何塞",
+    "translation_status": "ready"
   },
   {
     "id": "c9e36039b80c25f2",
@@ -2538,6 +2930,36 @@
     "rules_version": "2026-11-03.3",
     "title_zh": "为什么光互联将成为AI芯片的下一个重要方向",
     "translation_status": "ready"
+  },
+  {
+    "id": "0657aa9f309d1b9e",
+    "source_id": "optics-org",
+    "source_name": "光学网 / optics.org",
+    "source_type": "海外新闻与深度观察",
+    "title": "ficonTEC and HTSI Announce Strategic Cooperation to Scale Advanced CPO Test Solutions in Taiwan",
+    "url": "https://optics.org/press-releases/ficontec-and-htsi-announce-strategic-cooperation-to-scale-advanced-cpo-test-solutions-in-taiwan",
+    "published_at": "2026-10-01T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-04T08:02:45.836551+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "9ef104c038f711ec",
@@ -3102,6 +3524,37 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "Tower将在ECOC 2026展示面向AI基础设施、电信及新兴应用的大批量硅光与硅锗方案",
+    "translation_status": "ready"
+  },
+  {
+    "id": "1319e2473d35ee6e",
+    "source_id": "tfc",
+    "source_name": "天孚通信",
+    "source_type": "企业官方新闻中心",
+    "title": "2026-09-15 CIOE 2026｜天孚通信全新亮相，聚力 AI 光互连 了解更多 >",
+    "url": "https://www.tfcsz.com/news/1080.html",
+    "published_at": "2026-09-15T00:00:00+00:00",
+    "summary": "天孚通信（TFC）2005年成立，2015年在中国创业板上市，是全球光互连领域领先的一站式平台型技术企业。依托高复用的技术平台与深度的产业链垂直整合能力，提供从无源光器件到有源光器件的一站式光互连解决方案。产品广泛应用于人工智能、数据中心、光纤通信、激光雷达、生物光子学等领域。",
+    "tags": [
+      "光芯片/器件",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-04T08:03:12.695587+00:00",
+    "company_scope": "optical",
+    "company_segment": "光器件与连接",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互连"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "2026-09-15 CIOE 2026｜天孚通信全新亮相，聚力 AI 光互连 了解更多 >",
     "translation_status": "ready"
   },
   {
@@ -4281,6 +4734,37 @@
     "selection_reason": "光通信专业企业的产品、合作或经营动态",
     "rules_version": "2026-11-03.3",
     "title_zh": "OpenLight完成5000万美元A-1轮融资，加速下一代光子技术全球部署",
+    "translation_status": "ready"
+  },
+  {
+    "id": "94759180f66f28af",
+    "source_id": "tfc",
+    "source_name": "天孚通信",
+    "source_type": "企业官方新闻中心",
+    "title": "天孚通信新总部(新一代光器件项目)开工 了解更多 >",
+    "url": "https://www.tfcsz.com/news/1036.html",
+    "published_at": "2026-04-20T00:00:00+00:00",
+    "summary": "天孚通信（TFC）2005年成立，2015年在中国创业板上市，是全球光互连领域领先的一站式平台型技术企业。依托高复用的技术平台与深度的产业链垂直整合能力，提供从无源光器件到有源光器件的一站式光互连解决方案。产品广泛应用于人工智能、数据中心、光纤通信、激光雷达、生物光子学等领域。",
+    "tags": [
+      "光芯片/器件",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-04T08:03:08.968142+00:00",
+    "company_scope": "optical",
+    "company_segment": "光器件与连接",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光器件"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "天孚通信新总部(新一代光器件项目)开工 了解更多 >",
     "translation_status": "ready"
   },
   {
@@ -6542,6 +7026,36 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "住友电工成为上海第48届世界技能大赛金牌合作伙伴，以光通信技术支持技能人才培养",
+    "translation_status": "ready"
+  },
+  {
+    "id": "7c38a7e17b795f3d",
+    "source_id": "eefocus",
+    "source_name": "与非网",
+    "source_type": "国内半导体媒体",
+    "title": "1150亿美元，Marvell拟收购Lumentum，谁将掌握AI光互联的主导权？",
+    "url": "https://www.eefocus.com/article/2113639.html",
+    "published_at": "",
+    "summary": "",
+    "tags": [
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-04T08:02:57.174587+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互联"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "1150亿美元，Marvell拟收购Lumentum，谁将掌握AI光互联的主导权？",
     "translation_status": "ready"
   }
 ]

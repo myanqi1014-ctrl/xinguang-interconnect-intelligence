@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-03T08:58:45.527188+00:00",
+  "run_at": "2026-11-04T08:03:37.925557+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -27,7 +27,7 @@
       "source_id": "converge-digest",
       "url": "https://convergedigest.com/",
       "group": "海外新闻与深度观察",
-      "found": 2,
+      "found": 4,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -37,10 +37,12 @@
       "source_id": "semiconductor-engineering",
       "url": "https://semiengineering.com/knowledge_centers/data-movement/photonics/",
       "group": "海外新闻与深度观察",
-      "found": 8,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='semiengineering.com', port=443): Read timed out. (read timeout=12)"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "化合物半导体 / Compound Semiconductor",
@@ -79,7 +81,7 @@
       "source_id": "lightwave",
       "url": "https://www.lightwaveonline.com/",
       "group": "海外新闻与深度观察",
-      "found": 5,
+      "found": 4,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -89,11 +91,10 @@
       "source_id": "optics-org",
       "url": "https://optics.org/",
       "group": "海外新闻与深度观察",
-      "found": 0,
+      "found": 3,
       "errors": [],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "ok"
     },
     {
       "source": "NVIDIA",
@@ -273,19 +274,17 @@
       "source_id": "c114",
       "url": "https://www.c114.com.cn/",
       "group": "国内行业媒体",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.c114.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.c114.com.cn', port=443) at 0x7fee6aa1ee50>, 'Connection to www.c114.com.cn timed out. (connect timeout=6"
-      ],
+      "found": 2,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "维科网光通讯 / OFweek",
       "source_id": "ofweek",
       "url": "https://fiber.ofweek.com/",
       "group": "国内行业媒体",
-      "found": 7,
+      "found": 6,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -383,10 +382,11 @@
       "url": "https://www.huxiu.com/",
       "group": "科技与商业媒体",
       "found": 0,
-      "errors": [],
+      "errors": [
+        "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
+      ],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "error"
     },
     {
       "source": "钛媒体 / TMTPost",
@@ -539,11 +539,10 @@
       "source_id": "etnews",
       "url": "https://en.etnews.com/",
       "group": "海外新闻与深度观察",
-      "found": 0,
+      "found": 1,
       "errors": [],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "ok"
     },
     {
       "source": "半导体产业纵横",
@@ -594,10 +593,12 @@
       "source_id": "laoyaoba",
       "url": "https://www.laoyaoba.com/",
       "group": "国内半导体媒体",
-      "found": 5,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.laoyaoba.com', port=443): Read timed out. (read timeout=12)"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "NIST CHIPS 美国半导体产业投资",
@@ -851,12 +852,11 @@
       "source_id": "tfc",
       "url": "https://www.tfcsz.com/",
       "group": "企业官方新闻中心",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.tfcsz.com', port=443): Read timed out. (read timeout=6)"
-      ],
+      "found": 4,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok",
+      "resolved_news_url": "https://www.tfcsz.com/news1.html"
     },
     {
       "source": "太辰光",
@@ -987,11 +987,13 @@
       "source_id": "sumitomo-electric",
       "url": "https://sumitomoelectric.com/",
       "group": "企业官方新闻中心",
-      "found": 3,
+      "found": 0,
       "errors": [],
-      "warnings": [],
-      "status": "ok",
-      "resolved_news_url": "https://sumitomoelectric.com/pr-news-articles?type=2"
+      "warnings": [
+        "新闻栏目暂未读取，尝试首页公开条目"
+      ],
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "古河电工",
@@ -1057,7 +1059,7 @@
       "source_id": "senko",
       "url": "https://www.senko.com/",
       "group": "企业官方新闻中心",
-      "found": 3,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok",
@@ -1255,7 +1257,7 @@
       "source_id": "anritsu",
       "url": "https://www.anritsu.com/en-gb/about-anritsu/news",
       "group": "企业官方新闻中心",
-      "found": 3,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -1604,10 +1606,10 @@
       "status": "error"
     }
   ],
-  "total_stored": 222,
-  "editorial_selected": 160,
+  "total_stored": 239,
+  "editorial_selected": 177,
   "rules_version": "2026-11-03.3",
-  "pending_title_translations": 0,
+  "pending_title_translations": 8,
   "configured": 145,
   "automatic": 132,
   "procurement_imported": 4
