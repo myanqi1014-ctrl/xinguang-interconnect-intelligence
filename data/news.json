@@ -86,6 +86,64 @@
     "translation_status": "ready"
   },
   {
+    "id": "ca56c756b107ccde",
+    "source_id": "c114",
+    "source_name": "C114通信网 / C114",
+    "source_type": "国内行业媒体",
+    "title": "2026年度江苏省零碳工厂：光通信行业大量入选！ 11/4 16:17",
+    "url": "https://www.c114.com.cn/ftth/5472/a1320416.html",
+    "published_at": "2026-11-04T00:00:00+00:00",
+    "summary": "2026年度江苏省零碳工厂：光通信行业大量入选！,C114讯 11月4日消息（南山）近期，根据《关于开展2026年度江苏省零碳（近零碳）工厂申报工作的",
+    "tags": [],
+    "collected_at": "2026-11-04T11:57:31.332204+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "2026年度江苏省零碳工厂：光通信行业大量入选！ 11/4 16:17",
+    "translation_status": "ready"
+  },
+  {
+    "id": "3e1b3cf344eab4b6",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "CFCF AP2026 明日开幕，共探东南亚算力光互联机遇！",
+    "url": "https://www.c-fol.net/news/7_202611/20261104165817.html",
+    "published_at": "2026-11-04T00:00:00+00:00",
+    "summary": "光纤在线讯：明日，第三届 CFCF AP2026 亚太光连接大会将在曼谷正式启幕，诚邀您参加。",
+    "tags": [
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-04T11:57:31.319204+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互联"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "CFCF AP2026 明日开幕，共探东南亚算力光互联机遇！",
+    "translation_status": "ready"
+  },
+  {
     "id": "b0fb81d5fe24bb99",
     "source_id": "senko",
     "source_name": "SENKO 扇港",
@@ -3041,6 +3099,34 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "住友电工与3M达成组装协议，推进面向数据中心的扩束光互联技术",
+    "translation_status": "ready"
+  },
+  {
+    "id": "f4e5518d957b9a7f",
+    "source_id": "sumitomo-electric",
+    "source_name": "住友电工",
+    "source_type": "企业官方新闻中心",
+    "title": "Sumitomo Electric Selected as a Gold Partner of the 48th WorldSkills Competition in Shanghai, China —Supporting Skilled Workforce Development with World-Class Optical Communication Technology—",
+    "url": "https://sumitomoelectric.com/press/2026/08/prs033",
+    "published_at": "2026-09-30T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-03T08:58:25.535790+00:00",
+    "company_scope": "related",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical communication"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "住友电工成为上海第48届世界技能大赛金牌合作伙伴，以光通信技术支持技能人才培养",
     "translation_status": "ready"
   },
   {
@@ -6998,34 +7084,6 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "OpenLight任命前格芯硅光负责人Kevin Soukup及半导体资深人士Kirk Ouellette加入高管团队",
-    "translation_status": "ready"
-  },
-  {
-    "id": "f4e5518d957b9a7f",
-    "source_id": "sumitomo-electric",
-    "source_name": "住友电工",
-    "source_type": "企业官方新闻中心",
-    "title": "Sumitomo Electric Selected as a Gold Partner of the 48th WorldSkills Competition in Shanghai, China —Supporting Skilled Workforce Development with World-Class Optical Communication Technology—",
-    "url": "https://sumitomoelectric.com/press/2026/08/prs033",
-    "published_at": "",
-    "summary": "",
-    "tags": [],
-    "collected_at": "2026-11-03T08:58:25.535790+00:00",
-    "company_scope": "related",
-    "company_segment": "光模块与有源光缆",
-    "content_type": "新闻资讯",
-    "accepted": true,
-    "columns": [
-      "知识科普与深度洞察"
-    ],
-    "priority": "常规跟踪",
-    "relevance_score": 48,
-    "matched_terms": [
-      "optical communication"
-    ],
-    "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.3",
-    "title_zh": "住友电工成为上海第48届世界技能大赛金牌合作伙伴，以光通信技术支持技能人才培养",
     "translation_status": "ready"
   },
   {

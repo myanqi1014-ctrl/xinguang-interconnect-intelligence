@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-04T08:03:37.925557+00:00",
+  "run_at": "2026-11-04T11:58:28.436036+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -37,12 +37,10 @@
       "source_id": "semiconductor-engineering",
       "url": "https://semiengineering.com/knowledge_centers/data-movement/photonics/",
       "group": "海外新闻与深度观察",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='semiengineering.com', port=443): Read timed out. (read timeout=12)"
-      ],
+      "found": 8,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "化合物半导体 / Compound Semiconductor",
@@ -231,10 +229,12 @@
       "source_id": "oif",
       "url": "https://www.oiforum.com/",
       "group": "技术标准与学术研究",
-      "found": 1,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.oiforum.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.oiforum.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "以太网联盟 / Ethernet Alliance",
@@ -274,7 +274,7 @@
       "source_id": "c114",
       "url": "https://www.c114.com.cn/",
       "group": "国内行业媒体",
-      "found": 2,
+      "found": 3,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -284,7 +284,7 @@
       "source_id": "ofweek",
       "url": "https://fiber.ofweek.com/",
       "group": "国内行业媒体",
-      "found": 6,
+      "found": 5,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -382,11 +382,10 @@
       "url": "https://www.huxiu.com/",
       "group": "科技与商业媒体",
       "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "钛媒体 / TMTPost",
@@ -539,10 +538,12 @@
       "source_id": "etnews",
       "url": "https://en.etnews.com/",
       "group": "海外新闻与深度观察",
-      "found": 1,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='en.etnews.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='en.etnews.com', port=443) at 0x7fb1bbc40550>, 'Connection to en.etnews.com timed out. (connect timeout=6)'))"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "半导体产业纵横",
@@ -595,7 +596,7 @@
       "group": "国内半导体媒体",
       "found": 0,
       "errors": [
-        "HTTPSConnectionPool(host='www.laoyaoba.com', port=443): Read timed out. (read timeout=12)"
+        "HTTPSConnectionPool(host='www.laoyaoba.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.laoyaoba.com', port=443) at 0x7fb1cce72ed0>, 'Connection to www.laoyaoba.com timed out. (connect timeou"
       ],
       "warnings": [],
       "status": "error"
@@ -685,7 +686,7 @@
       "group": "企业官方新闻中心",
       "found": 0,
       "errors": [
-        "520 Server Error: <none> for url: https://ayarlabs.com/news/"
+        "页面未返回可解析的新闻列表"
       ],
       "warnings": [],
       "status": "error"
@@ -729,7 +730,7 @@
       "group": "会议与展会",
       "found": 0,
       "errors": [
-        "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+        "页面未返回可解析的新闻列表"
       ],
       "warnings": [],
       "status": "error"
@@ -987,13 +988,11 @@
       "source_id": "sumitomo-electric",
       "url": "https://sumitomoelectric.com/",
       "group": "企业官方新闻中心",
-      "found": 0,
+      "found": 3,
       "errors": [],
-      "warnings": [
-        "新闻栏目暂未读取，尝试首页公开条目"
-      ],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "warnings": [],
+      "status": "ok",
+      "resolved_news_url": "https://sumitomoelectric.com/pr-news-articles?type=2"
     },
     {
       "source": "古河电工",
@@ -1606,8 +1605,8 @@
       "status": "error"
     }
   ],
-  "total_stored": 239,
-  "editorial_selected": 177,
+  "total_stored": 241,
+  "editorial_selected": 179,
   "rules_version": "2026-11-03.3",
   "pending_title_translations": 8,
   "configured": 145,
