@@ -510,6 +510,37 @@
     "company_scope": ""
   },
   {
+    "source_id": "bidcenter",
+    "title": "光模块询比采购采购结果公告",
+    "url": "https://3101.bidcenter.com.cn/bidinfo-4-a0f73512c37219a9d4b4fe167f91802a7c85d48e88ddf69e.html",
+    "published_at": "2026-11-02T00:00:00+08:00",
+    "summary": "光模块询比采购结果已公布；公开页列出网络收发设备成交信息，供应商及部分项目字段被遮蔽，不补全缺失名称和金额。",
+    "verification_note": "已读取采招网公开详情页，核实标题及2026年11月2日发布日期；部分字段被遮蔽，完整成交信息需原平台核验。",
+    "checked_at": "2026-11-04",
+    "id": "fc9e58393fa94bc6",
+    "source_name": "采招网·光模块/光通信",
+    "source_type": "招标采购",
+    "content_type": "招标采购",
+    "collected_at": "2026-11-04T04:06:43.891445+00:00",
+    "ingestion_method": "公开检索补充",
+    "title_zh": "光模块询比采购采购结果公告",
+    "accepted": true,
+    "columns": [
+      "招标采购"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "采购公告标题命中光通信或算力互联设备",
+    "rules_version": "2026-11-03.3",
+    "tender_stage": "中标/成交",
+    "procurement_level": "一般光通信采购",
+    "company_scope": "",
+    "translation_status": "ready"
+  },
+  {
     "id": "8e2b786ec72f04c3",
     "source_id": "ofweek",
     "source_name": "维科网光通讯 / OFweek",
@@ -1884,6 +1915,38 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "配件 原厂光模块，电源模块，品质值得信赖",
+    "translation_status": "ready"
+  },
+  {
+    "source_id": "bidcenter",
+    "title": "光模块采购项目招标公告",
+    "url": "https://440305.bidcenter.com.cn/bidinfo-1-a0f73512c37219a9b0ffd05d6ba3b3daff914a5986f94c3f.html",
+    "published_at": "2026-10-15T18:35:00+08:00",
+    "summary": "公开页面显示400G光模块采购，投标截止时间为11月5日09:30。招标文件获取期为10月15日至22日，已结束；不据此认定仍可报名。金额和部分主体名称被遮蔽。",
+    "deadline": "2026-11-05T09:30:00+08:00",
+    "verification_note": "已读取采招网公开详情页，核实标题、发布日期及截标时间。400G规格来自页面关键词和正文；被遮蔽信息未补全，参与条件须核验原平台最新公告。",
+    "checked_at": "2026-11-04",
+    "id": "fddaa9499493eb7b",
+    "source_name": "采招网·光模块/光通信",
+    "source_type": "招标采购",
+    "content_type": "招标采购",
+    "collected_at": "2026-11-04T04:06:43.891640+00:00",
+    "ingestion_method": "公开检索补充",
+    "title_zh": "光模块采购项目招标公告",
+    "accepted": true,
+    "columns": [
+      "招标采购"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "采购公告标题命中光通信或算力互联设备",
+    "rules_version": "2026-11-03.3",
+    "tender_stage": "招标/采购公告",
+    "procurement_level": "一般光通信采购",
+    "company_scope": "",
     "translation_status": "ready"
   },
   {
