@@ -30,6 +30,99 @@
     "translation_status": "ready"
   },
   {
+    "id": "802154119084cb9a",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "卖券商套现22亿，转头追光模块：锦龙股份跨界“成瘾”？",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-12003-30710385.html",
+    "published_at": "2026-11-05T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-05T07:23:29.206055+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "卖券商套现22亿，转头追光模块：锦龙股份跨界“成瘾”？",
+    "translation_status": "ready"
+  },
+  {
+    "id": "0aa676252abc0e6c",
+    "source_id": "trendforce",
+    "source_name": "TrendForce 集邦咨询",
+    "source_type": "市场研究机构",
+    "title": "[News] Huawei, Alibaba, Tencent, Xiaomi, Baidu, ZTE and Lenovo Invest in Optical Communications",
+    "url": "https://www.trendforce.com/news/2026/11/05/news-huawei-alibaba-tencent-xiaomi-baidu-zte-and-lenovo-invest-in-optical-communications/",
+    "published_at": "2026-11-05T00:00:00+00:00",
+    "summary": "Optical communications has become an increasingly important investment area for technology companies in recent years. Huawei, Alibaba, Tencent, Xiaomi...",
+    "tags": [],
+    "collected_at": "2026-11-05T07:23:32.072127+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical communication"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "9ae11526b5ff06fb",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Credo and Oracle Advance Optical Transceiver Telemetry through OCP",
+    "url": "https://convergedigest.com/credo-oracle-ocp-optical-telemetry-standards/",
+    "published_at": "2026-11-04T23:55:52+00:00",
+    "summary": "The Open Compute Project (OCP) community has approved two specifications for optical transceiver telemetry, advancing an industry effort led by Credo Technology Group and Oracle to improve the reliability of large-scale AI networking fabrics. Developed through OCP’s Optics Reliability Workstream, the specifications establish common mechanisms for exchanging Layer 1 diagnostic information, monitoring optical link health, recording significant events, and coordinating responses to link disruptions",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "硅光",
+      "数据中心互联",
+      "网络与交换",
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-05T07:23:21.323369+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical transceiver"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
     "source_id": "bidcenter",
     "title": "2026年新华三交换机板卡及光模块采购项目成交公告",
     "url": "https://110108.bidcenter.com.cn/bidinfo-4-a0f73512c37219a9fda03260ed837aa26902acb216804d12.html",
@@ -1406,6 +1499,34 @@
     "company_scope": ""
   },
   {
+    "id": "a0e27bcf9d160c74",
+    "source_id": "fiberhome",
+    "source_name": "烽火通信",
+    "source_type": "企业官方新闻中心",
+    "title": "V-PON上车！烽火通信车载光通信解决方案亮相2026中国汽车工程学会年会 2026.10.30",
+    "url": "https://www.fiberhome.com/xwzx/20261030/48602.html",
+    "published_at": "2026-10-30T00:00:00+00:00",
+    "summary": "烽火通信科技股份有限公司(股票代码:SH600498)主营业务立足于光通信,深入拓展至信息技术与通信技术融合而生的广泛领城,成为我国智慧城市,行业信息化,智能化应用等领域的核心企业",
+    "tags": [],
+    "collected_at": "2026-11-05T07:24:03.903224+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "V-PON上车！烽火通信车载光通信解决方案亮相2026中国汽车工程学会年会 2026.10.30",
+    "translation_status": "ready"
+  },
+  {
     "id": "62315a26ffbc3c43",
     "source_id": "converge-digest",
     "source_name": "网络与光互联资讯 / Converge Digest",
@@ -1681,6 +1802,9 @@
     "summary": "",
     "tags": [],
     "collected_at": "2026-11-03T08:22:44.760568+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -1693,9 +1817,7 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "预付款翻了十倍，光通信模组厂在抢什么？",
-    "translation_status": "ready",
-    "content_type": "新闻资讯",
-    "company_scope": ""
+    "translation_status": "ready"
   },
   {
     "id": "ff39d310a5e5dd8b",
@@ -7145,6 +7267,68 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "1150亿美元，Marvell拟收购Lumentum，谁将掌握AI光互联的主导权？",
+    "translation_status": "ready"
+  },
+  {
+    "id": "90fef451b4fff9e0",
+    "source_id": "eefocus",
+    "source_name": "与非网",
+    "source_type": "国内半导体媒体",
+    "title": "“全球AI硅光芯片第一股”，启动A股上市辅导",
+    "url": "https://www.eefocus.com/article/2114469.html",
+    "published_at": "",
+    "summary": "",
+    "tags": [
+      "硅光",
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-05T07:23:38.198420+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 76,
+    "matched_terms": [
+      "光芯片",
+      "硅光"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "“全球AI硅光芯片第一股”，启动A股上市辅导",
+    "translation_status": "ready"
+  },
+  {
+    "id": "942b3ed0857c9080",
+    "source_id": "laoyaoba",
+    "source_name": "集微网",
+    "source_type": "国内半导体媒体",
+    "title": "科技史上第二大收购案：Marvell 1150 亿美元收购 Lumentum，押注AI光互联",
+    "url": "https://www.laoyaoba.com/n/1134668",
+    "published_at": "",
+    "summary": "美东时间11月2日的夜晚，一份只有几页的联合声明被挂上 Marvell Technology 的投资者关系页面：Marvell 将以全股票交易收购 Lumentum，交易隐含企业价值约 1150 亿美元。这是 Marvell 三十多年历史上最大的一笔收购，也是今年以来全球规模最大的一笔交易。如果只按股权价值计算，在科技行业的并购史上，它仅次于 SpaceX 与 xAI 的那次合并。",
+    "tags": [
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-05T07:23:37.567219+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互联"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "科技史上第二大收购案：Marvell 1150 亿美元收购 Lumentum，押注AI光互联",
     "translation_status": "ready"
   }
 ]

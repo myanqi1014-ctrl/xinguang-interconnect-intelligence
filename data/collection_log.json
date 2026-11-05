@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-04T11:58:28.436036+00:00",
+  "run_at": "2026-11-05T07:24:30.978965+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -27,7 +27,7 @@
       "source_id": "converge-digest",
       "url": "https://convergedigest.com/",
       "group": "海外新闻与深度观察",
-      "found": 4,
+      "found": 3,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -69,7 +69,7 @@
       "source_id": "laser-focus-world",
       "url": "https://www.laserfocusworld.com/home",
       "group": "海外新闻与深度观察",
-      "found": 3,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -229,12 +229,10 @@
       "source_id": "oif",
       "url": "https://www.oiforum.com/",
       "group": "技术标准与学术研究",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.oiforum.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.oiforum.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
-      ],
+      "found": 1,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "以太网联盟 / Ethernet Alliance",
@@ -274,7 +272,7 @@
       "source_id": "c114",
       "url": "https://www.c114.com.cn/",
       "group": "国内行业媒体",
-      "found": 3,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -284,7 +282,7 @@
       "source_id": "ofweek",
       "url": "https://fiber.ofweek.com/",
       "group": "国内行业媒体",
-      "found": 5,
+      "found": 6,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -515,7 +513,7 @@
       "source_id": "trendforce",
       "url": "https://www.trendforce.com/news/",
       "group": "市场研究机构",
-      "found": 1,
+      "found": 2,
       "errors": [],
       "warnings": [
         "RSS不可用，尝试页面新闻列表"
@@ -538,12 +536,10 @@
       "source_id": "etnews",
       "url": "https://en.etnews.com/",
       "group": "海外新闻与深度观察",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='en.etnews.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='en.etnews.com', port=443) at 0x7fb1bbc40550>, 'Connection to en.etnews.com timed out. (connect timeout=6)'))"
-      ],
+      "found": 1,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "半导体产业纵横",
@@ -572,7 +568,7 @@
       "source_id": "eefocus",
       "url": "https://www.eefocus.com/",
       "group": "国内半导体媒体",
-      "found": 1,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -594,12 +590,10 @@
       "source_id": "laoyaoba",
       "url": "https://www.laoyaoba.com/",
       "group": "国内半导体媒体",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.laoyaoba.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.laoyaoba.com', port=443) at 0x7fb1cce72ed0>, 'Connection to www.laoyaoba.com timed out. (connect timeou"
-      ],
+      "found": 4,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "NIST CHIPS 美国半导体产业投资",
@@ -686,7 +680,7 @@
       "group": "企业官方新闻中心",
       "found": 0,
       "errors": [
-        "页面未返回可解析的新闻列表"
+        "520 Server Error: <none> for url: https://ayarlabs.com/news/"
       ],
       "warnings": [],
       "status": "error"
@@ -730,7 +724,7 @@
       "group": "会议与展会",
       "found": 0,
       "errors": [
-        "页面未返回可解析的新闻列表"
+        "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
       ],
       "warnings": [],
       "status": "error"
@@ -853,11 +847,12 @@
       "source_id": "tfc",
       "url": "https://www.tfcsz.com/",
       "group": "企业官方新闻中心",
-      "found": 4,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.tfcsz.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.tfcsz.com', port=443) at 0x7fb48c3de490>, 'Connection to www.tfcsz.com timed out. (connect timeout=6)'))"
+      ],
       "warnings": [],
-      "status": "ok",
-      "resolved_news_url": "https://www.tfcsz.com/news1.html"
+      "status": "error"
     },
     {
       "source": "太辰光",
@@ -1605,10 +1600,10 @@
       "status": "error"
     }
   ],
-  "total_stored": 242,
-  "editorial_selected": 180,
+  "total_stored": 248,
+  "editorial_selected": 186,
   "rules_version": "2026-11-03.3",
-  "pending_title_translations": 0,
+  "pending_title_translations": 2,
   "configured": 145,
   "automatic": 132,
   "procurement_imported": 5
