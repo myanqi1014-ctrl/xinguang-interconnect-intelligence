@@ -88,6 +88,36 @@
     "translation_status": "pending"
   },
   {
+    "id": "f963fbfc673cbee4",
+    "source_id": "c114",
+    "source_name": "C114通信网 / C114",
+    "source_type": "国内行业媒体",
+    "title": "Coherent：订单延伸至2028年，AI光互连需求未见放缓迹象",
+    "url": "https://www.c114.com.cn/ftth/5472/a1320475.html",
+    "published_at": "2026-11-05T00:00:00+00:00",
+    "summary": "Coherent：订单延伸至2028年，AI光互连需求未见放缓迹象,C114讯 11月5日消息（水易）近日，Coherent公布截至2026年9月30日的2027财年第",
+    "tags": [
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-05T12:00:40.466353+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互连"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Coherent：订单延伸至2028年，AI光互连需求未见放缓迹象",
+    "translation_status": "ready"
+  },
+  {
     "id": "9ae11526b5ff06fb",
     "source_id": "converge-digest",
     "source_name": "网络与光互联资讯 / Converge Digest",
@@ -1860,6 +1890,9 @@
       "CPO"
     ],
     "collected_at": "2026-11-03T08:15:48.234014+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
     "accepted": true,
     "columns": [
       "最新资讯"
@@ -1873,9 +1906,7 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "CPO/NPO产业化：产品在跑，系统在验，上游在卡",
-    "translation_status": "ready",
-    "content_type": "新闻资讯",
-    "company_scope": ""
+    "translation_status": "ready"
   },
   {
     "id": "90c3031fd113ee7b",
@@ -2184,37 +2215,6 @@
     "company_scope": "related"
   },
   {
-    "id": "27318488041474e8",
-    "source_id": "semiconductor-engineering",
-    "source_name": "半导体工程·光子专题 / Semiconductor Engineering",
-    "source_type": "海外新闻与深度观察",
-    "title": "Scaling CPO Testing Beyond A Single Die",
-    "url": "https://semiengineering.com/scaling-cpo-testing-beyond-a-single-die/",
-    "published_at": "2026-10-21T07:01:32+00:00",
-    "summary": "Fiber alignment, connector durability, and simultaneous optical and electrical testing pose challenges for high-volume manufacturing.",
-    "tags": [
-      "CPO"
-    ],
-    "collected_at": "2026-11-03T08:15:39.526082+00:00",
-    "company_scope": "",
-    "company_segment": "",
-    "content_type": "新闻资讯",
-    "accepted": true,
-    "columns": [
-      "知识科普与深度洞察"
-    ],
-    "priority": "优先选题",
-    "relevance_score": 68,
-    "matched_terms": [
-      "CPO",
-      "testing"
-    ],
-    "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.3",
-    "title_zh": "CPO测试如何从单颗芯片走向更大规模",
-    "translation_status": "ready"
-  },
-  {
     "id": "bc323ea5ee743e77",
     "source_id": "laser-focus-world",
     "source_name": "激光世界 / Laser Focus World",
@@ -2242,6 +2242,37 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "量子点激光器或将开启AI光互联的下一个时代",
+    "translation_status": "ready"
+  },
+  {
+    "id": "27318488041474e8",
+    "source_id": "semiconductor-engineering",
+    "source_name": "半导体工程·光子专题 / Semiconductor Engineering",
+    "source_type": "海外新闻与深度观察",
+    "title": "Scaling CPO Testing Beyond A Single Die",
+    "url": "https://semiengineering.com/scaling-cpo-testing-beyond-a-single-die/",
+    "published_at": "2026-10-21T00:00:00+00:00",
+    "summary": "Fiber alignment, connector durability, and simultaneous optical and electrical testing pose challenges for high-volume manufacturing.",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:39.526082+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO",
+      "testing"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "CPO测试如何从单颗芯片走向更大规模",
     "translation_status": "ready"
   },
   {

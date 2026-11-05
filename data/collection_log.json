@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-05T07:24:30.978965+00:00",
+  "run_at": "2026-11-05T12:01:33.940176+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -39,7 +39,9 @@
       "group": "海外新闻与深度观察",
       "found": 8,
       "errors": [],
-      "warnings": [],
+      "warnings": [
+        "部分详情页无法读取，保留列表标题与原文入口"
+      ],
       "status": "ok"
     },
     {
@@ -229,10 +231,12 @@
       "source_id": "oif",
       "url": "https://www.oiforum.com/",
       "group": "技术标准与学术研究",
-      "found": 1,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.oiforum.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.oiforum.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "以太网联盟 / Ethernet Alliance",
@@ -272,7 +276,7 @@
       "source_id": "c114",
       "url": "https://www.c114.com.cn/",
       "group": "国内行业媒体",
-      "found": 2,
+      "found": 3,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -282,7 +286,7 @@
       "source_id": "ofweek",
       "url": "https://fiber.ofweek.com/",
       "group": "国内行业媒体",
-      "found": 6,
+      "found": 7,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -380,10 +384,11 @@
       "url": "https://www.huxiu.com/",
       "group": "科技与商业媒体",
       "found": 0,
-      "errors": [],
+      "errors": [
+        "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
+      ],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "error"
     },
     {
       "source": "钛媒体 / TMTPost",
@@ -536,10 +541,11 @@
       "source_id": "etnews",
       "url": "https://en.etnews.com/",
       "group": "海外新闻与深度观察",
-      "found": 1,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "半导体产业纵横",
@@ -568,7 +574,7 @@
       "source_id": "eefocus",
       "url": "https://www.eefocus.com/",
       "group": "国内半导体媒体",
-      "found": 2,
+      "found": 1,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -847,12 +853,11 @@
       "source_id": "tfc",
       "url": "https://www.tfcsz.com/",
       "group": "企业官方新闻中心",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.tfcsz.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.tfcsz.com', port=443) at 0x7fb48c3de490>, 'Connection to www.tfcsz.com timed out. (connect timeout=6)'))"
-      ],
+      "found": 4,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok",
+      "resolved_news_url": "https://www.tfcsz.com/news1.html"
     },
     {
       "source": "太辰光",
@@ -950,7 +955,7 @@
       "group": "企业官方新闻中心",
       "found": 0,
       "errors": [
-        "HTTPSConnectionPool(host='www.chinaztt.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
+        "HTTPSConnectionPool(host='www.chinaztt.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1018)')))"
       ],
       "warnings": [],
       "status": "error"
@@ -1349,10 +1354,11 @@
       "url": "https://www.asmpt.com/en/news-center/",
       "group": "企业官方新闻中心",
       "found": 0,
-      "errors": [],
+      "errors": [
+        "HTTPSConnectionPool(host='www.asmpt.com', port=443): Read timed out. (read timeout=12)"
+      ],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "error"
     },
     {
       "source": "Besi",
@@ -1600,8 +1606,8 @@
       "status": "error"
     }
   ],
-  "total_stored": 248,
-  "editorial_selected": 186,
+  "total_stored": 249,
+  "editorial_selected": 187,
   "rules_version": "2026-11-03.3",
   "pending_title_translations": 2,
   "configured": 145,
