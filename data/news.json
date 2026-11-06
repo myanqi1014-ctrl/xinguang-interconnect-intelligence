@@ -30,6 +30,96 @@
     "translation_status": "ready"
   },
   {
+    "id": "e4c8bccbbfc38238",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "AOI Targets Million-Unit Monthly Optics Capacity as 800G and 1.6T Demand Accelerates",
+    "url": "https://convergedigest.com/aoi-million-unit-optics-capacity-800g-1-6t/",
+    "published_at": "2026-11-06T04:15:07+00:00",
+    "summary": "Applied Optoelectronics (AOI) reported third-quarter 2026 revenue of $269.9 million, up 128% from $118.6 million a year earlier and 41% from $191.9 million in the second quarter. It was the company’s sixth consecutive record quarter. Datacenter revenue rose to $155.6 million from $43.9 million, an increase of 254%, and accounted for 58% of sales. CATV revenue grew 57% to $110.9 million, while Telecom fell to $2.7 million from $3.7 million. AOI said it has signed a multi-year strategic agreement ",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-06T11:57:25.358097+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 96,
+    "matched_terms": [
+      "800G",
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "89f68ade9cffc8c0",
+    "source_id": "trendforce",
+    "source_name": "TrendForce 集邦咨询",
+    "source_type": "市场研究机构",
+    "title": "[News] MediaTek Reportedly Taps Intel Packaging Veteran After TSMC Hire, Advances Dual CoWoS–EMIB Strategy",
+    "url": "https://www.trendforce.com/news/2026/11/06/news-mediatek-reportedly-taps-intel-packaging-veteran-after-tsmc-hire-advances-dual-cowos-emib-strategy/",
+    "published_at": "2026-11-06T00:00:00+00:00",
+    "summary": "MediaTek is strengthening its data center and AI computing business with a senior hire from Intel. According to Liberty Times, former Intel executive ...",
+    "tags": [],
+    "collected_at": "2026-11-06T11:57:42.150571+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "packaging"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "bcc51c8981f30f9e",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Meridian Cloud Selects Aria for 800G Inference Cluster Designs",
+    "url": "https://convergedigest.com/meridian-cloud-aria-800g-inference-cluster-designs/",
+    "published_at": "2026-11-05T16:05:00+00:00",
+    "summary": "Meridian Cloud has selected Aria Networks to develop standardized network designs for its dedicated AI inference cloud, scheduled to launch in Q2 2027. The first joint reference designs are expected to become available to Meridian customers and facility partners in the same quarter. The collaboration covers back-end GPU fabrics, front-end and storage networks, topology, cabling and delivery planning. Aria will help build a library of validated configurations matched to different facility classes",
+    "tags": [
+      "光模块",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-06T11:57:25.414784+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
     "source_id": "bidcenter",
     "title": "光纤跳线、光模块状态：报价中",
     "url": "https://www.bidcenter.com.cn/news-451719098-5.html",
@@ -1202,6 +1292,38 @@
     "company_scope": ""
   },
   {
+    "id": "01a10be5cb34f686",
+    "source_id": "accelink",
+    "source_name": "光迅科技",
+    "source_type": "企业官方新闻中心",
+    "title": "2026-11-01 向光五十载，再启新篇｜光迅科技高端光电子及硅光芯片器件产业化项目（一期）开工",
+    "url": "https://www.accelink.com/lighting_your_dreams/2118589895592144897.html",
+    "published_at": "2026-11-01T00:00:00+00:00",
+    "summary": "光迅科技 | 让光引领梦想",
+    "tags": [
+      "硅光",
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-06T11:57:28.524869+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 76,
+    "matched_terms": [
+      "光芯片",
+      "硅光"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "2026-11-01 向光五十载，再启新篇｜光迅科技高端光电子及硅光芯片器件产业化项目（一期）开工",
+    "translation_status": "ready"
+  },
+  {
     "id": "b255ccb0f797c4db",
     "source_id": "converge-digest",
     "source_name": "网络与光互联资讯 / Converge Digest",
@@ -2248,6 +2370,37 @@
     "company_scope": "related"
   },
   {
+    "id": "27318488041474e8",
+    "source_id": "semiconductor-engineering",
+    "source_name": "半导体工程·光子专题 / Semiconductor Engineering",
+    "source_type": "海外新闻与深度观察",
+    "title": "Scaling CPO Testing Beyond A Single Die",
+    "url": "https://semiengineering.com/scaling-cpo-testing-beyond-a-single-die/",
+    "published_at": "2026-10-21T07:01:32+00:00",
+    "summary": "Fiber alignment, connector durability, and simultaneous optical and electrical testing pose challenges for high-volume manufacturing.",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-03T08:15:39.526082+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO",
+      "testing"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "CPO测试如何从单颗芯片走向更大规模",
+    "translation_status": "ready"
+  },
+  {
     "id": "bc323ea5ee743e77",
     "source_id": "laser-focus-world",
     "source_name": "激光世界 / Laser Focus World",
@@ -2275,37 +2428,6 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "量子点激光器或将开启AI光互联的下一个时代",
-    "translation_status": "ready"
-  },
-  {
-    "id": "27318488041474e8",
-    "source_id": "semiconductor-engineering",
-    "source_name": "半导体工程·光子专题 / Semiconductor Engineering",
-    "source_type": "海外新闻与深度观察",
-    "title": "Scaling CPO Testing Beyond A Single Die",
-    "url": "https://semiengineering.com/scaling-cpo-testing-beyond-a-single-die/",
-    "published_at": "2026-10-21T00:00:00+00:00",
-    "summary": "Fiber alignment, connector durability, and simultaneous optical and electrical testing pose challenges for high-volume manufacturing.",
-    "tags": [
-      "CPO"
-    ],
-    "collected_at": "2026-11-03T08:15:39.526082+00:00",
-    "company_scope": "",
-    "company_segment": "",
-    "content_type": "新闻资讯",
-    "accepted": true,
-    "columns": [
-      "知识科普与深度洞察"
-    ],
-    "priority": "优先选题",
-    "relevance_score": 68,
-    "matched_terms": [
-      "CPO",
-      "testing"
-    ],
-    "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.3",
-    "title_zh": "CPO测试如何从单颗芯片走向更大规模",
     "translation_status": "ready"
   },
   {
@@ -2377,7 +2499,7 @@
     "source_id": "tfc",
     "source_name": "天孚通信",
     "source_type": "企业官方新闻中心",
-    "title": "2026-10-21 天孚通信荣获全球及中国光器件竞争力双十强",
+    "title": "天孚通信荣获全球及中国光器件竞争力双十强 了解更多 >",
     "url": "https://www.tfcsz.com/news/1092.html",
     "published_at": "2026-10-21T00:00:00+00:00",
     "summary": "天孚通信（TFC）2005年成立，2015年在中国创业板上市，是全球光互连领域领先的一站式平台型技术企业。依托高复用的技术平台与深度的产业链垂直整合能力，提供从无源光器件到有源光器件的一站式光互连解决方案。产品广泛应用于人工智能、数据中心、光纤通信、激光雷达、生物光子学等领域。",
@@ -2400,7 +2522,7 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "2026-10-21 天孚通信荣获全球及中国光器件竞争力双十强",
+    "title_zh": "天孚通信荣获全球及中国光器件竞争力双十强 了解更多 >",
     "translation_status": "ready"
   },
   {
@@ -5044,7 +5166,7 @@
     "source_id": "tfc",
     "source_name": "天孚通信",
     "source_type": "企业官方新闻中心",
-    "title": "天孚通信新总部(新一代光器件项目)开工 了解更多 >",
+    "title": "2026-04-20 天孚通信新总部(新一代光器件项目)开工",
     "url": "https://www.tfcsz.com/news/1036.html",
     "published_at": "2026-04-20T00:00:00+00:00",
     "summary": "天孚通信（TFC）2005年成立，2015年在中国创业板上市，是全球光互连领域领先的一站式平台型技术企业。依托高复用的技术平台与深度的产业链垂直整合能力，提供从无源光器件到有源光器件的一站式光互连解决方案。产品广泛应用于人工智能、数据中心、光纤通信、激光雷达、生物光子学等领域。",
@@ -5067,7 +5189,7 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "天孚通信新总部(新一代光器件项目)开工 了解更多 >",
+    "title_zh": "2026-04-20 天孚通信新总部(新一代光器件项目)开工",
     "translation_status": "ready"
   },
   {
@@ -6314,6 +6436,37 @@
     "translation_status": "ready"
   },
   {
+    "id": "74466b034a4b131b",
+    "source_id": "tmtpost",
+    "source_name": "钛媒体 / TMTPost",
+    "source_type": "科技与商业媒体",
+    "title": "昔日12倍牛股再抛10亿定增押注光互连背后：炬光科技连亏3年，员工激励考核目标“开倒车”",
+    "url": "https://www.tmtpost.com/8195934.html",
+    "published_at": "2024-09-13T00:00:00+00:00",
+    "summary": "暴涨12倍后快速回撤超七成，CPO行情起落之间，炬光科技走完一轮极致的估值轮回。借两笔海外并购切入光通信赛道的它，正试图用新一轮定增巩固光互连叙事；但持续亏损、并购主体整合承压、激励考核目标“开倒车”等问题，让这场转型的兑现难度，摆在台面上。",
+    "tags": [
+      "CPO",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-06T11:57:37.119222+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互连"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "昔日12倍牛股再抛10亿定增押注光互连背后：炬光科技连亏3年，员工激励考核目标“开倒车”",
+    "translation_status": "ready"
+  },
+  {
     "id": "e76c6fb9bec22c52",
     "source_id": "ranovus",
     "source_name": "Ranovus",
@@ -7099,7 +7252,7 @@
     "source_id": "laoyaoba",
     "source_name": "集微网",
     "source_type": "国内半导体媒体",
-    "title": "从光模块到车规芯片，思瑞浦“双轮驱动”下的盈利跃升与三重储备",
+    "title": "从光模块到车规芯片，思瑞浦“双轮驱动”下的盈利跃升与三重储备 11-01 20:52",
     "url": "https://www.laoyaoba.com/n/1133739",
     "published_at": "",
     "summary": "",
@@ -7121,7 +7274,7 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "从光模块到车规芯片，思瑞浦“双轮驱动”下的盈利跃升与三重储备",
+    "title_zh": "从光模块到车规芯片，思瑞浦“双轮驱动”下的盈利跃升与三重储备 11-01 20:52",
     "translation_status": "ready"
   },
   {
@@ -7393,6 +7546,34 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "科技史上第二大收购案：Marvell 1150 亿美元收购 Lumentum，押注AI光互联",
+    "translation_status": "ready"
+  },
+  {
+    "id": "35476a6695e54f98",
+    "source_id": "laoyaoba",
+    "source_name": "集微网",
+    "source_type": "国内半导体媒体",
+    "title": "4小时前 算力成光纤行业第一增长引擎",
+    "url": "https://www.laoyaoba.com/n/1136801",
+    "published_at": "",
+    "summary": "一根光纤的价格，一年左右就翻了五倍甚至接近八倍。普通的G.652.D单模光纤，2025年初还不到20元/芯公里，2026年中已逼近100元；面向数据中心的G.657.A2光纤更从32元飙至240元，涨幅650%。价格飙升直接反映在利润表上：国家统计局数据显示，1—9月算力与数据中心建设带动光纤制造、光缆制造行业利润分别增长5.7倍和1.1倍。",
+    "tags": [],
+    "collected_at": "2026-11-06T11:57:57.998814+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "光纤"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "4小时前 算力成光纤行业第一增长引擎",
     "translation_status": "ready"
   }
 ]

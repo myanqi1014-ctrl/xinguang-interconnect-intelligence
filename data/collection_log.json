@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-05T12:01:33.940176+00:00",
+  "run_at": "2026-11-06T11:58:25.180431+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -17,7 +17,7 @@
       "source_id": "pic-magazine",
       "url": "https://picmagazine.net/news",
       "group": "海外新闻与深度观察",
-      "found": 2,
+      "found": 1,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -39,9 +39,7 @@
       "group": "海外新闻与深度观察",
       "found": 8,
       "errors": [],
-      "warnings": [
-        "部分详情页无法读取，保留列表标题与原文入口"
-      ],
+      "warnings": [],
       "status": "ok"
     },
     {
@@ -231,12 +229,10 @@
       "source_id": "oif",
       "url": "https://www.oiforum.com/",
       "group": "技术标准与学术研究",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.oiforum.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.oiforum.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
-      ],
+      "found": 1,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "以太网联盟 / Ethernet Alliance",
@@ -276,17 +272,19 @@
       "source_id": "c114",
       "url": "https://www.c114.com.cn/",
       "group": "国内行业媒体",
-      "found": 3,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.c114.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.c114.com.cn', port=443) at 0x7f5c5ce8ddd0>, 'Connection to www.c114.com.cn timed out. (connect timeout=6"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "维科网光通讯 / OFweek",
       "source_id": "ofweek",
       "url": "https://fiber.ofweek.com/",
       "group": "国内行业媒体",
-      "found": 7,
+      "found": 5,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -384,22 +382,20 @@
       "url": "https://www.huxiu.com/",
       "group": "科技与商业媒体",
       "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "钛媒体 / TMTPost",
       "source_id": "tmtpost",
       "url": "https://www.tmtpost.com/",
       "group": "科技与商业媒体",
-      "found": 0,
+      "found": 1,
       "errors": [],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "ok"
     },
     {
       "source": "智东西 / Zhidx",
@@ -574,10 +570,11 @@
       "source_id": "eefocus",
       "url": "https://www.eefocus.com/",
       "group": "国内半导体媒体",
-      "found": 1,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "电子工程专辑",
@@ -596,7 +593,7 @@
       "source_id": "laoyaoba",
       "url": "https://www.laoyaoba.com/",
       "group": "国内半导体媒体",
-      "found": 4,
+      "found": 6,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -831,11 +828,11 @@
       "url": "https://www.ao-inc.com/",
       "group": "企业官方新闻中心",
       "found": 0,
-      "errors": [],
+      "errors": [
+        "403 Client Error: Forbidden for url: https://www.ao-inc.com/"
+      ],
       "warnings": [],
-      "status": "empty",
-      "resolved_news_url": "https://newsroom.ao-inc.com/",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "error"
     },
     {
       "source": "长芯博创（原博创科技）",
@@ -1354,11 +1351,10 @@
       "url": "https://www.asmpt.com/en/news-center/",
       "group": "企业官方新闻中心",
       "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.asmpt.com', port=443): Read timed out. (read timeout=12)"
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "Besi",
@@ -1577,7 +1573,7 @@
       "group": "招标采购",
       "found": 0,
       "errors": [
-        "页面未返回可解析的新闻列表"
+        "403 Client Error: Forbidden for url: https://b2b.10086.cn/"
       ],
       "warnings": [],
       "status": "error"
@@ -1606,10 +1602,10 @@
       "status": "error"
     }
   ],
-  "total_stored": 250,
-  "editorial_selected": 188,
+  "total_stored": 256,
+  "editorial_selected": 194,
   "rules_version": "2026-11-03.3",
-  "pending_title_translations": 0,
+  "pending_title_translations": 3,
   "configured": 145,
   "automatic": 132,
   "procurement_imported": 6
