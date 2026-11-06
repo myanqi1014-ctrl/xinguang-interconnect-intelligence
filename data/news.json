@@ -117,8 +117,8 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "[新闻] Huawei、Alibaba、Tencent、Xiaomi、Baidu、ZTE 和 Lenovo 投资光通信领域",
+    "translation_status": "ready"
   },
   {
     "id": "f963fbfc673cbee4",
@@ -182,8 +182,8 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "Credo 与 Oracle 通过 OCP 推进光收发模块遥测技术",
+    "translation_status": "ready"
   },
   {
     "source_id": "bidcenter",
