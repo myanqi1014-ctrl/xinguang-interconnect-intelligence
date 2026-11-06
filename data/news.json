@@ -30,6 +30,39 @@
     "translation_status": "ready"
   },
   {
+    "source_id": "bidcenter",
+    "title": "光纤跳线、光模块状态：报价中",
+    "url": "https://www.bidcenter.com.cn/news-451719098-5.html",
+    "published_at": "2026-11-05T00:00:00+08:00",
+    "summary": "光纤跳线、光模块询比采购，公开正文列明报价截止时间为11月10日17:55。采购单位和项目编号部分遮蔽；页面标题所示报价状态不代表当前有效状态。",
+    "verification_note": "已读取采招网公开详情页，核实标题、2026年11月5日发布日期及报价起止时间。发布日期仅精确到日，以当日零点表示；部分字段遮蔽，完整条件和最新状态须原发布平台核验。",
+    "checked_at": "2026-11-06",
+    "deadline": "2026-11-10T17:55:00+08:00",
+    "id": "85ad1b16fe4374b7",
+    "source_name": "采招网·光模块/光通信",
+    "source_type": "招标采购",
+    "content_type": "招标采购",
+    "collected_at": "2026-11-06T04:05:18.664981+00:00",
+    "ingestion_method": "公开检索补充",
+    "title_zh": "光纤跳线、光模块状态：报价中",
+    "accepted": true,
+    "columns": [
+      "招标采购"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块",
+      "光纤"
+    ],
+    "selection_reason": "采购公告标题命中光通信或算力互联设备",
+    "rules_version": "2026-11-03.3",
+    "tender_stage": "招标/采购公告",
+    "procurement_level": "一般光通信采购",
+    "company_scope": "",
+    "translation_status": "ready"
+  },
+  {
     "id": "802154119084cb9a",
     "source_id": "ofweek",
     "source_name": "维科网光通讯 / OFweek",
