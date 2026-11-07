@@ -57,8 +57,8 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "随着800G和1.6T需求加速增长，AOI 瞄准百万只级光模块月产能",
+    "translation_status": "ready"
   },
   {
     "id": "89f68ade9cffc8c0",
@@ -85,8 +85,8 @@
     ],
     "selection_reason": "材料或器件主题同时具有互联应用背景",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "[新闻] 据报道，MediaTek 在招揽 TSMC 人才后再引入 Intel 封装资深人士，推进 CoWoS–EMIB 双轨策略",
+    "translation_status": "ready"
   },
   {
     "id": "bcc51c8981f30f9e",
@@ -116,8 +116,8 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "",
-    "translation_status": "pending"
+    "title_zh": "Meridian Cloud 选择 Aria 用于800G推理集群设计",
+    "translation_status": "ready"
   },
   {
     "source_id": "bidcenter",
