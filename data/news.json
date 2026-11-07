@@ -89,6 +89,37 @@
     "translation_status": "ready"
   },
   {
+    "id": "2066422d204513be",
+    "source_id": "c114",
+    "source_name": "C114通信网 / C114",
+    "source_type": "国内行业媒体",
+    "title": "AOI：800G略低预期，1.6T订单远超供货能力 11/6 15:23",
+    "url": "https://www.c114.com.cn/ftth/5472/a1320630.html",
+    "published_at": "2026-11-06T00:00:00+00:00",
+    "summary": "AOI：800G略低预期，1.6T订单远超供货能力,C114讯 11月6日消息（水易）美国光模块供应商AOI公布2026年第三季度业绩。期内，AOI数据",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-07T10:57:04.656571+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 96,
+    "matched_terms": [
+      "800G",
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "AOI：800G略低预期，1.6T订单远超供货能力 11/6 15:23",
+    "translation_status": "ready"
+  },
+  {
     "id": "bcc51c8981f30f9e",
     "source_id": "converge-digest",
     "source_name": "网络与光互联资讯 / Converge Digest",
