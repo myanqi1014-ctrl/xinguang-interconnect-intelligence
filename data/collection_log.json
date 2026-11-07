@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-06T11:58:25.180431+00:00",
+  "run_at": "2026-11-07T03:00:30.431712+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -274,7 +274,7 @@
       "group": "国内行业媒体",
       "found": 0,
       "errors": [
-        "HTTPSConnectionPool(host='www.c114.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.c114.com.cn', port=443) at 0x7f5c5ce8ddd0>, 'Connection to www.c114.com.cn timed out. (connect timeout=6"
+        "HTTPSConnectionPool(host='www.c114.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.c114.com.cn', port=443) at 0x7fe3e16623d0>, 'Connection to www.c114.com.cn timed out. (connect timeout=6"
       ],
       "warnings": [],
       "status": "error"
@@ -537,11 +537,10 @@
       "source_id": "etnews",
       "url": "https://en.etnews.com/",
       "group": "海外新闻与深度观察",
-      "found": 0,
+      "found": 1,
       "errors": [],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "ok"
     },
     {
       "source": "半导体产业纵横",
@@ -593,7 +592,7 @@
       "source_id": "laoyaoba",
       "url": "https://www.laoyaoba.com/",
       "group": "国内半导体媒体",
-      "found": 6,
+      "found": 5,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -795,7 +794,7 @@
       "group": "企业官方新闻中心",
       "found": 0,
       "errors": [
-        "页面未返回可解析的新闻列表"
+        "HTTPSConnectionPool(host='www.linkteltech.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.linkteltech.com.cn', port=443) at 0x7fe3e0e9be50>, 'Connection to www.linkteltech.com.cn timed ou"
       ],
       "warnings": [],
       "status": "error"
@@ -1573,7 +1572,7 @@
       "group": "招标采购",
       "found": 0,
       "errors": [
-        "403 Client Error: Forbidden for url: https://b2b.10086.cn/"
+        "页面未返回可解析的新闻列表"
       ],
       "warnings": [],
       "status": "error"
