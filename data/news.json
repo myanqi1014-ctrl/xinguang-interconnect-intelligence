@@ -30,6 +30,38 @@
     "translation_status": "ready"
   },
   {
+    "source_id": "ccgp",
+    "title": "400GQSFP-DDFR4客户侧光模块采购项目招标公告",
+    "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202611/t20261106_27639042.htm",
+    "published_at": "2026-11-06T18:35:00+08:00",
+    "summary": "采购400G QSFP-DD FR4客户侧光模块，预算168.64万元，最高限价155万元。招标文件获取期11月6日至13日，投标截止11月30日09:30；参与条件及最新变更以原平台为准。",
+    "verification_note": "已读取中国政府采购网公开原文，核实标题、发布日期、预算、最高限价及投标截止时间。采购单位仅公开为代码，未推断其名称；与既有10月公告按不同详情网址分别保留。",
+    "checked_at": "2026-11-08",
+    "deadline": "2026-11-30T09:30:00+08:00",
+    "id": "e3005738e1c116d4",
+    "source_name": "中国政府采购网",
+    "source_type": "招标采购",
+    "content_type": "招标采购",
+    "collected_at": "2026-11-08T04:06:11.016515+00:00",
+    "ingestion_method": "公开检索补充",
+    "title_zh": "400GQSFP-DDFR4客户侧光模块采购项目招标公告",
+    "accepted": true,
+    "columns": [
+      "招标采购"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "采购公告标题命中光通信或算力互联设备",
+    "rules_version": "2026-11-03.3",
+    "tender_stage": "招标/采购公告",
+    "procurement_level": "一般光通信采购",
+    "company_scope": "",
+    "translation_status": "ready"
+  },
+  {
     "id": "e4c8bccbbfc38238",
     "source_id": "converge-digest",
     "source_name": "网络与光互联资讯 / Converge Digest",
