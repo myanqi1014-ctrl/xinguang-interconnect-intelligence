@@ -30,6 +30,62 @@
     "translation_status": "ready"
   },
   {
+    "id": "d4349ec2e389835e",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "亨通光电控股股东拟斥资6亿增持！AI光通信与海洋经济双线爆发？",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-12003-30710751.html",
+    "published_at": "2026-11-08T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-08T11:09:53.624996+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "亨通光电控股股东拟斥资6亿增持！AI光通信与海洋经济双线爆发？",
+    "translation_status": "ready"
+  },
+  {
+    "id": "7c797d6f61b07144",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "CFCF AP 2026自动化专场:光通信自动化工厂是技术创新与产业发展的必然",
+    "url": "https://www.c-fol.net/news/7_202611/20261107190943.html",
+    "published_at": "2026-11-07T00:00:00+00:00",
+    "summary": "光纤在线讯：CFCF AP2026 首日第二场重磅专场 ——光通信先进封装 & 智能制造专场开启",
+    "tags": [],
+    "collected_at": "2026-11-08T11:09:52.088839+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "CFCF AP 2026自动化专场:光通信自动化工厂是技术创新与产业发展的必然",
+    "translation_status": "ready"
+  },
+  {
     "source_id": "ccgp",
     "title": "400GQSFP-DDFR4客户侧光模块采购项目招标公告",
     "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202611/t20261106_27639042.htm",
@@ -2562,7 +2618,7 @@
     "source_id": "tfc",
     "source_name": "天孚通信",
     "source_type": "企业官方新闻中心",
-    "title": "2026-10-21 天孚通信荣获全球及中国光器件竞争力双十强",
+    "title": "天孚通信荣获全球及中国光器件竞争力双十强 了解更多 >",
     "url": "https://www.tfcsz.com/news/1092.html",
     "published_at": "2026-10-21T00:00:00+00:00",
     "summary": "天孚通信（TFC）2005年成立，2015年在中国创业板上市，是全球光互连领域领先的一站式平台型技术企业。依托高复用的技术平台与深度的产业链垂直整合能力，提供从无源光器件到有源光器件的一站式光互连解决方案。产品广泛应用于人工智能、数据中心、光纤通信、激光雷达、生物光子学等领域。",
@@ -2585,7 +2641,7 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "2026-10-21 天孚通信荣获全球及中国光器件竞争力双十强",
+    "title_zh": "天孚通信荣获全球及中国光器件竞争力双十强 了解更多 >",
     "translation_status": "ready"
   },
   {

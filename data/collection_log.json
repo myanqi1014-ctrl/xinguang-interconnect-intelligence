@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-07T10:57:50.827622+00:00",
+  "run_at": "2026-11-08T11:10:35.869774+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -7,7 +7,7 @@
       "source_id": "gazettabyte",
       "url": "https://gazettabyte.com/",
       "group": "海外新闻与深度观察",
-      "found": 3,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -284,7 +284,7 @@
       "source_id": "ofweek",
       "url": "https://fiber.ofweek.com/",
       "group": "国内行业媒体",
-      "found": 5,
+      "found": 4,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -306,7 +306,7 @@
       "source_id": "c-fol",
       "url": "https://www.c-fol.net/",
       "group": "国内行业媒体",
-      "found": 6,
+      "found": 7,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -382,11 +382,10 @@
       "url": "https://www.huxiu.com/",
       "group": "科技与商业媒体",
       "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "钛媒体 / TMTPost",
@@ -538,11 +537,10 @@
       "source_id": "etnews",
       "url": "https://en.etnews.com/",
       "group": "海外新闻与深度观察",
-      "found": 0,
+      "found": 1,
       "errors": [],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "ok"
     },
     {
       "source": "半导体产业纵横",
@@ -615,11 +613,10 @@
       "url": "https://www.semiconductors.org/chip-supply-chain-investments/",
       "group": "北美产业投资与融资",
       "found": 0,
-      "errors": [
-        "403 Client Error: Forbidden for url: https://www.semiconductors.org/chip-supply-chain-investments/"
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "TechCrunch 创业与融资",
@@ -829,11 +826,11 @@
       "url": "https://www.ao-inc.com/",
       "group": "企业官方新闻中心",
       "found": 0,
-      "errors": [
-        "403 Client Error: Forbidden for url: https://www.ao-inc.com/"
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "resolved_news_url": "https://newsroom.ao-inc.com/",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "长芯博创（原博创科技）",
@@ -1135,11 +1132,11 @@
       "url": "https://www.tsmc.com/",
       "group": "企业官方新闻中心",
       "found": 0,
-      "errors": [],
+      "errors": [
+        "403 Client Error: Forbidden for url: https://www.tsmc.com/"
+      ],
       "warnings": [],
-      "status": "empty",
-      "resolved_news_url": "https://pr.tsmc.com/english/latest-news",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "error"
     },
     {
       "source": "意法半导体 ST",
@@ -1603,8 +1600,8 @@
       "status": "error"
     }
   ],
-  "total_stored": 258,
-  "editorial_selected": 196,
+  "total_stored": 260,
+  "editorial_selected": 198,
   "rules_version": "2026-11-03.3",
   "pending_title_translations": 0,
   "configured": 145,
