@@ -7694,5 +7694,36 @@
     "rules_version": "2026-11-03.3",
     "title_zh": "4小时前 算力成光纤行业第一增长引擎",
     "translation_status": "ready"
+  },
+  {
+    "source_id": "ccgp",
+    "title": "400GQSFP-DDFR4客户侧光模块采购项目结果公示",
+    "url": "https://www.ccgp.gov.cn/cggg/zygg/qtgg/202611/t20261106_27637625.htm",
+    "published_at": "",
+    "summary": "检索摘要显示400G QSFP-DD FR4客户侧光模块采购项目结果公示，摘要标注2026年11月6日17:13；结果内容尚未核实。",
+    "verification_note": "检索线索待原站核验：仅检索索引摘要可读，原站详情返回403，未核验正文及发布日期；不推断中标、废标或其他结果，不填写金额、采购方和截止时间。",
+    "checked_at": "2026-11-09",
+    "id": "972598d833ac5500",
+    "source_name": "中国政府采购网",
+    "source_type": "招标采购",
+    "content_type": "招标采购",
+    "collected_at": "2026-11-09T04:09:19.904907+00:00",
+    "ingestion_method": "公开检索补充",
+    "title_zh": "400GQSFP-DDFR4客户侧光模块采购项目结果公示",
+    "accepted": true,
+    "columns": [
+      "招标采购"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "采购公告标题命中光通信或算力互联设备",
+    "rules_version": "2026-11-03.3",
+    "tender_stage": "招标/采购公告",
+    "procurement_level": "一般光通信采购",
+    "company_scope": "",
+    "translation_status": "ready"
   }
 ]
