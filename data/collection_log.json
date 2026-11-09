@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-08T11:10:35.869774+00:00",
+  "run_at": "2026-11-09T05:17:12.151754+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -27,7 +27,7 @@
       "source_id": "converge-digest",
       "url": "https://convergedigest.com/",
       "group": "海外新闻与深度观察",
-      "found": 3,
+      "found": 4,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -99,11 +99,10 @@
       "source_id": "nvidia",
       "url": "https://nvidianews.nvidia.com/",
       "group": "企业官方新闻中心",
-      "found": 0,
+      "found": 1,
       "errors": [],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "ok"
     },
     {
       "source": "Broadcom",
@@ -382,17 +381,18 @@
       "url": "https://www.huxiu.com/",
       "group": "科技与商业媒体",
       "found": 0,
-      "errors": [],
+      "errors": [
+        "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
+      ],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "error"
     },
     {
       "source": "钛媒体 / TMTPost",
       "source_id": "tmtpost",
       "url": "https://www.tmtpost.com/",
       "group": "科技与商业媒体",
-      "found": 1,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -514,7 +514,7 @@
       "source_id": "trendforce",
       "url": "https://www.trendforce.com/news/",
       "group": "市场研究机构",
-      "found": 2,
+      "found": 3,
       "errors": [],
       "warnings": [
         "RSS不可用，尝试页面新闻列表"
@@ -537,10 +537,11 @@
       "source_id": "etnews",
       "url": "https://en.etnews.com/",
       "group": "海外新闻与深度观察",
-      "found": 1,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "半导体产业纵横",
@@ -569,11 +570,10 @@
       "source_id": "eefocus",
       "url": "https://www.eefocus.com/",
       "group": "国内半导体媒体",
-      "found": 0,
+      "found": 2,
       "errors": [],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "ok"
     },
     {
       "source": "电子工程专辑",
@@ -592,7 +592,7 @@
       "source_id": "laoyaoba",
       "url": "https://www.laoyaoba.com/",
       "group": "国内半导体媒体",
-      "found": 5,
+      "found": 4,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -1600,10 +1600,10 @@
       "status": "error"
     }
   ],
-  "total_stored": 261,
-  "editorial_selected": 199,
+  "total_stored": 271,
+  "editorial_selected": 209,
   "rules_version": "2026-11-03.3",
-  "pending_title_translations": 0,
+  "pending_title_translations": 5,
   "configured": 145,
   "automatic": 132,
   "procurement_imported": 8

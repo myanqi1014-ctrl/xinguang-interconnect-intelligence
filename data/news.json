@@ -1,5 +1,33 @@
 [
   {
+    "id": "e6b982f0621cc34c",
+    "source_id": "tmtpost",
+    "source_name": "钛媒体 / TMTPost",
+    "source_type": "科技与商业媒体",
+    "title": "12:08 港股午评：恒指涨0.2%，科网股走势分化，半导体光通信PCB集体活跃",
+    "url": "https://www.tmtpost.com/nictation/8198151.html",
+    "published_at": "2027-01-10T00:00:00+00:00",
+    "summary": "钛媒体App 11月9日，港股三大指数盘初冲高后持续回落，截至午盘，恒生指数涨0.20%，国企指数涨0.21%，恒生科技指数涨0.07%。盘初集体上涨的科网股部分转跌，尤其是美团转跌至5.5%，京东、小米飘绿，百度、腾讯、阿里巴巴维持上涨；PCB、光通信、存储半导体股多数表现活跃，景旺电子、东山精密涨逾7%，蓝思科技、长飞光纤光缆涨超4%，华虹宏力涨逾3%；煤炭股、脑机接口概念股、乳制品股、光伏股普涨。另外，锂电池股走低，龙头宁德时代跌超3%，中创新航跌近3%；建材水泥股、茶饮股、汽车股、内房股、航空股集体弱势。（科股宝播报）",
+    "tags": [],
+    "collected_at": "2026-11-09T05:16:35.531291+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "12:08 港股午评：恒指涨0.2%，科网股走势分化，半导体光通信PCB集体活跃",
+    "translation_status": "ready"
+  },
+  {
     "id": "0ecf56a24612def6",
     "source_id": "lightwave",
     "source_name": "光波在线 / Lightwave",
@@ -28,6 +56,200 @@
     "rules_version": "2026-11-03.3",
     "title_zh": "共封装光学（CPO）进展观察",
     "translation_status": "ready"
+  },
+  {
+    "id": "8f7dfee3212fe058",
+    "source_id": "nvidia",
+    "source_name": "NVIDIA",
+    "source_type": "企业官方新闻中心",
+    "title": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion",
+    "published_at": "2026-11-09T05:00:00+00:00",
+    "summary": "NVIDIA, Rebellions and SK Telecom today announced a collaboration to advance Korea’s sovereign AI infrastructure — using NVIDIA NVLink Fusion™ to bring together NVIDIA’s open infrastructure platform, Rebellions’ Korean-designed AI processors and SK Telecom’s AI data center, model and service capabilities.",
+    "tags": [
+      "AI算力",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-09T05:16:25.921186+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "NVLink"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "5ddd22f508137c0e",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "光器件全自动化产线所遇到的挑战：亚太CFCF的讨论",
+    "url": "https://www.c-fol.net/news/7_202611/20261109120008.html",
+    "published_at": "2026-11-09T00:00:00+00:00",
+    "summary": "光纤在线讯：这次亚太CFCF上专门设置了关于自动化生产的论坛，邀请了这个领域的多家龙头企业的代表，包括MRSI的Eden Wong, 智立方的Aramis, 金动力的姚总，博众的张总还有江木仪器的陈总。在展会现场，金动力，智立方等都在最显著位置展示了他们的自动化解决方案。",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-09T05:16:30.980070+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "热点问答"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光器件"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "光器件全自动化产线所遇到的挑战：亚太CFCF的讨论",
+    "translation_status": "ready"
+  },
+  {
+    "id": "6b910067775b7cbd",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "苏州牧晶智能二期厂房正式投产，国产光电封装装备产能再跃升",
+    "url": "https://www.c-fol.net/news/7_202611/20261109104033.html",
+    "published_at": "2026-11-09T00:00:00+00:00",
+    "summary": "光纤在线讯：苏州牧晶智能二期厂房圆满落成并正式投产，本次投产的二期厂房建筑面积10000㎡，规划建设专业化洁净生产、调试与验证空间，重点落地适配800G、1.6T高速光模块应用场景的固晶机、共晶机、叠贴设备及自动化生产线，整体规划年产能可达1200台。",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-09T05:16:31.978156+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "封装"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "苏州牧晶智能二期厂房正式投产，国产光电封装装备产能再跃升",
+    "translation_status": "ready"
+  },
+  {
+    "id": "819535b7634dcfba",
+    "source_id": "trendforce",
+    "source_name": "TrendForce 集邦咨询",
+    "source_type": "市场研究机构",
+    "title": "[News] Accelink Technologies Breaks Ground on Silicon Photonics Project in Wuhan; Investment Totals CNY 10.2B",
+    "url": "https://www.trendforce.com/news/2026/11/09/news-accelink-technologies-breaks-ground-on-silicon-photonics-project-in-wuhan-investment-totals-cny-10-2b/",
+    "published_at": "2026-11-09T00:00:00+00:00",
+    "summary": "On November 1, Wuhan's Optics Valley announced that construction had begun on Phase I of Accelink Technologies’ high-end optoelectronic and silicon ph...",
+    "tags": [
+      "硅光"
+    ],
+    "collected_at": "2026-11-09T05:16:38.020244+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "silicon photonics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "c236cedf6e81f161",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "MACOM Revenue Surges 63%, 1.6T and NPO Lead 2027 Outlook",
+    "url": "https://convergedigest.com/macom-q4-2026-earnings-ai-optics-data-center-growth/",
+    "published_at": "2026-11-08T17:30:00+00:00",
+    "summary": "MACOM Technology Solutions reported a 62.7% year-over-year increase in fiscal fourth-quarter revenue to $424.8 million, driven by accelerating demand for high-speed optical and analog semiconductors used in AI data centers, alongside growth in defense electronics and satellite communications. For the fiscal year ended October 2, 2026, revenue reached a record $1.328 billion, up 37.3%. The company’s data center business generated $188.1 million in fourth-quarter revenue, increasing approximately ",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "硅光",
+      "NPO",
+      "光芯片/器件",
+      "网络与交换",
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-09T05:16:25.132339+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 96,
+    "matched_terms": [
+      "NPO",
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
+  },
+  {
+    "id": "8caae7a674c81e83",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "SiTime’s AI Timing Grows 202%, 1.6T Optics and CPO Opportunities",
+    "url": "https://convergedigest.com/sitime-ai-timing-business-grows-202-percent-1-6t-optics-cpo/",
+    "published_at": "2026-11-08T13:07:00+00:00",
+    "summary": "SiTime reported third-quarter 2026 revenue of $298.7 million, an increase of 257% from $83.6 million a year earlier, driven by accelerating demand for precision timing components used in AI infrastructure and the addition of Renesas Electronics’ former Timing Product Division (TPD). The Santa Clara, California-based company also announced a three-for-one stock split and forecast fourth-quarter revenue of $331 million to $341 million. The results mark SiTime’s first full quarter following the Jul",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "NPO",
+      "CPO",
+      "数据中心互联",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-09T05:16:25.172033+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 96,
+    "matched_terms": [
+      "CPO",
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "d4349ec2e389835e",
@@ -116,6 +338,34 @@
     "procurement_level": "一般光通信采购",
     "company_scope": "",
     "translation_status": "ready"
+  },
+  {
+    "id": "68f37f5386bf80d2",
+    "source_id": "trendforce",
+    "source_name": "TrendForce 集邦咨询",
+    "source_type": "市场研究机构",
+    "title": "14x HBM Capacity, 3.2TB per XPU: New Answers to the AI Memory Wall",
+    "url": "https://insights.trendforce.com/p/14x-hbm-capacity-32tb-per-xpu?utm_source=tf&utm_medium=affiliate&utm_campaign=ocpmemory",
+    "published_at": "2026-11-06T14:13:37.932000+00:00",
+    "summary": "From High Bandwidth Flash to external LPDDR5X modules, vendors are looking beyond HBM.",
+    "tags": [],
+    "collected_at": "2026-11-09T05:16:37.335900+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "3.2T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "e4c8bccbbfc38238",
@@ -537,6 +787,37 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "CFCF AP2026 明日开幕，共探东南亚算力光互联机遇！",
+    "translation_status": "ready"
+  },
+  {
+    "id": "4f56874bf793c59c",
+    "source_id": "eefocus",
+    "source_name": "与非网",
+    "source_type": "国内半导体媒体",
+    "title": "华为、小米、比亚迪押注，国内稀缺GaAs+InP双平台光芯片IDM冲刺IPO",
+    "url": "https://www.eefocus.com/article/2115887.html",
+    "published_at": "2026-11-04T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-09T05:16:40.996987+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光芯片",
+      "InP"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "华为、小米、比亚迪押注，国内稀缺GaAs+InP双平台光芯片IDM冲刺IPO",
     "translation_status": "ready"
   },
   {
@@ -2618,7 +2899,7 @@
     "source_id": "tfc",
     "source_name": "天孚通信",
     "source_type": "企业官方新闻中心",
-    "title": "天孚通信荣获全球及中国光器件竞争力双十强 了解更多 >",
+    "title": "2026-10-21 天孚通信荣获全球及中国光器件竞争力双十强",
     "url": "https://www.tfcsz.com/news/1092.html",
     "published_at": "2026-10-21T00:00:00+00:00",
     "summary": "天孚通信（TFC）2005年成立，2015年在中国创业板上市，是全球光互连领域领先的一站式平台型技术企业。依托高复用的技术平台与深度的产业链垂直整合能力，提供从无源光器件到有源光器件的一站式光互连解决方案。产品广泛应用于人工智能、数据中心、光纤通信、激光雷达、生物光子学等领域。",
@@ -2641,7 +2922,7 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "天孚通信荣获全球及中国光器件竞争力双十强 了解更多 >",
+    "title_zh": "2026-10-21 天孚通信荣获全球及中国光器件竞争力双十强",
     "translation_status": "ready"
   },
   {
@@ -7724,6 +8005,36 @@
     "tender_stage": "招标/采购公告",
     "procurement_level": "一般光通信采购",
     "company_scope": "",
+    "translation_status": "ready"
+  },
+  {
+    "id": "3486c2bf30aaeff1",
+    "source_id": "eefocus",
+    "source_name": "与非网",
+    "source_type": "国内半导体媒体",
+    "title": "江苏光芯片企业启动IPO，华为蚂蚁持股，芯片出货超6亿颗",
+    "url": "https://www.eefocus.com/article/2115863.html",
+    "published_at": "",
+    "summary": "",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-09T05:16:43.086267+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光芯片"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "江苏光芯片企业启动IPO，华为蚂蚁持股，芯片出货超6亿颗",
     "translation_status": "ready"
   }
 ]
