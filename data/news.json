@@ -58,6 +58,158 @@
     "translation_status": "ready"
   },
   {
+    "id": "a4e06e8fb7ed4400",
+    "source_id": "semiconductor-engineering",
+    "source_name": "半导体工程·光子专题 / Semiconductor Engineering",
+    "source_type": "海外新闻与深度观察",
+    "title": "Streaming Scan Network Test Over PCIe",
+    "url": "https://semiengineering.com/streaming-scan-network-test-over-pcie/",
+    "published_at": "2026-11-10T08:01:27+00:00",
+    "summary": "Changing test strategies put a premium on how closely the design ecosystem and the test ecosystem line up. The post Streaming Scan Network Test Over PCIe appeared first on Semiconductor Engineering .",
+    "tags": [
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-10T08:42:11.362334+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "PCIe"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "通过PCIe进行流式扫描网络测试",
+    "translation_status": "ready"
+  },
+  {
+    "id": "377021719e6b9aa4",
+    "source_id": "semiconductor-engineering",
+    "source_name": "半导体工程·光子专题 / Semiconductor Engineering",
+    "source_type": "海外新闻与深度观察",
+    "title": "Overcoming Silicon Photonics Process Control Challenges in the AI Era",
+    "url": "https://semiengineering.com/overcoming-silicon-photonics-process-control-challenges-in-the-ai-era/",
+    "published_at": "2026-11-10T08:01:10+00:00",
+    "summary": "How connected inspection, metrology and software can help manufacturers move SiPh and CPO toward high-volume production. The post Overcoming Silicon Photonics Process Control Challenges in the AI Era appeared first on Semiconductor Engineering .",
+    "tags": [
+      "硅光",
+      "CPO"
+    ],
+    "collected_at": "2026-11-10T08:42:11.363253+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "热点问答"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "silicon photonics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "克服AI时代的硅光子工艺控制挑战",
+    "translation_status": "ready"
+  },
+  {
+    "id": "7cd8b4408e360a11",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "光通信：一条传闻砸出跌停，一份长约锁定五年",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210008-12003-30711168.html",
+    "published_at": "2026-11-10T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-10T08:42:15.841916+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "光通信：一条传闻砸出跌停，一份长约锁定五年",
+    "translation_status": "ready"
+  },
+  {
+    "id": "ba40fbc23856d225",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "Coherent：市值腰斩，光模块\"全能王\"被错杀了吗？",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-8420-30711027.html",
+    "published_at": "2026-11-10T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-10T08:42:16.756567+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Coherent：市值腰斩，光模块\"全能王\"被错杀了吗？",
+    "translation_status": "ready"
+  },
+  {
+    "id": "a89965f9490d6344",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "China Telecom Sends 800G Over 1,007 km of Hollow-Core Fiber",
+    "url": "https://convergedigest.com/china-telecom-yofc-zte-1007km-hollow-core-fiber-800g-bidirectional/",
+    "published_at": "2026-11-09T14:20:00+00:00",
+    "summary": "China Telecom Research Institute, Yangtze Optical Fibre and Cable (YOFC) and ZTE have carried real-time 800 Gb/s-per-wavelength traffic in both directions over a single 1,007.48-km hollow-core fiber link, with a combined capacity of 128 Tb/s. The test used PCS-16QAM modulation across the extended C+L band. China Telecom calls it the first bidirectional real-time verification over 1,000 km of hollow-core fiber. It also claims two distance records: the longest point-to-point, non-loopback real-tim",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "数据中心互联",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-10T08:42:09.961728+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "中国电信通过1、007公里空芯光纤发送800G",
+    "translation_status": "ready"
+  },
+  {
     "id": "8f7dfee3212fe058",
     "source_id": "nvidia",
     "source_name": "NVIDIA",
