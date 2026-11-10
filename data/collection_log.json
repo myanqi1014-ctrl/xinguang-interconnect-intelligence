@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-10T08:43:01.136741+00:00",
+  "run_at": "2026-11-10T12:21:35.174707+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -80,7 +80,7 @@
       "source_id": "lightwave",
       "url": "https://www.lightwaveonline.com/",
       "group": "海外新闻与深度观察",
-      "found": 4,
+      "found": 3,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -383,17 +383,18 @@
       "url": "https://www.huxiu.com/",
       "group": "科技与商业媒体",
       "found": 0,
-      "errors": [],
+      "errors": [
+        "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
+      ],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "error"
     },
     {
       "source": "钛媒体 / TMTPost",
       "source_id": "tmtpost",
       "url": "https://www.tmtpost.com/",
       "group": "科技与商业媒体",
-      "found": 2,
+      "found": 1,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -594,12 +595,10 @@
       "source_id": "laoyaoba",
       "url": "https://www.laoyaoba.com/",
       "group": "国内半导体媒体",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.laoyaoba.com', port=443): Read timed out. (read timeout=6)"
-      ],
+      "found": 4,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "NIST CHIPS 美国半导体产业投资",
@@ -685,7 +684,7 @@
       "group": "企业官方新闻中心",
       "found": 0,
       "errors": [
-        "页面未返回可解析的新闻列表"
+        "520 Server Error: <none> for url: https://ayarlabs.com/news/"
       ],
       "warnings": [],
       "status": "error"
@@ -729,7 +728,7 @@
       "group": "会议与展会",
       "found": 0,
       "errors": [
-        "页面未返回可解析的新闻列表"
+        "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
       ],
       "warnings": [],
       "status": "error"
@@ -1136,11 +1135,11 @@
       "url": "https://www.tsmc.com/",
       "group": "企业官方新闻中心",
       "found": 0,
-      "errors": [
-        "403 Client Error: Forbidden for url: https://www.tsmc.com/"
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "resolved_news_url": "https://pr.tsmc.com/english/latest-news",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "意法半导体 ST",
