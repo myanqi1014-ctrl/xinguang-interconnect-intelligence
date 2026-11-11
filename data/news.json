@@ -8276,5 +8276,36 @@
     "rules_version": "2026-11-03.3",
     "title_zh": "江苏光芯片企业启动IPO，华为蚂蚁持股，芯片出货超6亿颗",
     "translation_status": "ready"
+  },
+  {
+    "source_id": "ccgp",
+    "title": "400GCFP2-DCO光模块采购项目中标公告",
+    "url": "https://www.ccgp.gov.cn/cggg/zygg/zbgg/202611/t20261109_27646377.htm",
+    "published_at": "",
+    "summary": "检索摘要显示400G CFP2-DCO光模块采购项目中标公告，摘要标注2026年11月9日16:34；具体中标信息待原站核验。",
+    "verification_note": "检索线索待原站核验：搜索索引可读，原站详情返回403，尚未核验原文标题、发布日期及中标明细，不填采购方、金额、截止时间或有效状态。",
+    "checked_at": "2026-11-11",
+    "id": "9d24f984e50ad71f",
+    "source_name": "中国政府采购网",
+    "source_type": "招标采购",
+    "content_type": "招标采购",
+    "collected_at": "2026-11-11T04:08:59.951098+00:00",
+    "ingestion_method": "公开检索补充",
+    "title_zh": "400GCFP2-DCO光模块采购项目中标公告",
+    "accepted": true,
+    "columns": [
+      "招标采购"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "采购公告标题命中光通信或算力互联设备",
+    "rules_version": "2026-11-03.3",
+    "tender_stage": "中标/成交",
+    "procurement_level": "一般光通信采购",
+    "company_scope": "",
+    "translation_status": "ready"
   }
 ]
