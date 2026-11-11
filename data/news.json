@@ -58,6 +58,98 @@
     "translation_status": "ready"
   },
   {
+    "id": "057b1aebfb6b1086",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "重磅！微软游说白宫搁置光模块禁令",
+    "url": "https://fiber.ofweek.com/2026-11/ART-8100-2100-30711340.html",
+    "published_at": "2026-11-11T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-11T11:45:18.949825+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "重磅！微软游说白宫搁置光模块禁令",
+    "translation_status": "ready"
+  },
+  {
+    "id": "742734b14b63c22b",
+    "source_id": "trendforce",
+    "source_name": "TrendForce 集邦咨询",
+    "source_type": "市场研究机构",
+    "title": "[News] Microsoft Reportedly Urges U.S. to Drop Proposed Chinese Optical Transceiver Ban Amid AI Supply Concerns",
+    "url": "https://www.trendforce.com/news/2026/11/11/news-microsoft-reportedly-urges-u-s-to-drop-proposed-chinese-optical-transceiver-ban-amid-ai-supply-concerns/",
+    "published_at": "2026-11-11T00:00:00+00:00",
+    "summary": "The growing demand for AI data centers is putting greater focus on the global optical communications supply chain, while potential U.S. import restric...",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-11T11:45:26.356901+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical transceiver"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "【新闻】据报道，微软敦促U.S.在AI供应问题中放弃拟议的中文光收发器禁令",
+    "translation_status": "ready"
+  },
+  {
+    "id": "8f32053c111517af",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "MaxLinear Jeju PMIC Targets 0.5W Savings per 1.6T Module DSP",
+    "url": "https://convergedigest.com/maxlinear-jeju-pmic-1-6t-optical-dsp/",
+    "published_at": "2026-11-10T13:13:00+00:00",
+    "summary": "MaxLinear is adding power delivery to its 1.6T optical-module lineup with Jeju (MxL77904), a custom multiphase power management IC built for the core rails of DSP-based 1.6T pluggable modules. The company says the part reaches up to 95% peak conversion efficiency and saves up to 0.5W per 1.6T PAM4 DSP compared with conventional PMICs. It is optimized for MaxLinear's own Rushmore 1.6T PAM4 DSP, but the company says it also supports DSP-based 1.6T module designs from across the industry. Jeju is e",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-11T11:45:13.568563+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "MaxLinear济州岛PMIC目标0.5W每个1.6T模块的节省DSP",
+    "translation_status": "ready"
+  },
+  {
     "id": "a4e06e8fb7ed4400",
     "source_id": "semiconductor-engineering",
     "source_name": "半导体工程·光子专题 / Semiconductor Engineering",
@@ -817,6 +909,36 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "Coherent：订单延伸至2028年，AI光互连需求未见放缓迹象",
+    "translation_status": "ready"
+  },
+  {
+    "id": "52d6ab7692649dd2",
+    "source_id": "laoyaoba",
+    "source_name": "集微网",
+    "source_type": "国内半导体媒体",
+    "title": "8小时前 北京大学常林团队实现全场景硅光相干通信",
+    "url": "https://www.laoyaoba.com/n/1138875",
+    "published_at": "2026-11-05T00:00:00+00:00",
+    "summary": "2026年11月5日，北京大学电子学院常林研究员团队与合作者在《自然·通讯》（Nature Communications）在线发表了题为“硅光子技术为跨距离光通信提供统一解决方案”（Silicon photonics provides a unified solution for all-distance optical communications）的研究文章。团队将高功率窄线宽集成激光器与高性能硅光相干收发芯片相结合，提出面向不同传输距离的统一方案，兼顾长距通信、高容量短距互连与快速动态重构",
+    "tags": [
+      "硅光"
+    ],
+    "collected_at": "2026-11-11T11:45:35.405871+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "硅光"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "8小时前 北京大学常林团队实现全场景硅光相干通信",
     "translation_status": "ready"
   },
   {
