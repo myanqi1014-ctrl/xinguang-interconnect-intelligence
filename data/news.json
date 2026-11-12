@@ -118,6 +118,34 @@
     "translation_status": "ready"
   },
   {
+    "id": "071e769f6027f025",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "CFCF AP 2026 主论坛落幕：光通信超级周期走向分化，东南亚算力成供应链新支点",
+    "url": "https://www.c-fol.net/news/7_202611/20261111174823.html",
+    "published_at": "2026-11-11T00:00:00+00:00",
+    "summary": "光纤在线讯：CFCF AP 2026会议活动圆满收官！",
+    "tags": [],
+    "collected_at": "2026-11-12T12:24:37.263591+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "CFCF AP 2026 主论坛落幕：光通信超级周期走向分化，东南亚算力成供应链新支点",
+    "translation_status": "ready"
+  },
+  {
     "id": "8f32053c111517af",
     "source_id": "converge-digest",
     "source_name": "网络与光互联资讯 / Converge Digest",
@@ -266,6 +294,37 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "Coherent：市值腰斩，光模块\"全能王\"被错杀了吗？",
+    "translation_status": "ready"
+  },
+  {
+    "id": "306d4e46e46a9430",
+    "source_id": "amd",
+    "source_name": "AMD 新闻中心",
+    "source_type": "企业官方新闻中心",
+    "title": "Embedded November 10, 2026 AMD Launches 6th Gen AMD EPYC Embedded Processors, Extending CPU Leadership AMD EPYC Embedded 9006 Series SP7 CPUs deliver leadership performance with up to 256 cores, scalable PCIe Gen 6 and CXL 3.1 connectivity, advanced security and seven-year product longevity.",
+    "url": "https://newsroom.amd.com/news/2026-in-depth-embedded-epyc-venice/",
+    "published_at": "2026-11-09T19:37:25.083000+00:00",
+    "summary": "AMD EPYC Embedded 9006 Series SP7 CPUs deliver up to 256 cores, scalable PCIe Gen 6 and CXL 3.1 connectivity, advanced security and 7-year longevity.",
+    "tags": [
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-12T12:24:45.397277+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 56,
+    "matched_terms": [
+      "CXL",
+      "PCIe"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "嵌入式11 月10、2026 AMD发布6th代AMD EPYC嵌入式处理器，进一步巩固CPU领先地位AMD EPYC嵌入式9006系列SP7 CPU 提供领先的性能，多达 256 个核心、可扩展的 PCIe Gen 6 和 CXL 3.1 连接、先进的安全性和七年的产品寿命。",
     "translation_status": "ready"
   },
   {
@@ -916,7 +975,7 @@
     "source_id": "laoyaoba",
     "source_name": "集微网",
     "source_type": "国内半导体媒体",
-    "title": "8小时前 北京大学常林团队实现全场景硅光相干通信",
+    "title": "11-11 11:28 北京大学常林团队实现全场景硅光相干通信",
     "url": "https://www.laoyaoba.com/n/1138875",
     "published_at": "2026-11-05T00:00:00+00:00",
     "summary": "2026年11月5日，北京大学电子学院常林研究员团队与合作者在《自然·通讯》（Nature Communications）在线发表了题为“硅光子技术为跨距离光通信提供统一解决方案”（Silicon photonics provides a unified solution for all-distance optical communications）的研究文章。团队将高功率窄线宽集成激光器与高性能硅光相干收发芯片相结合，提出面向不同传输距离的统一方案，兼顾长距通信、高容量短距互连与快速动态重构",
@@ -938,7 +997,7 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "8小时前 北京大学常林团队实现全场景硅光相干通信",
+    "title_zh": "11-11 11:28 北京大学常林团队实现全场景硅光相干通信",
     "translation_status": "ready"
   },
   {
@@ -8428,6 +8487,36 @@
     "tender_stage": "中标/成交",
     "procurement_level": "一般光通信采购",
     "company_scope": "",
+    "translation_status": "ready"
+  },
+  {
+    "id": "1a026511b6c1b6b7",
+    "source_id": "eefocus",
+    "source_name": "与非网",
+    "source_type": "国内半导体媒体",
+    "title": "美国要禁中国光模块，微软先急了，白宫已经被厂商“围攻”",
+    "url": "https://www.eefocus.com/article/2118615.html",
+    "published_at": "",
+    "summary": "",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-12T12:24:44.384762+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "美国要禁中国光模块，微软先急了，白宫已经被厂商“围攻”",
     "translation_status": "ready"
   }
 ]
