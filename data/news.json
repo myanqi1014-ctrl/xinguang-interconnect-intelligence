@@ -58,6 +58,158 @@
     "translation_status": "ready"
   },
   {
+    "id": "8658bf096aef80d7",
+    "source_id": "the-elec",
+    "source_name": "The Elec",
+    "source_type": "海外新闻与深度观察",
+    "title": "Panmnesia, Intel Korea Sign MOU to Integrate CXL Switches With Xeon",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=15590",
+    "published_at": "2026-11-13T06:47:40+00:00",
+    "summary": "Panmnesia said on Nov. 12 that it signed a memorandum of understanding (MOU) with Intel Korea to cooperate on Compute Express Link (CXL) technology.The signing ceremony took place at COEX in Seoul during the Intel AI Summit Seoul 2026 event. Attendees included Panmnesia CEO Myoungsoo Jung and Intel",
+    "tags": [
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-13T11:59:49.764122+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "CXL"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Panmnesia与英特尔韩国签署MOU协议，将CXL交换机与至强集成",
+    "translation_status": "ready"
+  },
+  {
+    "id": "ee769b5c63d78d83",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "一支光芯片团队入主ST三木，老牌平台能否顺利转身？",
+    "url": "https://fiber.ofweek.com/2026-11/ART-8100-2100-30711740.html",
+    "published_at": "2026-11-13T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-13T11:59:43.548114+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "热点问答"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光芯片"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "一支光芯片团队入主ST三木，老牌平台能否顺利转身？",
+    "translation_status": "ready"
+  },
+  {
+    "id": "a6af6fef88874b64",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "索尔思首单落地！锐翔智能切入光模块自动化设备赛道",
+    "url": "https://fiber.ofweek.com/2026-11/ART-8100-2100-30711741.html",
+    "published_at": "2026-11-13T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-13T11:59:45.459787+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "索尔思首单落地！锐翔智能切入光模块自动化设备赛道",
+    "translation_status": "ready"
+  },
+  {
+    "id": "4c180e7da5ed541c",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "不止光模块！中际旭创5000万元加码AI前沿布局",
+    "url": "https://fiber.ofweek.com/2026-11/ART-8100-2100-30711742.html",
+    "published_at": "2026-11-13T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-13T11:59:47.064306+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "不止光模块！中际旭创5000万元加码AI前沿布局",
+    "translation_status": "ready"
+  },
+  {
+    "id": "6bbb54c0f6c618c3",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "NPO/CPO的价值在往哪个物理位置迁移",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-8420-30711655.html",
+    "published_at": "2026-11-13T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "NPO",
+      "CPO"
+    ],
+    "collected_at": "2026-11-13T11:59:48.531894+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 96,
+    "matched_terms": [
+      "CPO",
+      "NPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "NPO/CPO的价值在往哪个物理位置迁移",
+    "translation_status": "ready"
+  },
+  {
     "id": "057b1aebfb6b1086",
     "source_id": "ofweek",
     "source_name": "维科网光通讯 / OFweek",
@@ -5957,7 +6109,7 @@
     "source_id": "tfc",
     "source_name": "天孚通信",
     "source_type": "企业官方新闻中心",
-    "title": "2026-04-20 天孚通信新总部(新一代光器件项目)开工",
+    "title": "天孚通信新总部(新一代光器件项目)开工 了解更多 >",
     "url": "https://www.tfcsz.com/news/1036.html",
     "published_at": "2026-04-20T00:00:00+00:00",
     "summary": "天孚通信（TFC）2005年成立，2015年在中国创业板上市，是全球光互连领域领先的一站式平台型技术企业。依托高复用的技术平台与深度的产业链垂直整合能力，提供从无源光器件到有源光器件的一站式光互连解决方案。产品广泛应用于人工智能、数据中心、光纤通信、激光雷达、生物光子学等领域。",
@@ -5980,7 +6132,7 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "2026-04-20 天孚通信新总部(新一代光器件项目)开工",
+    "title_zh": "天孚通信新总部(新一代光器件项目)开工 了解更多 >",
     "translation_status": "ready"
   },
   {
@@ -8517,6 +8669,96 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "美国要禁中国光模块，微软先急了，白宫已经被厂商“围攻”",
+    "translation_status": "ready"
+  },
+  {
+    "id": "5a8116cbeb856175",
+    "source_id": "pic-magazine",
+    "source_name": "光子集成电路杂志 / PIC Magazine",
+    "source_type": "海外新闻与深度观察",
+    "title": "Opdo raises $2.3M for AI optical engineering",
+    "url": "https://picmagazine.net/article/125849/Opdo_raises_23M_for_AI_optical_engineering",
+    "published_at": "",
+    "summary": "PIC Magazine",
+    "tags": [],
+    "collected_at": "2026-11-13T11:59:35.826267+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical engine"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Opdo 为 AI 光学工程筹集了 $2.3M",
+    "translation_status": "ready"
+  },
+  {
+    "id": "77347d458c075826",
+    "source_id": "semiconductor-today",
+    "source_name": "今日半导体 / Semiconductor Today",
+    "source_type": "海外新闻与深度观察",
+    "title": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform",
+    "url": "https://semiconductor-today.com/news_items/2026/nov/polarlight-121126.shtml",
+    "published_at": "",
+    "summary": "Foxconn collaboration examines light sources for optical connections in data centers and high-performance computing",
+    "tags": [
+      "光芯片/器件",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-13T11:59:35.876485+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical interconnect",
+      "Micro-LED"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Polar Light签署首份光互连协议，采用micro-LED技术平台",
+    "translation_status": "ready"
+  },
+  {
+    "id": "0ce27452a1cf7ad9",
+    "source_id": "eefocus",
+    "source_name": "与非网",
+    "source_type": "国内半导体媒体",
+    "title": "谷歌锁定NPO大单：中际旭创60%，新易盛40%",
+    "url": "https://www.eefocus.com/article/2119720.html",
+    "published_at": "",
+    "summary": "",
+    "tags": [
+      "NPO"
+    ],
+    "collected_at": "2026-11-13T11:59:51.472947+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "NPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "谷歌锁定NPO大单：中际旭创60%，新易盛40%",
     "translation_status": "ready"
   }
 ]
