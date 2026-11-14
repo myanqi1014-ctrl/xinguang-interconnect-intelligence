@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-13T12:00:33.316973+00:00",
+  "run_at": "2026-11-14T11:19:32.989640+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -229,10 +229,12 @@
       "source_id": "oif",
       "url": "https://www.oiforum.com/",
       "group": "技术标准与学术研究",
-      "found": 1,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.oiforum.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.oiforum.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "以太网联盟 / Ethernet Alliance",
@@ -383,11 +385,10 @@
       "url": "https://www.huxiu.com/",
       "group": "科技与商业媒体",
       "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=6)"
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "钛媒体 / TMTPost",
@@ -540,10 +541,11 @@
       "url": "https://en.etnews.com/",
       "group": "海外新闻与深度观察",
       "found": 0,
-      "errors": [],
+      "errors": [
+        "HTTPSConnectionPool(host='en.etnews.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='en.etnews.com', port=443) at 0x7d757152ec50>, 'Connection to en.etnews.com timed out. (connect timeout=6)'))"
+      ],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "error"
     },
     {
       "source": "半导体产业纵横",
@@ -594,7 +596,7 @@
       "source_id": "laoyaoba",
       "url": "https://www.laoyaoba.com/",
       "group": "国内半导体媒体",
-      "found": 4,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -794,7 +796,7 @@
       "group": "企业官方新闻中心",
       "found": 0,
       "errors": [
-        "页面未返回可解析的新闻列表"
+        "HTTPSConnectionPool(host='www.linkteltech.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.linkteltech.com.cn', port=443) at 0x7d754aa03690>, 'Connection to www.linkteltech.com.cn timed ou"
       ],
       "warnings": [],
       "status": "error"
@@ -1535,10 +1537,11 @@
       "url": "https://www.bidcenter.com.cn/zhaobiao/zbkeyw-86676.html",
       "group": "招标采购",
       "found": 0,
-      "errors": [],
+      "errors": [
+        "HTTPSConnectionPool(host='www.bidcenter.com.cn', port=443): Read timed out. (read timeout=6)"
+      ],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "error"
     },
     {
       "source": "中国政府采购网",
@@ -1600,8 +1603,8 @@
       "status": "error"
     }
   ],
-  "total_stored": 295,
-  "editorial_selected": 233,
+  "total_stored": 303,
+  "editorial_selected": 241,
   "rules_version": "2026-11-03.3",
   "pending_title_translations": 0,
   "configured": 145,

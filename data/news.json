@@ -3916,6 +3916,34 @@
     "translation_status": "ready"
   },
   {
+    "id": "612ae949d4864747",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "泰国商务考察团：11月与我们深度了解光通信泰国制造的进展",
+    "url": "https://www.c-fol.net/news/7_202610/20261013141958.html",
+    "published_at": "2026-10-13T00:00:00+00:00",
+    "summary": "光纤在线讯：4家企业参访交流，实地了解泰国制造的进展。",
+    "tags": [],
+    "collected_at": "2026-11-14T11:18:32.152443+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "泰国商务考察团：11月与我们深度了解光通信泰国制造的进展",
+    "translation_status": "ready"
+  },
+  {
     "source_id": "ccgp",
     "title": "400G QSFP-DD FR4客户侧光模块采购项目招标公告",
     "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261012_27475461.htm",
@@ -4067,6 +4095,67 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "Credo推出1.6T ZeroFlap有源光缆",
+    "translation_status": "ready"
+  },
+  {
+    "id": "abb74ee30d433309",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "专访奥芯明：CPO 量产的关键，在整条工艺链的协同",
+    "url": "https://www.c-fol.net/news/5_202610/20261010160331.html",
+    "published_at": "2026-10-10T00:00:00+00:00",
+    "summary": "光纤在线讯：精度只是起点，完整工艺窗口才是先进封装的机会点。",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-14T11:18:33.832736+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯",
+      "关键人物访谈"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 88,
+    "matched_terms": [
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "专访奥芯明：CPO 量产的关键，在整条工艺链的协同",
+    "translation_status": "ready"
+  },
+  {
+    "id": "50938f341aaf5460",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "南安普顿大学：为什么能成为光通信创新的沃土",
+    "url": "https://www.c-fol.net/news/7_202610/20261009174916.html",
+    "published_at": "2026-10-09T00:00:00+00:00",
+    "summary": "光纤在线讯：这里的光电研究中心（ORC）可以说是英国光子学的基石，这里诞生了掺铒光纤放大器（EDFA），也是光子晶体光纤概念最早提出的地方。这里如今还有英国最顶级的硅光团队",
+    "tags": [
+      "硅光"
+    ],
+    "collected_at": "2026-11-14T11:18:32.993531+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "热点问答"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "南安普顿大学：为什么能成为光通信创新的沃土",
     "translation_status": "ready"
   },
   {
@@ -4412,6 +4501,106 @@
     "translation_status": "ready"
   },
   {
+    "id": "922d4ce72444767e",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "专访兆驰集成：接入网光芯片批量出货 CW DFB进入5000H可靠性测试",
+    "url": "https://www.c-fol.net/news/5_202609/20260929135202.html",
+    "published_at": "2026-09-29T00:00:00+00:00",
+    "summary": "光纤在线讯：从首款2.5G DFB下线，到四条产品线同时跑在产线上，兆驰集成用了一年。这一年行业需求滚烫，兆驰集成却把节奏攥在了自己手里。",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-14T11:18:34.781481+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯",
+      "知识科普与深度洞察",
+      "关键人物访谈"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光芯片",
+      "DFB",
+      "测试"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "专访兆驰集成：接入网光芯片批量出货 CW DFB进入5000H可靠性测试",
+    "translation_status": "ready"
+  },
+  {
+    "id": "c47073e5aa56a87f",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "专访曦智科技：聚焦 Scale up, 做懂计算的光互连",
+    "url": "https://www.c-fol.net/news/5_202609/20260928111734.html",
+    "published_at": "2026-09-28T00:00:00+00:00",
+    "summary": "光纤在线讯：曦智科技面向 Scale up 超节点互连场景，输出 NPO、CPO、分布式 OCS 相关硅光芯片，并配套提供系统级参考方案",
+    "tags": [
+      "硅光",
+      "NPO",
+      "CPO",
+      "光芯片/器件",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-14T11:18:35.361876+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "关键人物访谈"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互连"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "专访曦智科技：聚焦 Scale up, 做懂计算的光互连",
+    "translation_status": "ready"
+  },
+  {
+    "id": "497f1206d99cf715",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "专访老鹰半导体汪德鹏：AI光互连进入全场景竞速，GaAs+InP双材料体系构筑破局新优势",
+    "url": "https://www.c-fol.net/news/5_202609/20260928102549.html",
+    "published_at": "2026-09-28T00:00:00+00:00",
+    "summary": "光纤在线讯：老鹰半导体将持续深耕GaAs、InP双技术核心赛道，持续推出高性能、高可靠性、低功耗的核心光芯片产品，填补国内高端产品空白。",
+    "tags": [
+      "光芯片/器件",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-14T11:18:35.947406+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "关键人物访谈"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互连",
+      "InP"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "专访老鹰半导体汪德鹏：AI光互连进入全场景竞速，GaAs+InP双材料体系构筑破局新优势",
+    "translation_status": "ready"
+  },
+  {
     "id": "a846be54249cd152",
     "source_id": "accelink",
     "source_name": "光迅科技",
@@ -4503,6 +4692,37 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "09.23.2026 2026云栖大会：纳真科技（股票代码：9856.HK）重磅参与全球首个商用SNPO光互连超节点开放生态 查看更多",
+    "translation_status": "ready"
+  },
+  {
+    "id": "56adbb67618e01a9",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "专访三伍技术：深耕低速光模块筑牢基本盘，错位布局冲刺中高速新赛道",
+    "url": "https://www.c-fol.net/news/5_202609/20260922124908.html",
+    "published_at": "2026-09-22T00:00:00+00:00",
+    "summary": "光纤在线讯：差异化、高附加值是中小光模块厂商破局核心",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-14T11:18:36.805045+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察",
+      "关键人物访谈"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "专访三伍技术：深耕低速光模块筑牢基本盘，错位布局冲刺中高速新赛道",
     "translation_status": "ready"
   },
   {
@@ -4624,6 +4844,37 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "ECOC 2026｜德科立携全系列光通信方案亮相马拉加",
+    "translation_status": "ready"
+  },
+  {
+    "id": "b8490bb6c75d5d73",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "专访安立：深耕高速互联测试赛道 赋能AI光通信产业升级",
+    "url": "https://www.c-fol.net/news/5_202609/20260921183159.html",
+    "published_at": "2026-09-21T00:00:00+00:00",
+    "summary": "光纤在线讯：两年AI产业的爆发式发展，给我们的业务带来了十分直观、全方位的正向增长",
+    "tags": [],
+    "collected_at": "2026-11-14T11:18:37.391540+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察",
+      "关键人物访谈"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 56,
+    "matched_terms": [
+      "光通信",
+      "高速互联",
+      "测试"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "专访安立：深耕高速互联测试赛道 赋能AI光通信产业升级",
     "translation_status": "ready"
   },
   {
@@ -6109,7 +6360,7 @@
     "source_id": "tfc",
     "source_name": "天孚通信",
     "source_type": "企业官方新闻中心",
-    "title": "天孚通信新总部(新一代光器件项目)开工 了解更多 >",
+    "title": "2026-04-20 天孚通信新总部(新一代光器件项目)开工",
     "url": "https://www.tfcsz.com/news/1036.html",
     "published_at": "2026-04-20T00:00:00+00:00",
     "summary": "天孚通信（TFC）2005年成立，2015年在中国创业板上市，是全球光互连领域领先的一站式平台型技术企业。依托高复用的技术平台与深度的产业链垂直整合能力，提供从无源光器件到有源光器件的一站式光互连解决方案。产品广泛应用于人工智能、数据中心、光纤通信、激光雷达、生物光子学等领域。",
@@ -6132,7 +6383,7 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "天孚通信新总部(新一代光器件项目)开工 了解更多 >",
+    "title_zh": "2026-04-20 天孚通信新总部(新一代光器件项目)开工",
     "translation_status": "ready"
   },
   {
