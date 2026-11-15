@@ -2655,6 +2655,34 @@
     "translation_status": "ready"
   },
   {
+    "id": "61cfae759dd11018",
+    "source_id": "tmtpost",
+    "source_name": "钛媒体 / TMTPost",
+    "source_type": "科技与商业媒体",
+    "title": "光通信热潮退去，可川科技股价“膝斩”七成，实控人左手减持右手接盘新公司",
+    "url": "https://www.tmtpost.com/8205602.html",
+    "published_at": "2026-10-30T00:00:00+00:00",
+    "summary": "可川科技追“光”两年，相关业务未贡献营收，实控人套现后转头接盘新公司。",
+    "tags": [],
+    "collected_at": "2026-11-15T11:50:29.170025+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "光通信热潮退去，可川科技股价“膝斩”七成，实控人左手减持右手接盘新公司",
+    "translation_status": "ready"
+  },
+  {
     "id": "62315a26ffbc3c43",
     "source_id": "converge-digest",
     "source_name": "网络与光互联资讯 / Converge Digest",

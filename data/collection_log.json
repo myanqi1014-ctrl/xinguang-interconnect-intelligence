@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-14T11:19:32.989640+00:00",
+  "run_at": "2026-11-15T11:51:18.790166+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -395,11 +395,10 @@
       "source_id": "tmtpost",
       "url": "https://www.tmtpost.com/",
       "group": "科技与商业媒体",
-      "found": 0,
+      "found": 1,
       "errors": [],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "ok"
     },
     {
       "source": "智东西 / Zhidx",
@@ -541,11 +540,10 @@
       "url": "https://en.etnews.com/",
       "group": "海外新闻与深度观察",
       "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='en.etnews.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='en.etnews.com', port=443) at 0x7d757152ec50>, 'Connection to en.etnews.com timed out. (connect timeout=6)'))"
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "半导体产业纵横",
@@ -574,10 +572,11 @@
       "source_id": "eefocus",
       "url": "https://www.eefocus.com/",
       "group": "国内半导体媒体",
-      "found": 1,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "电子工程专辑",
@@ -596,10 +595,12 @@
       "source_id": "laoyaoba",
       "url": "https://www.laoyaoba.com/",
       "group": "国内半导体媒体",
-      "found": 2,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.laoyaoba.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.laoyaoba.com', port=443) at 0x7ca394cdc3d0>, 'Connection to www.laoyaoba.com timed out. (connect timeou"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "NIST CHIPS 美国半导体产业投资",
@@ -796,7 +797,7 @@
       "group": "企业官方新闻中心",
       "found": 0,
       "errors": [
-        "HTTPSConnectionPool(host='www.linkteltech.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.linkteltech.com.cn', port=443) at 0x7d754aa03690>, 'Connection to www.linkteltech.com.cn timed ou"
+        "页面未返回可解析的新闻列表"
       ],
       "warnings": [],
       "status": "error"
@@ -1103,10 +1104,11 @@
       "url": "https://www.semtech.com/",
       "group": "企业官方新闻中心",
       "found": 0,
-      "errors": [],
+      "errors": [
+        "HTTPSConnectionPool(host='www.semtech.com', port=443): Read timed out. (read timeout=12)"
+      ],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "error"
     },
     {
       "source": "格芯 GlobalFoundries",
@@ -1603,8 +1605,8 @@
       "status": "error"
     }
   ],
-  "total_stored": 303,
-  "editorial_selected": 241,
+  "total_stored": 304,
+  "editorial_selected": 242,
   "rules_version": "2026-11-03.3",
   "pending_title_translations": 0,
   "configured": 145,
