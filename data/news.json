@@ -210,6 +210,37 @@
     "translation_status": "ready"
   },
   {
+    "source_id": "bidcenter",
+    "title": "黄浦区高密度高速光互连驱动芯片设计与流片服务采购公告",
+    "url": "https://sh.bidcenter.com.cn/diqucontent-452902070-1.html",
+    "published_at": "2026-11-11T00:00:00+08:00",
+    "summary": "采购高密度高速光互连驱动芯片设计与流片服务。公开摘要列有55nm CMOS工艺MPW流片服务需求；完整项目编号、金额及部分主体字段被遮蔽，未补全。",
+    "verification_note": "已读取采招网公开详情页的标题、发布日期及公告摘要，核实2026年11月11日发布；日期仅精确到日，以当日零点表示。完整详情受会员限制，未绕过，截止时间及有效状态须原发布平台核验。",
+    "checked_at": "2026-11-16",
+    "id": "344850a9c2d87d39",
+    "source_name": "采招网·光模块/光通信",
+    "source_type": "招标采购",
+    "content_type": "招标采购",
+    "collected_at": "2026-11-16T04:10:24.291880+00:00",
+    "ingestion_method": "公开检索补充",
+    "title_zh": "黄浦区高密度高速光互连驱动芯片设计与流片服务采购公告",
+    "accepted": true,
+    "columns": [
+      "招标采购"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互连"
+    ],
+    "selection_reason": "采购公告标题命中光通信或算力互联设备",
+    "rules_version": "2026-11-03.3",
+    "tender_stage": "招标/采购公告",
+    "procurement_level": "高速互联相关",
+    "company_scope": "",
+    "translation_status": "ready"
+  },
+  {
     "id": "057b1aebfb6b1086",
     "source_id": "ofweek",
     "source_name": "维科网光通讯 / OFweek",
