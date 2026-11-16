@@ -58,6 +58,158 @@
     "translation_status": "ready"
   },
   {
+    "id": "b69754876f9b26c8",
+    "source_id": "c114",
+    "source_name": "C114通信网 / C114",
+    "source_type": "国内行业媒体",
+    "title": "Cignal AI：Scale-across正重塑相干可插拔光模块市场",
+    "url": "https://www.c114.com.cn/ftth/5472/a1321077.html",
+    "published_at": "2026-11-16T00:00:00+00:00",
+    "summary": "Cignal AI：Scale-across正重塑相干可插拔光模块市场,C114讯 11月16日消息（水易）近日，市场研究机构Cignal AI上调了光传输硬件设备的市场预",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-16T12:32:52.766913+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Cignal AI：Scale-across正重塑相干可插拔光模块市场",
+    "translation_status": "ready"
+  },
+  {
+    "id": "7d0d12b00dfbb60d",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "保险资金也扛不住光模块暴跌？中国人寿22天撤出新易盛前十",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-12005-30711988.html",
+    "published_at": "2026-11-16T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-16T12:32:56.622241+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "保险资金也扛不住光模块暴跌？中国人寿22天撤出新易盛前十",
+    "translation_status": "ready"
+  },
+  {
+    "id": "26adfb5812209b76",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "光通信热潮退去，可川科技股价“膝斩”七成，实控人左手减持右手接盘新公司",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-12003-30711831.html",
+    "published_at": "2026-11-16T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-16T12:32:57.553614+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "光通信热潮退去，可川科技股价“膝斩”七成，实控人左手减持右手接盘新公司",
+    "translation_status": "ready"
+  },
+  {
+    "id": "bf731aa9a0e4ad1c",
+    "source_id": "trendforce",
+    "source_name": "TrendForce 集邦咨询",
+    "source_type": "市场研究机构",
+    "title": "[News] Huang’s Exit Raises Questions Over NVIDIA’s CPO Roadmap and Supply Chain; TSMC Ties Expected to Hold",
+    "url": "https://www.trendforce.com/news/2026/11/16/news-huangs-exit-raises-questions-over-nvidias-cpo-roadmap-and-supply-chain-tsmc-ties-expected-to-hold/",
+    "published_at": "2026-11-16T00:00:00+00:00",
+    "summary": "NVIDIA CEO Jensen Huang's resignation has raised concerns across the semiconductor industry over its potential impact on the company's supply chain. A...",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-16T12:33:02.598652+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "【新闻】黄的离职引发了对NVIDIA的CPO路线图和供应链的质疑；TSMC的联系预计将保持不变",
+    "translation_status": "ready"
+  },
+  {
+    "id": "e187b06bdb7b46c1",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Cornelis Intros 800G CN6000 Networking Platform",
+    "url": "https://convergedigest.com/cornelis-cn6000-800g-ai-hpc-networking/",
+    "published_at": "2026-11-15T18:57:51+00:00",
+    "summary": "Cornelis has introduced its CN6000 networking platform, combining an 800G Omni-Path fabric with a new Ethernet SuperNIC supporting RoCEv2 for AI training, disaggregated inference, and high-performance computing (HPC). The platform includes an Omni-Path SuperNIC, a 48-port Omni-Path switch, and an Ethernet SuperNIC designed for industry-standard switches. Cornelis reports 1.6 billion messages per second and 0.95 microseconds of MPI ping-pong latency for its Omni-Path adapter, versus 1.2 microseco",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "数据中心互联",
+      "网络与交换",
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-16T12:32:47.331013+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Cornelis 推出 800G 和 CN6000 网络平台",
+    "translation_status": "ready"
+  },
+  {
     "id": "8658bf096aef80d7",
     "source_id": "the-elec",
     "source_name": "The Elec",
@@ -6177,6 +6329,32 @@
     "translation_status": "ready"
   },
   {
+    "id": "177c2d3c95479079",
+    "source_id": "poet",
+    "source_name": "POET Technologies",
+    "source_type": "企业官方新闻中心",
+    "title": "FAQ: Production Orders, Cash Position, and the Path to Greater Revenue July 14, 2026 Read Post",
+    "url": "https://www.poet-technologies.com/blog/faq-production-orders-cash-position-and-the-path-to-greater-revenue",
+    "published_at": "2026-07-14T00:00:00+00:00",
+    "summary": "Read the blog post from POET Technologies posted on Jul 14, 2026",
+    "tags": [],
+    "collected_at": "2026-11-16T12:33:25.042195+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [],
+    "selection_reason": "光通信专业企业的产品、合作或经营动态",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "FAQ：生产订单、现金状况和实现更高收入的途径7月14、2026阅读文章",
+    "translation_status": "ready"
+  },
+  {
     "id": "663b35555706f594",
     "source_id": "trendforce",
     "source_name": "TrendForce 集邦咨询",
@@ -9069,6 +9247,36 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "谷歌锁定NPO大单：中际旭创60%，新易盛40%",
+    "translation_status": "ready"
+  },
+  {
+    "id": "337f8557ed5f37a0",
+    "source_id": "eefocus",
+    "source_name": "与非网",
+    "source_type": "国内半导体媒体",
+    "title": "可插拔不会消失，CPO也不会通吃（上）",
+    "url": "https://www.eefocus.com/article/2120416.html",
+    "published_at": "",
+    "summary": "",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-16T12:33:04.894357+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "可插拔不会消失，CPO也不会通吃（上）",
     "translation_status": "ready"
   }
 ]
