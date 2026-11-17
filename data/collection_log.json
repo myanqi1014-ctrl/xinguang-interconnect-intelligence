@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-16T12:33:54.999518+00:00",
+  "run_at": "2026-11-17T12:57:49.076155+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -27,7 +27,7 @@
       "source_id": "converge-digest",
       "url": "https://convergedigest.com/",
       "group": "海外新闻与深度观察",
-      "found": 1,
+      "found": 4,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -99,10 +99,11 @@
       "source_id": "nvidia",
       "url": "https://nvidianews.nvidia.com/",
       "group": "企业官方新闻中心",
-      "found": 1,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "Broadcom",
@@ -283,7 +284,7 @@
       "source_id": "ofweek",
       "url": "https://fiber.ofweek.com/",
       "group": "国内行业媒体",
-      "found": 6,
+      "found": 5,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -383,22 +384,20 @@
       "url": "https://www.huxiu.com/",
       "group": "科技与商业媒体",
       "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "钛媒体 / TMTPost",
       "source_id": "tmtpost",
       "url": "https://www.tmtpost.com/",
       "group": "科技与商业媒体",
-      "found": 0,
+      "found": 1,
       "errors": [],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "ok"
     },
     {
       "source": "智东西 / Zhidx",
@@ -517,7 +516,7 @@
       "source_id": "trendforce",
       "url": "https://www.trendforce.com/news/",
       "group": "市场研究机构",
-      "found": 2,
+      "found": 1,
       "errors": [],
       "warnings": [
         "RSS不可用，尝试页面新闻列表"
@@ -529,7 +528,7 @@
       "source_id": "the-elec",
       "url": "https://www.thelec.net/news/articleList.html",
       "group": "海外新闻与深度观察",
-      "found": 1,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -572,7 +571,7 @@
       "source_id": "eefocus",
       "url": "https://www.eefocus.com/",
       "group": "国内半导体媒体",
-      "found": 1,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -594,12 +593,10 @@
       "source_id": "laoyaoba",
       "url": "https://www.laoyaoba.com/",
       "group": "国内半导体媒体",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.laoyaoba.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.laoyaoba.com', port=443) at 0x76d5700967d0>, 'Connection to www.laoyaoba.com timed out. (connect timeou"
-      ],
+      "found": 3,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "NIST CHIPS 美国半导体产业投资",
@@ -716,10 +713,11 @@
       "url": "https://www.ofcconference.org/",
       "group": "会议与展会",
       "found": 0,
-      "errors": [],
+      "errors": [
+        "HTTPSConnectionPool(host='www.ofcconference.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:"
+      ],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "error"
     },
     {
       "source": "ECOC 欧洲光通信展",
@@ -796,7 +794,7 @@
       "group": "企业官方新闻中心",
       "found": 0,
       "errors": [
-        "页面未返回可解析的新闻列表"
+        "HTTPSConnectionPool(host='www.linkteltech.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.linkteltech.com.cn', port=443) at 0x7399e0f20950>, 'Connection to www.linkteltech.com.cn timed ou"
       ],
       "warnings": [],
       "status": "error"
@@ -1441,7 +1439,7 @@
       "source_id": "fiberhome",
       "url": "https://www.fiberhome.com/xwzx.html",
       "group": "企业官方新闻中心",
-      "found": 3,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -1525,10 +1523,11 @@
       "url": "https://zb.zhaobiao.cn/",
       "group": "招标采购",
       "found": 0,
-      "errors": [],
+      "errors": [
+        "521 Server Error:  for url: https://zb.zhaobiao.cn/"
+      ],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "error"
     },
     {
       "source": "采招网·光模块/光通信",
@@ -1536,11 +1535,10 @@
       "url": "https://www.bidcenter.com.cn/zhaobiao/zbkeyw-86676.html",
       "group": "招标采购",
       "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.bidcenter.com.cn', port=443): Read timed out. (read timeout=6)"
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "中国政府采购网",
@@ -1602,8 +1600,8 @@
       "status": "error"
     }
   ],
-  "total_stored": 312,
-  "editorial_selected": 250,
+  "total_stored": 325,
+  "editorial_selected": 263,
   "rules_version": "2026-11-03.3",
   "pending_title_translations": 0,
   "configured": 145,

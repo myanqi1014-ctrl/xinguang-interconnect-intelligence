@@ -28,6 +28,97 @@
     "translation_status": "ready"
   },
   {
+    "id": "41a9e609ee6fc604",
+    "source_id": "ruijie",
+    "source_name": "锐捷网络",
+    "source_type": "企业官方新闻中心",
+    "title": "2026年上半年中国800G数据中心 交换机市场占有率 排名第一 查看详情",
+    "url": "https://www.ruijie.com.cn/gy/xw-gs/931405/?utm_source=sybanner",
+    "published_at": "2026-11-19T00:00:00+00:00",
+    "summary": "锐捷网络：2026年上半年中国800G数据中心交换机市占率第一",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:51:41.254045+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "2026年上半年中国800G数据中心 交换机市场占有率 排名第一 查看详情",
+    "translation_status": "ready"
+  },
+  {
+    "id": "0193f4d8f91faced",
+    "source_id": "ruijie",
+    "source_name": "锐捷网络",
+    "source_type": "企业官方新闻中心",
+    "title": "AIGC智算场景800G交换机 800G 高密智算芯力量，无损低延速启 AI 未来",
+    "url": "https://www.ruijie.com.cn/cp/jh-shjzhx-sjzxhx/s699064oc2xs/?utm_source=sycp",
+    "published_at": "2026-11-19T00:00:00+00:00",
+    "summary": "RG-S6990-64OC2XS交换机是锐捷网络面向高端数据中心和AIGC智算场景推出的的新一代高性能、高密度盒式ROCE交换机。 RG-S6990-64OC2XS采用先进的硬件架构设计，提供64个800GE端口或者128个400GE端口，并兼容LPO光模块，2个10GE端口。所有端口均支持线速转发，支持冗余可插拔电源和风扇。支持锐捷智算解决方案RALB、AILB和ENLB负载均衡技术，提升AIGC智算场景下流量带宽，缩短AI训练时长。典型二级组网最大可支持4K卡(400G)规模集群，典型三级组网最大支持128K卡(400G)规模集群。支持RoCE配置一键部署，一键即可完成 ECN、PFC 等 RDMA 网络下复杂的配置导入，实现快速部署。",
+    "tags": [
+      "光模块",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-03T08:51:42.782718+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "AIGC智算场景800G交换机 800G 高密智算芯力量，无损低延速启 AI 未来",
+    "translation_status": "ready"
+  },
+  {
+    "id": "da53db56f7a86a02",
+    "source_id": "ruijie",
+    "source_name": "锐捷网络",
+    "source_type": "企业官方新闻中心",
+    "title": "配件 原厂光模块，电源模块，品质值得信赖",
+    "url": "https://www.ruijie.com.cn/cp/jh-gmk/?utm_source=sycp",
+    "published_at": "2026-11-19T00:00:00+00:00",
+    "summary": "锐捷交换机配件涵盖光模块、电源模块等产品，适配不同速率、距离和可靠性要求，为园区网与数据中心的链路扩展、设备供电和冗余保障提供匹配选择，便于网络平滑建设与升级。",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-03T08:51:43.961443+00:00",
+    "company_scope": "related",
+    "company_segment": "互联芯片与系统",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "配件 原厂光模块，电源模块，品质值得信赖",
+    "translation_status": "ready"
+  },
+  {
     "id": "0ecf56a24612def6",
     "source_id": "lightwave",
     "source_name": "光波在线 / Lightwave",
@@ -55,6 +146,318 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "共封装光学（CPO）进展观察",
+    "translation_status": "ready"
+  },
+  {
+    "id": "2e9f8a4318f8e9d7",
+    "source_id": "the-elec",
+    "source_name": "The Elec",
+    "source_type": "海外新闻与深度观察",
+    "title": "NeoSem Posts Record Quarterly Revenue on PCIe 6.0 SSD Tester Growth",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=15693",
+    "published_at": "2026-11-17T08:59:13+00:00",
+    "summary": "NeoSem posted record quarterly revenue and operating profit as shipments of testers for PCIe 6.0-based solid-state drives expanded.​According to its quarterly report released on Nov. 16, NeoSem reported revenue of 50.7 billion won and operating profit of 19.2 billion won in the third quarter. Revenu",
+    "tags": [
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-17T12:56:50.995804+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "PCIe"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "NeoSem 凭借 PCIe 6.0 SSD 测试仪的增长创下季度营收纪录",
+    "translation_status": "ready"
+  },
+  {
+    "id": "ec9a4d30274e4048",
+    "source_id": "the-elec",
+    "source_name": "The Elec",
+    "source_type": "海外新闻与深度观察",
+    "title": "Marvell, Penguin Solutions Partner to Integrate CXL and Photonic Memory Technologies",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=15690",
+    "published_at": "2026-11-17T08:59:13+00:00",
+    "summary": "Marvell Technology and Penguin Solutions said on Nov. 16 that they have formed a strategic partnership to develop memory infrastructure technologies for artificial intelligence (AI) data centers.​The companies will collaborate on server-level memory expansion based on Compute Express Link (CXL) and",
+    "tags": [
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-17T12:56:50.996683+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "CXL"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "迈威尔与 Penguin Solutions 合作，整合 CXL 和光子存储技术",
+    "translation_status": "ready"
+  },
+  {
+    "id": "fdbd6f68d10f1146",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Marvell and Penguin Target CXL and Optical Memory for Inference",
+    "url": "https://convergedigest.com/marvell-penguin-solutions-cxl-photonic-ai-memory/",
+    "published_at": "2026-11-17T03:56:20+00:00",
+    "summary": "Marvell Technology and Penguin Solutions are joining forces to expand memory capacity for AI inference systems, combining CXL-based server memory expansion with optical interconnect technology designed to share memory across multiple racks. The collaboration has two distinct development tracks: integrating Marvell’s Structera X memory-expansion controllers into Penguin Solutions’ SMART CXL add-in cards, and incorporating Marvell’s Photonic Fabric technology into Penguin’s MemoryAI appliances and",
+    "tags": [
+      "AI算力",
+      "数据中心互联",
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-17T12:56:34.530267+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "CXL"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "迈威尔和 Penguin 瞄准 CXL 和光学存储器用于推理",
+    "translation_status": "ready"
+  },
+  {
+    "id": "731a2318705f241f",
+    "source_id": "c114",
+    "source_name": "C114通信网 / C114",
+    "source_type": "国内行业媒体",
+    "title": "LightCounting评论：光模块市场是否正在失去动力？",
+    "url": "https://www.c114.com.cn/ftth/5472/a1321168.html",
+    "published_at": "2026-11-17T00:00:00+00:00",
+    "summary": "LightCounting评论：光模块市场是否正在失去动力？,C114讯 11月17日消息（水易）近日，光通信行业市场研究机构LightCounting在最新的报",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-17T12:56:40.924015+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "LightCounting评论：光模块市场是否正在失去动力？",
+    "translation_status": "ready"
+  },
+  {
+    "id": "63d7db819b4e6f31",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "成立两年，1.6T 硅光芯片已送样！英伟芯拿下数亿元融资",
+    "url": "https://fiber.ofweek.com/2026-11/ART-8100-2100-30712212.html",
+    "published_at": "2026-11-17T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光模块",
+      "硅光",
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-17T12:56:46.142094+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 100,
+    "matched_terms": [
+      "光芯片",
+      "硅光",
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "成立两年，1.6T 硅光芯片已送样！英伟芯拿下数亿元融资",
+    "translation_status": "ready"
+  },
+  {
+    "id": "abce03587e5b9aae",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "光通信“冰火两重天”：英伟达人事扰动下，该恐慌还是看清主线？",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-12003-30712202.html",
+    "published_at": "2026-11-17T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-17T12:56:47.308620+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "光通信“冰火两重天”：英伟达人事扰动下，该恐慌还是看清主线？",
+    "translation_status": "ready"
+  },
+  {
+    "id": "1b5206d12e8bca91",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "黄仁勋离开英伟达后：光通信订单变少了吗？",
+    "url": "https://www.c-fol.net/news/7_202611/20261117131805.html",
+    "published_at": "2026-11-17T00:00:00+00:00",
+    "summary": "光纤在线讯：我认为最重要、也最容易被低估的一条。黄仁勋不只卖晶片，他还在分配稀缺的算力，并用英伟达的资产负债表替客户背书",
+    "tags": [],
+    "collected_at": "2026-11-17T12:56:41.781500+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "黄仁勋离开英伟达后：光通信订单变少了吗？",
+    "translation_status": "ready"
+  },
+  {
+    "id": "ae3e1a4708997570",
+    "source_id": "c-fol",
+    "source_name": "光纤在线 / C-FOL",
+    "source_type": "国内行业媒体",
+    "title": "专访亿仁通信：打通Rec +一体化工艺，高速光互连组件产能与营收强势跃升",
+    "url": "https://www.c-fol.net/news/5_202611/20261117093541.html",
+    "published_at": "2026-11-17T00:00:00+00:00",
+    "summary": "光纤在线讯：近两年亿仁通信发展迅猛，以Receptacle作为核心，其Receptacle +pigtial及 FA和准直器等延伸产品实现十倍级产能扩张，日出货十几万条。",
+    "tags": [
+      "光模块",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-17T12:56:48.175494+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "关键人物访谈"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互连"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "专访亿仁通信：打通Rec +一体化工艺，高速光互连组件产能与营收强势跃升",
+    "translation_status": "ready"
+  },
+  {
+    "id": "2168f6cf461d4539",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Lambda Deploys NVIDIA Co-Packaged Optics for 10,000+ Blackwells",
+    "url": "https://convergedigest.com/lambda-nvidia-cpo-10000-blackwell-ultra-gpus/",
+    "published_at": "2026-11-16T16:45:12+00:00",
+    "summary": "Lambda has deployed NVIDIA Photonics switches connecting more than 10,000 Blackwell Ultra GPUs at its Québec campus, the AI cloud provider said November 16. Lambda describes it as the world’s first large-scale deployment of co-packaged optics (CPO). In Lambda’s comparison with conventional pluggable optics, the CPO fabric delivered 3.8% lower network latency at rack scale and 10.1% lower latency at pod scale, with the same throughput across rack, scalable-unit and pod tests. The switches connect",
+    "tags": [
+      "AI算力",
+      "NPO",
+      "CPO",
+      "光芯片/器件",
+      "数据中心互联",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-17T12:56:34.554105+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "co-packaged optics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Lambda 为 10、000+ Blackwells 部署 NVIDIA 共封装光学器件",
+    "translation_status": "ready"
+  },
+  {
+    "id": "829f8bfc3493fcac",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "NVIDIA Links 192 Vera CPUs With Quantum-X800 InfiniBand",
+    "url": "https://convergedigest.com/nvidia-vera-192-cpu-quantum-x800-infiniband/",
+    "published_at": "2026-11-16T16:35:00+00:00",
+    "summary": "NVIDIA introduced a liquid-cooled, CPU-only rack at SC26 in Chicago, linking 192 Vera processors over Quantum-X800 InfiniBand for climate modeling, molecular dynamics and other high-performance computing workloads that run on CPUs. The NVIDIA MGX design packs eight Vera CPUs into each 1U tray and reuses NVL72 chassis, power distribution and cooling components. NVIDIA specifies approximately 300 TB of memory, 1 PB of storage and more than 200 TB/s of aggregate peak memory bandwidth per rack. Germ",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "CPO",
+      "数据中心互联",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-17T12:56:34.568334+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "InfiniBand"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "NVIDIA 通过 Quantum-X800 InfiniBand 连接 192 Vera CPU",
     "translation_status": "ready"
   },
   {
@@ -1310,7 +1713,7 @@
     "source_id": "laoyaoba",
     "source_name": "集微网",
     "source_type": "国内半导体媒体",
-    "title": "11-11 11:28 北京大学常林团队实现全场景硅光相干通信",
+    "title": "北京大学常林团队实现全场景硅光相干通信 11-11 11:28",
     "url": "https://www.laoyaoba.com/n/1138875",
     "published_at": "2026-11-05T00:00:00+00:00",
     "summary": "2026年11月5日，北京大学电子学院常林研究员团队与合作者在《自然·通讯》（Nature Communications）在线发表了题为“硅光子技术为跨距离光通信提供统一解决方案”（Silicon photonics provides a unified solution for all-distance optical communications）的研究文章。团队将高功率窄线宽集成激光器与高性能硅光相干收发芯片相结合，提出面向不同传输距离的统一方案，兼顾长距通信、高容量短距互连与快速动态重构",
@@ -1332,7 +1735,7 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "11-11 11:28 北京大学常林团队实现全场景硅光相干通信",
+    "title_zh": "北京大学常林团队实现全场景硅光相干通信 11-11 11:28",
     "translation_status": "ready"
   },
   {
@@ -3736,97 +4139,6 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "ECOC 2026：Marvell谈光互联如何推动下一代AI发展",
-    "translation_status": "ready"
-  },
-  {
-    "id": "41a9e609ee6fc604",
-    "source_id": "ruijie",
-    "source_name": "锐捷网络",
-    "source_type": "企业官方新闻中心",
-    "title": "2026年上半年中国800G数据中心 交换机市场占有率 排名第一 查看详情",
-    "url": "https://www.ruijie.com.cn/gy/xw-gs/931405/?utm_source=sybanner",
-    "published_at": "2026-10-16T00:00:00+00:00",
-    "summary": "锐捷网络：2026年上半年中国800G数据中心交换机市占率第一",
-    "tags": [
-      "光模块"
-    ],
-    "collected_at": "2026-11-03T08:51:41.254045+00:00",
-    "company_scope": "related",
-    "company_segment": "互联芯片与系统",
-    "content_type": "新闻资讯",
-    "accepted": true,
-    "columns": [
-      "最新资讯"
-    ],
-    "priority": "优先选题",
-    "relevance_score": 68,
-    "matched_terms": [
-      "800G"
-    ],
-    "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.3",
-    "title_zh": "2026年上半年中国800G数据中心 交换机市场占有率 排名第一 查看详情",
-    "translation_status": "ready"
-  },
-  {
-    "id": "0193f4d8f91faced",
-    "source_id": "ruijie",
-    "source_name": "锐捷网络",
-    "source_type": "企业官方新闻中心",
-    "title": "AIGC智算场景800G交换机 800G 高密智算芯力量，无损低延速启 AI 未来",
-    "url": "https://www.ruijie.com.cn/cp/jh-shjzhx-sjzxhx/s699064oc2xs/?utm_source=sycp",
-    "published_at": "2026-10-16T00:00:00+00:00",
-    "summary": "RG-S6990-64OC2XS交换机是锐捷网络面向高端数据中心和AIGC智算场景推出的的新一代高性能、高密度盒式ROCE交换机。 RG-S6990-64OC2XS采用先进的硬件架构设计，提供64个800GE端口或者128个400GE端口，并兼容LPO光模块，2个10GE端口。所有端口均支持线速转发，支持冗余可插拔电源和风扇。支持锐捷智算解决方案RALB、AILB和ENLB负载均衡技术，提升AIGC智算场景下流量带宽，缩短AI训练时长。典型二级组网最大可支持4K卡(400G)规模集群，典型三级组网最大支持128K卡(400G)规模集群。支持RoCE配置一键部署，一键即可完成 ECN、PFC 等 RDMA 网络下复杂的配置导入，实现快速部署。",
-    "tags": [
-      "光模块",
-      "数据中心互联"
-    ],
-    "collected_at": "2026-11-03T08:51:42.782718+00:00",
-    "company_scope": "related",
-    "company_segment": "互联芯片与系统",
-    "content_type": "新闻资讯",
-    "accepted": true,
-    "columns": [
-      "最新资讯"
-    ],
-    "priority": "优先选题",
-    "relevance_score": 68,
-    "matched_terms": [
-      "800G"
-    ],
-    "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.3",
-    "title_zh": "AIGC智算场景800G交换机 800G 高密智算芯力量，无损低延速启 AI 未来",
-    "translation_status": "ready"
-  },
-  {
-    "id": "da53db56f7a86a02",
-    "source_id": "ruijie",
-    "source_name": "锐捷网络",
-    "source_type": "企业官方新闻中心",
-    "title": "配件 原厂光模块，电源模块，品质值得信赖",
-    "url": "https://www.ruijie.com.cn/cp/jh-gmk/?utm_source=sycp",
-    "published_at": "2026-10-16T00:00:00+00:00",
-    "summary": "锐捷交换机配件涵盖光模块、电源模块等产品，适配不同速率、距离和可靠性要求，为园区网与数据中心的链路扩展、设备供电和冗余保障提供匹配选择，便于网络平滑建设与升级。",
-    "tags": [
-      "光模块"
-    ],
-    "collected_at": "2026-11-03T08:51:43.961443+00:00",
-    "company_scope": "related",
-    "company_segment": "互联芯片与系统",
-    "content_type": "新闻资讯",
-    "accepted": true,
-    "columns": [
-      "最新资讯"
-    ],
-    "priority": "常规跟踪",
-    "relevance_score": 48,
-    "matched_terms": [
-      "光模块"
-    ],
-    "selection_reason": "标题命中核心互联主题",
-    "rules_version": "2026-11-03.3",
-    "title_zh": "配件 原厂光模块，电源模块，品质值得信赖",
     "translation_status": "ready"
   },
   {
@@ -6238,6 +6550,36 @@
     "translation_status": "ready"
   },
   {
+    "id": "84811f4ba845aa8b",
+    "source_id": "tmtpost",
+    "source_name": "钛媒体 / TMTPost",
+    "source_type": "科技与商业媒体",
+    "title": "主业失速、押上家底跨界：朗特智能6.63亿收购奥捷，切入光互连 ｜并购一线",
+    "url": "https://www.tmtpost.com/8208333.html",
+    "published_at": "2026-07-31T00:00:00+00:00",
+    "summary": "朗特智能跨界光互连。",
+    "tags": [
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-17T12:56:46.271335+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "光互连"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "主业失速、押上家底跨界：朗特智能6.63亿收购奥捷，切入光互连 ｜并购一线",
+    "translation_status": "ready"
+  },
+  {
     "id": "344a2cfc1feed620",
     "source_id": "poet",
     "source_name": "POET Technologies",
@@ -7304,6 +7646,36 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "Avicena推进Micro-LED与光探测器阵列，降低AI纵向扩展光互联功耗",
+    "translation_status": "ready"
+  },
+  {
+    "id": "fc7333154e43a75b",
+    "source_id": "eefocus",
+    "source_name": "与非网",
+    "source_type": "国内半导体媒体",
+    "title": "硅光初创完成数亿元多轮融资：把光往前挪！",
+    "url": "https://www.eefocus.com/article/2120875.html",
+    "published_at": "2025-11-16T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "硅光"
+    ],
+    "collected_at": "2026-11-17T12:56:54.193387+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "硅光"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "硅光初创完成数亿元多轮融资：把光往前挪！",
     "translation_status": "ready"
   },
   {
@@ -9277,6 +9649,38 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "可插拔不会消失，CPO也不会通吃（上）",
+    "translation_status": "ready"
+  },
+  {
+    "id": "02d0e82de9452fe5",
+    "source_id": "eefocus",
+    "source_name": "与非网",
+    "source_type": "国内半导体媒体",
+    "title": "400G光模块封装该如何选择？",
+    "url": "https://www.eefocus.com/video/2120959.html",
+    "published_at": "",
+    "summary": "",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-17T12:56:52.018182+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察",
+      "热点问答"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块",
+      "封装"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "400G光模块封装该如何选择？",
     "translation_status": "ready"
   }
 ]
