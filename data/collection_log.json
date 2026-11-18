@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-17T12:57:49.076155+00:00",
+  "run_at": "2026-11-18T12:51:01.226921+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -27,7 +27,7 @@
       "source_id": "converge-digest",
       "url": "https://convergedigest.com/",
       "group": "海外新闻与深度观察",
-      "found": 4,
+      "found": 6,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -88,11 +88,10 @@
       "source_id": "optics-org",
       "url": "https://optics.org/",
       "group": "海外新闻与深度观察",
-      "found": 0,
+      "found": 1,
       "errors": [],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "ok"
     },
     {
       "source": "NVIDIA",
@@ -229,12 +228,10 @@
       "source_id": "oif",
       "url": "https://www.oiforum.com/",
       "group": "技术标准与学术研究",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.oiforum.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.oiforum.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
-      ],
+      "found": 1,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "以太网联盟 / Ethernet Alliance",
@@ -274,7 +271,7 @@
       "source_id": "c114",
       "url": "https://www.c114.com.cn/",
       "group": "国内行业媒体",
-      "found": 1,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -306,10 +303,12 @@
       "source_id": "c-fol",
       "url": "https://www.c-fol.net/",
       "group": "国内行业媒体",
-      "found": 7,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "416 Client Error: Requested Range Not Satisfiable for url: https://www.c-fol.net/"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "光通信市场观察 / fibeReality",
@@ -384,20 +383,22 @@
       "url": "https://www.huxiu.com/",
       "group": "科技与商业媒体",
       "found": 0,
-      "errors": [],
+      "errors": [
+        "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
+      ],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "error"
     },
     {
       "source": "钛媒体 / TMTPost",
       "source_id": "tmtpost",
       "url": "https://www.tmtpost.com/",
       "group": "科技与商业媒体",
-      "found": 1,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "智东西 / Zhidx",
@@ -571,10 +572,11 @@
       "source_id": "eefocus",
       "url": "https://www.eefocus.com/",
       "group": "国内半导体媒体",
-      "found": 2,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "电子工程专辑",
@@ -593,7 +595,7 @@
       "source_id": "laoyaoba",
       "url": "https://www.laoyaoba.com/",
       "group": "国内半导体媒体",
-      "found": 3,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -794,7 +796,7 @@
       "group": "企业官方新闻中心",
       "found": 0,
       "errors": [
-        "HTTPSConnectionPool(host='www.linkteltech.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.linkteltech.com.cn', port=443) at 0x7399e0f20950>, 'Connection to www.linkteltech.com.cn timed ou"
+        "HTTPSConnectionPool(host='www.linkteltech.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.linkteltech.com.cn', port=443) at 0x7f06b059ead0>, 'Connection to www.linkteltech.com.cn timed ou"
       ],
       "warnings": [],
       "status": "error"
@@ -849,11 +851,12 @@
       "source_id": "tfc",
       "url": "https://www.tfcsz.com/",
       "group": "企业官方新闻中心",
-      "found": 4,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.tfcsz.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.tfcsz.com', port=443) at 0x7f069e9f4590>, 'Connection to www.tfcsz.com timed out. (connect timeout=6)'))"
+      ],
       "warnings": [],
-      "status": "ok",
-      "resolved_news_url": "https://www.tfcsz.com/news1.html"
+      "status": "error"
     },
     {
       "source": "太辰光",
@@ -1054,7 +1057,7 @@
       "source_id": "senko",
       "url": "https://www.senko.com/",
       "group": "企业官方新闻中心",
-      "found": 2,
+      "found": 3,
       "errors": [],
       "warnings": [],
       "status": "ok",
@@ -1600,8 +1603,8 @@
       "status": "error"
     }
   ],
-  "total_stored": 325,
-  "editorial_selected": 263,
+  "total_stored": 333,
+  "editorial_selected": 271,
   "rules_version": "2026-11-03.3",
   "pending_title_translations": 0,
   "configured": 145,

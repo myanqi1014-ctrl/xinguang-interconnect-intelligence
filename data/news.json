@@ -149,6 +149,255 @@
     "translation_status": "ready"
   },
   {
+    "id": "0d548908dc58a480",
+    "source_id": "optics-org",
+    "source_name": "光学网 / optics.org",
+    "source_type": "海外新闻与深度观察",
+    "title": "ams Osram sees AI photonics potential with thin-film VCSEL links",
+    "url": "https://optics.org/news/ams-osram-sees-ai-photonics-potential-with-thin-film-vcsel-links",
+    "published_at": "2026-11-18T00:00:00+00:00",
+    "summary": "Austrian firm’s transformation effort tipped to benefit from novel micro-emitter links for data centers.",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-18T12:49:46.090552+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "VCSEL"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "ams Osram 看好薄膜 VCSEL 链路的 AI 光子学潜力",
+    "translation_status": "ready"
+  },
+  {
+    "id": "8d82f58cc263e961",
+    "source_id": "c114",
+    "source_name": "C114通信网 / C114",
+    "source_type": "国内行业媒体",
+    "title": "ITU-T SG15 Q6中间会议落幕，800G等多项重点标准项目取得实质性突破 11/18 16:41",
+    "url": "https://www.c114.com.cn/news/16/a1321267.html",
+    "published_at": "2026-11-18T00:00:00+00:00",
+    "summary": "ITU-T SG15 Q6中间会议落幕，800G等多项重点标准项目取得实质性突破,C114讯 11月18日消息（岳明）近日，由中国联通承办的国际电信联盟电信标准化（ITU-T ）部门",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-18T12:49:48.604399+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 88,
+    "matched_terms": [
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "ITU-T SG15 Q6中间会议落幕，800G等多项重点标准项目取得实质性突破 11/18 16:41",
+    "translation_status": "ready"
+  },
+  {
+    "id": "f1cd0750ae435fcf",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "FCC限制推进但冲击可控，国内光通信政策端释放积极信号",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-8420-30712369.html",
+    "published_at": "2026-11-18T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-18T12:49:57.239284+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "FCC限制推进但冲击可控，国内光通信政策端释放积极信号",
+    "translation_status": "ready"
+  },
+  {
+    "id": "82d8cd919a3fb152",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "光通信之变：深科技退场，广东鞋王入局！",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-12005-30712354.html",
+    "published_at": "2026-11-18T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-18T12:50:00.124346+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "光通信之变：深科技退场，广东鞋王入局！",
+    "translation_status": "ready"
+  },
+  {
+    "id": "a01158a4a7929329",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Ciena and Internet2 Carry 800G Pluggables Across 2,104 km",
+    "url": "https://convergedigest.com/ciena-internet2-800g-pluggables-2104km/",
+    "published_at": "2026-11-17T21:09:00+00:00",
+    "summary": "Ciena and Internet2 demonstrated an 800 Gb/s coherent pluggable connection over 2,104 km of Internet2’s live production backbone. Announced November 17 at SC26, the trial ran from the Chicago show floor to Internet2’s Kansas City, Missouri, point of presence and back. The partners describe it as an industry record for terrestrial 800G coherent pluggable reach over a live production network. The demonstration used WaveLogic 6 Nano’s 135 GBaud PKT-MAX transmission mode and a Ciena photonic line sy",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "数据中心互联",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-18T12:49:43.251983+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Ciena 和 Internet2 在 2、104 公里范围内传输 800G 可插拔器件",
+    "translation_status": "ready"
+  },
+  {
+    "id": "51eadebdd1079e04",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Arista Expands Etherlink Routing and 800G Optics for Distributed Inference",
+    "url": "https://convergedigest.com/arista-etherlink-r4-distributed-ai-inference-800g/",
+    "published_at": "2026-11-17T20:05:00+00:00",
+    "summary": "Arista Networks expanded its Etherlink portfolio with R4 routing platforms designed to connect geographically distributed AI inference infrastructure. Announced November 17 at SC26, the additions address front-end networks linking inference clusters, storage, enterprise applications and wide-area connectivity. Arista is targeting deployments that place inference closer to users, where network round-trip delays can accumulate across sequential agent requests and tool calls. The lineup combines co",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "CPO",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-18T12:49:43.258819+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Arista 扩展 Etherlink 路由和 800G 光学器件，以实现分布式推理",
+    "translation_status": "ready"
+  },
+  {
+    "id": "931c7b99d910f41f",
+    "source_id": "senko",
+    "source_name": "SENKO 扇港",
+    "source_type": "企业官方新闻中心",
+    "title": "Co-Packaged Optics (CPO) Module Testing at Scale | Advantest + SENKO + Viavi",
+    "url": "https://www.senko.com/co-packaged-optics-cpo-module-testing-at-scale-advantest-senko-viavi/",
+    "published_at": "2026-11-17T19:52:43+00:00",
+    "summary": "As AI infrastructure scales, co-packaged optics (CPO) is emerging as a critical technology for overcoming the limits of traditional interconnect architectures. However, scalable manufacturing and testing remain key challenges to widespread deployment. The post Co-Packaged Optics (CPO) Module Testing at Scale | Advantest + SENKO + Viavi appeared first on SENKO Advanced Components, Inc. .",
+    "tags": [
+      "AI算力",
+      "CPO",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-18T12:50:13.346612+00:00",
+    "company_scope": "optical",
+    "company_segment": "光器件与连接",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 76,
+    "matched_terms": [
+      "CPO",
+      "co-packaged optics",
+      "testing"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "大规模共封装光学器件 (CPO) 模块测试 | 艾德万 + SENKO + Viavi",
+    "translation_status": "ready"
+  },
+  {
+    "id": "33151c6a8e2ed6a0",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "1Finity Introduces 800G Optical NIC for AI Data Centers 100 km Apart",
+    "url": "https://convergedigest.com/1finity-n100-800g-optical-nic-distributed-ai/",
+    "published_at": "2026-11-17T14:21:00+00:00",
+    "summary": "1Finity, Fujitsu’s networking subsidiary, introduced the Ultra Optical System N100, a server network interface card designed to connect computing resources across data centers approximately 100 km apart. Advance orders begin in November 2026, with global availability scheduled for April 2027. The company describes it as the first optical NIC combining that reach with up to 800 Gbps connectivity, based on its own research. The N100 combines two 400G QSFP56-DD ports supporting ZR/ZR+ coherent opti",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "网络与交换",
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-18T12:49:43.269807+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "1Finity推出800G光纤NIC，适用于相距AI公里的100数据中心",
+    "translation_status": "ready"
+  },
+  {
     "id": "2e9f8a4318f8e9d7",
     "source_id": "the-elec",
     "source_name": "The Elec",
@@ -245,7 +494,7 @@
     "source_id": "c114",
     "source_name": "C114通信网 / C114",
     "source_type": "国内行业媒体",
-    "title": "LightCounting评论：光模块市场是否正在失去动力？",
+    "title": "LightCounting评论：光模块市场是否正在失去动力？ 11/17 11:18",
     "url": "https://www.c114.com.cn/ftth/5472/a1321168.html",
     "published_at": "2026-11-17T00:00:00+00:00",
     "summary": "LightCounting评论：光模块市场是否正在失去动力？,C114讯 11月17日消息（水易）近日，光通信行业市场研究机构LightCounting在最新的报",
@@ -267,7 +516,7 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "LightCounting评论：光模块市场是否正在失去动力？",
+    "title_zh": "LightCounting评论：光模块市场是否正在失去动力？ 11/17 11:18",
     "translation_status": "ready"
   },
   {
