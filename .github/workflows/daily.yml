@@ -1,7 +1,7 @@
 name: Daily intelligence collection
 on:
   schedule:
-    - cron: "0 4 * * *" # 12:00 Asia/Shanghai
+    - cron: "0 4,7 * * *" # 12:00 and 15:00 Asia/Shanghai
   push:
     branches: [main]
     paths-ignore: ["data/**", "README.md"]
