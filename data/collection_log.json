@@ -1603,11 +1603,11 @@
       "status": "error"
     }
   ],
-  "total_stored": 333,
-  "editorial_selected": 271,
+  "total_stored": 334,
+  "editorial_selected": 272,
   "rules_version": "2026-11-03.3",
   "pending_title_translations": 0,
   "configured": 145,
   "automatic": 132,
-  "procurement_imported": 10
+  "procurement_imported": 11
 }

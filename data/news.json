@@ -398,6 +398,37 @@
     "translation_status": "ready"
   },
   {
+    "source_id": "bidcenter",
+    "title": "光模块-公开询比采购",
+    "url": "https://www.bidcenter.com.cn/news-453869561-5.html",
+    "published_at": "2026-11-17T09:20:00+08:00",
+    "summary": "光模块公开询比采购，公开正文列示需求量2个。发布单位及型号部分遮蔽，未补全；未公开核实金额和截止时间。",
+    "verification_note": "已读取采招网公开详情页，核实标题及正文发布时间2026年11月17日09:20；发布单位和型号部分遮蔽，未推断应用场景、速率、金额或有效状态，完整条件须原发布平台核验。",
+    "checked_at": "2026-11-19",
+    "id": "28047fa242f8bc45",
+    "source_name": "采招网·光模块/光通信",
+    "source_type": "招标采购",
+    "content_type": "招标采购",
+    "collected_at": "2026-11-19T04:03:06.902787+00:00",
+    "ingestion_method": "公开检索补充",
+    "title_zh": "光模块-公开询比采购",
+    "accepted": true,
+    "columns": [
+      "招标采购"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "采购公告标题命中光通信或算力互联设备",
+    "rules_version": "2026-11-03.3",
+    "tender_stage": "询价/比选",
+    "procurement_level": "一般光通信采购",
+    "company_scope": "",
+    "translation_status": "ready"
+  },
+  {
     "id": "2e9f8a4318f8e9d7",
     "source_id": "the-elec",
     "source_name": "The Elec",
