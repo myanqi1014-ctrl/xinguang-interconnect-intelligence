@@ -1046,6 +1046,37 @@
   },
   {
     "source_id": "bidcenter",
+    "title": "同方能源泰德北京ZTRS交换机光模块设备采购",
+    "url": "https://1101.bidcenter.com.cn/bidinfo-1-a0f73512c37219a95401f425ddce208d51a01df76db1f68d.html",
+    "published_at": "2026-11-12T00:00:00+08:00",
+    "summary": "交换机光模块设备采购。公开页面列明文件下载截止时间为11月16日23:59:59；采购数量、金额及完整条件未公开核实。",
+    "verification_note": "已读取采招网公开详情页，核实标题及正文发布日期2026年11月12日；日期仅精确到日，以当日零点表示。完整来源受注册限制，未绕过；文件下载截止不作为投标截止时间，不推断当前有效状态。",
+    "checked_at": "2026-11-20",
+    "id": "06ac527d3e2cdeb0",
+    "source_name": "采招网·光模块/光通信",
+    "source_type": "招标采购",
+    "content_type": "招标采购",
+    "collected_at": "2026-11-20T04:10:22.400323+00:00",
+    "ingestion_method": "公开检索补充",
+    "title_zh": "同方能源泰德北京ZTRS交换机光模块设备采购",
+    "accepted": true,
+    "columns": [
+      "招标采购"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "采购公告标题命中光通信或算力互联设备",
+    "rules_version": "2026-11-03.3",
+    "tender_stage": "招标/采购公告",
+    "procurement_level": "一般光通信采购",
+    "company_scope": "",
+    "translation_status": "ready"
+  },
+  {
+    "source_id": "bidcenter",
     "title": "黄浦区高密度高速光互连驱动芯片设计与流片服务采购公告",
     "url": "https://sh.bidcenter.com.cn/diqucontent-452902070-1.html",
     "published_at": "2026-11-11T00:00:00+08:00",
@@ -2051,6 +2082,41 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "Credo 与 Oracle 通过 OCP 推进光收发模块遥测技术",
+    "translation_status": "ready"
+  },
+  {
+    "source_id": "bidcenter",
+    "title": "自动硅光芯片耦合测试系统竞价公告",
+    "url": "https://140108.bidcenter.com.cn/bidinfo-5-a0f73512c37219a93640541dbf7d379ca56219cd856aeda5.html",
+    "published_at": "2026-11-04T09:56:00+08:00",
+    "summary": "中北大学采购1套自动硅光芯片耦合测试系统，用于硅光芯片自动对准耦合、性能表征与封装工艺验证。采购预算被遮蔽，未补全。",
+    "verification_note": "已读取采招网公开详情页，核实标题、正文公告发布日期及公告截止时间。部分编号、预算和品牌字段被遮蔽，未补全；不据公告认定当前仍可参与，最新结果须原发布平台核验。",
+    "checked_at": "2026-11-20",
+    "deadline": "2026-11-09T09:56:00+08:00",
+    "id": "cbdef7b7eeee122f",
+    "source_name": "采招网·光模块/光通信",
+    "source_type": "招标采购",
+    "content_type": "招标采购",
+    "collected_at": "2026-11-20T04:10:22.400469+00:00",
+    "ingestion_method": "公开检索补充",
+    "title_zh": "自动硅光芯片耦合测试系统竞价公告",
+    "accepted": true,
+    "columns": [
+      "招标采购"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 76,
+    "matched_terms": [
+      "光芯片",
+      "硅光",
+      "耦合",
+      "测试"
+    ],
+    "selection_reason": "采购公告标题命中光通信或算力互联设备",
+    "rules_version": "2026-11-03.3",
+    "tender_stage": "询价/比选",
+    "procurement_level": "高速互联相关",
+    "company_scope": "",
     "translation_status": "ready"
   },
   {
