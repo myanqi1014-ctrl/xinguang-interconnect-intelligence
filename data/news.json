@@ -34,7 +34,7 @@
     "source_type": "企业官方新闻中心",
     "title": "2026年上半年中国800G数据中心 交换机市场占有率 排名第一 查看详情",
     "url": "https://www.ruijie.com.cn/gy/xw-gs/931405/?utm_source=sybanner",
-    "published_at": "2026-11-19T00:00:00+00:00",
+    "published_at": "2026-11-26T00:00:00+00:00",
     "summary": "锐捷网络：2026年上半年中国800G数据中心交换机市占率第一",
     "tags": [
       "光模块"
@@ -64,7 +64,7 @@
     "source_type": "企业官方新闻中心",
     "title": "AIGC智算场景800G交换机 800G 高密智算芯力量，无损低延速启 AI 未来",
     "url": "https://www.ruijie.com.cn/cp/jh-shjzhx-sjzxhx/s699064oc2xs/?utm_source=sycp",
-    "published_at": "2026-11-19T00:00:00+00:00",
+    "published_at": "2026-11-26T00:00:00+00:00",
     "summary": "RG-S6990-64OC2XS交换机是锐捷网络面向高端数据中心和AIGC智算场景推出的的新一代高性能、高密度盒式ROCE交换机。 RG-S6990-64OC2XS采用先进的硬件架构设计，提供64个800GE端口或者128个400GE端口，并兼容LPO光模块，2个10GE端口。所有端口均支持线速转发，支持冗余可插拔电源和风扇。支持锐捷智算解决方案RALB、AILB和ENLB负载均衡技术，提升AIGC智算场景下流量带宽，缩短AI训练时长。典型二级组网最大可支持4K卡(400G)规模集群，典型三级组网最大支持128K卡(400G)规模集群。支持RoCE配置一键部署，一键即可完成 ECN、PFC 等 RDMA 网络下复杂的配置导入，实现快速部署。",
     "tags": [
       "光模块",
@@ -95,7 +95,7 @@
     "source_type": "企业官方新闻中心",
     "title": "配件 原厂光模块，电源模块，品质值得信赖",
     "url": "https://www.ruijie.com.cn/cp/jh-gmk/?utm_source=sycp",
-    "published_at": "2026-11-19T00:00:00+00:00",
+    "published_at": "2026-11-26T00:00:00+00:00",
     "summary": "锐捷交换机配件涵盖光模块、电源模块等产品，适配不同速率、距离和可靠性要求，为园区网与数据中心的链路扩展、设备供电和冗余保障提供匹配选择，便于网络平滑建设与升级。",
     "tags": [
       "光模块"
@@ -116,6 +116,323 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "配件 原厂光模块，电源模块，品质值得信赖",
+    "translation_status": "ready"
+  },
+  {
+    "id": "488916a517cbfe52",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "SC26 News Rodeo: Quantum, 800G Builds Out and Optics Reaches Memory",
+    "url": "https://convergedigest.com/sc26-news-rodeo-quantum-slurm-800g-photonics/",
+    "published_at": "2026-11-20T03:50:10+00:00",
+    "summary": "Quantum processors are starting to show up in the same job queue as CPUs and GPUs. At SC26 in Chicago, Pasqal announced support for Slurm 26.11’s new resource-management interface for its neutral-atom processors, while IQM outlined a way to schedule superconducting systems through the same workload manager. An HPC center can use the new interface to reserve a scarce quantum processor for the portion of a workflow that needs it and release the device for the next job. That gives researchers a pra",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "数据中心互联",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-20T08:18:54.393356+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "SC26新闻快报：量子、800G的构建以及光学技术应用于内存",
+    "translation_status": "ready"
+  },
+  {
+    "id": "53b320db4bb57ded",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Infleqtion and memQ Target Optical Interconnects for Distributed Quantum Computing",
+    "url": "https://convergedigest.com/infleqtion-memq-optical-quantum-computer-clustering/",
+    "published_at": "2026-11-20T00:13:00+00:00",
+    "summary": "Infleqtion and memQ have signed a memorandum of understanding (MoU) to pursue interoperability testing between neutral-atom quantum computers and optical quantum networking technology. Announced at SC26 in Chicago, the collaboration will examine whether separate quantum computing systems can be connected into distributed processing configurations, potentially allowing quantum infrastructure to expand through modular clusters rather than relying exclusively on larger individual processors. The ag",
+    "tags": [
+      "光芯片/器件",
+      "数据中心互联",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-20T08:18:54.409749+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical interconnect"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Infleqtion和memQ瞄准分布式量子计算的光学互连",
+    "translation_status": "ready"
+  },
+  {
+    "id": "ab7096e636db3d57",
+    "source_id": "c114",
+    "source_name": "C114通信网 / C114",
+    "source_type": "国内行业媒体",
+    "title": "帝奥微：拟投资2亿元加码光芯片研发",
+    "url": "https://www.c114.com.cn/ftth/5472/a1321377.html",
+    "published_at": "2026-11-20T00:00:00+00:00",
+    "summary": "帝奥微：拟投资2亿元加码光芯片研发,C114讯 11月20日消息（南山）科创板上市公司江苏帝奥微电子股份有限公司发布公告，拟向全资子公司",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-20T08:18:59.333076+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光芯片"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "帝奥微：拟投资2亿元加码光芯片研发",
+    "translation_status": "ready"
+  },
+  {
+    "id": "f0819d23e1180793",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "1.6T在放量，CPO在组链：光通信两条线，正在同一个时间窗口落地",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-8420-30712606.html",
+    "published_at": "2026-11-20T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光模块",
+      "CPO"
+    ],
+    "collected_at": "2026-11-20T08:19:02.260321+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 100,
+    "matched_terms": [
+      "光通信",
+      "CPO",
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "1.6T在放量，CPO在组链：光通信两条线，正在同一个时间窗口落地",
+    "translation_status": "ready"
+  },
+  {
+    "id": "4036edda9d33013d",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "芯片越强，机柜越难: TE为什么同时押注448G、光互连与800V？",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210008-8420-30712718.html",
+    "published_at": "2026-11-20T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-20T08:19:05.867880+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "热点问答"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 56,
+    "matched_terms": [
+      "光互连",
+      "448G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "芯片越强，机柜越难: TE为什么同时押注448G、光互连与800V？",
+    "translation_status": "ready"
+  },
+  {
+    "id": "0d7eba2f8903fed4",
+    "source_id": "trendforce",
+    "source_name": "TrendForce 集邦咨询",
+    "source_type": "市场研究机构",
+    "title": "[News] Samsung Electronics Expands Silicon Photonics Portfolio Through Patent Acquisitions",
+    "url": "https://www.trendforce.com/news/2026/11/20/news-samsung-electronics-expands-silicon-photonics-portfolio-through-patent-acquisitions/",
+    "published_at": "2026-11-20T00:00:00+00:00",
+    "summary": "According to the latest patent ownership records updated by the U.S. Patent and Trademark Office (USPTO), Samsung Electronics completed the acquisitio...",
+    "tags": [
+      "硅光"
+    ],
+    "collected_at": "2026-11-20T08:19:05.503725+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "silicon photonics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "【新闻】三星电子通过专利收购拓展硅光子产品组合",
+    "translation_status": "ready"
+  },
+  {
+    "id": "9eed73d96f302056",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Ekinops PTM300 Packs 32 Tbps and 40 x 800G Pluggables Into 3RU",
+    "url": "https://convergedigest.com/ekinops-ptm300-3ru-32tbps-dci-800g/",
+    "published_at": "2026-11-19T16:52:37+00:00",
+    "summary": "Ekinops has introduced PTM300, a compact modular optical platform for datacenter interconnect (DCI) and scale-across optical networking that delivers up to 32 Tbps of combined client and line capacity in three rack units (3RU). The chassis supports up to 40 x 800 Gbps coherent pluggable interfaces, and Ekinops rates its power consumption at 0.08 W per Gbps. The French optical and connectivity vendor announced the platform in Paris on November 16, 2026, and says PTM300 will be generally available",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "数据中心互联",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-20T08:18:54.439206+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Ekinops 将 PTM300 Packs 32 Tbps 和 40 x 800G 可插拔器件集成到 3RU 中",
+    "translation_status": "ready"
+  },
+  {
+    "id": "7a264678a276446f",
+    "source_id": "the-elec",
+    "source_name": "The Elec",
+    "source_type": "海外新闻与深度观察",
+    "title": "CoCoLink Unveils PCIe Server as Alternative to Nvidia NVLink",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=15727",
+    "published_at": "2026-11-19T05:04:13+00:00",
+    "summary": "CoCoLink has unveiled a server that connects multiple accelerators without using Nvidia’s proprietary NVLink interconnect technology.CoCoLink participated in SC26, an international supercomputing conference and exhibition held in Chicago from November 15 to 20, local time, showcasing its PCIe-based",
+    "tags": [
+      "数据中心互联",
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-20T08:19:08.536724+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 56,
+    "matched_terms": [
+      "NVLink",
+      "PCIe"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "CoCoLink 推出了 PCIe 服务器，作为 Nvidia NVLink 的替代方案",
+    "translation_status": "ready"
+  },
+  {
+    "id": "dbafad31c8241bb8",
+    "source_id": "lightwave",
+    "source_name": "光波在线 / Lightwave",
+    "source_type": "海外新闻与深度观察",
+    "title": "LPO vs Hybrid Semi-DSP: A Comprehensive Comparison for AI Computing Networks",
+    "url": "https://www.lightwaveonline.com/directory/subsystems/optical-transceivers-transponders/whitepaper/55420246/fiberstamp-technology-pte-ltd-lpo-vs-hybrid-semi-dsp-a-comprehensive-comparison-for-ai-computing-networks",
+    "published_at": "2026-11-19T00:00:00+00:00",
+    "summary": "As AI computing infrastructure continues to scale, optical interconnect architectures are evolving to address increasingly demanding requirements for power efficiency, link performance...",
+    "tags": [
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-20T08:18:54.666559+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "LPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "LPO 与混合半 DSP：A 计算网络的 AI 全面比较",
+    "translation_status": "ready"
+  },
+  {
+    "id": "4c9bfb995579a858",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Oak Ridge Opens Lux AI Supercomputer With 800G Ethernet Fabric",
+    "url": "https://convergedigest.com/oak-ridge-lux-ai-supercomputer-800g-ethernet/",
+    "published_at": "2026-11-18T20:00:00+00:00",
+    "summary": "Oak Ridge National Laboratory opened its Lux AI supercomputer to scientific users on November 16, as the HPE-built system debuted at No. 14 on the TOP500 list with 220.79 petaflops on the High Performance Linpack benchmark. HPE disclosed at SC26 that Lux uses Juniper QFX switches that support 800 Gigabit Ethernet. HPE calls it the first deployment of its networking technology at a U.S. Department of Energy national laboratory. HPE and AMD co-designed Lux around direct liquid-cooled HPE ProLiant ",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "数据中心互联",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-20T08:18:54.518897+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "橡树岭启用搭载800G以太网结构的Lux AI超级计算机",
     "translation_status": "ready"
   },
   {
@@ -5595,6 +5912,34 @@
     "translation_status": "ready"
   },
   {
+    "id": "bad0387d39ddd483",
+    "source_id": "accelink",
+    "source_name": "光迅科技",
+    "source_type": "企业官方新闻中心",
+    "title": "2026-09-22 Accelink at ECOC 2026: Charting the New Future of Optical Communications in the AI Era",
+    "url": "https://www.accelink.com/en/lighting_your_dreams/2102602681389441026.html",
+    "published_at": "2026-09-22T00:00:00+00:00",
+    "summary": "Accelink | Lighting Your Dreams",
+    "tags": [],
+    "collected_at": "2026-11-20T08:18:57.236736+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical communication"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "2026-09-22 中天科技光纤通信在ECOC 2026：绘制AI时代光通信的新蓝图",
+    "translation_status": "ready"
+  },
+  {
     "id": "b1f0416b6e83b5ec",
     "source_id": "lumentum",
     "source_name": "Lumentum",
@@ -5798,6 +6143,35 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "2026-09-18 光迅科技12.8T XPO DR液冷实测，ECOC 2026现场见真章",
+    "translation_status": "ready"
+  },
+  {
+    "id": "a3ea6e513c19b471",
+    "source_id": "accelink",
+    "source_name": "光迅科技",
+    "source_type": "企业官方新闻中心",
+    "title": "2026-09-18 Accelink 12.8T XPO DR Liquid-Cooling Real-World Test: See It Live at ECOC 2026",
+    "url": "https://www.accelink.com/en/lighting_your_dreams/2101918999964049409.html",
+    "published_at": "2026-09-18T00:00:00+00:00",
+    "summary": "Accelink | Lighting Your Dreams",
+    "tags": [],
+    "collected_at": "2026-11-20T08:18:57.400911+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 56,
+    "matched_terms": [
+      "XPO",
+      "12.8T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "2026-09-18 Accelink 12.8T XPO DR 液冷实际测试：在 ECOC 2026 上现场观看",
     "translation_status": "ready"
   },
   {
@@ -6506,6 +6880,68 @@
     "translation_status": "ready",
     "content_type": "新闻资讯",
     "company_scope": "optical"
+  },
+  {
+    "id": "d3a6b9c667b6b01a",
+    "source_id": "accelink",
+    "source_name": "光迅科技",
+    "source_type": "企业官方新闻中心",
+    "title": "2026-09-04 From 3.2T to 6.4T NPO: Accelink Redefines the \"Optical Speed\" of Intelligent Computing!",
+    "url": "https://www.accelink.com/en/lighting_your_dreams/2096199655745421313.html",
+    "published_at": "2026-09-04T00:00:00+00:00",
+    "summary": "Accelink | Lighting Your Dreams",
+    "tags": [
+      "NPO"
+    ],
+    "collected_at": "2026-11-20T08:18:57.551738+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 100,
+    "matched_terms": [
+      "NPO",
+      "3.2T",
+      "6.4T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "2026-09-04 从 3.2T 到 6.4T NPO：昂科重塑智能计算的“光速”！",
+    "translation_status": "ready"
+  },
+  {
+    "id": "4c36ab763ad87408",
+    "source_id": "accelink",
+    "source_name": "光迅科技",
+    "source_type": "企业官方新闻中心",
+    "title": "2026-09-02 Accelink's Domestic Debut at CIOE 2026: 800G L Band OSFP ZR/ZR+ Coherent Module Live Demo",
+    "url": "https://www.accelink.com/en/lighting_your_dreams/2096197706081927170.html",
+    "published_at": "2026-09-02T00:00:00+00:00",
+    "summary": "Accelink | Lighting Your Dreams",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-20T08:18:57.764728+00:00",
+    "company_scope": "optical",
+    "company_segment": "光模块与有源光缆",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "2026-09-02 中天精芯在 CIOE 2026 的国内首秀：800G L 波段 OSFP ZR/ZR+ 相干模块现场演示",
+    "translation_status": "ready"
   },
   {
     "id": "a39ce1093320b9f5",

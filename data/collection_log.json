@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-18T12:51:01.226921+00:00",
+  "run_at": "2026-11-20T08:20:18.746087+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -27,7 +27,7 @@
       "source_id": "converge-digest",
       "url": "https://convergedigest.com/",
       "group": "海外新闻与深度观察",
-      "found": 6,
+      "found": 4,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -228,10 +228,12 @@
       "source_id": "oif",
       "url": "https://www.oiforum.com/",
       "group": "技术标准与学术研究",
-      "found": 1,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.oiforum.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.oiforum.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "以太网联盟 / Ethernet Alliance",
@@ -271,7 +273,7 @@
       "source_id": "c114",
       "url": "https://www.c114.com.cn/",
       "group": "国内行业媒体",
-      "found": 2,
+      "found": 1,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -517,7 +519,7 @@
       "source_id": "trendforce",
       "url": "https://www.trendforce.com/news/",
       "group": "市场研究机构",
-      "found": 1,
+      "found": 2,
       "errors": [],
       "warnings": [
         "RSS不可用，尝试页面新闻列表"
@@ -529,7 +531,7 @@
       "source_id": "the-elec",
       "url": "https://www.thelec.net/news/articleList.html",
       "group": "海外新闻与深度观察",
-      "found": 2,
+      "found": 1,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -574,7 +576,9 @@
       "group": "国内半导体媒体",
       "found": 0,
       "errors": [],
-      "warnings": [],
+      "warnings": [
+        "部分详情页无法读取，保留列表标题与原文入口"
+      ],
       "status": "empty",
       "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
@@ -595,10 +599,12 @@
       "source_id": "laoyaoba",
       "url": "https://www.laoyaoba.com/",
       "group": "国内半导体媒体",
-      "found": 2,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.laoyaoba.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.laoyaoba.com', port=443) at 0x75a1d4d76610>, 'Connection to www.laoyaoba.com timed out. (connect timeou"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "NIST CHIPS 美国半导体产业投资",
@@ -796,7 +802,7 @@
       "group": "企业官方新闻中心",
       "found": 0,
       "errors": [
-        "HTTPSConnectionPool(host='www.linkteltech.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.linkteltech.com.cn', port=443) at 0x7f06b059ead0>, 'Connection to www.linkteltech.com.cn timed ou"
+        "页面未返回可解析的新闻列表"
       ],
       "warnings": [],
       "status": "error"
@@ -853,7 +859,7 @@
       "group": "企业官方新闻中心",
       "found": 0,
       "errors": [
-        "HTTPSConnectionPool(host='www.tfcsz.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.tfcsz.com', port=443) at 0x7f069e9f4590>, 'Connection to www.tfcsz.com timed out. (connect timeout=6)'))"
+        "HTTPSConnectionPool(host='www.tfcsz.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.tfcsz.com', port=443) at 0x75a1d49d5bd0>, 'Connection to www.tfcsz.com timed out. (connect timeout=6)'))"
       ],
       "warnings": [],
       "status": "error"
@@ -1603,8 +1609,8 @@
       "status": "error"
     }
   ],
-  "total_stored": 336,
-  "editorial_selected": 274,
+  "total_stored": 350,
+  "editorial_selected": 288,
   "rules_version": "2026-11-03.3",
   "pending_title_translations": 0,
   "configured": 145,
