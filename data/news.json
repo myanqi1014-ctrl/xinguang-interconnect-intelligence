@@ -308,6 +308,66 @@
     "translation_status": "ready"
   },
   {
+    "id": "ffbc570c17b46b78",
+    "source_id": "c114",
+    "source_name": "C114通信网 / C114",
+    "source_type": "国内行业媒体",
+    "title": "千公里突破！国家算力互联网长距高性能网络协议（RDMA）商用验证结果正式发布 11/20 19:18",
+    "url": "https://www.c114.com.cn/news/16/a1321442.html",
+    "published_at": "2026-11-20T00:00:00+00:00",
+    "summary": "千公里突破！国家算力互联网长距高性能网络协议（RDMA）商用验证结果正式发布,11月18日，2026算力互联网大会在武汉成功举办。本次大会由湖北省经济和信息化厅、湖北省通信管理局",
+    "tags": [
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-20T12:28:44.343278+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "RDMA"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "千公里突破！国家算力互联网长距高性能网络协议（RDMA）商用验证结果正式发布 11/20 19:18",
+    "translation_status": "ready"
+  },
+  {
+    "id": "152e8a3cd8a91864",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "朗特智能高溢价跨界光互联，实控人4.18亿同步出让股权",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-12003-30712777.html",
+    "published_at": "2026-11-20T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-20T12:28:50.320323+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互联"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "朗特智能高溢价跨界光互联，实控人4.18亿同步出让股权",
+    "translation_status": "ready"
+  },
+  {
     "id": "9eed73d96f302056",
     "source_id": "converge-digest",
     "source_name": "网络与光互联资讯 / Converge Digest",
@@ -10463,6 +10523,65 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "400G光模块封装该如何选择？",
+    "translation_status": "ready"
+  },
+  {
+    "id": "8ce18deaec9ee2ae",
+    "source_id": "laoyaoba",
+    "source_name": "集微网",
+    "source_type": "国内半导体媒体",
+    "title": "从Jig Saw破局到构建四大矩阵：腾盛精密打通先进封装全链路",
+    "url": "https://www.laoyaoba.com/n/1141851",
+    "published_at": "",
+    "summary": "作为国内Jig Saw领域领军企业，腾盛精密以同源自研、算法互通的“切割、研磨、分选、点胶”四大产品矩阵构筑核心底盘，深耕半导体封装主战场，并加速挺进光通信新赛道。",
+    "tags": [],
+    "collected_at": "2026-11-20T12:28:53.206492+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "先进封装",
+      "封装"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "从Jig Saw破局到构建四大矩阵：腾盛精密打通先进封装全链路",
+    "translation_status": "ready"
+  },
+  {
+    "id": "922e4080a1f64760",
+    "source_id": "laoyaoba",
+    "source_name": "集微网",
+    "source_type": "国内半导体媒体",
+    "title": "6小时前 跃基智核光模块基板驶入量产快车道：材料落定、平台升级、工艺攻坚、代际接力",
+    "url": "https://www.laoyaoba.com/n/1143926",
+    "published_at": "",
+    "summary": "跃基智核光模块基板业务取得阶段性突破：关键CCL材料合作落定，mSAP平台具备15/15um量产能力，M7/M8材料验证通过，800G与1.6T样品已交付客户。",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-20T12:29:01.119567+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "6小时前 跃基智核光模块基板驶入量产快车道：材料落定、平台升级、工艺攻坚、代际接力",
     "translation_status": "ready"
   }
 ]

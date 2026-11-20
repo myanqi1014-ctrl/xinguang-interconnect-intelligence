@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-20T08:20:18.746087+00:00",
+  "run_at": "2026-11-20T12:29:37.152112+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -110,21 +110,22 @@
       "url": "https://investors.broadcom.com/financial-information/financial-news-releases",
       "group": "企业官方新闻中心",
       "found": 0,
-      "errors": [
-        "403 Client Error: Forbidden for url: https://investors.broadcom.com/financial-information/financial-news-releases"
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "Marvell",
       "source_id": "marvell",
       "url": "https://www.marvell.com/company/newsroom/press-releases.html",
       "group": "企业官方新闻中心",
-      "found": 2,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "403 Client Error: Forbidden for url: https://www.marvell.com/company/newsroom/press-releases.html"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "Coherent",
@@ -132,11 +133,10 @@
       "url": "https://ir.coherent.com/news-events/corporate-releases",
       "group": "企业官方新闻中心",
       "found": 0,
-      "errors": [
-        "403 Client Error: Forbidden for url: https://ir.coherent.com/news-events/corporate-releases"
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "Lumentum",
@@ -273,7 +273,7 @@
       "source_id": "c114",
       "url": "https://www.c114.com.cn/",
       "group": "国内行业媒体",
-      "found": 1,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -385,11 +385,10 @@
       "url": "https://www.huxiu.com/",
       "group": "科技与商业媒体",
       "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "钛媒体 / TMTPost",
@@ -576,9 +575,7 @@
       "group": "国内半导体媒体",
       "found": 0,
       "errors": [],
-      "warnings": [
-        "部分详情页无法读取，保留列表标题与原文入口"
-      ],
+      "warnings": [],
       "status": "empty",
       "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
@@ -599,12 +596,10 @@
       "source_id": "laoyaoba",
       "url": "https://www.laoyaoba.com/",
       "group": "国内半导体媒体",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.laoyaoba.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.laoyaoba.com', port=443) at 0x75a1d4d76610>, 'Connection to www.laoyaoba.com timed out. (connect timeou"
-      ],
+      "found": 4,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "NIST CHIPS 美国半导体产业投资",
@@ -689,7 +684,7 @@
       "group": "企业官方新闻中心",
       "found": 0,
       "errors": [
-        "520 Server Error: <none> for url: https://ayarlabs.com/news/"
+        "页面未返回可解析的新闻列表"
       ],
       "warnings": [],
       "status": "error"
@@ -734,7 +729,7 @@
       "group": "会议与展会",
       "found": 0,
       "errors": [
-        "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+        "页面未返回可解析的新闻列表"
       ],
       "warnings": [],
       "status": "error"
@@ -835,11 +830,11 @@
       "url": "https://www.ao-inc.com/",
       "group": "企业官方新闻中心",
       "found": 0,
-      "errors": [],
+      "errors": [
+        "503 Server Error: Service Unavailable for url: https://ao-inc.com/"
+      ],
       "warnings": [],
-      "status": "empty",
-      "resolved_news_url": "https://newsroom.ao-inc.com/",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "error"
     },
     {
       "source": "长芯博创（原博创科技）",
@@ -857,12 +852,11 @@
       "source_id": "tfc",
       "url": "https://www.tfcsz.com/",
       "group": "企业官方新闻中心",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.tfcsz.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.tfcsz.com', port=443) at 0x75a1d49d5bd0>, 'Connection to www.tfcsz.com timed out. (connect timeout=6)'))"
-      ],
+      "found": 4,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok",
+      "resolved_news_url": "https://www.tfcsz.com/news1.html"
     },
     {
       "source": "太辰光",
@@ -1142,11 +1136,12 @@
       "url": "https://www.tsmc.com/",
       "group": "企业官方新闻中心",
       "found": 0,
-      "errors": [
-        "403 Client Error: Forbidden for url: https://www.tsmc.com/"
+      "errors": [],
+      "warnings": [
+        "新闻栏目暂未读取，尝试首页公开条目"
       ],
-      "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "意法半导体 ST",
@@ -1154,11 +1149,11 @@
       "url": "https://www.st.com/",
       "group": "企业官方新闻中心",
       "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.st.com', port=443): Read timed out. (read timeout=12)"
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "resolved_news_url": "https://newsroom.st.com/",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "OpenLight",
@@ -1499,10 +1494,12 @@
       "source_id": "gigalight",
       "url": "https://www.gigalight.com.cn/news-events.html",
       "group": "企业官方新闻中心",
-      "found": 6,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.gigalight.com.cn', port=443): Read timed out. (read timeout=12)"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "Avicena",
@@ -1533,7 +1530,7 @@
       "group": "招标采购",
       "found": 0,
       "errors": [
-        "521 Server Error:  for url: https://zb.zhaobiao.cn/"
+        "HTTPSConnectionPool(host='zb.zhaobiao.cn', port=443): Read timed out. (read timeout=6)"
       ],
       "warnings": [],
       "status": "error"
@@ -1544,7 +1541,9 @@
       "url": "https://www.bidcenter.com.cn/zhaobiao/zbkeyw-86676.html",
       "group": "招标采购",
       "found": 0,
-      "errors": [],
+      "errors": [
+        "HTTPSConnectionPool(host='www.bidcenter.com.cn', port=443): Read timed out. (read timeout=12)"
+      ],
       "warnings": [],
       "status": "empty",
       "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
@@ -1609,8 +1608,8 @@
       "status": "error"
     }
   ],
-  "total_stored": 350,
-  "editorial_selected": 288,
+  "total_stored": 354,
+  "editorial_selected": 292,
   "rules_version": "2026-11-03.3",
   "pending_title_translations": 0,
   "configured": 145,
