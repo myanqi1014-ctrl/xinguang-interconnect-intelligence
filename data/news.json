@@ -119,6 +119,38 @@
     "translation_status": "ready"
   },
   {
+    "id": "33fdeabb1bfb8cea",
+    "source_id": "senko",
+    "source_name": "SENKO 扇港",
+    "source_type": "企业官方新闻中心",
+    "title": "Evolution of Optical Interconnect Architectures",
+    "url": "https://www.senko.com/wp-content/uploads/2026/11/Application-Note_Evolution-Architectures-ELSFP-CPO-NPO.pdf",
+    "published_at": "2026-11-20T20:40:41+00:00",
+    "summary": "The post Evolution of Optical Interconnect Architectures appeared first on SENKO Advanced Components, Inc. .",
+    "tags": [
+      "NPO",
+      "CPO",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-21T12:02:38.329466+00:00",
+    "company_scope": "optical",
+    "company_segment": "光器件与连接",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical interconnect"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "光互连架构的演变",
+    "translation_status": "ready"
+  },
+  {
     "id": "488916a517cbfe52",
     "source_id": "converge-digest",
     "source_name": "网络与光互联资讯 / Converge Digest",
@@ -7812,7 +7844,7 @@
     "source_id": "tfc",
     "source_name": "天孚通信",
     "source_type": "企业官方新闻中心",
-    "title": "2026-04-20 天孚通信新总部(新一代光器件项目)开工",
+    "title": "天孚通信新总部(新一代光器件项目)开工 了解更多 >",
     "url": "https://www.tfcsz.com/news/1036.html",
     "published_at": "2026-04-20T00:00:00+00:00",
     "summary": "天孚通信（TFC）2005年成立，2015年在中国创业板上市，是全球光互连领域领先的一站式平台型技术企业。依托高复用的技术平台与深度的产业链垂直整合能力，提供从无源光器件到有源光器件的一站式光互连解决方案。产品广泛应用于人工智能、数据中心、光纤通信、激光雷达、生物光子学等领域。",
@@ -7835,7 +7867,7 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "2026-04-20 天孚通信新总部(新一代光器件项目)开工",
+    "title_zh": "天孚通信新总部(新一代光器件项目)开工 了解更多 >",
     "translation_status": "ready"
   },
   {
