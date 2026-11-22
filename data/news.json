@@ -119,6 +119,38 @@
     "translation_status": "ready"
   },
   {
+    "id": "d650a020b59433aa",
+    "source_id": "the-elec",
+    "source_name": "The Elec",
+    "source_type": "海外新闻与深度观察",
+    "title": "Wacker Selected for Government-Backed CPO Optical Interconnect Materials Project",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=15805",
+    "published_at": "2026-11-22T01:47:34+00:00",
+    "summary": "Wacker Chemicals Korea, the South Korean subsidiary of German chemical company Wacker, has been selected for a government-funded research project to develop materials for co-packaged optics (CPO). The project aims to develop highly directional nano-light-emitting diode (LED) light sources that conce",
+    "tags": [
+      "CPO",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-22T12:14:58.956161+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 76,
+    "matched_terms": [
+      "CPO",
+      "optical interconnect"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "瓦克入选政府支持的CPO光互连材料项目",
+    "translation_status": "ready"
+  },
+  {
     "id": "33fdeabb1bfb8cea",
     "source_id": "senko",
     "source_name": "SENKO 扇港",
@@ -10676,6 +10708,38 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "6小时前 跃基智核光模块基板驶入量产快车道：材料落定、平台升级、工艺攻坚、代际接力",
+    "translation_status": "ready"
+  },
+  {
+    "id": "4ffcd79cd91dd659",
+    "source_id": "laoyaoba",
+    "source_name": "集微网",
+    "source_type": "国内半导体媒体",
+    "title": "13小时前 LED厂掀扩产潮 涵盖元件、光收发模块到检测设备 全面卡位CPO商机",
+    "url": "https://www.laoyaoba.com/n/1144679",
+    "published_at": "",
+    "summary": "AI数据中心高速传输规格迈向800G、1.6T与共同封装光学（CPO），台湾LED厂启动新一轮扩产潮，鼎元、立碁、惠特近期拍板或规划的扩产与募资案合计规模已逾45亿元，涵盖上游元件、下游光收发模块到检测设备，全面卡位2027至2028年量产商机。",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "CPO"
+    ],
+    "collected_at": "2026-11-22T12:15:23.726720+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "13小时前 LED厂掀扩产潮 涵盖元件、光收发模块到检测设备 全面卡位CPO商机",
     "translation_status": "ready"
   }
 ]

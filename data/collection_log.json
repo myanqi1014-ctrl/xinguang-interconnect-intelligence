@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-21T12:03:10.489167+00:00",
+  "run_at": "2026-11-22T12:15:39.157359+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -383,11 +383,10 @@
       "url": "https://www.huxiu.com/",
       "group": "科技与商业媒体",
       "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out."
-      ],
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "钛媒体 / TMTPost",
@@ -529,7 +528,7 @@
       "source_id": "the-elec",
       "url": "https://www.thelec.net/news/articleList.html",
       "group": "海外新闻与深度观察",
-      "found": 1,
+      "found": 2,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -574,9 +573,7 @@
       "group": "国内半导体媒体",
       "found": 0,
       "errors": [],
-      "warnings": [
-        "部分详情页无法读取，保留列表标题与原文入口"
-      ],
+      "warnings": [],
       "status": "empty",
       "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
@@ -597,12 +594,10 @@
       "source_id": "laoyaoba",
       "url": "https://www.laoyaoba.com/",
       "group": "国内半导体媒体",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.laoyaoba.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.laoyaoba.com', port=443) at 0x7d194c715950>, 'Connection to www.laoyaoba.com timed out. (connect timeou"
-      ],
+      "found": 4,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "NIST CHIPS 美国半导体产业投资",
@@ -1606,8 +1601,8 @@
       "status": "error"
     }
   ],
-  "total_stored": 357,
-  "editorial_selected": 295,
+  "total_stored": 359,
+  "editorial_selected": 297,
   "rules_version": "2026-11-03.3",
   "pending_title_translations": 0,
   "configured": 145,
