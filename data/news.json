@@ -119,6 +119,38 @@
     "translation_status": "ready"
   },
   {
+    "source_id": "bidcenter",
+    "title": "光模块采购公告",
+    "url": "https://31.bidcenter.com.cn/bidinfo-1-a0f73512c37219a9b2636e925c9402e102891eb0928de5a3.html",
+    "published_at": "2026-11-23T00:00:00+08:00",
+    "summary": "询比采购2台光模块，公开规格为1310nm、10km、LC接口，响应文件递交截止11月26日14:20。采购单位及编号部分遮蔽，未补全金额或主体名称。",
+    "verification_note": "已读取采招网公开详情页，核实标题、正文发布日期及响应截止时间；发布日期仅精确到日，以当日零点表示。部分主体和编号被遮蔽，未推断通信速率或当前有效状态，完整条件及变更须原发布平台核验。",
+    "checked_at": "2026-11-23",
+    "deadline": "2026-11-26T14:20:00+08:00",
+    "id": "ba489ea9f85884f2",
+    "source_name": "采招网·光模块/光通信",
+    "source_type": "招标采购",
+    "content_type": "招标采购",
+    "collected_at": "2026-11-23T04:04:53.240058+00:00",
+    "ingestion_method": "公开检索补充",
+    "title_zh": "光模块采购公告",
+    "accepted": true,
+    "columns": [
+      "招标采购"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "采购公告标题命中光通信或算力互联设备",
+    "rules_version": "2026-11-03.3",
+    "tender_stage": "招标/采购公告",
+    "procurement_level": "一般光通信采购",
+    "company_scope": "",
+    "translation_status": "ready"
+  },
+  {
     "id": "d650a020b59433aa",
     "source_id": "the-elec",
     "source_name": "The Elec",
