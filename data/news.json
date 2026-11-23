@@ -119,6 +119,36 @@
     "translation_status": "ready"
   },
   {
+    "id": "009ed9da46f10fe3",
+    "source_id": "oif",
+    "source_name": "光互联论坛 / OIF",
+    "source_type": "技术标准与学术研究",
+    "title": "OIF Publishes Common Electrical I/O (CEI) 6.0 IA with New 224G Long Reach and Medium Reach Specifications",
+    "url": "https://www.oiforum.com/oif-publishes-common-electrical-i-o-cei-6-0-ia-with-new-224g-long-reach-and-medium-reach-specifications/",
+    "published_at": "2026-11-23T08:37:41+00:00",
+    "summary": "Latest CEI Implementation Agreement reflects OIF’s ability to rapidly deliver interoperable specifications that meet evolving industry demands FREMONT, Calif. — OIF, where the optical networking industry’s interoperability work gets done, today announced the publication of its Common Electrical I/O (CEI) 6.0 Implementation Agreement (IA), introducing specifications for CEI-224G-LR-PAM4 (Long Reach) and CEI-224G-MR-PAM4 (Medium Reach). Building […]",
+    "tags": [
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-23T08:41:16.682605+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "224G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "OIF发布通用电气I/O (CEI) 6.0 IA，并推出新型224G长程和中程规格",
+    "translation_status": "ready"
+  },
+  {
     "source_id": "bidcenter",
     "title": "光模块采购公告",
     "url": "https://31.bidcenter.com.cn/bidinfo-1-a0f73512c37219a9b2636e925c9402e102891eb0928de5a3.html",
@@ -148,6 +178,66 @@
     "tender_stage": "招标/采购公告",
     "procurement_level": "一般光通信采购",
     "company_scope": "",
+    "translation_status": "ready"
+  },
+  {
+    "id": "dfb311d595da7a0f",
+    "source_id": "c114",
+    "source_name": "C114通信网 / C114",
+    "source_type": "国内行业媒体",
+    "title": "天孚通信落子南昌：210亩项目聚焦高速光器件研发制造 11/23 14:01",
+    "url": "https://www.c114.com.cn/ftth/5472/a1321516.html",
+    "published_at": "2026-11-23T00:00:00+00:00",
+    "summary": "天孚通信落子南昌：210亩项目聚焦高速光器件研发制造,C114讯 11月23日消息（水易）天孚通信公告称，公司与南昌经济技术开发区管理委员会于近期签署了《",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-23T08:41:18.474465+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光器件"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "天孚通信落子南昌：210亩项目聚焦高速光器件研发制造 11/23 14:01",
+    "translation_status": "ready"
+  },
+  {
+    "id": "86c3a30dbd14dac0",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "光模块仍在调整，国产算力开始走强",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-12001-30712997.html",
+    "published_at": "2026-11-23T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-23T08:41:19.609346+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "光模块仍在调整，国产算力开始走强",
     "translation_status": "ready"
   },
   {
@@ -7939,7 +8029,7 @@
     "source_id": "tfc",
     "source_name": "天孚通信",
     "source_type": "企业官方新闻中心",
-    "title": "天孚通信新总部(新一代光器件项目)开工 了解更多 >",
+    "title": "2026-04-20 天孚通信新总部(新一代光器件项目)开工",
     "url": "https://www.tfcsz.com/news/1036.html",
     "published_at": "2026-04-20T00:00:00+00:00",
     "summary": "天孚通信（TFC）2005年成立，2015年在中国创业板上市，是全球光互连领域领先的一站式平台型技术企业。依托高复用的技术平台与深度的产业链垂直整合能力，提供从无源光器件到有源光器件的一站式光互连解决方案。产品广泛应用于人工智能、数据中心、光纤通信、激光雷达、生物光子学等领域。",
@@ -7962,7 +8052,7 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "天孚通信新总部(新一代光器件项目)开工 了解更多 >",
+    "title_zh": "2026-04-20 天孚通信新总部(新一代光器件项目)开工",
     "translation_status": "ready"
   },
   {
@@ -10772,6 +10862,67 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "13小时前 LED厂掀扩产潮 涵盖元件、光收发模块到检测设备 全面卡位CPO商机",
+    "translation_status": "ready"
+  },
+  {
+    "id": "3d8a610976912824",
+    "source_id": "eefocus",
+    "source_name": "与非网",
+    "source_type": "国内半导体媒体",
+    "title": "又一家光模块设备“隐形冠军”启动IPO！发行1375万股",
+    "url": "https://www.eefocus.com/article/2122841.html",
+    "published_at": "",
+    "summary": "",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-23T08:41:25.470055+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "又一家光模块设备“隐形冠军”启动IPO！发行1375万股",
+    "translation_status": "ready"
+  },
+  {
+    "id": "6c6075c3c0ab0659",
+    "source_id": "laoyaoba",
+    "source_name": "集微网",
+    "source_type": "国内半导体媒体",
+    "title": "上海映芯：以MEMS光交换技术突破赋能AI智算中心全光互连",
+    "url": "https://www.laoyaoba.com/n/1145008",
+    "published_at": "",
+    "summary": "inSync 映芯是一家聚焦新一代光学MEMS技术的硬科技公司，定位为光通信与光投影领域的核心系统模组提供商。inSync 映芯的核心能力源自自研MEMS微镜阵列平台，形成了从MEMS芯片、驱动控制、光机封装、自动检测校准到系统级集成的完整技术闭环。",
+    "tags": [
+      "AI算力",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-23T08:41:28.474595+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互连"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "上海映芯：以MEMS光交换技术突破赋能AI智算中心全光互连",
     "translation_status": "ready"
   }
 ]
