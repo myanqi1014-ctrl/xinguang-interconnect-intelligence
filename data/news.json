@@ -10954,5 +10954,36 @@
     "rules_version": "2026-11-03.3",
     "title_zh": "上海映芯：以MEMS光交换技术突破赋能AI智算中心全光互连",
     "translation_status": "ready"
+  },
+  {
+    "source_id": "ccgp",
+    "title": "清华大学光互联一体验证平台公开招标公告",
+    "url": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202611/t20261105_27625954.htm",
+    "published_at": "",
+    "summary": "检索摘要显示光互联一体验证平台公开招标，涉及高速光通信测试；索引标注2026年11月5日，具体采购条件待原站核验。",
+    "verification_note": "检索线索待原站核验：搜索索引提供标题和公告摘要，原站详情返回403，未核验原文发布日期及完整采购条件。不填写采购方、金额、截止时间或当前有效状态。",
+    "checked_at": "2026-11-24",
+    "id": "a19749635052c735",
+    "source_name": "中国政府采购网",
+    "source_type": "招标采购",
+    "content_type": "招标采购",
+    "collected_at": "2026-11-24T04:08:30.097139+00:00",
+    "ingestion_method": "公开检索补充",
+    "title_zh": "清华大学光互联一体验证平台公开招标公告",
+    "accepted": true,
+    "columns": [
+      "招标采购"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光互联"
+    ],
+    "selection_reason": "采购公告标题命中光通信或算力互联设备",
+    "rules_version": "2026-11-03.3",
+    "tender_stage": "招标/采购公告",
+    "procurement_level": "高速互联相关",
+    "company_scope": "",
+    "translation_status": "ready"
   }
 ]
