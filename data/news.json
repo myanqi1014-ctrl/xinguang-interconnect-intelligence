@@ -149,6 +149,165 @@
     "translation_status": "ready"
   },
   {
+    "id": "fdae664b1f0499b7",
+    "source_id": "avicena",
+    "source_name": "Avicena",
+    "source_type": "企业官方新闻中心",
+    "title": "Avicena Raises $100 Million Series C to Accelerate Commercialization of microLED Optical Interconnects for AI Infrastructure",
+    "url": "https://avicena.tech/avicena-raises-100-million-series-c-to-accelerate-commercialization-of-microled-optical-interconnects-for-ai-infrastructure/",
+    "published_at": "2026-11-24T10:00:00+00:00",
+    "summary": "Funding builds on 1 Tbps LightBundle™ evaluation-kit shipments and connectorized-link development for AI scale-in and scale-up connectivity SUNNYVALE, Calif. — November 24, 2026 — Avicena, the pioneer in microLED-based optical interconnects, today announced that it has raised over $100 million in Series C funding to accelerate commercialization of its LightBundle™ platform for AI infrastructure. The […]",
+    "tags": [
+      "AI算力",
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-24T14:31:12.674440+00:00",
+    "company_scope": "optical",
+    "company_segment": "光芯片与硅光",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical interconnect",
+      "microLED"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Avicena 完成 C 轮 $100 百万美元融资，以加速面向 AI 基础设施的 microLED 光学互连的商业化",
+    "translation_status": "ready"
+  },
+  {
+    "id": "b53d1d79d4d2b97d",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "OIF Publishes 224G Medium- and Long-Reach Electrical Interface Specs",
+    "url": "https://convergedigest.com/oif-cei-6-0-224g-medium-long-reach-electrical-specs/",
+    "published_at": "2026-11-24T02:46:00+00:00",
+    "summary": "OIF announced on Nov. 23 that it had published the first two 224G-per-lane electrical interface specifications in version 6.0 of its Common Electrical I/O (CEI) Implementation Agreement. The medium-reach specification covers chip-to-chip links across up to 500 mm of printed circuit board and one connector. The long-reach specification covers paths across up to 1,000 mm of backplane and two connectors, and also applies to copper cable links. Both interfaces use four-level pulse amplitude modulati",
+    "tags": [
+      "数据中心互联",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-24T14:30:20.379919+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "224G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "OIF发布224G中长距电气接口规范",
+    "translation_status": "ready"
+  },
+  {
+    "id": "b9cf7a5d284acdeb",
+    "source_id": "c114",
+    "source_name": "C114通信网 / C114",
+    "source_type": "国内行业媒体",
+    "title": "芯钬量子获光芯片龙头源杰科技独家投资",
+    "url": "https://www.c114.com.cn/quantum/5285/a1321562.html",
+    "published_at": "2026-11-24T00:00:00+00:00",
+    "summary": "芯钬量子获光芯片龙头源杰科技独家投资,C114讯 11月24日消息 上海芯钬量子科技有限公司宣布，公司近日完成A++轮融资，由源杰科技独家",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-24T14:30:27.793636+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光芯片"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "芯钬量子获光芯片龙头源杰科技独家投资",
+    "translation_status": "ready"
+  },
+  {
+    "id": "555f9ade03093c54",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "光通信三巨头的“技术底牌”：从1.6T放量到CPO交付，产品线正在发生什么",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-12003-30713166.html",
+    "published_at": "2026-11-24T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "光模块",
+      "CPO"
+    ],
+    "collected_at": "2026-11-24T14:30:30.555800+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 100,
+    "matched_terms": [
+      "光通信",
+      "CPO",
+      "1.6T"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "光通信三巨头的“技术底牌”：从1.6T放量到CPO交付，产品线正在发生什么",
+    "translation_status": "ready"
+  },
+  {
+    "id": "ce89b54a0a6ee7d5",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "Oasis Networks Deploys iPronics SiPh Optical Circuit Switching",
+    "url": "https://convergedigest.com/oasis-networks-deploys-ipronics-one-silicon-photonics-ocs-portugal/",
+    "published_at": "2026-11-23T16:18:00+00:00",
+    "summary": "Portuguese telecommunications operator Oasis Networks has deployed iPronics’ Optical Networking Engine (ONE) across its dark-fiber network in Portugal to deliver software-defined optical bandwidth-on-demand. The live deployment connects Lisbon’s hardware-protected metro ring with Start Campus, a 1.2 GW AI data center development in Sines, supporting data center interconnect (DCI), cloud transport, disaster recovery, and scale-across AI workloads. Built on programmable silicon photonics, the 1U i",
+    "tags": [
+      "AI算力",
+      "硅光",
+      "数据中心互联",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-24T14:30:20.493395+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical circuit switch"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Oasis Networks 部署 iPronics SiPh 光学电路交换",
+    "translation_status": "ready"
+  },
+  {
     "id": "009ed9da46f10fe3",
     "source_id": "oif",
     "source_name": "光互联论坛 / OIF",
@@ -1294,6 +1453,37 @@
     "rules_version": "2026-11-03.3",
     "title_zh": "专访亿仁通信：打通Rec +一体化工艺，高速光互连组件产能与营收强势跃升",
     "translation_status": "ready"
+  },
+  {
+    "id": "5a9a44a7675b33e6",
+    "source_id": "anritsu",
+    "source_name": "安立 Anritsu",
+    "source_type": "企业官方新闻中心",
+    "title": "Anritsu and MSSCORPS Deepen Collaboration to Advance Silicon Photonics Testing Solutions",
+    "url": "https://www.anritsu.com/en-gb/test-measurement/news/news-releases/2026/2026-11-17-gb01",
+    "published_at": "2026-11-17T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "硅光"
+    ],
+    "collected_at": "2026-11-24T14:31:01.345653+00:00",
+    "company_scope": "related",
+    "company_segment": "封装制造与测试",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "silicon photonics",
+      "testing"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "",
+    "translation_status": "pending"
   },
   {
     "id": "2168f6cf461d4539",
@@ -10984,6 +11174,36 @@
     "tender_stage": "招标/采购公告",
     "procurement_level": "高速互联相关",
     "company_scope": "",
+    "translation_status": "ready"
+  },
+  {
+    "id": "f9819aceb395bfe4",
+    "source_id": "semiconductor-today",
+    "source_name": "今日半导体 / Semiconductor Today",
+    "source_type": "海外新闻与深度观察",
+    "title": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure",
+    "url": "https://semiconductor-today.com/news_items/2026/nov/aixtron-nokia-241126.shtml",
+    "published_at": "",
+    "summary": "Nokia places several repeat orders for G10-AsP MOCVD systems",
+    "tags": [
+      "AI算力"
+    ],
+    "collected_at": "2026-11-24T14:30:19.813072+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "InP"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Aixtron 和诺基亚扩大合作，为 AI 基础设施扩展 InP 光子器件",
     "translation_status": "ready"
   }
 ]
