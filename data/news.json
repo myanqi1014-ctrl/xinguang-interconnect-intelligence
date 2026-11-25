@@ -149,6 +149,134 @@
     "translation_status": "ready"
   },
   {
+    "id": "41d3dec341eb232d",
+    "source_id": "the-elec",
+    "source_name": "The Elec",
+    "source_type": "海外新闻与深度观察",
+    "title": "Samsung to Supply CXL 3.2 Samples in Early 2027",
+    "url": "https://www.thelec.net/news/articleView.html?idxno=15904",
+    "published_at": "2026-11-25T12:17:48+00:00",
+    "summary": "Samsung Electronics will supply customers with samples of its Compute Express Link (CXL) 3.2-based memory module (CMM-D) in early 2027, with mass production expected in the second half of the year.“We will deliver customer samples of the MD310 in early 2027, with mass production expected in the seco",
+    "tags": [
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-25T13:51:26.568798+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "CXL"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "三星将于 2027 年初提供 CXL 3.2 样品",
+    "translation_status": "ready"
+  },
+  {
+    "id": "f8e731881d976b93",
+    "source_id": "converge-digest",
+    "source_name": "网络与光互联资讯 / Converge Digest",
+    "source_type": "海外新闻与深度观察",
+    "title": "AOI Secures $2.2B Hyperscaler Commitment for 800G and CPO",
+    "url": "https://convergedigest.com/aoi-2-2-billion-hyperscaler-800g-cpo-lasers/",
+    "published_at": "2026-11-25T03:15:26+00:00",
+    "summary": "Applied Optoelectronics (AOI) has signed a four-year supply agreement with an existing Tier-1 hyperscale data center customer that includes approximately $2.2 billion in minimum purchase commitments for 800G optical transceivers and laser diodes. The agreement runs from December 2026 through December 2030. The customer has committed to purchase approximately $1.5 billion of AOI’s 800G transceivers during 2027 and approximately $700 million of laser diodes during 2028 and 2029. Additional product",
+    "tags": [
+      "AI算力",
+      "光模块",
+      "硅光",
+      "NPO",
+      "CPO",
+      "光芯片/器件",
+      "网络与交换"
+    ],
+    "collected_at": "2026-11-25T13:51:14.669540+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 96,
+    "matched_terms": [
+      "CPO",
+      "800G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "AOI 获得 800G 和 CPO 的 $2.2B 超大规模客户承诺",
+    "translation_status": "ready"
+  },
+  {
+    "id": "de89a6d94f563a20",
+    "source_id": "c114",
+    "source_name": "C114通信网 / C114",
+    "source_type": "国内行业媒体",
+    "title": "22亿美元保底：AOI斩获四年长协，覆盖800G光模块与激光器供应 11/25 17:03",
+    "url": "https://www.c114.com.cn/ftth/5472/a1321684.html",
+    "published_at": "2026-11-25T00:00:00+00:00",
+    "summary": "22亿美元保底：AOI斩获四年长协，覆盖800G光模块与激光器供应,C114讯 11月25日消息（水易）近日，美国光模块供应商AOI宣布与一家Tier1数据中心客户签署",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-25T13:51:22.278809+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 76,
+    "matched_terms": [
+      "光模块",
+      "800G",
+      "激光器"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "22亿美元保底：AOI斩获四年长协，覆盖800G光模块与激光器供应 11/25 17:03",
+    "translation_status": "ready"
+  },
+  {
+    "id": "0e86bf4bc62523d8",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "从模块组装到磷化铟衬底：光通信瓶颈正在上移",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-8420-30713515.html",
+    "published_at": "2026-11-25T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-25T13:51:22.306906+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "热点问答"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信",
+      "磷化铟"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "从模块组装到磷化铟衬底：光通信瓶颈正在上移",
+    "translation_status": "ready"
+  },
+  {
     "id": "fdae664b1f0499b7",
     "source_id": "avicena",
     "source_name": "Avicena",
@@ -272,6 +400,38 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "光通信三巨头的“技术底牌”：从1.6T放量到CPO交付，产品线正在发生什么",
+    "translation_status": "ready"
+  },
+  {
+    "id": "f81f3096058efdb0",
+    "source_id": "exfo",
+    "source_name": "EXFO",
+    "source_type": "企业官方新闻中心",
+    "title": "By EXFO | November 2026 Why network testing is critical for scaling AI infrastructure",
+    "url": "https://www.exfo.com/en/resources/blog/why-network-testing-critical-scaling-ai-infrastructure/",
+    "published_at": "2026-11-24T00:00:00+00:00",
+    "summary": "Discover why network testing is critical for scaling AI infrastructure, from 400G and 800G validation to faster troubleshooting and reliable data center connectivity.",
+    "tags": [
+      "AI算力",
+      "光模块"
+    ],
+    "collected_at": "2026-11-25T13:51:47.281039+00:00",
+    "company_scope": "related",
+    "company_segment": "封装制造与测试",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察",
+      "热点问答"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 40,
+    "matched_terms": [
+      "testing"
+    ],
+    "selection_reason": "材料或器件主题同时具有互联应用背景",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "作者：EXFO | 11月2026 网络测试为何对扩展AI基础设施至关重要",
     "translation_status": "ready"
   },
   {
@@ -8249,7 +8409,7 @@
     "source_id": "tfc",
     "source_name": "天孚通信",
     "source_type": "企业官方新闻中心",
-    "title": "2026-04-20 天孚通信新总部(新一代光器件项目)开工",
+    "title": "天孚通信新总部(新一代光器件项目)开工 了解更多 >",
     "url": "https://www.tfcsz.com/news/1036.html",
     "published_at": "2026-04-20T00:00:00+00:00",
     "summary": "天孚通信（TFC）2005年成立，2015年在中国创业板上市，是全球光互连领域领先的一站式平台型技术企业。依托高复用的技术平台与深度的产业链垂直整合能力，提供从无源光器件到有源光器件的一站式光互连解决方案。产品广泛应用于人工智能、数据中心、光纤通信、激光雷达、生物光子学等领域。",
@@ -8272,7 +8432,7 @@
     ],
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
-    "title_zh": "2026-04-20 天孚通信新总部(新一代光器件项目)开工",
+    "title_zh": "天孚通信新总部(新一代光器件项目)开工 了解更多 >",
     "translation_status": "ready"
   },
   {
@@ -10998,7 +11158,7 @@
     "source_id": "laoyaoba",
     "source_name": "集微网",
     "source_type": "国内半导体媒体",
-    "title": "从Jig Saw破局到构建四大矩阵：腾盛精密打通先进封装全链路",
+    "title": "从Jig Saw破局到构建四大矩阵：腾盛精密打通先进封装全链路 11-19 07:00",
     "url": "https://www.laoyaoba.com/n/1141851",
     "published_at": "",
     "summary": "作为国内Jig Saw领域领军企业，腾盛精密以同源自研、算法互通的“切割、研磨、分选、点胶”四大产品矩阵构筑核心底盘，深耕半导体封装主战场，并加速挺进光通信新赛道。",
@@ -11019,7 +11179,7 @@
     ],
     "selection_reason": "材料或器件主题同时具有互联应用背景",
     "rules_version": "2026-11-03.3",
-    "title_zh": "从Jig Saw破局到构建四大矩阵：腾盛精密打通先进封装全链路",
+    "title_zh": "从Jig Saw破局到构建四大矩阵：腾盛精密打通先进封装全链路 11-19 07:00",
     "translation_status": "ready"
   },
   {
@@ -11204,6 +11364,65 @@
     "selection_reason": "材料或器件主题同时具有互联应用背景",
     "rules_version": "2026-11-03.3",
     "title_zh": "Aixtron 和诺基亚扩大合作，为 AI 基础设施扩展 InP 光子器件",
+    "translation_status": "ready"
+  },
+  {
+    "id": "9745fe139236d661",
+    "source_id": "pic-magazine",
+    "source_name": "光子集成电路杂志 / PIC Magazine",
+    "source_type": "海外新闻与深度观察",
+    "title": "OIF publishes 224G interface specifications",
+    "url": "https://picmagazine.net/article/125918/OIF_publishes_224G_interface_specifications",
+    "published_at": "",
+    "summary": "PIC Magazine",
+    "tags": [],
+    "collected_at": "2026-11-25T13:51:14.671124+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "224G"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "OIF 发布 224G 接口规范",
+    "translation_status": "ready"
+  },
+  {
+    "id": "1076fb407ec4bf81",
+    "source_id": "semiconductor-today",
+    "source_name": "今日半导体 / Semiconductor Today",
+    "source_type": "海外新闻与深度观察",
+    "title": "Avicena raises $100m in Series C funding to accelerate commercialization of micro-LED optical interconnects",
+    "url": "https://semiconductor-today.com/news_items/2026/nov/avicena-251126.shtml",
+    "published_at": "",
+    "summary": "Funding builds on 1Tbps LightBundle evaluation-kit shipments and connectorized-link development for AI scale-in and scale-up connectivity",
+    "tags": [
+      "光芯片/器件"
+    ],
+    "collected_at": "2026-11-25T13:51:14.894345+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "optical interconnect",
+      "Micro-LED"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Avicena 在 C 轮融资中筹集了 $100m，以加速微型 LED 光学互连的商业化",
     "translation_status": "ready"
   }
 ]
