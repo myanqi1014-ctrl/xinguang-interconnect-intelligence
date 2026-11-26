@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-25T13:52:18.398904+00:00",
+  "run_at": "2026-11-26T13:30:55.151325+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -88,10 +88,11 @@
       "source_id": "optics-org",
       "url": "https://optics.org/",
       "group": "海外新闻与深度观察",
-      "found": 1,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "NVIDIA",
@@ -228,10 +229,12 @@
       "source_id": "oif",
       "url": "https://www.oiforum.com/",
       "group": "技术标准与学术研究",
-      "found": 2,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.oiforum.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.oiforum.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "以太网联盟 / Ethernet Alliance",
@@ -393,11 +396,10 @@
       "source_id": "tmtpost",
       "url": "https://www.tmtpost.com/",
       "group": "科技与商业媒体",
-      "found": 0,
+      "found": 3,
       "errors": [],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "ok"
     },
     {
       "source": "智东西 / Zhidx",
@@ -594,10 +596,12 @@
       "source_id": "laoyaoba",
       "url": "https://www.laoyaoba.com/",
       "group": "国内半导体媒体",
-      "found": 3,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.laoyaoba.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.laoyaoba.com', port=443) at 0x72968cfb08d0>, 'Connection to www.laoyaoba.com timed out. (connect timeou"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "NIST CHIPS 美国半导体产业投资",
@@ -1602,8 +1606,8 @@
       "status": "error"
     }
   ],
-  "total_stored": 382,
-  "editorial_selected": 320,
+  "total_stored": 388,
+  "editorial_selected": 326,
   "rules_version": "2026-11-03.3",
   "pending_title_translations": 0,
   "configured": 145,

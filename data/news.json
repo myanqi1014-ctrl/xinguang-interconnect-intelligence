@@ -149,6 +149,153 @@
     "translation_status": "ready"
   },
   {
+    "id": "78b4c625c3f27990",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "Semtech：NPO首批收入将在 FY2028 下半年产生",
+    "url": "https://fiber.ofweek.com/2026-11/ART-8100-2100-30713779.html",
+    "published_at": "2026-11-26T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "NPO"
+    ],
+    "collected_at": "2026-11-26T13:30:01.644920+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "NPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Semtech：NPO首批收入将在 FY2028 下半年产生",
+    "translation_status": "ready"
+  },
+  {
+    "id": "e6dd7f8344016083",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "三部委重磅发文，光通信的“政策底”来了",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210001-8420-30713743.html",
+    "published_at": "2026-11-26T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-26T13:30:02.772635+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "三部委重磅发文，光通信的“政策底”来了",
+    "translation_status": "ready"
+  },
+  {
+    "id": "185e23d3e40de271",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "*ST泉为，当年为了追“光”一把输光！现在改追光通信了？",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210008-12003-30713694.html",
+    "published_at": "2026-11-26T00:00:00+00:00",
+    "summary": "",
+    "tags": [],
+    "collected_at": "2026-11-26T13:30:03.831317+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "*ST泉为，当年为了追“光”一把输光！现在改追光通信了？",
+    "translation_status": "ready"
+  },
+  {
+    "id": "7a74507bddee16e4",
+    "source_id": "tmtpost",
+    "source_name": "钛媒体 / TMTPost",
+    "source_type": "科技与商业媒体",
+    "title": "黄仁勋的“光”：详解AI算力背后的光通信产业链、英伟达赌注与技术博弈",
+    "url": "https://www.tmtpost.com/video/8217632.html",
+    "published_at": "2026-11-26T00:00:00+00:00",
+    "summary": "黄仁勋从辞职到回归，只用了11天。在这11天里，整个AI产业链经历了一场过山车式的震荡，其中就包括黄仁勋过去一年投入数十亿美元、亲手推上风口浪尖的光通信产业。随着GPU算力不断增长，连接GPU的网络正在成为AI系统的瓶颈，光互连也逐渐成为决定算力上限的关键。",
+    "tags": [
+      "AI算力",
+      "数据中心互联"
+    ],
+    "collected_at": "2026-11-26T13:30:02.256867+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "知识科普与深度洞察"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "黄仁勋的“光”：详解AI算力背后的光通信产业链、英伟达赌注与技术博弈",
+    "translation_status": "ready"
+  },
+  {
+    "id": "003f48aa91ddb457",
+    "source_id": "tmtpost",
+    "source_name": "钛媒体 / TMTPost",
+    "source_type": "科技与商业媒体",
+    "title": "20:22 瑜欣电子：拟1.6亿元收购光通信高精密光学元件公司华腾光电93.02%股权",
+    "url": "https://www.tmtpost.com/nictation/8219548.html",
+    "published_at": "2026-11-26T00:00:00+00:00",
+    "summary": "钛媒体App 11月26日，瑜欣电子(301107.SZ)公告称，公司董事会审议通过现金收购三明华腾光电科技有限公司93.02%股权的议案，交易金额1.6亿元。目标公司主要从事光通信领域高精密光学元件、器件的研发、生产、组装和销售，配套形成“光学毛坯—元件加工—精密镀膜—器件组装”全产业链自研自产模式。目标公司主要产品包括微透镜、微棱镜、光纤尾纤、光纤准直器、光通信微连接组件等高精密光学元器件，是国内少数实现C-Lens微透镜百万级月产能的本土规模化厂商，终端客户覆盖全球主流光通信传输设备厂商，为400G/800G/1.6T等高速光通信系统配套C-Lens微透镜的国产替代主力厂商之一。（公司公告）",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-26T13:30:03.918153+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "20:22 瑜欣电子：拟1.6亿元收购光通信高精密光学元件公司华腾光电93.02%股权",
+    "translation_status": "ready"
+  },
+  {
     "id": "41d3dec341eb232d",
     "source_id": "the-elec",
     "source_name": "The Elec",
@@ -11454,6 +11601,36 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "Avicena 在 C 轮融资中筹集了 $100m，以加速微型 LED 光学互连的商业化",
+    "translation_status": "ready"
+  },
+  {
+    "id": "0cac0e249d50b6bb",
+    "source_id": "tmtpost",
+    "source_name": "钛媒体 / TMTPost",
+    "source_type": "科技与商业媒体",
+    "title": "黄仁勋回来了，“光模块一哥”还没缓过来",
+    "url": "https://www.tmtpost.com/8218999.html",
+    "published_at": "",
+    "summary": "信心还没回来。",
+    "tags": [
+      "光模块"
+    ],
+    "collected_at": "2026-11-26T13:30:05.809763+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光模块"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "黄仁勋回来了，“光模块一哥”还没缓过来",
     "translation_status": "ready"
   }
 ]
