@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-26T13:30:55.151325+00:00",
+  "run_at": "2026-11-27T13:27:49.430563+00:00",
   "timezone_note": "04:00 UTC = 12:00 Asia/Shanghai",
   "source_results": [
     {
@@ -7,7 +7,7 @@
       "source_id": "gazettabyte",
       "url": "https://gazettabyte.com/",
       "group": "海外新闻与深度观察",
-      "found": 2,
+      "found": 3,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -17,7 +17,7 @@
       "source_id": "pic-magazine",
       "url": "https://picmagazine.net/news",
       "group": "海外新闻与深度观察",
-      "found": 2,
+      "found": 1,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -229,12 +229,10 @@
       "source_id": "oif",
       "url": "https://www.oiforum.com/",
       "group": "技术标准与学术研究",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.oiforum.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.oiforum.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
-      ],
+      "found": 2,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "以太网联盟 / Ethernet Alliance",
@@ -274,17 +272,19 @@
       "source_id": "c114",
       "url": "https://www.c114.com.cn/",
       "group": "国内行业媒体",
-      "found": 2,
-      "errors": [],
+      "found": 0,
+      "errors": [
+        "HTTPSConnectionPool(host='www.c114.com.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.c114.com.cn', port=443) at 0x7571f8201310>, 'Connection to www.c114.com.cn timed out. (connect timeout=6"
+      ],
       "warnings": [],
-      "status": "ok"
+      "status": "error"
     },
     {
       "source": "维科网光通讯 / OFweek",
       "source_id": "ofweek",
       "url": "https://fiber.ofweek.com/",
       "group": "国内行业媒体",
-      "found": 6,
+      "found": 5,
       "errors": [],
       "warnings": [],
       "status": "ok"
@@ -396,10 +396,11 @@
       "source_id": "tmtpost",
       "url": "https://www.tmtpost.com/",
       "group": "科技与商业媒体",
-      "found": 3,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "智东西 / Zhidx",
@@ -530,10 +531,11 @@
       "source_id": "the-elec",
       "url": "https://www.thelec.net/news/articleList.html",
       "group": "海外新闻与深度观察",
-      "found": 1,
+      "found": 0,
       "errors": [],
       "warnings": [],
-      "status": "ok"
+      "status": "empty",
+      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
     },
     {
       "source": "ETNews 电子新闻",
@@ -573,11 +575,10 @@
       "source_id": "eefocus",
       "url": "https://www.eefocus.com/",
       "group": "国内半导体媒体",
-      "found": 0,
+      "found": 1,
       "errors": [],
       "warnings": [],
-      "status": "empty",
-      "note": "列表已访问，未匹配到相关新闻；可能需专用接口或栏目适配，不代表该媒体没有报道。"
+      "status": "ok"
     },
     {
       "source": "电子工程专辑",
@@ -596,12 +597,10 @@
       "source_id": "laoyaoba",
       "url": "https://www.laoyaoba.com/",
       "group": "国内半导体媒体",
-      "found": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='www.laoyaoba.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.laoyaoba.com', port=443) at 0x72968cfb08d0>, 'Connection to www.laoyaoba.com timed out. (connect timeou"
-      ],
+      "found": 2,
+      "errors": [],
       "warnings": [],
-      "status": "error"
+      "status": "ok"
     },
     {
       "source": "NIST CHIPS 美国半导体产业投资",
@@ -687,7 +686,7 @@
       "group": "企业官方新闻中心",
       "found": 0,
       "errors": [
-        "520 Server Error: <none> for url: https://ayarlabs.com/news/"
+        "页面未返回可解析的新闻列表"
       ],
       "warnings": [],
       "status": "error"
@@ -732,7 +731,7 @@
       "group": "会议与展会",
       "found": 0,
       "errors": [
-        "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+        "页面未返回可解析的新闻列表"
       ],
       "warnings": [],
       "status": "error"
@@ -1606,8 +1605,8 @@
       "status": "error"
     }
   ],
-  "total_stored": 388,
-  "editorial_selected": 326,
+  "total_stored": 391,
+  "editorial_selected": 329,
   "rules_version": "2026-11-03.3",
   "pending_title_translations": 0,
   "configured": 145,

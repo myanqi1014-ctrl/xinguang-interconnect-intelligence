@@ -58,6 +58,66 @@
     "translation_status": "ready"
   },
   {
+    "id": "a8c1603363c6bb37",
+    "source_id": "ofweek",
+    "source_name": "维科网光通讯 / OFweek",
+    "source_type": "国内行业媒体",
+    "title": "CPO的“量产元年”，谁在真正受益？",
+    "url": "https://fiber.ofweek.com/2026-11/ART-210008-8420-30713919.html",
+    "published_at": "2026-11-27T00:00:00+00:00",
+    "summary": "",
+    "tags": [
+      "CPO"
+    ],
+    "collected_at": "2026-11-27T13:27:01.992232+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 88,
+    "matched_terms": [
+      "CPO"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "CPO的“量产元年”，谁在真正受益？",
+    "translation_status": "ready"
+  },
+  {
+    "id": "828bc40a3704a447",
+    "source_id": "gazettabyte",
+    "source_name": "光通信深度观察 / Gazettabyte",
+    "source_type": "海外新闻与深度观察",
+    "title": "Anello puts silicon photonics to work for navigation",
+    "url": "https://gazettabyte.com/anello-puts-silicon-photonics-to-work-for-navigation/",
+    "published_at": "2026-11-26T13:44:28+00:00",
+    "summary": "The post Anello puts silicon photonics to work for navigation appeared first on Gazettabyte .",
+    "tags": [
+      "硅光"
+    ],
+    "collected_at": "2026-11-27T13:26:49.640123+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "优先选题",
+    "relevance_score": 68,
+    "matched_terms": [
+      "silicon photonics"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "Anello让硅光子技术为导航服务",
+    "translation_status": "ready"
+  },
+  {
     "id": "41a9e609ee6fc604",
     "source_id": "ruijie",
     "source_name": "锐捷网络",
@@ -11631,6 +11691,36 @@
     "selection_reason": "标题命中核心互联主题",
     "rules_version": "2026-11-03.3",
     "title_zh": "黄仁勋回来了，“光模块一哥”还没缓过来",
+    "translation_status": "ready"
+  },
+  {
+    "id": "4bbf26a97d800e60",
+    "source_id": "eefocus",
+    "source_name": "与非网",
+    "source_type": "国内半导体媒体",
+    "title": "车载免提通话听不清 WT2605C把AEC和ANS做进一颗芯片",
+    "url": "https://www.eefocus.com/article/2124067.html",
+    "published_at": "",
+    "summary": "",
+    "tags": [
+      "高速电互联"
+    ],
+    "collected_at": "2026-11-27T13:27:05.826005+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "AEC"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "车载免提通话听不清 WT2605C把AEC和ANS做进一颗芯片",
     "translation_status": "ready"
   }
 ]
