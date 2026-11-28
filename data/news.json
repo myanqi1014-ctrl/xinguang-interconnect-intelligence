@@ -58,6 +58,34 @@
     "translation_status": "ready"
   },
   {
+    "id": "036e947f96036bd0",
+    "source_id": "tmtpost",
+    "source_name": "钛媒体 / TMTPost",
+    "source_type": "科技与商业媒体",
+    "title": "20:11 苏州光通信产业基地二期启动，计划总投资150亿元",
+    "url": "https://www.tmtpost.com/nictation/8221541.html",
+    "published_at": "2026-11-28T00:00:00+00:00",
+    "summary": "钛媒体App 11月28日，苏州光通信产业基地二期启动活动在苏州工业园区举行。今年4月，总投资50亿元的苏州光通信产业基地项目落户苏州工业园区，目前已建成投用，今年将实现新增产值超150亿元。今天启动的基地二期，计划总投资150亿元，将进一步拓展产业承载空间，聚焦光通信、光传感、光计算等细分赛道，落地一批核心器件、芯片封装测试及终端设备等关键环节优质项目，达产后可实现年产值300亿元。同时，一批产业链、供应链企业也将在基地周边落地配套项目，实现集群发展。 (苏州日报)",
+    "tags": [],
+    "collected_at": "2026-11-28T12:40:58.267672+00:00",
+    "company_scope": "",
+    "company_segment": "",
+    "content_type": "新闻资讯",
+    "accepted": true,
+    "columns": [
+      "最新资讯"
+    ],
+    "priority": "常规跟踪",
+    "relevance_score": 48,
+    "matched_terms": [
+      "光通信"
+    ],
+    "selection_reason": "标题命中核心互联主题",
+    "rules_version": "2026-11-03.3",
+    "title_zh": "20:11 苏州光通信产业基地二期启动，计划总投资150亿元",
+    "translation_status": "ready"
+  },
+  {
     "id": "a8c1603363c6bb37",
     "source_id": "ofweek",
     "source_name": "维科网光通讯 / OFweek",
