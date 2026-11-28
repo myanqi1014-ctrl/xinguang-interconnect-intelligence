@@ -1605,11 +1605,11 @@
       "status": "error"
     }
   ],
-  "total_stored": 391,
-  "editorial_selected": 329,
+  "total_stored": 392,
+  "editorial_selected": 330,
   "rules_version": "2026-11-03.3",
   "pending_title_translations": 0,
   "configured": 145,
   "automatic": 132,
-  "procurement_imported": 18
+  "procurement_imported": 19
 }
